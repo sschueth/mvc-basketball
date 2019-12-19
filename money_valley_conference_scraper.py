@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
+import time
 
 def get_links_data(year_range):
 
@@ -46,10 +47,44 @@ def get_game_data(year,game):
     r = requests.get(URL)
     soup = BeautifulSoup(r.content,'html5lib')
     soup_pretty = soup.prettify()
-    print(soup_pretty)
+    soup_pretty_list = soup_pretty.split('\n')
+    title = soup_pretty_list[3]
+    title = title.lstrip() + '.txt'
+    #print(soup_pretty)
+    box_score_start = 0
+    box_score_stop = 0
+    for i in range(0,len(soup_pretty_list)):
+        if '<pre>' in soup_pretty_list[i]:
+            box_score_start = i
+        if '</pre>' in soup_pretty_list[i]:
+            box_score_stop = i
+    box_score_list =[]
+    for i in range(0, len(soup_pretty_list)):
+        if i > box_score_start and i < box_score_stop:
+            box_score_list.append(soup_pretty_list[i])
+    empty_string = ''
+    while empty_string in box_score_list:
+        box_score_list.remove(empty_string)
+    #print('File: '+title)
+    #print(box_score_list)
+    return title, box_score_list
 
 def main_get_games():
-    get_game_data('2017-18','1718GM01.htm')
+    links_list = []
+    with open('mvc_game_links_5.txt','r') as links_file:
+        for link in links_file:
+            link = link.replace('\n','')
+            links_list.append(link)
+    for link_idx in tqdm(range(0,len(links_list))):
+        tic = time.time()
+        file_name, box_score = get_game_data('2017-18',links_list[link_idx])
+        with open(file_name, 'w') as file:
+            for b in box_score:
+                file.writelines('%s\n' % b)
+        toc = time.time()
+        diff = 5 - (toc - tic)
+        if diff > 0:
+            time.sleep(diff)
 
 if __name__ =='__main__':
     resp = input('Do you want to [get links] or [get games]? ')
