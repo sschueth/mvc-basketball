@@ -1,5 +1,5 @@
 ## mvc-basketball
-Machine learning project: predicting MVC basketball games
+Machine learning project attempting to predict the outcome of Missouri Valley Conference basketball games
 
 This project will use a neural network trained with supervised learning. The key factors to be used in this project come from Dean Oliver's "Four Factors of Success in Basetball".
 [link to basketball-reference] (https://www.basketball-reference.com/about/factors.html)
