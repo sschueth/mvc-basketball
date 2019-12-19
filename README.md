@@ -1,2 +1,2 @@
-# mvc_basketball
+# mvc-basketball
 Machine learning project: predicting MVC basketball games
