@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Northern Illinois vs Indiana State (11-30-16)
+VISITORS: Northern Illinois (4-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 PORTER, Laytwan..... *  3 11   2  6   0  0   0  1  1   4   8  0  6  1  1  23
+03 HIGHSMITH, Dontel... *  3  5   1  2   0  2   0  1  1   1   7  1  1  0  2  27
+15 KEY, Jaylen......... *  2  5   0  1   1  2   3  3  6   3   5  1  3  0  1  16
+23 ARMSTEAD, Aaric..... *  2  6   0  2   5  6   0  6  6   2   9  1  3  3  1  32
+33 MARIC, Marin........ *  1  7   0  1   2  3   1  7  8   2   4  2  2  1  1  30
+00 WILSON, Marshawn....    0  2   0  1   0  0   1  1  2   2   0  0  1  0  0  10
+05 THOMAS, Justin......    4  8   0  1   4  4   0  4  4   0  12  1  1  0  2  21
+10 GERMAN, Eugene......    1  3   0  1   0  2   0  0  0   0   2  0  0  0  0   7
+11 McCARTY, Noah.......    1  2   0  1   0  0   2  3  5   3   2  0  1  1  0  11
+21 DAMASKA, Sean.......    0  0   0  0   1  2   0  1  1   0   1  0  0  0  0   1
+31 PAUGA, Austin.......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   5
+42 BRADLEY, Levi.......    1  3   0  0   0  0   0  2  2   2   2  0  2  0  0  17
+TM TEAM................                         3     3
+   Totals..............   18 52   3 16  13 21  10 29 39  20  52  6 20  6  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-25  .400     8-27  .296    18-52  .346
+3-Pt. FG%:  1-7   .143     2-9   .222     3-16  .188
+F Throw %:  5-9   .556     8-12  .667    13-21  .619
+Deadball rebounds: 3
+HOME TEAM: Indiana State (3-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Clemons, Everett.... *  6  7   0  0   0  0   1  5  6   3  12  4  1  0  3  29
+04 Scott, Brenton...... *  4 11   2  5   4  6   0  6  6   1  14  2  2  0  2  30
+30 Van Scyoc, Matt..... *  1  6   1  6   1  3   0  1  1   3   4  0  1  1  0  20
+32 Paige, Laquarious... *  1  2   0  0   0  0   0  0  0   4   2  3  2  0  1  23
+42 Bell, TJ............ *  8 11   0  0   1  1   1  3  4   3  17  0  3  1  0  20
+02 Barnes, Jordan......    1  5   1  4   0  0   0  4  4   1   3  3  3  0  0  20
+05 Kessinger, Bronson..    1  5   0  0   0  0   4  3  7   1   2  0  1  0  0  20
+12 Bunschoten, Niels...    0  3   0  3   0  0   0  1  1   1   0  0  1  1  0   5
+13 Franklin, Donovan...    1  4   0  2   1  2   0  1  1   0   3  2  1  0  0  17
+34 Murphy, Brandon.....    1  1   0  0   2  5   0  1  1   3   4  1  1  0  1   9
+41 Rickman, Emondre....    1  1   0  0   0  1   1  3  4   0   2  0  0  0  0   7
+TM TEAM................                         2  1  3
+   Totals..............   25 56   4 20   9 18   9 29 38  20  63 15 16  3  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-30  .333    15-26  .577    25-56  .446
+3-Pt. FG%:  2-14  .143     2-6   .333     4-20  .200
+F Throw %:  2-6   .333     7-12  .583     9-18  .500
+Deadball rebounds: 2
+Date: 11-30-16      Site: Hulman Center (Terre Haute, Ind.)  Attendance: 3730
+Officials: Ed Crenshaw; Gene Grimshaw; Jeb Hartness;
+Technical fouls: Northern Illinois-, TEAM. Indiana State-None.
+Score by Periods      1  2   Total
+Northern Illinois... 26 26  - 52
+Indiana State....... 24 39  - 63

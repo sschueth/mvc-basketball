@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   #10 Louisville vs Wichita State (11-24-16)
+VISITORS: #10 Louisville (5-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 JOHNSON, Jaylen..... f  0  1   0  0   1  2   1  5  6   3   1  0  0  0  0  14
+22 ADEL, Deng.......... f  3  6   3  4   2  2   0  2  2   5  11  1  1  0  0  21
+12 MATHIANG, Mangok.... c  0  1   0  0   1  2   0  2  2   4   1  0  1  0  0   6
+04 SNIDER, Quentin..... g  5 15   2  8   2  2   1  3  4   3  14  3  3  0  1  35
+45 MITCHELL, Donovan... g  5 13   2  8   2  3   1  7  8   1  14  5  1  0  3  35
+00 KING, VJ............    2  8   0  3   6  8   2  2  4   1  10  0  3  0  0  20
+05 STOCKMAN, Matz......    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   3
+13 SPALDING, Ray.......    2  5   0  0   0  0   3  6  9   3   4  1  1  2  0  25
+14 MAHMOUD, Anas.......    1  1   0  0   3  4   2  3  5   2   5  1  3  6  0  31
+23 LEVITCH, David......    1  1   0  0   0  0   0  0  0   0   2  2  0  0  0   8
+30 McMAHON, Ryan.......    0  1   0  1   0  0   0  1  1   0   0  0  1  0  0   2
+TM TEAM................                         2  2  4             1
+   Totals..............   19 52   7 24  17 23  12 34 46  22  62 13 15  8  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-28  .429     7-24  .292    19-52  .365
+3-Pt. FG%:  4-12  .333     3-12  .250     7-24  .292
+F Throw %:  5-8   .625    12-15  .800    17-23  .739
+Deadball rebounds: 5
+HOME TEAM: Wichita State (5-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Kelly, Rashard...... f  0  4   0  1   0  1   0  2  2   3   0  1  0  0  0  19
+01 Brown, Zach......... f  3  8   1  4   0  2   0  2  2   1   7  1  1  0  1  19
+24 Morris, Shaquille... c  5 13   0  1   0  0   2  2  4   2  10  1  1  0  1  30
+11 Shamet, Landry...... g  0  5   0  2   2  2   3  1  4   4   2  3  2  0  0  16
+33 Frankamp, Conner.... g  3  7   3  7   0  0   2  2  4   0   9  1  0  0  1  34
+02 Smith, Daishon......    1  1   1  1   0  0   0  1  1   0   3  1  1  0  0  13
+12 Reaves, Austin......    2  6   1  4   0  0   0  2  2   0   5  1  1  0  0  14
+20 Nurger, Rauno.......    1  1   0  0   1  1   1  4  5   1   3  0  1  0  0  14
+21 Willis, Darral......    1  4   0  0   1  2   1  3  4   4   3  1  2  0  1  12
+25 Hamilton, Eric......    0  1   0  0   0  2   0  0  0   0   0  0  0  0  0   2
+32 McDuffie, Markis....    2  7   0  2   6  8   2  2  4   2  10  2  3  0  0  27
+TM TEAM................                            1  1
+   Totals..............   18 57   6 22  10 18  11 22 33  17  52 12 12  0  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-26  .269    11-31  .355    18-57  .316
+3-Pt. FG%:  2-8   .250     4-14  .286     6-22  .273
+F Throw %:  1-7   .143     9-11  .818    10-18  .556
+Deadball rebounds: 2
+Date: 11-24-16      Site: Atlantis, Paradise Island, Bahamas  Attendance: 1604
+Officials: Ray Natili; Mike Roberts; Keith Kimble;
+Technical fouls: #10 Louisville-None. Wichita State-None.
+Score by Periods      1  2   Total
+#10 Louisville...... 33 29  - 62
+Wichita State....... 17 35  - 52

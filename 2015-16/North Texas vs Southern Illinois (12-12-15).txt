@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  North Texas vs Southern Illinois (12-12-15)
+VISITORS: North Texas (2-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 COMBS, Jeremy....... *  3  7   0  0   2  6   8  6 14   4   8  1  5  2  0  28
+03 BROWN, Ja'Michael... *  2  7   2  5   0  0   1  1  2   2   6  3  5  0  2  32
+10 JOHNSON, Deckie..... *  3 10   0  6   0  1   0  3  3   4   6  1  2  0  1  33
+23 BRICE JR, Rickey.... *  2  3   0  0   0  2   0  1  1   3   4  0  1  2  1   9
+52 REESE, J-Mychal..... * 10 16   2  5   3  3   0  3  3   5  25  3  3  0  3  35
+00 WARD, Carrington....    1  6   1  3   0  0   0  0  0   1   3  0  0  0  1  10
+02 WHITE-PITTMAN, Greg.    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   1
+05 HOLSTON, Allante....    5  6   0  1   2  5   1  2  3   3  12  2  1  0  0  25
+20 KATENDA, Eric.......    1  2   0  0   0  0   1  2  3   4   2  0  0  0  1  11
+22 FULLER, Khalil......    0  1   0  0   0  2   2  1  3   0   0  0  1  0  0  11
+30 EAGLIN, Todd........    0  1   0  0   0  0   0  2  2   0   0  0  0  0  0   5
+TM TEAM................                         8  1  9             2
+   Totals..............   27 59   5 20   7 19  21 22 43  26  66 10 21  4  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-25  .320    19-34  .559    27-59  .458
+3-Pt. FG%:  1-8   .125     4-12  .333     5-20  .250
+F Throw %:  1-10  .100     6-9   .667     7-19  .368
+Deadball rebounds: 4
+HOME TEAM: Southern Illinois (9-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 Olaniyan,Bola....... f  0  2   0  0   0  0   2  3  5   4   0  0  2  0  0  18
+33 O'Brien,Sean........ f  6 10   0  0   3  5   1  1  2   3  15  3  3  5  1  30
+01 Rodriguez,Mike...... g  3  9   3  5   1  2   1  1  2   0  10  2  1  0  1  31
+11 Smithpeters,Tyler... g  3  3   3  3   2  2   1  1  2   2  11  0  1  0  2  27
+25 Beane,Anthony....... g  5  9   3  6   6 11   1  0  1   4  19  3  4  0  1  35
+02 Postell, Jeremy.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+05 Vincent,Leo.........    3  6   0  2   5  7   0  3  3   1  11  1  1  0  3  18
+10 Djimde,Ibby.........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   3
+13 Lloyd, Sean.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+15 Weiher,Austin.......    1  3   0  0   0  0   0  2  2   0   2  0  0  0  0  10
+22 Fletcher,Armon......    1  4   0  2   1  2   1  2  3   0   3  0  0  0  0  16
+24 Stradnieks,Rudy.....    1  2   0  0   0  0   1  0  1   1   2  0  0  0  0   3
+32 Leek,Deng...........    0  3   0  0   1  2   2  5  7   2   1  0  1  1  0   9
+TM Team................                         2  1  3
+   Totals..............   23 51   9 18  19 31  12 19 31  18  74  9 13  6  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-31  .387    11-20  .550    23-51  .451
+3-Pt. FG%:  5-12  .417     4-6   .667     9-18  .500
+F Throw %:  3-7   .429    16-24  .667    19-31  .613
+Deadball rebounds: 6
+Date: 12-12-15      Site: Carbondale, IL  Attendance: 4839
+Officials: Ed Crenshaw; Dwayne Gladden; Jon Stigliano;
+Technical fouls: North Texas-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+North Texas......... 18 48  - 66
+Southern Illinois... 32 42  - 74

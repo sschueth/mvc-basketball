@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Loyola Chicago vs Indiana State (01-02-16)
+VISITORS: Loyola Chicago (7-7, 0-2 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... *  2  5   0  0   2  2   2  2  4   2   6  0  2  1  0  30
+02 Peterson, Earl...... *  5  9   2  2   0  0   0  3  3   3  12  2  3  0  2  30
+04 Turk, Devon......... *  5 10   1  2   2  4   1  2  3   1  13  2  0  0  0  28
+24 James, Montel....... *  5 12   1  1   5  6   1  4  5   2  16  2  1  2  1  27
+35 Doyle, Milton....... *  0  4   0  1   0  0   0  3  3   5   0  2  5  0  0  27
+13 Lisha,Glorind.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+14 Richardson, Ben.....    1  5   1  5   0  0   1  1  2   4   3  0  0  0  1  19
+23 White, Jeff.........    3  6   2  2   0  0   0  2  2   1   8  2  3  0  2  24
+25 Smith, Tyson........    0  1   0  0   0  1   0  1  1   1   0  2  1  0  0   6
+31 Kirby, Maurice......    0  0   0  0   0  0   0  0  0   2   0  0  1  0  0   5
+33 Kennedy, Cal........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   3
+TM Team................                         1  2  3
+   Totals..............   21 52   7 13   9 13   6 20 26  22  58 12 16  3  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-25  .400    11-27  .407    21-52  .404
+3-Pt. FG%:  5-7   .714     2-6   .333     7-13  .538
+F Throw %:  3-3  1.000     6-10  .600     9-13  .692
+Deadball rebounds: 0
+HOME TEAM: Indiana State (7-7, 1-1 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Smith, Khristian.... *  3  6   0  1   4  6   1 10 11   3  10  2  3  0  3  34
+04 Scott, Brenton...... *  3 10   1  3   4  4   1  0  1   3  11  4  1  0  1  29
+11 Brown, Devonte...... *  5  9   1  3   9  9   0  5  5   1  20  4  4  0  1  32
+30 Van Scyoc, Matt..... *  3  6   2  3   2  2   0  3  3   1  10  1  1  0  0  27
+34 Murphy, Brandon..... *  4  4   0  0   2  2   1  1  2   2  10  0  3  0  0  23
+00 Clemons, Everett....    2  4   0  1   0  1   0  6  6   1   4  3  2  0  4  25
+10 Alexander, Kalen....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+12 Bunschoten, Niels...    1  2   1  1   0  0   0  0  0   1   3  0  1  0  0   9
+20 Prusator, Grant.....    0  3   0  3   0  0   0  1  1   2   0  1  0  0  0   8
+22 Burnett, Brandon....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+32 Paige, Laquarious...    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+41 Rickman, Emondre....    2  2   0  0   1  1   0  1  1   3   5  1  0  1  0   9
+TM Team................                         1  2  3
+   Totals..............   23 46   5 15  22 25   4 29 33  17  73 16 15  1  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-23  .435    13-23  .565    23-46  .500
+3-Pt. FG%:  3-7   .429     2-8   .250     5-15  .333
+F Throw %:  3-5   .600    19-20  .950    22-25  .880
+Deadball rebounds: 2
+Date: 01-02-16      Site: Hulman Center  Attendance: 3375
+Officials: Hal Lusk; Daniel Chrisman; Gene Grimshaw;
+Technical fouls: Loyola Chicago-None. Indiana State-None.
+Score by Periods      1  2   Total
+Loyola Chicago...... 28 30  - 58
+Indiana State....... 26 47  - 73

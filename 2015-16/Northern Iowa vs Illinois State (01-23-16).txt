@@ -1,0 +1,47 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Northern Iowa vs Illinois State (01-23-16)
+VISITORS: Northern Iowa (10-11 (2-6 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+25 Koch, Bennett....... f  4  8   0  0   0  0   1  3  4   2   8  2  2  0  1  27
+04 Jesperson, Paul..... g  5  8   3  5   2  2   0  2  2   1  15  0  1  0  0  33
+05 Bohannon, Matt...... g  5 12   3 10   0  0   0  3  3   3  13  5  2  0  0  40
+11 Washpun, Wes........ g  8 13   2  4   5  6   0  1  1   4  23  6  1  0  0  38
+20 Morgan, Jeremy...... g  2  5   0  2   0  2   2  6  8   1   4  1  2  1  3  32
+02 Carlson, Klint......    1  6   0  2   0  0   1  2  3   2   2  0  0  0  0  11
+03 Friedman, Ted.......    1  1   0  0   0  0   1  0  1   1   2  0  0  0  0   6
+33 Lohaus, Wyatt.......    0  2   0  2   0  0   0  3  3   2   0  0  0  0  0  13
+TM Team................                            1  1
+   Totals..............   26 55   8 25   7 10   5 21 26  16  67 14  8  1  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-28  .607     9-27  .333    26-55  .473
+3-Pt. FG%:  4-9   .444     4-16  .250     8-25  .320
+F Throw %:  0-0   .000     7-10  .700     7-10  .700
+Deadball rebounds: 2
+HOME TEAM: Illinois State (11-10 (5-3 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 McIntosh,MiKyle..... f  6 11   2  4   4  5   2  4  6   5  18  2  3  0  1  28
+23 Hawkins,Deontae..... f  3  4   1  2   2  2   0  2  2   4   9  0  1  2  0  16
+01 Lee,Paris........... g  4  8   1  4   7  8   0  4  4   1  16  6  0  0  1  32
+12 Wills,Tony.......... g  2  8   2  6   2  2   0  3  3   1   8  4  2  0  0  31
+44 Akoon-Purcell,DeVaug g  3 12   1  6   0  0   2  3  5   1   7  3  2  0  1  32
+00 Banyard,Nick........    0  3   0  2   0  0   0  0  0   1   0  0  0  0  0  15
+02 Brewer,Quintin......    1  1   0  0   1  2   2  5  7   3   3  0  1  1  0  22
+15 McCloud,Justin......    5  6   5  6   0  0   0  3  3   0  15  1  1  0  0  24
+TM Team................                         3  1  4
+   Totals..............   24 53  12 30  16 19   9 25 34  16  76 16 10  3  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-30  .467    10-23  .435    24-53  .453
+3-Pt. FG%:  6-14  .429     6-16  .375    12-30  .400
+F Throw %:  6-7   .857    10-12  .833    16-19  .842
+Deadball rebounds: 2
+Date: 01-23-16      Site: Doug Collins Court at Redbird Arena  Attendance: 7103
+Officials: Zelton Steed; Winston Stith; Jeff Malham;
+Technical fouls: Northern Iowa-None. Illinois State-None.
+Score by Periods      1  2   Total
+Northern Iowa....... 38 29  - 67
+Illinois State...... 40 36  - 76

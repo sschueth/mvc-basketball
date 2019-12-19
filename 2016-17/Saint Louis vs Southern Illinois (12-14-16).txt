@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  Saint Louis vs Southern Illinois (12-14-16)
+VISITORS: Saint Louis (3-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 ROBY, Davell........ *  3  9   3  6   1  2   0  3  3   2  10  6  4  0  0  34
+24 HINES, Aaron........ *  2  2   1  1   0  0   0  0  0   1   5  2  3  0  0  26
+32 CRAWFORD, Mike...... *  3  8   1  4   1  2   0  4  4   3   8  1  4  0  0  34
+33 WELMER, Elliott..... *  1  3   0  1   2  2   3  2  5   2   4  1  3  1  1  22
+35 AGBEKO, Reggie...... *  5  7   0  0   1  6   3  8 11   4  11  4  5  0  1  33
+13 NEUFELD, Matt.......    1  2   0  0   1  2   0  0  0   0   3  0  0  0  0   7
+20 JOHNSON, Jalen......    1  2   1  1   0  0   0  0  0   4   3  0  1  0  0  11
+23 MOORE, Zeke.........    3  7   3  7   0  0   0  0  0   1   9  0  1  0  0  26
+25 GILLMANN, Austin....    1  2   0  1   0  0   1  0  1   1   2  1  0  0  0   7
+TM TEAM................                         3  2  5
+   Totals..............   20 42   9 21   6 14  10 19 29  18  55 15 21  1  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-20  .600     8-22  .364    20-42  .476
+3-Pt. FG%:  7-12  .583     2-9   .222     9-21  .429
+F Throw %:  1-4   .250     5-10  .500     6-14  .429
+Deadball rebounds: 3
+HOME TEAM: Southern Illinois (6-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 O'Brien,Sean........ f  5  9   0  0   3  7   2 11 13   3  13  2  0  0  2  36
+40 Bol,Thik............ f  6  8   0  0   2  2   2  2  4   1  14  0  1  2  0  37
+01 Rodriguez,Mike...... g  1  8   0  2   6 10   1  2  3   2   8  3  2  0  0  28
+13 Lloyd,Sean.......... g  3  4   1  1   1  2   0  0  0   3   8  1  0  0  0  24
+22 Fletcher,Armon...... g  7 11   4  7   3  3   1  1  2   3  21  1  3  0  2  33
+00 Wiley,Jonathan......    0  0   0  0   0  0   0  0  0   1   0  0  1  0  1   6
+05 Vincent,Leo.........    2  7   0  4   0  0   1  1  2   1   4  1  0  0  0  20
+10 Cook,Aaron..........    1  2   0  0   0  0   0  0  0   2   2  3  1  0  3  13
+24 Stradnieks,Rudy.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+TM TEAM................                         2     2
+   Totals..............   25 49   5 14  15 24   9 17 26  16  70 11  8  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-29  .483    11-20  .550    25-49  .510
+3-Pt. FG%:  2-5   .400     3-9   .333     5-14  .357
+F Throw %:  0-2   .000    15-22  .682    15-24  .625
+Deadball rebounds: 5
+Date: 12-14-16      Site: Carbondale, IL  Attendance: 4459
+Officials: Ray Natili; Don Daily; Bert Smith;
+Technical fouls: Saint Louis-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+Saint Louis......... 32 23  - 55
+Southern Illinois... 30 40  - 70

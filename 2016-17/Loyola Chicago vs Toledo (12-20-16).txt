@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Loyola Chicago vs Toledo (12-20-16)
+VISITORS: Loyola Chicago (10-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... f  4 10   2  6   4  4   1  4  5   3  14  2  0  0  0  36
+24 Jackson, Aundre..... f  9 15   2  4   2  4   1  4  5   4  22  0  0  0  0  23
+13 Custer, Clayton..... g  5 10   3  4   0  0   0  2  2   3  13  3  4  0  2  36
+14 Richardson, Ben..... g  1  2   0  1   0  0   0  2  2   3   2  4  0  0  3  29
+35 Doyle, Milton....... g  5 12   1  1   0  0   0  1  1   4  11  2  2  0  0  27
+04 Skokna, Bruno.......    1  2   1  1   2  2   0  2  2   2   5  0  0  0  0  17
+23 Satterwhite, Cameron    0  1   0  0   0  0   0  1  1   0   0  0  0  0  0  14
+25 Smith, Tyson........    0  0   0  0   1  2   0  0  0   0   1  0  0  0  0   1
+31 Kirby, Maurice......    0  0   0  0   0  0   0  1  1   1   0  0  0  0  0   1
+32 Granic, Vlatko......    1  4   0  3   0  0   1  5  6   1   2  0  2  0  0  16
+TM TEAM................
+   Totals..............   26 56   9 20   9 12   3 22 25  21  70 11  8  0  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-26  .423    15-30  .500    26-56  .464
+3-Pt. FG%:  3-7   .429     6-13  .462     9-20  .450
+F Throw %:  5-8   .625     4-4  1.000     9-12  .750
+Deadball rebounds: 2
+HOME TEAM: Toledo (6-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 TAYLOR JR, Steve.... f  5  8   0  1   0  1   3  7 10   4  10  2  4  0  0  21
+33 GARBER, Zach........ c  0  2   0  0   5  8   0  6  6   3   5  0  1  0  0  25
+01 WILLIAMS, Jonathan.. g 10 17   3  7   1  2   0  0  0   1  24  0  1  0  0  34
+13 SANFORD, Jaelan..... g  4 12   1  3   2  2   0  2  2   1  11  4  4  0  1  34
+25 LAUF, Jordan........ g  4  5   1  1   2  2   4  9 13   2  11  2  1  0  1  34
+05 ROBERTS, Justin.....    0  0   0  0   0  0   0  3  3   0   0  0  0  0  0  12
+30 KNAPKE, Luke........    2  3   0  0   0  0   1  0  1   2   4  3  0  0  0   8
+35 NAVIGATO, Nate......    2  6   1  3   4  4   0  1  1   1   9  3  0  0  0  32
+TM Team................
+   Totals..............   27 53   6 15  14 19   8 28 36  14  74 14 11  0  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-23  .609    13-30  .433    27-53  .509
+3-Pt. FG%:  4-9   .444     2-6   .333     6-15  .400
+F Throw %:  9-12  .750     5-7   .714    14-19  .737
+Deadball rebounds: 1
+Date: 12-20-16      Site: Toledo, OH (Savage Arena)  Attendance: 3452
+Officials: Larry Scirotto; Bryan Anslinger; Darryl Smith;
+Technical fouls: Loyola Chicago-None. Toledo-None.
+Score by Periods      1  2   Total
+Loyola Chicago...... 30 40  - 70
+Toledo.............. 41 33  - 74

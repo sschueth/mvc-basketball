@@ -1,0 +1,48 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Missouri State vs Northern Iowa (02-10-16)
+VISITORS: Missouri State (10-15, 6-7 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 Miller,Dequon....... *  3  6   1  3   1  1   0  7  7   3   8  7  3  0  0  36
+05 Church,Obediah...... *  1  4   0  1   0  0   1  5  6   0   2  3  2  0  0  24
+11 Dixon,Jarred........ *  6 10   1  1   2  2   0  1  1   3  15  3  0  0  0  30
+30 Boone,Camyn......... *  2  6   0  0   2  2   2  2  4   4   6  2  1  0  0  22
+33 Kendrix,Chris....... *  6 15   5 12   3  4   1  7  8   2  20  0  3  2  0  38
+03 Gerring,Loomis......    3  6   1  1   0  0   0  2  2   2   7  0  2  1  0  19
+20 Kreklow, Ryan.......    3  5   3  5   0  0   0  1  1   2   9  1  0  1  0  19
+25 Martin,Jordan.......    1  3   0  0   0  0   1  0  1   3   2  0  1  3  0   8
+50 McCullough, Tyler...    0  0   0  0   0  0   0  1  1   2   0  0  0  0  0   4
+TM Team................                         1     1
+   Totals..............   25 55  11 23   8  9   6 26 32  21  69 16 12  7  0 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-29  .483    11-26  .423    25-55  .455
+3-Pt. FG%:  7-13  .538     4-10  .400    11-23  .478
+F Throw %:  3-3  1.000     5-6   .833     8-9   .889
+Deadball rebounds: 1
+HOME TEAM: Northern Iowa (15-11, 7-6 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 Jesperson, Paul..... *  3  8   2  5   1  1   0  4  4   1   9  1  0  1  0  31
+05 Bohannon, Matt...... *  5 11   4  8   5  5   0  5  5   2  19  1  0  0  3  40
+11 Washpun, Wes........ *  4 14   1  4   2  2   1  2  3   2  11  9  1  0  2  40
+20 Morgan, Jeremy...... *  6  9   3  5   6  6   2  6  8   0  21  5  0  0  1  35
+25 Koch, Bennett....... *  7 10   0  0   5  5   2  2  4   5  19  0  0  0  0  19
+02 Carlson, Klint......    1  5   0  1   0  2   1  2  3   0   2  0  0  0  0  23
+03 Friedman, Ted.......    1  2   0  0   0  0   0  2  2   0   2  0  0  0  0   6
+33 Lohaus, Wyatt.......    0  2   0  0   0  0   0  0  0   1   0  2  0  0  0   6
+TM Team................                         3  1  4             2
+   Totals..............   27 61  10 23  19 21   9 24 33  11  83 18  3  1  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 18-34  .529     9-27  .333    27-61  .443
+3-Pt. FG%:  8-14  .571     2-9   .222    10-23  .435
+F Throw %:  5-7   .714    14-14 1.000    19-21  .905
+Deadball rebounds: 1
+Date: 02-10-16      Site: Cedar Falls, Iowa (McLeod Center)  Attendance: 5755
+Officials: Bo Boroski; Randy Heimerman; Brad Gaston;
+Technical fouls: Missouri State-, Team. Northern Iowa-Koch, Bennett.
+Score by Periods      1  2   Total
+Missouri State...... 38 31  - 69
+Northern Iowa....... 49 34  - 83

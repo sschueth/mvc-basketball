@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Wichita State vs Evansville (01-17-17)
+VISITORS: Wichita State (16-4, 6-1 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+21 Willis, Darral...... f  4  6   0  0   3  7   1  2  3   3  11  1  1  1  1  18
+32 McDuffie, Markis.... f  2  5   0  1   1  2   1  3  4   2   5  2  1  1  2  26
+24 Morris, Shaquille... c  5 11   1  1   6  6   3  7 10   2  17  2  0  0  0  22
+11 Shamet, Landry...... g  3  7   2  4   3  3   1  1  2   0  11  5  1  0  1  33
+33 Frankamp, Conner.... g  5  6   4  4   0  0   0  1  1   1  14  1  0  0  0  23
+00 Kelly, Rashard......    2  3   1  2   0  2   1  4  5   3   5  1  0  0  0  18
+01 Brown, Zach.........    1  5   1  4   1  2   0  0  0   4   4  2  0  0  2  21
+02 Smith, Daishon......    0  0   0  0   0  0   0  0  0   1   0  1  2  0  1   6
+12 Reaves, Austin......    1  3   1  2   0  0   0  1  1   0   3  2  0  0  0  15
+20 Nurger, Rauno.......    5  7   1  1   1  2   1  2  3   2  12  0  1  0  0  16
+25 Hamilton, Eric......    0  2   0  0   0  0   0  1  1   0   0  0  0  0  0   2
+TM TEAM................                            3  3
+   Totals..............   28 55  11 19  15 24   8 25 33  18  82 17  6  2  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-28  .357    18-27  .667    28-55  .509
+3-Pt. FG%:  3-7   .429     8-12  .667    11-19  .579
+F Throw %:  7-12  .583     8-12  .667    15-24  .625
+Deadball rebounds: 5
+HOME TEAM: Evansville (10-10,1-6 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Hainna, Solomon..... f  2  4   0  1   0  0   0  0  0   3   4  1  0  0  0  12
+14 Vucetic, Sergej..... c  2  4   0  0   0  3   1  2  3   4   4  0  1  1  0  25
+00 Taylor, Ryan........ g  6 16   2  6   3  3   0  2  2   2  17  1  2  0  0  31
+03 Brown, Jaylon....... g  9 14   4  6   6  7   2  2  4   0  28  4  3  0  0  39
+12 Smith, Dru.......... g  1  4   0  3   2  2   0  9  9   4   4  7  4  0  0  33
+02 Benzon, Christian...    0  2   0  1   1  2   0  0  0   2   1  0  0  1  0  11
+04 Eaves, Jaiveon......    1  3   0  2   0  0   1  0  1   1   2  0  0  0  0   9
+15 Traore, Dalen.......    1  2   0  0   1  2   0  3  3   0   3  0  0  0  0   9
+23 Wiley, Willie.......    1  2   0  0   0  0   1  2  3   3   2  0  1  0  1  16
+25 Gibson, Duane.......    0  1   0  0   0  0   0  2  2   1   0  2  0  0  0   9
+44 Howard, David.......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   6
+TM TEAM................                         3  1  4             1
+   Totals..............   23 52   6 19  13 19   8 23 31  21  65 15 12  2  1 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-26  .462    11-26  .423    23-52  .442
+3-Pt. FG%:  3-8   .375     3-11  .273     6-19  .316
+F Throw %:  6-10  .600     7-9   .778    13-19  .684
+Deadball rebounds: 2
+Date: 01-17-17      Site: Ford Center, Evansville, Ind.  Attendance: 4019
+Officials: Joe DeRosa; Gerry Pollard; Gary Maxwell;
+Technical fouls: Wichita State-None. Evansville-None.
+Score by Periods      1  2   Total
+Wichita State....... 30 52  - 82
+Evansville.......... 33 32  - 65

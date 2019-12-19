@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  Eastern Illinois vs Indiana State (12-21-16)
+VISITORS: Eastern Illinois (8-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 McREYNOLDS,Demetrius *  9 24   2  9   5  6   4  5  9   1  25  1  1  0  0  40
+02 JOHNSTON, Cornell... *  4  8   3  7   1  2   0  1  1   5  12  2  4  0  3  39
+04 GOODWIN, Montell.... *  6 17   4 10   5  6   1  2  3   2  21  6  2  0  1  43
+05 CROSSLAND, Ray...... *  1  7   0  0   1  2   1  7  8   5   3  1  1  0  0  23
+25 DAMA, Muusa......... *  5  8   0  0   3  4  10  8 18   5  13  0  2  5  0  42
+03 TESON, Casey........    3  7   3  6   0  0   0  2  2   1   9  0  0  0  1  21
+11 KOCH, Logan.........    0  1   0  1   0  0   0  0  0   1   0  0  0  0  0   3
+12 BLACKMON, Marshawn..    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+24 KULIGOSKI, Joe......    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   1
+32 MULDOON, Patrick....    1  5   0  0   0  0   1  2  3   3   2  1  2  1  2  24
+55 DIALLO, Aboubacar...    0  5   0  0   0  0   1  2  3   1   0  0  0  2  1  14
+TM TEAM................                         1  1  2             1
+   Totals..............   29 82  12 33  15 20  19 30 49  24  85 11 14  8  8 250
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-33  .424     9-33  .273    29-82  .354
+3-Pt. FG%:  5-14  .357     5-13  .385    12-33  .364
+F Throw %:  6-8   .750     5-8   .625    15-20  .750
+Deadball rebounds: 2
+HOME TEAM: Indiana State (6-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Clemons, Everett.... *  3  6   0  0   7  9   2  5  7   3  13  5  5  0  0  36
+04 Scott, Brenton...... *  7 23   3  8   6 10   3  4  7   3  23  0  0  0  1  42
+30 Van Scyoc, Matt..... *  3  7   3  7   0  0   0  3  3   2   9  2  1  0  1  34
+32 Paige, Laquarious... *  1  3   1  2   0  1   1  5  6   2   3  1  3  2  1  31
+41 Rickman, Emondre.... *  1  3   0  0   0  0   1  2  3   2   2  0  1  0  0  12
+02 Barnes, Jordan......    3  8   1  5   4  4   1  4  5   1  11  6  1  0  0  32
+05 Kessinger, Bronson..    0  1   0  0   0  0   1  0  1   0   0  0  0  0  0   2
+12 Bunschoten, Niels...    5 11   1  6   2  2   0  3  3   1  13  0  3  1  0  25
+13 Franklin, Donovan...    0  2   0  1   0  0   0  0  0   0   0  0  1  0  0   5
+34 Murphy, Brandon.....    5  6   0  0   4  8   6  6 12   3  14  0  0  1  1  31
+TM TEAM................                         3  5  8
+   Totals..............   28 70   9 29  23 34  18 37 55  17  88 14 15  4  4 250
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-29  .310    13-30  .433    28-70  .400
+3-Pt. FG%:  2-10  .200     4-14  .286     9-29  .310
+F Throw %: 11-13  .846     6-12  .500    23-34  .676
+Deadball rebounds: 5
+Date: 12-21-16      Site: Hulman Center (Terre Haute, Ind.)  Attendance: 3315
+Officials: Zelton Steed; Winston Stith; Ervin Wilson;
+Technical fouls: Eastern Illinois-None. Indiana State-None.
+Score by Periods      1  2 OT O2   Total
+Eastern Illinois.... 39 28  9  9  - 85
+Indiana State....... 31 36  9 12  - 88

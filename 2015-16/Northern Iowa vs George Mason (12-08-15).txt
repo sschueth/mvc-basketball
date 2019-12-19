@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Northern Iowa vs George Mason (12-08-15)
+VISITORS: Northern Iowa ((6-2))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+25 Koch, Bennett....... f  4  8   0  0   0  0   1  1  2   3   8  1  1  0  0  18
+04 Jesperson, Paul..... g  5 11   3  8   6  6   2 10 12   1  19  1  0  1  1  33
+05 Bohannon, Matt...... g  5 12   3  7   1  2   0  2  2   3  14  0  0  0  3  28
+11 Washpun, Wes........ g  6 11   1  2   6 10   1  2  3   3  19  4  1  1  0  36
+20 Morgan, Jeremy...... g  1  7   1  4   2  2   0  1  1   2   5  3  0  1  0  31
+01 Austin, Aarias......    0  1   0  0   0  0   0  1  1   0   0  1  0  0  0   8
+02 Carlson, Klint......    0  2   0  2   0  0   2  2  4   2   0  0  2  1  0  20
+03 Friedman, Ted.......    0  0   0  0   0  0   0  1  1   2   0  0  0  0  0   7
+33 Lohaus, Wyatt.......    3  5   2  3   0  0   0  1  1   0   8  1  0  0  0  19
+TM Team................                         2  3  5
+   Totals..............   24 57  10 26  15 20   8 24 32  16  73 11  4  4  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-30  .433    11-27  .407    24-57  .421
+3-Pt. FG%:  5-13  .385     5-13  .385    10-26  .385
+F Throw %:  2-2  1.000    13-18  .722    15-20  .750
+Deadball rebounds: 2,1
+HOME TEAM: George Mason ((4-6))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 GUJANICIC, Marko.... f  4  7   1  2   1  3   0  8  8   1  10  2  1  0  0  32
+14 THOMPSON, Shevon.... c  4  9   0  0   0  2   7  3 10   1   8  2  1  1  0  24
+04 LIVINGSTON, Otis.... g  5  9   2  5   1  2   1  1  2   3  13  3  2  0  0  35
+05 GRAYER, Jaire....... g  3  9   2  8   0  0   0  4  4   4   8  0  4  0  0  24
+22 MOORE, Marquise..... g  7 16   0  1   1  3   4  5  9   3  15  1  1  1  0  33
+01 ABRAM, DeAndre......    2  9   0  3   1  1   3  0  3   2   5  1  0  0  0  16
+02 MURRELL, Kameron....    0  2   0  2   0  0   0  0  0   0   0  0  1  0  0   2
+03 HOLLOWAY, Patrick...    0  5   0  3   0  0   0  2  2   0   0  0  0  1  0  11
+12 TATE, Myles.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+31 JENKINS, Jalen......    2  4   0  0   2  2   6  1  7   2   6  0  2  2  0  23
+TM TEAM................                         2  2  4
+   Totals..............   27 70   5 24   6 13  23 26 49  16  65  9 12  5  0 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-30  .333    17-40  .425    27-70  .386
+3-Pt. FG%:  3-11  .273     2-13  .154     5-24  .208
+F Throw %:  3-5   .600     3-8   .375     6-13  .462
+Deadball rebounds: 2,2
+Date: 12-08-15      Site: Fairfax, Va. (EagleBank Arena)  Attendance: 4102
+Officials: Chuck Jones; Raymond Styons; Justin Porterfield;
+Technical fouls: Northern Iowa-None. George Mason-None.
+Score by Periods      1  2   Total
+Northern Iowa....... 33 40  - 73
+George Mason........ 26 39  - 65

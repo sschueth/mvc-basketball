@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Evansville vs Indiana State (01-24-16)
+VISITORS: Evansville (17-4, 6-2 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 Brown, Jaylon....... *  5 10   1  2   2  2   1  1  2   3  13  1  1  0  2  27
+12 Wing, Adam.......... *  5 10   2  3   1  1   1  3  4   1  13  1  1  1  0  35
+31 Balentine, D.J...... *  7 17   0  1   6  7   0  2  2   1  20  2  3  0  0  38
+50 Simmons, Blake...... *  1  3   1  2   0  0   0  1  1   2   3  2  1  0  0  27
+55 Mockevicius,Egidijus *  3  5   0  0   4  7   3 10 13   4  10  1  1  3  2  37
+02 Benzon, Christian...    0  2   0  0   0  0   0  1  1   2   0  1  0  0  0   8
+10 Brzoja, Mislav......    1  4   1  2   0  0   1  3  4   4   3  4  2  0  0  19
+13 Brown, Harris.......    0  1   0  1   0  0   0  0  0   0   0  0  1  0  0   4
+14 Vucetic, Sergej.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+23 Wiley, Willie.......    1  1   0  0   1  4   0  0  0   2   3  0  0  0  1   3
+44 Howard, David.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+TM Team................                            2  2
+   Totals..............   23 53   5 11  14 21   6 23 29  19  65 12 10  4  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-25  .440    12-28  .429    23-53  .434
+3-Pt. FG%:  3-6   .500     2-5   .400     5-11  .455
+F Throw %:  6-8   .750     8-13  .615    14-21  .667
+Deadball rebounds: 2
+HOME TEAM: Indiana State (11-9, 5-3 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Smith, Khristian.... *  2  7   2  2   0  0   0  2  2   3   6  4  0  0  0  27
+04 Scott, Brenton...... *  9 14   6  9   0  0   0  4  4   2  24  1  3  0  1  32
+11 Brown, Devonte...... *  7 13   3  4   7  9   2  3  5   1  24  6  5  0  0  34
+30 Van Scyoc, Matt..... *  2  5   1  3   0  2   1  2  3   4   5  0  0  1  0  18
+34 Murphy, Brandon..... *  2  5   0  0   0  0   2  3  5   1   4  0  2  0  0  24
+00 Clemons, Everett....    2  4   0  0   5  6   2  5  7   2   9  1  0  0  1  22
+12 Bunschoten, Niels...    1  2   1  2   2  2   0  3  3   4   5  1  0  1  1  13
+20 Prusator, Grant.....    0  2   0  1   0  0   0  0  0   0   0  0  0  0  0   2
+22 Burnett, Brandon....    2  2   1  1   0  0   0  1  1   1   5  0  0  0  0  11
+32 Paige, Laquarious...    0  1   0  1   0  0   0  0  0   1   0  1  1  0  0  10
+41 Rickman, Emondre....    0  2   0  0   0  0   0  1  1   1   0  0  0  0  0   7
+TM Team................                         3  3  6             1
+   Totals..............   27 57  14 23  14 19  10 27 37  20  82 14 12  2  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-30  .533    11-27  .407    27-57  .474
+3-Pt. FG%:  8-10  .800     6-13  .462    14-23  .609
+F Throw %:  5-6   .833     9-13  .692    14-19  .737
+Deadball rebounds: 3,1
+Date: 01-24-16      Site: Hulman Center (Terre Haute, Ind.)  Attendance: 4630
+Officials: John Higgins; Tom O'Neill; Don Daily;
+Technical fouls: Evansville-, Mockevicius,Egidijus. Indiana State-None.
+Score by Periods      1  2   Total
+Evansville.......... 31 34  - 65
+Indiana State....... 45 37  - 82

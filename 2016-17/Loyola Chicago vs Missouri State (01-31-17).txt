@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  Loyola Chicago vs Missouri State (01-31-17)
+VISITORS: Loyola Chicago (16-8 (6-5 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... f  6 11   0  1   2  3   2  6  8   4  14  3  1  0  2  43
+31 Kirby, Maurice...... f  2  3   0  0   0  0   1  3  4   4   4  1  1  0  1  14
+13 Custer, Clayton..... g  6 12   3  7   0  0   0  2  2   4  15  1  3  0  2  40
+14 Richardson, Ben..... g  4  8   2  5   0  0   0  3  3   5  10  1  0  0  1  37
+35 Doyle, Milton....... g  7 15   2  5   5  7   0  3  3   3  21  4  2  1  0  40
+04 Skokna, Bruno.......    0  0   0  0   0  0   0  0  0   1   0  0  1  0  0   6
+23 Satterwhite, Cameron    0  2   0  1   0  0   0  0  0   2   0  0  0  0  0   5
+24 Jackson, Aundre.....    5  8   0  0   7  7   3  4  7   4  17  2  5  0  2  26
+25 Smith, Tyson........    0  1   0  0   0  0   0  2  2   1   0  0  2  0  0  12
+32 Granic, Vlatko......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+TM TEAM................                         1     1
+   Totals..............   30 60   7 19  14 17   7 23 30  28  81 12 15  1  8 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-29  .586    10-26  .385    30-60  .500
+3-Pt. FG%:  3-8   .375     3-9   .333     7-19  .368
+F Throw %:  0-0   .000    11-14  .786    14-17  .824
+Deadball rebounds: 2,1
+HOME TEAM: Missouri State (15-9 (6-5 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  4  5   0  0   4  4   2  6  8   0  12  0  0  3  1  27
+10 Rhodes,Jarrid....... f  1  5   0  3   0  0   0  0  0   3   2  1  1  0  0  13
+24 Johnson,Alize....... f  3  7   0  0   8 12   6  6 12   2  14  6  3  1  0  41
+04 Miller,Dequon....... g  1  6   0  2   5  6   0  2  2   2   7  3  1  0  2  36
+15 Ruder,Austin........ g  7 10   6  8   2  2   0  3  3   2  22  0  2  1  0  37
+00 Martin,Jordan.......    2  3   0  0   0  1   0  2  2   1   4  0  3  1  2  18
+11 Dixon,Jarred........    4 12   1  2   6  9   1  2  3   4  15  5  2  0  2  30
+20 Kreklow,Ryan........    1  4   0  2   4  4   0  1  1   5   6  0  0  0  1  18
+33 Kendrix,Chris.......    0  1   0  0   0  0   0  1  1   0   0  0  1  0  0   5
+50 McCullough,Tyler....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+TM TEAM................                         3     3
+   Totals..............   23 53   7 17  29 38  12 23 35  19  82 15 13  6  8 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-26  .423     9-22  .409    23-53  .434
+3-Pt. FG%:  4-10  .400     2-6   .333     7-17  .412
+F Throw %:  8-9   .889    17-22  .773    29-38  .763
+Deadball rebounds: 3,1
+Date: 01-31-17      Site: JQH Arena, Springfield, Mo.  Attendance: 4070
+Officials: Gerry Pollard; Kelly Self; Bert Smith;
+Technical fouls: Loyola Chicago-None. Missouri State-None.
+Score by Periods      1  2 OT   Total
+Loyola Chicago...... 37 34 10  - 81
+Missouri State...... 34 37 11  - 82

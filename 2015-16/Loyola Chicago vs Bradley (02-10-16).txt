@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Loyola Chicago vs Bradley (02-10-16)
+VISITORS: Loyola Chicago (12-13, 5-8 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... f  3  8   0  1   2  4   0  4  4   4   8  2  1  1  1  30
+12 Rajala, Julius...... f  1  4   0  0   0  0   1  1  2   0   2  0  1  0  0  10
+14 Richardson, Ben..... g  2  5   1  2   0  0   0  2  2   2   5  2  0  0  1  23
+23 White, Jeff......... g  0  1   0  1   0  0   0  3  3   4   0  2  0  0  2  24
+25 Smith, Tyson........ g  0  3   0  2   0  2   0  2  2   2   0  0  1  1  0  18
+02 Peterson, Earl......    0  3   0  0   5  6   0  3  3   0   5  0  1  0  1  20
+04 Turk, Devon.........    3  5   1  3   0  0   0  3  3   3   7  0  2  0  0  20
+24 James, Montel.......    7 11   0  0   3  5   1  6  7   0  17  1  0  1  2  27
+31 Kirby, Maurice......    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+33 Kennedy, Cal........    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0  0+
+35 Doyle, Milton.......    3 10   1  3   3  4   1  8  9   4  10  1  3  0  0  25
+TM Team................                         2     2             1
+   Totals..............   19 51   3 12  13 21   5 33 38  19  54  8 10  3  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-28  .429     7-23  .304    19-51  .373
+3-Pt. FG%:  0-4   .000     3-8   .375     3-12  .250
+F Throw %:  1-1  1.000    12-20  .600    13-21  .619
+Deadball rebounds: 3
+HOME TEAM: Bradley (4-22, 2-11 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  2  5   0  1   2  6   5  8 13   4   6  1  5  0  0  31
+22 Suggs, Ronnie....... f  4 12   2  5   0  0   1  6  7   5  10  1  0  0  1  38
+30 Barker, Callum...... f  1  3   0  0   0  3   2  4  6   3   2  0  0  0  0  19
+03 Pittman, Antoine.... g  2 12   1  4   0  1   5  3  8   1   5  2  1  0  2  25
+13 van Bree, Luuk...... g  1  9   0  6   0  0   2  3  5   3   2  2  3  0  0  34
+00 Bell, Ka'Darryl.....    0  3   0  1   0  0   0  0  0   0   0  1  0  0  0  14
+14 Hanley, Peter.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+23 Lautier-Ogunleye, D.    7 13   0  2   4  7   0  7  7   4  18  3  3  1  1  35
+24 James, Scottie......    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0  0+
+TM Team................                            1  1             2
+   Totals..............   17 58   3 20   6 17  15 32 47  20  43 10 14  1  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-26  .269    10-32  .313    17-58  .293
+3-Pt. FG%:  1-9   .111     2-11  .182     3-20  .150
+F Throw %:  3-4   .750     3-13  .231     6-17  .353
+Deadball rebounds: 4
+Date: 02-10-16      Site: Peoria, IL - Carver Arena  Attendance: 5400
+Officials: Hal Lusk; Rick Randall; Brad Ferrie;
+Technical fouls: Loyola Chicago-None. Bradley-None.
+Score by Periods      1  2   Total
+Loyola Chicago...... 25 29  - 54
+Bradley............. 18 25  - 43

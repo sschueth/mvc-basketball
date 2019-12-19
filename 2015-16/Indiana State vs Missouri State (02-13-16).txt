@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Indiana State vs Missouri State (02-13-16)
+VISITORS: Indiana State (13-13 (7-7 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Smith, Khristian.... f  3  7   1  3   0  0   0  3  3   4   7  2  3  0  2  24
+12 Bunschoten, Niels... f  2  5   1  4   0  0   0  1  1   3   5  2  1  0  1  23
+34 Murphy, Brandon..... c  2  5   0  0   2  3   6  6 12   4   6  0  3  0  0  23
+04 Scott, Brenton...... g  6 13   4  5   3  4   1  3  4   1  19  0  1  0  0  37
+11 Brown, Devonte...... g  7 16   0  2  12 21   4  3  7   3  26  3  1  1  0  38
+00 Clemons, Everett....    3  5   0  0   1  2   0  3  3   2   7  4  3  0  0  33
+20 Prusator, Grant.....    1  1   1  1   0  0   0  0  0   1   3  0  0  0  0   4
+22 Burnett, Brandon....    1  1   1  1   0  1   0  2  2   1   3  0  2  0  0   4
+30 Van Scyoc, Matt.....    2  6   1  5   0  2   1  4  5   4   5  1  0  0  0  14
+32 Paige, Laquarious...    1  2   0  0   0  0   0  0  0   1   2  1  0  0  1   9
+41 Rickman, Emondre....    1  3   0  0   0  2   4  2  6   2   2  0  0  1  0  16
+TM Team................                            1  1
+   Totals..............   29 64   9 21  18 35  16 28 44  26  85 13 14  2  4 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-26  .462    14-31  .452    29-64  .453
+3-Pt. FG%:  4-8   .500     5-11  .455     9-21  .429
+F Throw %:  5-13  .385    11-16  .688    18-35  .514
+Deadball rebounds: 8,3
+HOME TEAM: Missouri State (11-15 (7-7 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  1  3   0  0   3  6   2  2  4   2   5  3  1  2  0  22
+30 Boone,Camyn......... f 11 18   0  0   8 12   3  9 12   2  30  1  2  0  0  38
+33 Kendrix,Chris....... f  5 13   3  6   6  6   5  7 12   3  19  2  2  2  3  44
+04 Miller,Dequon....... g  6 15   2  7   5  6   0  2  2   3  19  5  2  0  1  45
+11 Dixon,Jarred........ g  3  8   1  2   0  0   0  1  1   4   7  0  0  0  1  31
+03 Gerring,Loomis......    4 10   0  1   1  2   5  1  6   4   9  1  0  0  0  26
+20 Kreklow, Ryan.......    0  4   0  3   0  0   1  2  3   3   0  0  2  1  0  14
+25 Martin,Jordan.......    0  1   0  0   0  0   0  1  1   2   0  0  1  0  0   2
+50 McCullough, Tyler...    0  0   0  0   0  0   1  0  1   2   0  0  0  0  0   3
+TM Team................                            3  3
+   Totals..............   30 72   6 19  23 32  17 28 45  25  89 12 10  5  5 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-35  .371    14-30  .467    30-72  .417
+3-Pt. FG%:  2-9   .222     3-9   .333     6-19  .316
+F Throw %:  7-11  .636    11-15  .733    23-32  .719
+Deadball rebounds: 3
+Date: 02-13-16      Site: JQH Arena, Springfield, Mo.  Attendance: 4400
+Officials: Rick Randall; David Stevens; Gene Grimshaw;
+Technical fouls: Indiana State-None. Missouri State-, Team.
+Score by Periods      1  2 OT   Total
+Indiana State....... 33 44  8  - 85
+Missouri State...... 35 42 12  - 89

@@ -1,0 +1,58 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Simpson College vs Drake (11-13-15)
+VISITORS: Simpson College (0-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+55 Olson, Leif......... f  1  3   0  0   0  0   1  0  1   3   2  0  2  0  0  14
+11 Turner, Austin...... g  2  8   0  5   1  1   1  1  2   0   5  2  2  0  0  27
+13 Gretzky, Dillon..... g  6 10   2  4   0  0   1  4  5   1  14  0  1  0  1  28
+25 Dafney, DJ.......... g  2  3   0  0   0  1   1  5  6   1   4  1  0  0  0  20
+31 Skaar, Ryan......... g  0 10   0  4   2  2   0  0  0   2   2  0  1  0  0  15
+05 Rajewski, Ben.......    1  5   1  4   0  0   0  0  0   2   3  0  1  0  0  13
+15 Thompson, Brook.....    2  2   2  2   0  0   0  0  0   3   6  2  0  0  1  10
+21 Thakor, Krunal......    1  2   1  2   1  2   0  0  0   0   4  0  0  0  1   4
+23 Futch, Darrin.......    2  4   1  2   0  0   0  1  1   1   5  1  0  0  0   8
+33 Good, Cody..........    0  3   0  1   0  0   0  0  0   1   0  0  1  0  1   9
+35 Smith, Sabonis......    1  4   1  3   1  2   0  1  1   0   4  0  2  1  0  11
+41 Amsbaugh, Sam.......    1  5   0  3   0  1   3  2  5   4   2  1  1  1  0  11
+43 Montgomery, Jamie...    0  5   0  5   0  0   0  0  0   0   0  0  0  0  0  15
+45 Singleton, Cort.....    0  0   0  0   0  1   0  2  2   0   0  0  0  0  0   6
+51 Isabel, Cody........    0  1   0  0   1  2   1  0  1   4   1  0  0  0  0   9
+TM TEAM................                         1  1  2
+   Totals..............   19 65   8 35   6 12   9 17 26  22  52  7 11  2  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-32  .219    12-33  .364    19-65  .292
+3-Pt. FG%:  3-17  .176     5-18  .278     8-35  .229
+F Throw %:  1-2   .500     5-10  .500     6-12  .500
+Deadball rebounds: 1
+HOME TEAM: Drake (1-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+31 Abrahamson, Kale.... f  5  7   2  4   0  0   1  1  2   2  12  0  1  0  0  19
+11 Enevold, Jacob...... c  4  4   0  0   0  0   1  5  6   0   8  0  1  0  0  11
+00 Rivers, C.J......... g  4  4   0  0   1  4   0  3  3   2   9  6  0  0  2  20
+03 Woodward, Graham.... g  0  2   0  1   2  5   0  0  0   1   2  1  1  0  3  19
+12 Timmer, Reed........ g  6  7   1  1   6  6   0  3  3   2  19  2  2  0  0  18
+01 Madison, Karl.......    1  2   0  0   2  2   1  1  2   2   4  2  1  0  0  18
+02 Wampler, Billy......    4  9   2  5   0  0   0  3  3   2  10  3  2  1  0  20
+14 Rutter, A.J.........    2  2   1  1   0  0   0  0  0   2   5  0  0  0  0   3
+22 Schlatter, Casey....    5  9   0  0   3  5   3  3  6   1  13  2  1  0  0  21
+23 Arogundade, Ore.....    2  2   0  0   0  0   0  4  4   1   4  2  0  1  2  22
+35 McGlynn, Nick.......    1  1   0  0   1  3   0  5  5   1   3  0  0  1  0  12
+44 Olejniczak, Dominik.    3  4   0  0   2  4   1 11 12   2   8  1  3  2  0  17
+TM Team................                            3  3
+   Totals..............   37 53   6 12  17 29   7 42 49  18  97 19 12  5  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 20-31  .645    17-22  .773    37-53  .698
+3-Pt. FG%:  2-8   .250     4-4  1.000     6-12  .500
+F Throw %:  8-13  .615     9-16  .563    17-29  .586
+Deadball rebounds: 4
+Date: 11-13-15      Site: Des Moines, Iowa (Knapp Center)  Attendance: 3140
+Officials: Dan Nowakowski; John Hendricks; Ervin Wilson;
+Technical fouls: Simpson College-None. Drake-None.
+Score by Periods      1  2   Total
+Simpson College..... 18 34  - 52
+Drake............... 50 47  - 97

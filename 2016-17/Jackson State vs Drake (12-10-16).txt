@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Jackson State vs Drake (12-10-16)
+VISITORS: Jackson State (3-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+12 Maurice Rivers...... f  3  9   0  0   1  2   3  6  9   4   7  1  0  0  3  26
+35 Janarius Middleton.. f  2  5   0  1   1  2   5  8 13   4   5  3  2  0  0  29
+02 Edric Dennis........ g  0  8   0  3   1  2   1  3  4   3   1  1  2  0  1  25
+03 Yettra Specks....... g  4 13   2  8   5  7   1  5  6   4  15  1  5  1  1  33
+05 Paris Collins....... g  6 13   2  6   2  3   1  4  5   3  16  4  0  1  3  30
+04 Derek Roscoe........    4  7   2  3   0  0   0  3  3   1  10  1  1  2  1  18
+10 Sherron Wilson......    0  3   0  1   0  0   1  3  4   1   0  1  0  0  0   6
+15 Javeres Brent.......    4  9   3  8   1  3   0  4  4   2  12  0  2  0  0  20
+25 Jesse Love..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+31 Dontaveon Robinson..    1  3   0  0   0  0   4  1  5   1   2  0  0  0  1  13
+33 Montreal Nabors.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+TM TEAM................                         2     2
+   Totals..............   24 70   9 30  11 19  18 37 55  23  68 12 12  4 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-38  .263    14-32  .438    24-70  .343
+3-Pt. FG%:  5-16  .313     4-14  .286     9-30  .300
+F Throw %:  4-7   .571     7-12  .583    11-19  .579
+Deadball rebounds: 3
+HOME TEAM: Drake (1-8)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Wampler, Billy...... f  5 15   4  9   6  6   4  3  7   3  20  0  0  0  0  35
+10 Thomas, T.J......... f  1  4   0  0   2  2   2  4  6   3   4  1  1  1  0  20
+00 Rivers, C.J......... g  1  4   1  2   1  2   1  4  5   3   4  0  0  0  2  26
+03 Woodward, Graham.... g  1  8   0  0   1  2   0  2  2   1   3  2  3  0  0  21
+12 Timmer, Reed........ g  5 14   0  4   9 11   1  6  7   1  19  1  3  0  2  37
+04 McMurray, De'Antae..    2  8   0  3   2  3   0  1  1   0   6  1  1  0  0  22
+11 Enevold, Jacob......    0  1   0  0   1  2   1  1  2   0   1  0  0  1  0   4
+22 Schlatter, Casey....    1  3   0  0   2  2   1  2  3   2   4  1  0  0  2   9
+23 Arogundade, Ore.....    0  2   0  1   0  0   0  7  7   2   0  0  3  0  0  12
+32 Kuenstling, Kory....    0  2   0  0   0  0   2  1  3   1   0  0  2  0  0   9
+35 McGlynn, Nick.......    1  3   0  0   0  0   1  1  2   0   2  0  0  0  0   5
+TM TEAM................                         2  1  3
+   Totals..............   17 64   5 19  24 30  15 33 48  16  63  6 13  2  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-35  .286     7-29  .241    17-64  .266
+3-Pt. FG%:  4-8   .500     1-11  .091     5-19  .263
+F Throw %:  7-10  .700    17-20  .850    24-30  .800
+Deadball rebounds: 1
+Date: 12-10-16      Site: Des Moines, Iowa (Knapp Center)  Attendance: 2467
+Officials: Rick Hartzell; Jeff Campbell; Tim Fitzgerald;
+Technical fouls: Jackson State-, Yettra Specks. Drake-None.
+Score by Periods      1  2   Total
+Jackson State....... 29 39  - 68
+Drake............... 31 32  - 63

@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                Illinois-Springfield vs Indiana State (12-16-15)
+VISITORS: Illinois-Springfield (4-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Austin, Davi........ *  3 12   1  3   0  0   1  4  5   1   7  3  4  0  1  26
+11 Cravatta, JJ........ *  2  7   1  4   1  1   1  0  1   2   6  0  0  0  1  24
+22 Freeman, Richard.... *  3  6   0  0   5  6   0  6  6   1  11  0  3  0  1  24
+24 Millison, Jamall.... *  3  9   1  4   1  2   0  0  0   3   8  1  0  0  1  27
+54 Tesmer, Jesse....... *  1  2   0  0   1  2   0  4  4   4   3  0  0  0  0  19
+00 Harmon, Paxton......    2  4   1  3   1  2   1  1  2   2   6  0  1  0  0  14
+01 Todd, Xavier........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   1
+04 Gonce, Logan........    2  4   2  2   1  2   0  0  0   1   7  3  1  0  0  14
+10 Walker, Vince.......    2  6   1  3   2  2   1  3  4   2   7  1  0  0  0  11
+12 Ngwe, Chidiebere....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+15 Amaya, Bahari.......    0  2   0  2   0  0   0  2  2   4   0  1  0  0  0  17
+21 Steinberg, Zach.....    1  5   0  2   0  0   0  0  0   2   2  0  0  0  1  15
+30 Blaydes, Collin.....    1  3   0  0   1  1   0  1  1   0   3  1  1  0  0   7
+TM TEAM................                         2  2  4
+   Totals..............   20 60   7 23  13 18   6 23 29  23  60 10 10  0  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-25  .320    12-35  .343    20-60  .333
+3-Pt. FG%:  4-10  .400     3-13  .231     7-23  .304
+F Throw %:  7-10  .700     6-8   .750    13-18  .722
+Deadball rebounds: 2
+HOME TEAM: Indiana State (4-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Clemons, Everett.... *  3  6   0  1   1  2   1 11 12   0   7  5  1  0  3  27
+01 Smith, Khristian.... *  3  9   0  3   2  3   1  6  7   3   8  4  2  0  1  27
+11 Brown, Devonte...... *  6 13   3  4   5 10   2  8 10   2  20  2  4  0  1  28
+30 Van Scyoc, Matt..... *  8  8   4  4   0  0   2  2  4   4  20  0  2  1  0  24
+41 Rickman, Emondre.... *  0  2   0  0   2  2   3  0  3   0   2  0  1  2  0  14
+04 Scott, Brenton......    2  4   2  3   2  3   0  0  0   3   8  0  0  0  0  19
+12 Bunschoten, Niels...    0  3   0  2   0  0   0  0  0   2   0  1  1  1  0  11
+20 Prusator, Grant.....    0  2   0  2   0  0   0  1  1   0   0  0  0  0  0  10
+22 Burnett, Brandon....    1  2   0  1   1  2   0  3  3   1   3  1  1  0  1  13
+32 Paige, Laquarious...    1  2   0  0   0  0   0  0  0   2   2  1  1  0  0  11
+34 Murphy, Brandon.....    0  2   0  0   5  8   1  2  3   1   5  0  1  1  0  16
+TM Team................                         2  4  6
+   Totals..............   24 53   9 20  18 30  12 37 49  18  75 14 14  5  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-31  .419    11-22  .500    24-53  .453
+3-Pt. FG%:  4-11  .364     5-9   .556     9-20  .450
+F Throw %:  6-9   .667    12-21  .571    18-30  .600
+Deadball rebounds: 6
+Date: 12-16-15      Site: Hulman Center  Attendance: 3110
+Officials: Bo Boroski; Brad Ferrie; K.B. Burdett;
+Technical fouls: Illinois-Springfield-None. Indiana State-None.
+Score by Periods      1  2   Total
+Illinois-Springfield 27 33  - 60
+Indiana State....... 36 39  - 75

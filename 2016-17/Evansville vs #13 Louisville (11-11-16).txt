@@ -1,0 +1,56 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Evansville vs #13 Louisville (11-11-16)
+VISITORS: Evansville (0-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 Wiley, Willie....... f  0  2   0  0   0  2   1  2  3   3   0  0  1  0  1  12
+44 Howard, David....... f  1  3   0  0   0  0   3  4  7   1   2  0  1  0  0  21
+00 Taylor, Ryan........ g  2 14   1  5   0  0   3  2  5   3   5  1  3  1  3  26
+03 Brown, Jaylon....... g  5 13   3  6   6 10   0  1  1   0  19  1  1  0  1  33
+25 Gibson, Duane....... g  1  4   0  0   0  0   0  0  0   0   2  2  1  0  0  24
+02 Benzon, Christian...    2  4   0  0   1  2   2  1  3   3   5  0  0  0  1  18
+04 Eaves, Jaiveon......    0  1   0  1   0  0   0  2  2   1   0  0  2  0  0   9
+05 Hainna, Solomon.....    0  2   0  1   0  0   0  1  1   1   0  0  0  0  0  10
+12 Smith, Dru..........    1  5   0  2   3  3   0  3  3   4   5  2  2  0  1  22
+14 Vucetic, Sergej.....    2  7   0  0   1  2   1  1  2   2   5  0  1  1  0  12
+15 Traore, Dalen.......    2  2   0  0   0  1   0  1  1   0   4  0  0  0  0  13
+TM TEAM................                         1     1             1
+   Totals..............   16 57   4 15  11 20  11 18 29  18  47  6 13  2  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-34  .294     6-23  .261    16-57  .281
+3-Pt. FG%:  4-11  .364     0-4   .000     4-15  .267
+F Throw %:  3-5   .600     8-15  .533    11-20  .550
+Deadball rebounds: 6
+HOME TEAM: #13 Louisville (1-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 JOHNSON, Jaylen..... f  9 11   1  1   0  2   7  7 14   0  19  1  3  3  0  24
+22 ADEL, Deng.......... f  1  8   0  3   4  5   1  4  5   0   6  2  1  0  1  23
+12 MATHIANG, Mangok.... c  4 10   0  0   1  2   4  3  7   2   9  0  1  2  0  20
+04 SNIDER, Quentin..... g  0  1   0  1   3  4   0  2  2   3   3  3  1  0  0  18
+45 MITCHELL, Donovan... g  6 11   2  6   1  2   2  3  5   0  15  3  3  0  4  26
+00 KING, VJ............    0  1   0  1   6  8   0  2  2   1   6  0  0  1  0  14
+01 HICKS, Tony.........    2  5   0  1   0  2   0  2  2   0   4  2  1  0  2  18
+05 STOCKMAN, Matz......    2  3   0  0   0  2   2  0  2   1   4  0  0  0  0   3
+11 HENDERSON, Jay......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+13 SPALDING, Ray.......    1  4   0  1   0  0   1  3  4   5   2  1  1  1  1  15
+14 MAHMOUD, Anas.......    5  5   0  0   0  0   1  4  5   2  10  1  1  3  1  17
+15 SHARPE, Tyler.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+23 LEVITCH, David......    0  2   0  0   0  0   0  3  3   0   0  2  0  0  1  12
+30 McMAHON, Ryan.......    0  2   0  1   0  0   0  0  0   3   0  0  0  0  0   6
+TM TEAM................                         1     1
+   Totals..............   30 63   3 15  15 27  19 33 52  17  78 15 12 10 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-28  .464    17-35  .486    30-63  .476
+3-Pt. FG%:  3-10  .300     0-5   .000     3-15  .200
+F Throw %: 14-19  .737     1-8   .125    15-27  .556
+Deadball rebounds: 8
+Date: 11-11-16      Site: KFC Yum! Center, Louisville, KY  Attendance: 21129
+Officials: Bert Smith; Jerry Heater; Louie Andrakakos;
+Technical fouls: Evansville-None. #13 Louisville-, MATHIANG, Mangok.
+Score by Periods      1  2   Total
+Evansville.......... 27 20  - 47
+#13 Louisville...... 43 35  - 78

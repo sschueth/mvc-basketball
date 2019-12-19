@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Wichita State vs Missouri State (01-13-16)
+VISITORS: Wichita State (11-5 (5-0 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Brown, Zach......... f  2  4   2  4   2  2   2  2  4   3   8  0  1  0  1  12
+24 Morris, Shaquille... f  2  4   0  0   0  2   2  3  5   4   4  1  0  0  1   9
+03 Wessel, Evan........ g  1  2   1  2   0  0   1  0  1   3   3  0  0  0  0   9
+23 VanVleet, Fred...... g  2  9   0  3   0  1   0  3  3   2   4  8  3  0  3  30
+31 Baker, Ron.......... g  6 16   1  7   1  1   0  4  4   2  14  7  1  0  1  28
+00 Kelly, Rashard......    2  5   0  1   0  0   3  1  4   1   4  0  2  0  1  17
+05 Bush, Zach..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+10 Taylor II, Ty.......    0  0   0  0   0  0   0  0  0   1   0  1  1  0  0   3
+14 Simon, John Robert..    0  0   0  0   0  0   0  0  0   1   0  1  1  0  0   3
+15 Grady, Anton........    0  2   0  0   2  5   1  3  4   3   2  0  2  0  0  13
+20 Nurger, Rauno.......    2  4   0  1   0  0   2  1  3   4   4  1  0  3  1  20
+25 Hamilton, Eric......    2  3   1  1   0  0   0  1  1   0   5  0  0  0  0   5
+32 McDuffie, Markis....    8  9   0  1   0  2   3  6  9   2  16  0  0  0  0  23
+33 Frankamp, Conner....    5  9   4  8   0  0   0  4  4   2  14  1  0  0  1  25
+TM Team................                         3  4  7
+   Totals..............   32 67   9 28   5 13  17 32 49  28  78 20 11  3  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-39  .436    15-28  .536    32-67  .478
+3-Pt. FG%:  2-14  .143     7-14  .500     9-28  .321
+F Throw %:  1-5   .200     4-8   .500     5-13  .385
+Deadball rebounds: 4
+HOME TEAM: Missouri State (6-11 (2-3 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  3  5   0  0   3  8   2  4  6   3   9  1  1  1  1  28
+30 Boone,Camyn......... f  1  8   0  0   8 11   3  1  4   0  10  3  0  0  0  26
+04 Miller,Dequon....... g  5 10   3  8   4  4   0  2  2   1  17  0  5  0  2  39
+11 Dixon,Jarred........ g  3 10   1  2   1  2   2  2  4   3   8  2  0  0  2  31
+20 Kreklow, Ryan....... g  2  6   2  4   4  4   0  4  4   1  10  1  2  0  1  36
+01 Thompson,Robin......    0  0   0  0   0  2   0  1  1   1   0  0  0  2  0   7
+25 Martin,Jordan.......    0  1   0  0   0  2   0  1  1   4   0  0  0  1  1  14
+33 Kendrix,Chris.......    1  6   0  4   6  8   0  2  2   1   8  1  1  0  0  17
+50 McCullough, Tyler...    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   2
+TM Team................                         1  4  5             1
+   Totals..............   15 46   6 18  26 41   8 21 29  15  62  8 10  4  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-23  .391     6-23  .261    15-46  .326
+3-Pt. FG%:  4-10  .400     2-8   .250     6-18  .333
+F Throw %: 14-20  .700    12-21  .571    26-41  .634
+Deadball rebounds: 6,1
+Date: 01-13-16      Site: JQH Arena, Springfield, Mo.  Attendance: 7684
+Officials: Mike Stuart; Rick Hartzell; Brad Ferrie;
+Technical fouls: Wichita State-None. Missouri State-None.
+Score by Periods      1  2   Total
+Wichita State....... 37 41  - 78
+Missouri State...... 36 26  - 62

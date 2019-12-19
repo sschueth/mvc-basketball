@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Loyola Chicago vs Southern Illinois (03-03-17)
+VISITORS: Loyola Chicago (18-14; 8-10 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... f  4 11   1  6   2  3   4  8 12   2  11  1  3  2  1  33
+31 Kirby, Maurice...... f  1  4   0  0   0  0   1  4  5   1   2  0  2  0  0  10
+13 Custer, Clayton..... g  3  8   2  5   4  4   0  2  2   5  12  1  4  0  1  35
+14 Richardson, Ben..... g  5 12   5 11   1  2   3  0  3   4  16  2  2  0  1  29
+35 Doyle, Milton....... g  1  9   1  4   2  4   0 10 10   2   5  4  3  1  4  38
+04 Skokna, Bruno.......    0  2   0  2   1  2   0  1  1   2   1  1  0  0  1  18
+23 Satterwhite, Cameron    1  5   1  3   0  0   0  2  2   2   3  0  1  0  1  20
+24 Jackson, Aundre.....    0  3   0  1   0  0   0  2  2   2   0  0  4  1  0  13
+25 Smith, Tyson........    0  1   0  1   0  0   0  0  0   2   0  0  1  0  0   4
+TM TEAM................                         4  3  7
+   Totals..............   15 55  10 33  10 15  12 32 44  22  50  9 20  4  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  6-22  .273     9-33  .273    15-55  .273
+3-Pt. FG%:  4-9   .444     6-24  .250    10-33  .303
+F Throw %:  4-6   .667     6-9   .667    10-15  .667
+Deadball rebounds: 2
+HOME TEAM: Southern Illinois (17-15; 9-9 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+22 Fletcher,Armon...... f  2  6   1  4   1  2   0  5  5   1   6  2  1  2  1  26
+33 O'Brien,Sean........ f  1  8   0  0   0  2   1  8  9   0   2  4  3  1  0  34
+40 Bol,Thik............ f  4  7   0  0   0  0   1  6  7   3   8  0  2  1  0  27
+01 Rodriguez,Mike...... g  5 10   1  2   5  7   0  1  1   4  16  3  3  0  4  29
+13 Lloyd,Sean.......... g  6 11   1  2   1  1   0  3  3   3  14  0  1  0  4  38
+00 Wiley,Jonathan......    0  1   0  0   1  3   1  3  4   3   1  0  2  0  0  16
+05 Vincent,Leo.........    2  5   2  5   0  0   1  3  4   0   6  2  1  0  1  20
+10 Cook,Aaron..........    1  3   0  1   0  0   0  0  0   1   2  1  1  0  1   7
+24 Stradnieks,Rudy.....    0  1   0  0   0  0   0  1  1   1   0  0  0  0  0   3
+TM TEAM................                            1  1
+   Totals..............   21 52   5 14   8 15   4 31 35  16  55 12 14  4 11 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-26  .346    12-26  .462    21-52  .404
+3-Pt. FG%:  2-9   .222     3-5   .600     5-14  .357
+F Throw %:  3-3  1.000     5-12  .417     8-15  .533
+Deadball rebounds: 2
+Date: 03-03-17      Site: Scottrade Center, St. Louis, MO  Attendance: 8648
+Officials: Bert Smith; Steve Olson; Rick Crawford;
+Technical fouls: Loyola Chicago-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+Loyola Chicago...... 20 30  - 50
+Southern Illinois... 23 32  - 55

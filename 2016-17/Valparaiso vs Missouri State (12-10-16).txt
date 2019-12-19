@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Valparaiso vs Missouri State (12-10-16)
+VISITORS: Valparaiso (8-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+25 Alec Peters......... f 10 17   3  6   4  4   5  6 11   2  27  3  5  0  1  34
+14 Jaume Sorolla....... c  2  2   0  0   2  3   3  0  3   4   6  0  0  1  0  28
+02 Tevonn Walker....... g  6 10   4  8   5  6   1  5  6   4  21  0  2  0  2  32
+11 Shane Hammink....... g  6 11   1  3   2  2   0  4  4   5  15  2  6  0  0  29
+15 Lexus Williams...... g  5  9   1  5   1  2   1  4  5   1  12  5  1  1  0  37
+01 Micah Bradford......    0  1   0  1   0  0   0  1  1   2   0  0  1  0  1   8
+21 Derrik Smits........    1  3   0  1   0  0   0  0  0   2   2  0  0  0  0   9
+22 Nick Davidson.......    0  3   0  1   1  2   1  2  3   2   1  6  0  1  0  21
+33 John Kiser..........    0  0   0  0   0  0   0  1  1   0   0  1  0  0  0   2
+TM TEAM................                            1  1
+   Totals..............   30 56   9 25  15 19  11 24 35  22  84 17 15  3  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-24  .542    17-32  .531    30-56  .536
+3-Pt. FG%:  5-12  .417     4-13  .308     9-25  .360
+F Throw %:  7-11  .636     8-8  1.000    15-19  .789
+Deadball rebounds: 2
+HOME TEAM: Missouri State (5-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Martin,Jordan....... f  0  0   0  0   0  0   0  1  1   3   0  0  0  0  0   9
+10 Rhodes,Jarrid....... f  0  2   0  0   0  0   0  0  0   1   0  1  1  0  0  12
+24 Johnson,Alize....... f  9 16   1  2   2  7   4  7 11   2  21  3  1  0  1  36
+04 Miller,Dequon....... g  4  9   1  4   4  5   0  3  3   2  13  2  2  0  1  35
+14 Rousseau III,Ronnie. g  8 13   3  5   2  2   0  3  3   1  21  3  2  0  3  36
+05 Church,Obediah......    3  3   0  0   2  3   0  1  1   2   8  2  1  2  0  22
+11 Dixon,Jarred........    5 10   0  1   3  4   2  2  4   1  13  1  1  0  1  23
+15 Ruder,Austin........    1  5   0  3   0  0   0  0  0   0   2  0  0  0  0   8
+20 Kreklow,Ryan........    1  2   1  1   0  0   1  0  1   1   3  0  0  0  0   8
+33 Kendrix,Chris.......    0  0   0  0   0  0   0  0  0   0   0  0  2  0  0   3
+50 McCullough,Tyler....    0  1   0  0   0  0   1  0  1   3   0  0  1  0  0   8
+TM TEAM................                         2     2
+   Totals..............   31 61   6 16  13 21  10 17 27  16  81 12 11  2  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-33  .485    15-28  .536    31-61  .508
+3-Pt. FG%:  5-10  .500     1-6   .167     6-16  .375
+F Throw %:  6-11  .545     7-10  .700    13-21  .619
+Deadball rebounds: 4
+Date: 12-10-16      Site: JQH Arena, Springfield, Mo.  Attendance: 6147
+Officials: Pat Boeh; Ervin Wilson; Nathan Bemis;
+Technical fouls: Valparaiso-Shane Hammink. Missouri State-None.
+Score by Periods      1  2   Total
+Valparaiso.......... 38 46  - 84
+Missouri State...... 43 38  - 81

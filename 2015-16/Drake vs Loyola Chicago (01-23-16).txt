@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Drake vs Loyola Chicago (01-23-16)
+VISITORS: Drake (5-15, 0-8)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Madison, Karl....... *  0  4   0  1   0  0   1  0  1   2   0  0  4  0  0  19
+03 Woodward, Graham.... *  3  9   3  6   2  3   0  1  1   3  11  5  3  0  0  37
+11 Enevold, Jacob...... *  0  3   0  0   3  4   3  2  5   3   3  1  1  1  0  18
+12 Timmer, Reed........ *  5  9   0  1   1  2   1  4  5   4  11  3  2  0  1  36
+31 Abrahamson, Kale.... *  3  8   3  6   0  0   0  5  5   1   9  2  1  0  0  24
+02 Wampler, Billy......    1  4   1  4   0  0   0  1  1   1   3  0  0  0  0   4
+22 Schlatter, Casey....    3  5   0  0   0  0   2  2  4   2   6  2  1  0  2  16
+23 Arogundade, Ore.....    5 10   2  4   0  1   0  2  2   0  12  0  0  0  1  24
+35 McGlynn, Nick.......    2  4   0  0   1  2   3  3  6   3   5  1  0  1  0  17
+44 Olejniczak, Dominik.    1  1   0  0   1  1   0  1  1   0   3  0  0  1  0   5
+TM Team................                         2  1  3             3
+   Totals..............   23 57   9 22   8 13  12 22 34  19  63 14 15  3  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-28  .357    13-29  .448    23-57  .404
+3-Pt. FG%:  3-10  .300     6-12  .500     9-22  .409
+F Throw %:  3-5   .600     5-8   .625     8-13  .615
+Deadball rebounds: 2
+HOME TEAM: Loyola Chicago (9-11, 2-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... *  3  5   3  4   0  0   0  4  4   1   9  0  0  0  0  17
+02 Peterson, Earl...... *  3  5   1  2   0  2   2  4  6   1   7  3  2  0  0  31
+12 Rajala, Julius...... *  0  1   0  0   0  0   0  1  1   2   0  0  0  0  0   8
+14 Richardson, Ben..... *  2  6   1  4   2  2   1  0  1   3   7  3  0  0  1  31
+25 Smith, Tyson........ *  2  7   1  2   2  2   0  1  1   2   7  1  0  0  0  24
+04 Turk, Devon.........    0  2   0  1   0  0   0  1  1   0   0  0  1  0  0   5
+23 White, Jeff.........    2  3   0  1   0  0   0  2  2   1   4  3  2  0  1  24
+24 James, Montel.......    5  8   1  1   6  8   1  3  4   2  17  0  2  0  1  25
+31 Kirby, Maurice......    2  2   0  0   0  0   0  1  1   2   4  0  0  1  0   6
+35 Doyle, Milton.......    4  8   0  2   5  5   0  4  4   2  13  3  6  2  1  29
+TM Team................                            4  4
+   Totals..............   23 47   7 17  15 19   4 25 29  16  68 13 13  3  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-23  .522    11-24  .458    23-47  .489
+3-Pt. FG%:  2-9   .222     5-8   .625     7-17  .412
+F Throw %:  3-3  1.000    12-16  .750    15-19  .789
+Deadball rebounds: 2
+Date: 01-23-16      Site: Gentile Arena - Chicago, Ill.  Attendance: 2925
+Officials: Tom O'Neill; Randy Heimerman; KB Burdett;
+Technical fouls: Drake-None. Loyola Chicago-None.
+Score by Periods      1  2   Total
+Drake............... 26 37  - 63
+Loyola Chicago...... 29 39  - 68

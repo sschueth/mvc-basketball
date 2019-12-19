@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    New Mexico vs Illinois State (12-03-16)
+VISITORS: New Mexico (5-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+20 LOGWOOD, Sam........ f  1  3   1  1   2  2   1  3  4   0   5  2  2  0  0  21
+23 FURSTINGER, Joe..... f  3  4   0  0   3  5   4  7 11   2   9  0  2  2  1  28
+11 AGET, Obij.......... c  3  5   0  0   0  0   2  2  4   1   6  0  0  0  0  20
+03 HUNTER, Jordan...... g  2  8   0  2   2  2   0  2  2   5   6  7  2  0  1  27
+04 BROWN, Elijah....... g  6 17   3 11   6  6   0  5  5   2  21  4  4  0  3  30
+05 HARRIS, Jalen.......    1  2   0  0   1  2   0  2  2   1   3  0  0  0  3  13
+14 KUIPER, Dane........    3  5   0  1   0  0   0  0  0   0   6  0  0  0  0  14
+21 ADAMS, Xavier.......    1  4   0  1   0  0   0  2  2   4   2  0  0  0  0  15
+24 JEFFERSON, Damien...    4  6   0  1   4  4   1  3  4   2  12  0  4  0  0  17
+55 MACDOUGALL, Connor..    2  3   0  0   0  0   2  0  2   0   4  0  0  0  0  15
+TM TEAM................                            3  3
+   Totals..............   26 57   4 17  18 21  10 29 39  17  74 13 14  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-28  .571    10-29  .345    26-57  .456
+3-Pt. FG%:  3-7   .429     1-10  .100     4-17  .235
+F Throw %: 10-12  .833     8-9   .889    18-21  .857
+Deadball rebounds: 1
+HOME TEAM: Illinois State (4-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne,Phil.......... f  2  4   0  0   2  3   3  7 10   0   6  1  1  1  1  35
+11 McIntosh,MiKyle..... f  2  8   1  2   4  5   2  2  4   3   9  0  1  0  2  32
+23 Hawkins,Deontae..... f  5 14   2  8   2  4   1  6  7   1  14  0  3  1  1  31
+01 Lee,Paris........... g  5 11   3  7   5  6   0  5  5   2  18 11  2  0  2  33
+02 Clayton,DJ.......... g  3  5   1  2   0  1   2  0  2   4   7  1  2  0  0  20
+03 Evans,Keyshawn......    4 10   4 10   0  0   0  0  0   1  12  0  1  0  0  18
+12 Wills,Tony..........    2  3   2  3   0  0   1  1  2   5   6  2  1  0  0  14
+25 Williams,Madison....    3  6   1  3   0  1   0  1  1   2   7  2  0  0  2  17
+TM TEAM................                            1  1             1
+   Totals..............   26 61  14 35  13 20   9 23 32  18  79 17 12  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-32  .469    11-29  .379    26-61  .426
+3-Pt. FG%: 10-20  .500     4-15  .267    14-35  .400
+F Throw %:  2-6   .333    11-14  .786    13-20  .650
+Deadball rebounds: 4
+Date: 12-03-16      Site: Doug Collins Court at Redbird Arena  Attendance: 6056
+Officials: Tom O'Neill; Bob Staffen; Brad Ferrie;
+Technical fouls: New Mexico-, TEAM. Illinois State-None.
+Score by Periods      1  2   Total
+New Mexico.......... 45 29  - 74
+Illinois State...... 42 37  - 79

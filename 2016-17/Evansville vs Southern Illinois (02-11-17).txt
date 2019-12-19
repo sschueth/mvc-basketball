@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Evansville vs Southern Illinois (02-11-17)
+VISITORS: Evansville (13-14, (4-10))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+44 Howard, David....... f  5  7   0  0   2  2   0  7  7   1  12  2  0  0  0  36
+00 Taylor, Ryan........ g  5  8   2  3   1  1   0  3  3   4  13  1  1  0  1  23
+02 Benzon, Christian... g  3  5   1  1   2  3   1  4  5   2   9  1  0  0  0  32
+03 Brown, Jaylon....... g  4 13   0  2   6  8   0  4  4   4  14  2  6  1  0  36
+25 Gibson, Duane....... g 10 15   0  0   7  9   4  6 10   2  27  4  4  1  0  35
+05 Hainna, Solomon.....    0  1   0  0   0  2   0  2  2   2   0  0  1  0  0  10
+12 Smith, Dru..........    0  1   0  0   0  0   0  1  1   5   0  2  1  0  1  24
+23 Wiley, Willie.......    0  0   0  0   0  0   0  0  0   1   0  0  1  0  0   4
+TM TEAM................                         1  3  4             1
+   Totals..............   27 50   3  6  18 25   6 30 36  21  75 12 15  2  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-24  .583    13-26  .500    27-50  .540
+3-Pt. FG%:  2-3   .667     1-3   .333     3-6   .500
+F Throw %:  6-7   .857    12-18  .667    18-25  .720
+Deadball rebounds: 4
+HOME TEAM: Southern Illinois (14-13, (7-7))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 O'Brien,Sean........ f  8 11   0  1   2  5   2 11 13   4  18  2  3  0  1  38
+40 Bol,Thik............ f  1  7   0  0   2  4   3  3  6   1   4  1  1  1  0  29
+01 Rodriguez,Mike...... g  4  9   0  1   0  0   0  1  1   4   8  0  1  0  0  25
+13 Lloyd,Sean.......... g  0  6   0  2   0  0   1  1  2   4   0  1  2  0  0  20
+22 Fletcher,Armon...... g  0  4   0  2   3  4   2  0  2   4   3  2  1  0  3  30
+00 Wiley,Jonathan......    1  2   0  0   1  2   0  1  1   1   3  0  0  0  1   7
+02 Cook,Chrishawn......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+05 Vincent,Leo.........    6 13   5  9   4  4   0  1  1   2  21  2  1  0  1  29
+10 Cook,Aaron..........    3  5   1  2   4  4   0  0  0   1  11  3  1  0  3  17
+24 Stradnieks,Rudy.....    1  3   0  0   0  0   1  0  1   0   2  0  0  0  0   5
+TM TEAM................                         1  2  3             1
+   Totals..............   24 60   6 17  16 23  10 20 30  21  70 11 11  1  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-29  .310    15-31  .484    24-60  .400
+3-Pt. FG%:  2-8   .250     4-9   .444     6-17  .353
+F Throw %:  6-8   .750    10-15  .667    16-23  .696
+Deadball rebounds: 3
+Date: 02-11-17      Site: Carbondale, IL SIU Arena  Attendance: 5490
+Officials: Terry Davis; James Durham; Jeff Campbell;
+Technical fouls: Evansville-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+Evansville.......... 36 39  - 75
+Southern Illinois... 26 44  - 70

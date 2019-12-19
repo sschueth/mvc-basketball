@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   SE Missouri State vs Evansville (11-15-15)
+VISITORS: SE Missouri State (0-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 ANGUS III, Joel..... f  6 12   0  0   6  9   0  7  7   4  18  2  1  1  3  35
+02 JONES, Isiah........ g  3 10   1  4   0  2   0  2  2   4   7  2  0  0  1  24
+03 McGILL, Eric........ g  1  1   1  1   0  0   0  1  1   2   3  2  1  0  1  35
+04 CLEVELAND, Antonius. g  6 13   0  2   2  5   3  0  3   3  14  6  3  1  1  32
+33 JONES, J.T.......... g  4  9   2  4   0  0   0  6  6   3  10  1  1  0  1  22
+00 STEWART, Jaylin.....    1  1   1  1   0  0   0  2  2   2   3  0  0  0  0   5
+01 ANDERSON, Tony......    3  7   0  1   1  4   0  0  0   2   7  0  1  0  0  18
+10 DOSIER, Robby.......    0  0   0  0   0  0   0  1  1   1   0  0  0  0  0   8
+11 WALLACE, Marcus.....    1  6   0  1   1  2   0  1  1   4   3  1  1  0  0  18
+21 GULLETT, Kyle.......    0  0   0  0   0  0   0  0  0   2   0  0  1  0  0   3
+TM TEAM................                         3  4  7             1
+   Totals..............   25 59   5 14  10 22   6 24 30  27  65 14 10  2  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-28  .464    12-31  .387    25-59  .424
+3-Pt. FG%:  3-7   .429     2-7   .286     5-14  .357
+F Throw %:  7-13  .538     3-9   .333    10-22  .455
+Deadball rebounds: 3
+HOME TEAM: Evansville (1-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 Simmons, Blake...... f  3  7   0  3   0  0   0  7  7   3   6  1  3  0  0  30
+55 Mockevicius,Egidijus c  7 11   0  0   4  5   4 10 14   3  18  0  2  6  1  32
+03 Brown, Jaylon....... g  2  5   0  2   0  0   1  1  2   1   4  4  2  1  0  32
+12 Wing, Adam.......... g  1  3   0  0   2  2   0  2  2   5   4  2  2  0  1  17
+31 Balentine, D.J...... g  4 14   2  6  10 12   1  0  1   2  20  6  4  2  0  39
+02 Benzon, Christian...    0  0   0  0   0  0   0  1  1   2   0  0  0  0  0   2
+10 Brzoja, Mislav......    3  7   1  3   9 10   1 11 12   2  16  4  0  0  0  26
+13 Brown, Harris.......    1  1   1  1   0  0   0  0  0   2   3  0  1  0  0  13
+23 Wiley, Willie.......    1  3   0  0   0  0   0  2  2   0   2  0  0  0  0   4
+44 Howard, David.......    2  3   0  0   3  5   1  0  1   3   7  0  0  0  0   5
+TM Team................                         2  3  5
+   Totals..............   24 54   4 15  28 34  10 37 47  23  80 17 14  9  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-25  .480    12-29  .414    24-54  .444
+3-Pt. FG%:  3-8   .375     1-7   .143     4-15  .267
+F Throw %: 17-20  .850    11-14  .786    28-34  .824
+Deadball rebounds: 2
+Date: 11-15-15      Site: Ford Center, Evansville, Ind.  Attendance: 3893
+Officials: Don Daily; Randy Heimerman; Brad Ferrie;
+Technical fouls: SE Missouri State-None. Evansville-None.
+Score by Periods      1  2   Total
+SE Missouri State... 36 29  - 65
+Evansville.......... 44 36  - 80

@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Northern Iowa vs New Mexico (12-12-15)
+VISITORS: Northern Iowa (6-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+25 Koch, Bennett....... f  1  3   0  0   1  2   0  2  2   1   3  0  2  0  0  26
+04 Jesperson, Paul..... g  4 10   2  8   1  2   1  5  6   5  11  1  0  1  0  32
+05 Bohannon, Matt...... g  4 10   1  6   0  0   0  6  6   2   9  1  2  0  1  37
+11 Washpun, Wes........ g  4  8   0  2   2  4   0  1  1   4  10  5  5  1  2  34
+20 Morgan, Jeremy...... g  4  6   1  2   0  0   3  4  7   5   9  4  0  1  2  28
+01 Austin, Aarias......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+02 Carlson, Klint......    0  3   0  0   3  4   2  0  2   1   3  0  1  0  0   9
+03 Friedman, Ted.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   6
+33 Lohaus, Wyatt.......    5 10   2  7   0  0   0  0  0   1  12  1  4  0  1  27
+TM Team................                            1  1             1
+   Totals..............   22 50   6 25   7 12   6 19 25  19  57 12 15  3  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-24  .417    12-26  .462    22-50  .440
+3-Pt. FG%:  3-12  .250     3-13  .231     6-25  .240
+F Throw %:  4-5   .800     3-7   .429     7-12  .583
+Deadball rebounds: 1,1
+HOME TEAM: New Mexico (6-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+20 LOGWOOD, Sam........ f  2  3   1  1   1  3   3  4  7   3   6  1  3  0  0  22
+32 WILLIAMS, Tim....... f  6 11   0  0   7  9   0  6  6   1  19  2  3  1  0  35
+11 AGET, Obij.......... c  3  4   0  0   2  3   2  2  4   4   8  0  1  0  0  26
+01 NEAL, Cullen........ g  1 11   0  5   0  1   0  2  2   1   2  5  2  0  0  32
+04 BROWN, Elijah....... g  9 15   2  6   5  6   0  7  7   2  25  2  1  0  1  38
+03 HUNTER, Jordan......    2  3   2  3   0  0   0  2  2   1   6  1  1  0  0  15
+21 ADAMS, Xavier.......    1  2   0  0   0  0   2  1  3   1   2  2  1  0  0  16
+23 FURSTINGER, Joe.....    2  3   0  0   1  1   1  0  1   2   5  0  0  0  1   9
+25 JACOBS, Tim.........    0  1   0  0   0  0   0  0  0   0   0  2  0  0  0   5
+31 MATHIS, Anthony.....    1  1   1  1   0  0   0  0  0   1   3  0  0  0  0   2
+33 SCEKIC, Nikola......    0  0   0  0   0  0   0  0  0   0   0  0  0  1  0  0+
+TM TEAM................                         2  2  4             1
+   Totals..............   27 54   6 16  16 23  10 26 36  16  76 15 13  2  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-26  .500    14-28  .500    27-54  .500
+3-Pt. FG%:  3-7   .429     3-9   .333     6-16  .375
+F Throw %:  6-10  .600    10-13  .769    16-23  .696
+Deadball rebounds: 4
+Date: 12-12-15      Site: Albuquerque, N.M.  Attendance: 13154
+Officials: Shawn Lehigh; Winston Stith; Rob Kruger;
+Technical fouls: Northern Iowa-Morgan, Jeremy. New Mexico-None.
+Score by Periods      1  2   Total
+Northern Iowa....... 27 30  - 57
+New Mexico.......... 35 41  - 76

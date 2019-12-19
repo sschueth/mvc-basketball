@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Loyola Chicago vs Oral Roberts (11-19-16)
+VISITORS: Loyola Chicago (4-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... f  4  6   1  2   0  0   0  5  5   3   9  2  1  0  2  28
+31 Kirby, Maurice...... f  1  3   0  0   0  0   0  2  2   2   2  1  0  1  1  14
+13 Custer, Clayton..... g  5  9   2  3   0  0   0  5  5   3  12  2  1  0  0  30
+14 Richardson, Ben..... g  5  8   2  4   0  2   0  1  1   3  12  3  0  0  3  22
+35 Doyle, Milton....... g  5  8   3  3   1  2   1  5  6   1  14  8  3  0  2  28
+01 Lisha, Glorind......    0  1   0  1   2  2   0  0  0   0   2  0  0  0  0   3
+02 Baughman, Jake......    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+04 Skokna, Bruno.......    1  4   1  3   1  2   0  2  2   0   4  2  3  0  0  19
+23 Satterwhite, Cameron    3  6   1  3   0  0   0  1  1   1   7  1  1  1  1  19
+24 Jackson, Aundre.....    6  7   0  0   1  1   0  4  4   0  13  0  1  0  2  18
+25 Smith, Tyson........    0  1   0  1   0  0   0  1  1   1   0  0  0  0  1   3
+30 Burt, Byron.........    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   3
+32 Granic, Vlatko......    1  3   1  3   0  2   0  3  3   1   3  1  0  0  0  10
+TM TEAM................                         2  1  3
+   Totals..............   31 57  11 23   5 11   3 30 33  15  78 20 11  2 12 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-28  .607    14-29  .483    31-57  .544
+3-Pt. FG%:  4-8   .500     7-15  .467    11-23  .478
+F Throw %:  2-5   .400     3-6   .500     5-11  .455
+Deadball rebounds: 3,1
+HOME TEAM: Oral Roberts (1-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 NZEKWESI, Emmanuel.. f  1  9   1  3   0  0   1  8  9   3   3  1  3  3  1  28
+44 OWENS, Albert....... f  3  7   0  1   2  2   1  4  5   0   8  0  1  0  0  22
+00 YOUNG, Aaron........ g  0  3   0  1   2  2   0  2  2   1   2  2  1  0  0  23
+01 MARTIN, Kris........ g  5 10   2  6   0  0   1  1  2   1  12  0  2  0  0  30
+10 BRADLEY, Jalen...... g  3  7   1  3   0  0   0  2  2   0   7  0  3  0  0  26
+03 HARRIS, Jontray.....    3  4   1  2   0  0   1  2  3   0   7  1  0  0  0  18
+30 McDANIEL, Dezmond...    0  3   0  1   0  0   0  1  1   0   0  2  0  0  0  17
+33 HARRIS, Darian......    2  4   1  3   0  0   0  1  1   3   5  2  4  1  0  15
+52 MILLER, Chris.......    3  9   0  0   3  6   1  4  5   3   9  0  4  0  0  21
+TM TEAM................                         3  1  4
+   Totals..............   20 56   6 20   7 10   8 26 34  11  53  8 18  4  1 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-30  .367     9-26  .346    20-56  .357
+3-Pt. FG%:  4-11  .364     2-9   .222     6-20  .300
+F Throw %:  2-2  1.000     5-8   .625     7-10  .700
+Deadball rebounds: 0
+Date: 11-19-16      Site: St. Thomas, U.S. Virgin Islands  Attendance: 0
+Officials: Tony Crisp; Dennis Alloco; Guy Pagano;
+Technical fouls: Loyola Chicago-None. Oral Roberts-None.
+Score by Periods      1  2   Total
+Loyola Chicago...... 40 38  - 78
+Oral Roberts........ 28 25  - 53

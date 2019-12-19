@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                            UMKC vs Drake (11-21-15)
+VISITORS: UMKC (2-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 Boyd,LaVell......... f  6 15   4  8   0  0   0  3  3   0  16  2  0  0  1  38
+22 Shayok,Shayok....... f  2  4   0  0   0  3   2  6  8   3   4  0  1  0  2  24
+54 Tillman,Darnell..... c  0  0   0  0   0  0   0  0  0   3   0  0  1  1  0   7
+12 Harrison,Martez..... g  4 11   0  3   5  8   2  4  6   4  13  4  3  0  1  27
+23 Austin,Darius....... g  3  7   0  1   4  4   2  2  4   1  10  4  1  1  2  31
+01 King,Dashawn........    5  8   1  2   3  4   1  2  3   1  14  0  2  0  1  14
+02 Eriobuna,Ikem.......    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   3
+03 Steward,Kyle........    2  3   1  1   0  0   0  1  1   2   5  1  1  0  1  13
+21 Smith,Thaddeus......    2  3   0  0   0  0   1  0  1   4   4  0  1  2  0   9
+25 Newbill,Broderick...    3  3   0  0   2  2   1  3  4   1   8  0  0  1  0  19
+30 Leek,Aleer..........    2  3   1  1   0  0   0  0  0   3   5  1  0  1  0  15
+TM TEAM................                         3  1  4
+   Totals..............   29 57   7 16  14 21  12 22 34  22  79 12 11  6  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-25  .520    16-32  .500    29-57  .509
+3-Pt. FG%:  2-7   .286     5-9   .556     7-16  .438
+F Throw %:  9-10  .900     5-11  .455    14-21  .667
+Deadball rebounds: 4,1
+HOME TEAM: Drake (1-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+31 Abrahamson, Kale.... f  5 13   1  7   7  9   0  2  2   3  18  2  1  1  0  30
+11 Enevold, Jacob...... c  0  0   0  0   2  4   4  3  7   2   2  0  0  0  0  12
+00 Rivers, C.J......... g  2  3   0  0   0  0   1  4  5   3   4  0  3  0  1  27
+03 Woodward, Graham.... g  5 12   2  4   2  4   0  1  1   4  14  2  1  0  0  29
+12 Timmer, Reed........ g  7 11   3  4   6  6   0  3  3   2  23  4  5  0  0  34
+01 Madison, Karl.......    0  0   0  0   0  0   0  1  1   2   0  2  2  0  0  11
+02 Wampler, Billy......    1  2   1  2   0  0   0  0  0   1   3  1  0  0  0   6
+22 Schlatter, Casey....    1  3   0  0   0  0   1  0  1   0   2  0  2  0  0   8
+23 Arogundade, Ore.....    0  2   0  0   0  0   0  0  0   1   0  1  1  0  0  15
+44 Olejniczak, Dominik.    2  5   0  0   3  3   1  5  6   3   7  0  0  2  0  28
+TM Team................                         2     2
+   Totals..............   23 51   7 17  20 26   9 19 28  21  73 12 15  3  1 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-29  .517     8-22  .364    23-51  .451
+3-Pt. FG%:  3-8   .375     4-9   .444     7-17  .412
+F Throw %:  8-9   .889    12-17  .706    20-26  .769
+Deadball rebounds: 2
+Date: 11-21-15      Site: Des Moines, Iowa (Knapp Center)  Attendance: 2862
+Officials: Paul Janssen; Randy Heimerman; David Stevens;
+Technical fouls: UMKC-None. Drake-None.
+Score by Periods      1  2   Total
+UMKC................ 37 42  - 79
+Drake............... 41 32  - 73

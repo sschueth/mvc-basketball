@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                         Ole Miss vs Bradley (11-28-15)
+VISITORS: Ole Miss (5-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 Saiz,Sebastian...... f  7 11   0  0   4  8   4  5  9   4  18  2  2  0  3  34
+12 Gielo,Tomasz........ f  2  9   1  5   0  0   3  4  7   3   5  1  4  0  0  19
+01 Newby,Martavious.... g  2  3   0  0   2  2   3  2  5   2   6  2  2  1  2  31
+14 Brooks,Rasheed...... g  2  5   1  4   0  0   1  3  4   4   5  0  1  1  3  30
+42 Moody,Stefan........ g  7 21   2  6   5  6   2  3  5   1  21  5  2  0  2  36
+02 Escobar,J.T.........    0  0   0  0   0  0   0  0  0   0   0  1  1  0  0   4
+03 Davis,Terence.......    0  1   0  0   0  0   0  0  0   2   0  0  1  0  0   4
+05 Hymon,Marcanvis.....    1  3   0  0   1  2   2  2  4   0   3  1  2  3  2  23
+10 Finley,Sam..........    3  6   0  1   3  4   0  1  1   2   9  0  2  0  0  18
+30 Coddington,Jake.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                         2  1  3             1
+   Totals..............   24 59   4 16  15 22  17 21 38  18  67 12 18  5 12 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-30  .400    12-29  .414    24-59  .407
+3-Pt. FG%:  2-6   .333     2-10  .200     4-16  .250
+F Throw %:  7-12  .583     8-10  .800    15-22  .682
+Deadball rebounds: 3
+HOME TEAM: Bradley (1-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  7 13   2  6   6  7   1  3  4   3  22  1  1  1  1  29
+30 Barker, Callum...... f  2  3   0  1   1  2   1  2  3   4   5  0  3  0  1  27
+00 Bell, Ka'Darryl..... g  1  3   1  2   0  1   0  2  2   2   3  0  4  0  1  22
+03 Pittman, Antoine.... g  3  7   1  2   0  0   2  1  3   3   7  1  2  0  1  17
+23 Lautier-Ogunleye, D. g  1  3   1  1   2  3   0  5  5   2   5  2  5  1  2  31
+04 Okafor, Joel........    1  1   0  0   0  0   1  1  2   3   2  0  3  0  0  12
+05 Cooper, Davante.....    0  1   0  0   0  0   0  1  1   1   0  0  2  0  0   5
+13 van Bree, Luuk......    0  2   0  1   0  0   0  2  2   2   0  1  1  0  2  13
+22 Suggs, Ronnie.......    2  9   0  4   1  3   1  1  2   2   5  4  2  0  1  32
+24 James, Scottie......    2  5   1  2   0  0   1  1  2   0   5  1  2  0  1  12
+TM Team................                         2  3  5
+   Totals..............   19 47   6 19  10 16   9 22 31  22  54 10 25  2 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-21  .571     7-26  .269    19-47  .404
+3-Pt. FG%:  3-6   .500     3-13  .231     6-19  .316
+F Throw %:  2-5   .400     8-11  .727    10-16  .625
+Deadball rebounds: 4
+Date: 11-28-15      Site: Peoria, IL - Carver Arena  Attendance: 5603
+Officials: Tom Eades; Dwayne Gladden; John Hampton;
+Technical fouls: Ole Miss-None. Bradley-None.
+Score by Periods      1  2   Total
+Ole Miss............ 33 34  - 67
+Bradley............. 29 25  - 54

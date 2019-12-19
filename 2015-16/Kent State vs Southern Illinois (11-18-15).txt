@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Kent State vs Southern Illinois (11-18-15)
+VISITORS: Kent State (1-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 Jones,Marvin........ *  1  3   1  3   1  2   1  1  2   3   4  0  0  2  0  16
+04 Ortiz,Chris......... *  2  7   1  4   2  5   5  1  6   4   7  0  2  0  0  25
+05 Thomas,Kellon....... *  5 14   2  7   5  8   0  1  1   3  17  1  3  0  2  33
+15 Cancer,Galal........ *  3  7   0  1   0  2   5  3  8   3   6  1  0  0  0  24
+21 Spicer,Khaliq....... *  4  5   0  0   2  5   2  5  7   2  10  0  2  1  0  23
+00 Avery,Jalen.........    0  0   0  0   0  0   0  0  0   3   0  3  0  0  0   5
+01 Pollard,Xavier......    2 10   0  2   1  2   0  2  2   1   5  2  0  0  1  20
+23 Walker,Jaylin.......    2  5   2  5   0  0   1  1  2   2   6  0  1  0  0  11
+30 Edwin,Deon..........    1  1   1  1   0  2   0  3  3   2   3  1  2  0  0  10
+32 Davis,Raasean.......    0  0   0  0   0  1   1  1  2   0   0  0  1  0  0   2
+35 Hall,Jimmy..........    3  7   0  1   5  9   3  3  6   2  11  2  3  0  1  31
+TM Team................                         2  2  4
+   Totals..............   23 59   7 24  16 36  20 23 43  25  69 10 14  3  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-30  .300    14-29  .483    23-59  .390
+3-Pt. FG%:  4-15  .267     3-9   .333     7-24  .292
+F Throw %:  7-14  .500     9-22  .409    16-36  .444
+Deadball rebounds: 9
+HOME TEAM: Southern Illinois (3-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 Olaniyan,Bola....... f  3  4   0  0   1  2   1  1  2   5   7  0  1  0  0  14
+33 O'Brien,Sean........ f  1  4   0  2   4  4   1  3  4   5   6  0  3  0  0  23
+01 Rodriguez,Mike...... g  4  8   1  4   2  5   0  4  4   4  11  3  0  0  0  35
+11 Smithpeters,Tyler... g  2  5   2  3   4  4   0  3  3   4  10  2  1  0  0  24
+25 Beane,Anthony....... g  9 17   2  4  12 13   2  6  8   3  32  3  2  0  1  39
+02 Postell, Jeremy.....    0  0   0  0   0  0   0  0  0   2   0  0  0  0  0   1
+05 Vincent,Leo.........    0  1   0  1   0  0   0  2  2   0   0  0  2  0  1   7
+10 Djimde,Ibby.........    2  3   0  0   0  0   1  2  3   2   4  1  3  0  0  18
+15 Weiher,Austin.......    1  3   0  1   0  1   0  0  0   2   2  0  1  0  0  17
+22 Fletcher,Armon......    0  0   0  0   0  1   0  2  2   1   0  2  0  0  1  19
+24 Stradnieks,Rudy.....    0  0   0  0   0  0   0  1  1   1   0  0  0  0  0   3
+32 Leek,Deng...........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+TM Team................                            3  3
+   Totals..............   22 45   5 15  23 30   5 27 32  29  72 11 13  0  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-22  .500    11-23  .478    22-45  .489
+3-Pt. FG%:  3-8   .375     2-7   .286     5-15  .333
+F Throw %:  9-12  .750    14-18  .778    23-30  .767
+Deadball rebounds: 2
+Date: 11-18-15      Site: Carbondale, Ill.  Attendance: 4362
+Officials: Tom Eades; Don Daily; Terry Oglesby;
+Technical fouls: Kent State-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+Kent State.......... 29 40  - 69
+Southern Illinois... 34 38  - 72

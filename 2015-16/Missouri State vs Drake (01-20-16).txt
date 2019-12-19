@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Missouri State vs Drake (01-20-16)
+VISITORS: Missouri State (8-11 (4-3 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  2  3   0  0   0  0   1  7  8   4   4  0  2  1  1  30
+30 Boone,Camyn......... f  3  8   0  0   3  3   1  3  4   1   9  0  0  0  0  16
+04 Miller,Dequon....... g  6 13   4  6   7  7   0  3  3   0  23  3  3  0  0  39
+11 Dixon,Jarred........ g  5 12   0  1   2  4   1  1  2   3  12  2  2  0  1  33
+20 Kreklow, Ryan....... g  0  1   0  1   2  2   0  1  1   3   2  0  2  0  0  13
+01 Thompson,Robin......    2  2   0  0   0  0   0  1  1   4   4  0  2  0  2  10
+23 Williams,Dorrian....    5  7   0  1   1  2   1  5  6   2  11  5  1  0  2  31
+25 Martin,Jordan.......    0  1   0  0   0  0   0  0  0   1   0  0  1  0  0   3
+33 Kendrix,Chris.......    4 10   1  4   5  6   2  7  9   3  14  1  1  0  0  21
+50 McCullough, Tyler...    0  1   0  0   0  0   1  0  1   2   0  0  1  1  0   4
+TM Team................                         2  2  4
+   Totals..............   27 58   5 13  20 24   9 30 39  23  79 11 15  2  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-27  .333    18-31  .581    27-58  .466
+3-Pt. FG%:  2-8   .250     3-5   .600     5-13  .385
+F Throw %:  9-10  .900    11-14  .786    20-24  .833
+Deadball rebounds: 2,1
+HOME TEAM: Drake (5-14 (0-7 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+22 Schlatter, Casey.... f  1  2   0  0   0  0   0  0  0   1   2  0  1  0  0  13
+11 Enevold, Jacob...... c  0  3   0  0   0  0   1  5  6   4   0  0  0  0  0  20
+01 Madison, Karl....... g  1  4   1  3   0  1   0  3  3   3   3  8  1  0  2  35
+03 Woodward, Graham.... g  2  6   0  2   2  2   0  1  1   2   6  1  1  0  0  19
+12 Timmer, Reed........ g  7 14   2  4   5  5   1  2  3   0  21  2  5  0  4  32
+02 Wampler, Billy......    1  6   1  5   0  0   0  1  1   2   3  0  0  0  0  11
+23 Arogundade, Ore.....    3  8   1  2   5  6   1  3  4   3  12  0  0  0  1  24
+31 Abrahamson, Kale....    3  8   1  4   0  1   3  4  7   3   7  0  3  0  0  27
+35 McGlynn, Nick.......    1  2   0  0   0  0   1  2  3   0   2  0  0  1  0   3
+44 Olejniczak, Dominik.    6  8   0  0   2  3   2  3  5   3  14  0  1  0  1  16
+   Totals..............   25 61   6 20  14 18   9 24 33  21  70 11 12  1  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-32  .469    10-29  .345    25-61  .410
+3-Pt. FG%:  6-13  .462     0-7   .000     6-20  .300
+F Throw %:  3-4   .750    11-14  .786    14-18  .778
+Deadball rebounds: 0
+Date: 01-20-16      Site: Des Moines, Iowa (Knapp Center)  Attendance: 2561
+Officials: David Hall; Zelton Steed; Brad Ferrie;
+Technical fouls: Missouri State-None. Drake-None.
+Score by Periods      1  2   Total
+Missouri State...... 29 50  - 79
+Drake............... 39 31  - 70

@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Southern Illinois vs #11 Louisville (12-07-16)
+VISITORS: Southern Illinois (5-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 O'Brien,Sean........ f  6 10   2  5   1  2   1 10 11   5  15  2  2  1  0  34
+40 Bol,Thik............ f  3  7   0  0   0  1   1  0  1   3   6  0  0  0  1  20
+01 Rodriguez,Mike...... g  5  9   1  2   4  5   0  2  2   2  15  4  3  0  0  35
+05 Vincent,Leo......... g  1  7   1  6   0  0   0  0  0   1   3  1  6  0  0  26
+22 Fletcher,Armon...... g  3 13   1  8   1  1   2  6  8   2   8  1  1  1  5  33
+00 Wiley,Jonathan......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   1
+10 Cook,Aaron..........    0  1   0  0   2  2   0  4  4   2   2  0  0  0  0  12
+13 Lloyd,Sean..........    0  1   0  0   0  0   0  0  0   2   0  0  2  1  1  13
+15 Weiher,Austin.......    0  2   0  2   0  0   1  1  2   0   0  0  1  0  0  10
+23 Cherestal,Bernard...    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+24 Stradnieks,Rudy.....    1  4   0  1   0  0   0  2  2   2   2  0  1  0  0  16
+TM TEAM................                            1  1             1
+   Totals..............   19 54   5 24   8 11   5 26 31  20  51  8 17  3  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-29  .379     8-25  .320    19-54  .352
+3-Pt. FG%:  4-15  .267     1-9   .111     5-24  .208
+F Throw %:  0-0   .000     8-11  .727     8-11  .727
+Deadball rebounds: 2
+HOME TEAM: #11 Louisville (8-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 JOHNSON, Jaylen..... f  3  4   0  0   3  7   5  5 10   2   9  0  3  6  1  25
+22 ADEL, Deng.......... f  6 12   0  2   0  1   2 10 12   2  12  2  1  0  0  26
+12 MATHIANG, Mangok.... c  6  9   0  0   3  4   2  4  6   1  15  0  1  1  0  22
+04 SNIDER, Quentin..... g  2  8   2  4   3  4   0  1  1   0   9  4  0  0  0  23
+45 MITCHELL, Donovan... g  2  8   1  5   2  4   0  3  3   0   7  3  1  1  2  26
+00 KING, VJ............    1  2   1  1   0  0   0  3  3   1   3  0  0  0  0  14
+01 HICKS, Tony.........    0  3   0  1   2  2   0  0  0   1   2  2  2  0  2  14
+05 STOCKMAN, Matz......    3  4   0  0   1  2   2  0  2   2   7  1  3  1  1  16
+13 SPALDING, Ray.......    3  3   0  0   2  2   1  3  4   1   8  0  1  0  2  17
+15 SHARPE, Tyler.......    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   1
+23 LEVITCH, David......    1  2   0  0   0  0   0  0  0   3   2  0  0  0  0   6
+30 McMAHON, Ryan.......    0  3   0  3   0  0   0  0  0   1   0  1  0  0  0  10
+TM TEAM................                         1  1  2
+   Totals..............   27 59   4 17  16 26  13 30 43  14  74 13 12  9  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-29  .552    11-30  .367    27-59  .458
+3-Pt. FG%:  2-6   .333     2-11  .182     4-17  .235
+F Throw %:  3-6   .500    13-20  .650    16-26  .615
+Deadball rebounds: 3,1
+Date: 12-07-16      Site: KFC Yum! Center, Louisville, KY  Attendance: 18894
+Officials: Bert Smith; Lee Cassell; Jerry Heater;
+Technical fouls: Southern Illinois-None. #11 Louisville-None.
+Score by Periods      1  2   Total
+Southern Illinois... 26 25  - 51
+#11 Louisville...... 37 37  - 74

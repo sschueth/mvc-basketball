@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Indiana State vs #20 Butler (12-05-15)
+VISITORS: Indiana State (3-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+30 Van Scyoc, Matt..... f  2  4   1  3   0  1   0  0  0   4   5  0  1  1  0  10
+34 Murphy, Brandon..... f  4  6   0  0   2  2   3  2  5   3  10  0  0  0  0  18
+00 Clemons, Everett.... g  3  7   0  0   2  2   1  3  4   1   8  4  2  0  2  28
+01 Smith, Khristian.... g  2 12   1  4   2  2   1  4  5   4   7  3  2  0  0  33
+11 Brown, Devonte...... g  3 13   1  7   3  4   1  3  4   1  10  3  5  0  1  34
+04 Scott, Brenton......    6 13   3  7   3  4   1  2  3   1  18  0  1  0  1  27
+12 Bunschoten, Niels...    1  5   0  4   0  0   2  1  3   3   2  0  0  0  0  14
+20 Prusator, Grant.....    1  1   1  1   0  0   0  0  0   0   3  0  0  0  0   2
+22 Burnett, Brandon....    2  3   1  2   1  1   0  0  0   4   6  0  2  0  1  14
+32 Paige, Laquarious...    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   2
+41 Rickman, Emondre....    1  1   0  0   0  0   0  1  1   2   2  0  1  1  1  18
+TM Team................                         3  2  5
+   Totals..............   25 65   8 28  13 16  12 18 30  24  71 10 14  2  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-33  .364    13-32  .406    25-65  .385
+3-Pt. FG%:  5-16  .313     3-12  .250     8-28  .286
+F Throw %:  7-8   .875     6-8   .750    13-16  .813
+Deadball rebounds: 2,2
+HOME TEAM: #20 Butler (6-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 WIDEMAN, Tyler...... f  2  2   0  0   4  6   0  7  7   4   8  0  1  1  0  24
+45 CHRABASCZ, Andrew... f  6 13   0  2   7  8   0  0  0   2  19  1  1  1  0  31
+01 LEWIS, Tyler........ g  1  2   1  2   0  0   0  4  4   2   3  1  1  0  0  18
+21 JONES, Roosevelt.... g  3  8   0  0   1  3   2  6  8   3   7  7  2  1  2  32
+24 DUNHAM, Kellen...... g  6  7   1  2   6  7   0  3  3   2  19  0  3  0  0  35
+00 ETHERINGTON, Austin.    0  1   0  1   0  0   0  0  0   0   0  0  0  0  2   5
+05 GATHERS, Jordan.....    1  3   0  1   3  3   0  4  4   5   5  1  0  0  1  20
+13 DAVIS, Jackson......    0  0   0  0   0  0   0  0  0   0   0  0  1  1  0   1
+25 BENNETT, Steven.....    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   1
+30 MARTIN, Kelan.......   10 14   1  2   3  4   1  4  5   0  24  1  3  2  4  29
+51 FOWLER, Nate........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   4
+TM TEAM................                         1  1  2
+   Totals..............   29 51   3 11  24 31   4 29 33  19  85 11 12  6  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 18-29  .621    11-22  .500    29-51  .569
+3-Pt. FG%:  1-6   .167     2-5   .400     3-11  .273
+F Throw %:  6-8   .750    18-23  .783    24-31  .774
+Deadball rebounds: 5
+Date: 12-05-15      Site: Indianapolis, Ind. -- Hinkle Fieldhouse  Attendance: 8142
+Officials: Brian O'Connell; John Gaffney; Mike Nance;
+Technical fouls: Indiana State-None. #20 Butler-None.
+Score by Periods      1  2   Total
+Indiana State....... 36 35  - 71
+#20 Butler.......... 43 42  - 85

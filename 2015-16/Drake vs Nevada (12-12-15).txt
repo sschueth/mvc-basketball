@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                           Drake vs Nevada (12-12-15)
+VISITORS: Drake (4-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+31 Abrahamson, Kale.... f  6 12   4  6   0  1   0  2  2   2  16  0  0  0  0  28
+11 Enevold, Jacob...... c  2  2   0  0   9 10   4  7 11   3  13  2  2  1  1  22
+00 Rivers, C.J......... g  0  3   0  0   0  0   2  2  4   0   0  3  2  0  1  18
+03 Woodward, Graham.... g  2 10   0  7   0  0   0  2  2   1   4  9  3  0  0  36
+12 Timmer, Reed........ g  7 10   2  3   1  2   0  1  1   4  17  1  4  0  0  29
+02 Wampler, Billy......    2  6   2  4   0  1   0  0  0   1   6  2  0  0  0  15
+22 Schlatter, Casey....    1  4   0  0   3  4   2  1  3   1   5  0  0  0  0  13
+23 Arogundade, Ore.....    3  5   2  2   0  0   0  5  5   3   8  0  1  0  1  21
+35 McGlynn, Nick.......    0  0   0  0   2  2   0  3  3   2   2  0  1  0  0  16
+44 Olejniczak, Dominik.    0  0   0  0   0  0   0  0  0   2   0  0  1  0  0   2
+TM Team................                         1  2  3             1
+   Totals..............   23 52  10 22  15 20   9 25 34  19  71 17 15  1  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-23  .348    15-29  .517    23-52  .442
+3-Pt. FG%:  4-9   .444     6-13  .462    10-22  .455
+F Throw %:  7-8   .875     8-12  .667    15-20  .750
+Deadball rebounds: 0,1
+HOME TEAM: Nevada (7-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 OLIVER, Cameron..... f  7 11   1  3   2  3   4  2  6   3  17  0  0  1  1  22
+12 FOSTER, Elijah...... f  0  1   0  0   0  0   3  0  3   3   0  1  1  0  0  10
+01 COLEMAN, Marqueze... g  8 18   1  5   2  4   0  2  2   4  19  4  1  0  2  34
+14 DREW, Lindsey....... g  0  2   0  0   1  2   0  2  2   3   1  1  1  0  2  17
+15 FENNER, D.J......... g  6 15   1  7   0  1   0  3  3   2  13  3  2  2  2  35
+02 CRISWELL, Tyron.....    4  7   0  0   2  3   4  8 12   2  10  1  1  1  1  30
+03 WEST, AJ............    2  3   0  0   4  4   2  1  3   2   8  0  1  1  0  18
+05 RODRIGUEZ, Kaileb...    0  0   0  0   0  0   0  0  0   2   0  0  0  0  0   4
+21 COOPER, Eric Jr.....    3  8   1  4   4  4   0  4  4   0  11  1  0  0  1  30
+TM TEAM................                         2  1  3
+   Totals..............   30 65   4 19  15 21  15 23 38  21  79 11  7  5  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-31  .387    18-34  .529    30-65  .462
+3-Pt. FG%:  1-9   .111     3-10  .300     4-19  .211
+F Throw %:  7-9   .778     8-12  .667    15-21  .714
+Deadball rebounds: 1,1
+Date: 12-12-15      Site: Reno, Nev. (Lawlor Events Center)  Attendance: 5541
+Officials: Rick Hartzell; Hal Lusk; Brad Ferrie;
+Technical fouls: Drake-None. Nevada-None.
+Score by Periods      1  2   Total
+Drake............... 27 44  - 71
+Nevada.............. 32 47  - 79

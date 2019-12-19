@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       IUPUI vs Illinois State (11-30-16)
+VISITORS: IUPUI (2-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+15 O'LEARY, Matt....... f  8 14   1  3   0  0   0  7  7   3  17  3  0  1  0  33
+24 HALL, Evan.......... f  1  3   0  0   2  2   3  4  7   3   4  0  0  1  0  22
+00 COMBS, Darell....... g  5 17   1  7   2  4   2  1  3   3  13  3  4  0  2  32
+05 THOMAS, Kellon...... g  2  6   1  1   4  4   0  2  2   1   9  2  1  0  2  32
+25 PATTERSON, Ron...... g  5 10   3  7   2  4   0  2  2   2  15  3  1  2  2  31
+01 HENDERSON, T.J......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0  11
+11 JAMES, Josh.........    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   1
+22 McCALL, D.J.........    0  1   0  0   0  0   1  2  3   0   0  0  4  0  0  14
+33 FRASER, Giovanni....    0  1   0  0   0  0   0  1  1   2   0  0  1  1  0   6
+45 BRENNAN, Aaron......    0  2   0  1   5  6   0  4  4   2   5  0  1  0  0  18
+TM TEAM................                         1  1  2             1
+   Totals..............   21 54   6 19  15 20   7 24 31  17  63 11 14  5  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-22  .409    12-32  .375    21-54  .389
+3-Pt. FG%:  4-9   .444     2-10  .200     6-19  .316
+F Throw %:  7-9   .778     8-11  .727    15-20  .750
+Deadball rebounds: 2
+HOME TEAM: Illinois State (3-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne,Phil.......... f  4  6   0  0   3  6   2  5  7   4  11  0  1  2  0  22
+11 McIntosh,MiKyle..... f  5 15   0  2   4  6   1  6  7   0  14  3  3  3  0  31
+23 Hawkins,Deontae..... f  6 11   1  4   0  0   3  3  6   4  13  0  1  1  1  20
+01 Lee,Paris........... g  7  9   3  4   1  2   2  4  6   2  18  6  2  0  2  30
+02 Clayton,DJ.......... g  4  8   1  2   3  7   1  7  8   2  12  4  2  0  0  32
+03 Evans,Keyshawn......    1  5   0  3   0  0   2  1  3   3   2  3  2  0  2  19
+05 Hein,Matt...........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+12 Wills,Tony..........    3  4   1  2   0  0   1  2  3   2   7  0  0  2  1  22
+15 Washington,Andre....    0  1   0  0   0  0   0  0  0   1   0  1  1  1  1   8
+25 Williams,Madison....    0  1   0  1   0  0   0  0  0   2   0  1  1  0  0  14
+31 Thompson,Javaka.....    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   1
+TM TEAM................                         1     1
+   Totals..............   30 60   6 18  11 21  13 29 42  20  77 18 13  9  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 19-35  .543    11-25  .440    30-60  .500
+3-Pt. FG%:  4-12  .333     2-6   .333     6-18  .333
+F Throw %:  2-4   .500     9-17  .529    11-21  .524
+Deadball rebounds: 3
+Date: 11-30-16      Site: Doug Collins Court at Redbird Arena  Attendance: 3717
+Officials: Randy Heimerman; Jeff Malham; K.B. Burdett Jr.;
+Technical fouls: IUPUI-None. Illinois State-None.
+Score by Periods      1  2   Total
+IUPUI............... 29 34  - 63
+Illinois State...... 44 33  - 77

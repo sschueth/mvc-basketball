@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Indiana State vs Bradley (02-08-17)
+VISITORS: Indiana State (9-16, 3-10 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+12 Bunschoten, Niels... f  0  2   0  1   0  0   0  2  2   2   0  0  1  1  0   6
+30 Van Scyoc, Matt..... f  6 10   5  9   2  2   0  3  3   2  19  0  0  0  0  28
+42 Bell, TJ............ c  0  0   0  0   1  2   0  1  1   0   1  0  5  0  0  11
+00 Clemons, Everett.... g  2  6   0  2   4  8   0 10 10   3   8  3  4  0  1  29
+04 Scott, Brenton...... g  4  8   2  4   1  3   0  6  6   3  11  4  2  0  3  35
+02 Barnes, Jordan......    1  5   0  2   2  3   0  2  2   2   4  1  0  0  0  21
+03 Knight III, Trey....    1  2   0  1   0  0   0  0  0   2   2  0  1  0  0  12
+05 Kessinger, Bronson..    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   2
+13 Franklin, Donovan...    2  5   1  3   0  0   0  4  4   1   5  1  1  0  0  12
+32 Paige, Laquarious...    0  0   0  0   0  0   0  2  2   3   0  2  4  1  1  17
+41 Rickman, Emondre....    3  4   0  0   0  0   0  5  5   2   6  1  2  5  2  27
+TM TEAM................                         1  2  3             2
+   Totals..............   19 42   8 22  10 18   1 37 38  21  56 12 22  7  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-22  .455     9-20  .450    19-42  .452
+3-Pt. FG%:  3-13  .231     5-9   .556     8-22  .364
+F Throw %:  4-8   .500     6-10  .600    10-18  .556
+Deadball rebounds: 1
+HOME TEAM: Bradley (9-17, 4-9 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  4  9   0  0   5  7   2  7  9   4  13  0  4  0  1  20
+12 Bar, Koch........... c  1  4   0  0   1  2   2  5  7   1   3  0  1  0  2  24
+05 Brown, Darrell...... g  4 12   1  3   2  2   0  1  1   0  11  4  1  0  1  28
+25 Kennell, Nate....... g  2  5   2  2   2  5   1  3  4   4   8  2  3  0  1  24
+35 Hodgson, Jayden..... g  2  7   2  4   1  4   1  2  3   1   7  1  2  0  0  27
+03 Pittman, Antoine....    2  5   0  1   2  4   1  3  4   3   6  1  0  0  0  25
+13 van Bree, Luuk......    0  2   0  1   0  0   1  3  4   0   0  1  0  0  0  17
+23 Lautier-Ogunleye, D.    0  0   0  0   0  0   0  1  1   1   0  0  1  0  0   6
+24 McGlaston, JoJo.....    2 11   1  5   1  4   1  3  4   2   6  0  1  3  3  29
+TM TEAM................                         1  1  2             1
+   Totals..............   17 55   6 16  14 28  10 29 39  16  54  9 14  3  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-31  .452     3-24  .125    17-55  .309
+3-Pt. FG%:  5-9   .556     1-7   .143     6-16  .375
+F Throw %:  5-10  .500     9-18  .500    14-28  .500
+Deadball rebounds: 5
+Date: 02-08-17      Site: Peoria, Ill. (Carver Arena)  Attendance: 5004
+Officials: Gary Maxwell; Bert Smith; Kipp Kissinger;
+Technical fouls: Indiana State-None. Bradley-None.
+Score by Periods      1  2   Total
+Indiana State....... 27 29  - 56
+Bradley............. 38 16  - 54

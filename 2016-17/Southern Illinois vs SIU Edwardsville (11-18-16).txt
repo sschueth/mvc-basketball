@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                Southern Illinois vs SIU Edwardsville (11-18-16)
+VISITORS: Southern Illinois (2-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Rodriguez,Mike...... *  5 10   0  1  10 13   0  0  0   2  20  5  3  0  0  34
+05 Vincent,Leo......... *  8 13   3  5   1  1   0  3  3   1  20  3  0  0  0  34
+22 Fletcher,Armon...... *  4  4   2  2   1  3   1  0  1   4  11  0  1  0  0  16
+33 O'Brien,Sean........ *  9 11   0  0   4  7   0  9  9   4  22  9  1  1  1  37
+40 Bol,Thik............ *  3  4   0  0   0  0   1  1  2   5   6  0  0  2  0  15
+00 Wiley,Jonathan......    0  1   0  1   0  0   1  0  1   1   0  0  0  1  0   3
+02 Cook,Chrishawn......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+10 Cook,Aaron..........    1  2   0  1   3  4   0  2  2   0   5  5  0  1  0  14
+13 Lloyd,Sean..........    2  3   0  0   0  0   0  5  5   2   4  2  1  0  1  21
+15 Weiher,Austin.......    2  2   2  2   0  0   1  0  1   5   6  0  1  0  0   9
+23 Cherestal,Bernard...    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   1
+24 Stradnieks,Rudy.....    3  4   1  1   0  0   1  2  3   5   7  1  1  0  0  15
+TM TEAM................                         1  3  4
+   Totals..............   37 54   8 13  19 28   6 25 31  30 101 25  8  5  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 22-30  .733    15-24  .625    37-54  .685
+3-Pt. FG%:  4-7   .571     4-6   .667     8-13  .615
+F Throw %:  6-7   .857    13-21  .619    19-28  .679
+Deadball rebounds: 1,1
+HOME TEAM: SIU Edwardsville (2-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 ANDERSON, Carlos.... *  0  5   0  1   4  4   1  1  2   5   4  2  2  0  0  31
+01 ESLIK, Burak........ *  3  8   0  2   3  4   0  4  4   1   9  0  0  0  0  32
+13 ELLIS, Christian.... *  7 14   0  1   2  5   4  2  6   4  16  6  1  0  1  27
+24 HENRY, Jalen........ *  6 10   0  1   5 10   2  2  4   4  17  0  2  1  0  29
+45 SIMMONS, Keenan..... *  3  3   0  0   2  3   1  4  5   4   8  0  0  0  0  22
+02 THORNTON, Devin.....    0  0   0  0   0  0   0  2  2   0   0  0  0  0  0   8
+03 HARRIS, Tre.........    7 13   5  8   5  7   0  2  2   2  24  0  2  0  0  29
+22 BENTON, Justin......    0  3   0  0   3  4   0  0  0   2   3  3  0  0  0  15
+32 JACKSON, Brandon....    1  1   0  0   0  0   0  0  0   0   2  0  1  0  0   7
+TM TEAM................                         2  2  4
+   Totals..............   27 57   5 13  24 37  10 19 29  22  83 11  8  1  1 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-27  .407    16-30  .533    27-57  .474
+3-Pt. FG%:  3-8   .375     2-5   .400     5-13  .385
+F Throw %:  8-12  .667    16-25  .640    24-37  .649
+Deadball rebounds: 7
+Date: 11-18-16      Site: Edwardsville, Ill./Vadalabene Cent  Attendance: 3017
+Officials: Bert Smith; Gene Grimshaw; Ed Crenshaw;
+Technical fouls: Southern Illinois-, Stradnieks,Rudy. SIU Edwardsville-None.
+Score by Periods      1  2   Total
+Southern Illinois... 54 47  -101
+SIU Edwardsville.... 33 50  - 83

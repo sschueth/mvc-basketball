@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Missouri State vs Valparaiso (12-19-15)
+VISITORS: Missouri State (4-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  3  7   0  0   0  0   1  3  4   2   6  0  3  2  0  21
+30 Boone,Camyn......... f  3  8   0  0   2  3   1  3  4   1   8  1  1  1  1  20
+04 Miller,Dequon....... g  4 12   0  3   4  4   0  5  5   3  12  1  2  0  1  33
+23 Williams,Dorrian.... g  1  5   0  2   0  0   0  2  2   3   2  2  4  0  0  19
+33 Kendrix,Chris....... g  0  1   0  0   1  2   1  0  1   2   1  1  2  0  0  13
+01 Thompson,Robin......    1  2   0  0   0  2   0  0  0   0   2  0  0  0  0   4
+03 Gerring,Loomis......    2  6   0  1   1  2   0  0  0   1   5  0  0  0  1  15
+11 Dixon,Jarred........    2  4   0  0   0  2   0  2  2   0   4  1  2  0  2  25
+20 Kreklow, Ryan.......    1  6   1  4   0  0   1  5  6   0   3  3  1  1  1  31
+25 Martin,Jordan.......    0  1   0  0   2  4   1  0  1   4   2  1  0  1  1   9
+50 McCullough, Tyler...    0  1   0  0   0  0   2  4  6   0   0  0  0  2  0  10
+TM Team................                         2     2
+   Totals..............   17 53   1 10  10 19   9 24 33  16  45 10 15  7  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-25  .360     8-28  .286    17-53  .321
+3-Pt. FG%:  0-6   .000     1-4   .250     1-10  .100
+F Throw %:  5-6   .833     5-13  .385    10-19  .526
+Deadball rebounds: 5,1
+HOME TEAM: Valparaiso (10-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+25 PETERS, Alec........ f  7 14   3  6   2  2   3  7 10   3  19  0  1  0  0  27
+14 FERNANDEZ, Vashil... c  2  4   0  0   0  0   2  5  7   3   4  0  2  1  2  26
+00 CARTER, Keith....... g  3  5   2  4   0  0   0  1  1   0   8  7  2  0  2  27
+02 WALKER, Tevonn...... g  7 13   3  5   1  2   2  4  6   1  18  2  1  0  2  22
+05 WALKER, Darien...... g  2  7   2  4   0  0   2  2  4   0   6  1  0  1  1  19
+03 JOSEPH, Max.........    0  2   0  0   0  0   0  1  1   2   0  0  0  0  0   7
+10 SKARA, David........    1  6   1  4   1  2   1  3  4   4   4  1  2  1  0  21
+11 HAMMINK, Shane......    3  9   1  4   0  0   0  0  0   2   7  3  3  0  1  20
+15 WILLIAMS, Lexus.....    1  3   0  2   0  0   0  0  0   1   2  0  0  0  1   8
+22 DAVIDSON, Nick......    0  0   0  0   2  2   1  0  1   0   2  1  0  0  0   5
+23 ADEKOYA, Jubril.....    1  4   0  0   2  3   2  4  6   2   4  0  1  0  0  16
+30 LEVINGSTON SIMON, C.    0  0   0  0   0  0   1  0  1   0   0  0  0  0  0   2
+TM TEAM................                         3  4  7
+   Totals..............   27 67  12 29   8 11  17 31 48  18  74 15 12  3  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-36  .389    13-31  .419    27-67  .403
+3-Pt. FG%:  7-16  .438     5-13  .385    12-29  .414
+F Throw %:  0-0   .000     8-11  .727     8-11  .727
+Deadball rebounds: 1
+Date: 12-19-15      Site: Valparaiso, Ind. (ARC)  Attendance: 3458
+Officials: Randy Heimerman; Larry Martin; John Moore;
+Technical fouls: Missouri State-None. Valparaiso-None.
+Score by Periods      1  2   Total
+Missouri State...... 23 22  - 45
+Valparaiso.......... 35 39  - 74

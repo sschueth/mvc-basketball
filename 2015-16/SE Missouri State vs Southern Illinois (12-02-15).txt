@@ -1,0 +1,57 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+               SE Missouri State vs Southern Illinois (12-02-15)
+VISITORS: SE Missouri State (0-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 JONES, Isiah........ *  0  8   0  3   0  0   0  2  2   2   0  0  2  0  0  23
+03 McGILL, Eric........ *  1  3   1  3   1  2   0  2  2   2   4  1  1  0  1  27
+04 CLEVELAND, Antonius. *  4  9   0  1   1  2   3  3  6   3   9  2  4  0  1  25
+05 ANGUS III, Joel..... *  3  4   0  0   0  0   0  2  2   3   6  0  3  0  0   8
+13 Kellum,Trey......... *  4  9   0  0   1  2   1  3  4   2   9  0  3  0  3  29
+00 STEWART, Jaylin.....    0  2   0  0   0  0   0  2  2   1   0  0  1  0  0   7
+01 ANDERSON, Tony......    2  4   1  1   1  2   1  0  1   0   6  0  2  1  0  10
+10 DOSIER, Robby.......    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+11 WALLACE, Marcus.....    1  4   0  0   1  3   0  3  3   1   3  4  1  0  3  18
+12 Calvin,Jamaal.......    0  3   0  3   0  0   0  0  0   0   0  1  0  0  0  11
+21 GULLETT, Kyle.......    1  3   1  3   0  0   0  1  1   0   3  0  0  0  0   9
+25 Coleman,Ladarius....    3  5   0  1   4  4   0  4  4   3  10  2  4  0  1  29
+33 JONES, J.T..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  1   2
+TM TEAM................                         1  5  6
+   Totals..............   19 55   3 15   9 15   6 27 33  17  50 10 21  1 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-28  .429     7-27  .259    19-55  .345
+3-Pt. FG%:  1-9   .111     2-6   .333     3-15  .200
+F Throw %:  2-4   .500     7-11  .636     9-15  .600
+Deadball rebounds: 3
+HOME TEAM: Southern Illinois (7-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 O'Brien,Sean........ f 10 15   0  0   2  2   4  7 11   3  22  2  6  0  1  30
+10 Djimde,Ibby......... c  0  1   0  0   0  0   0  1  1   1   0  0  0  0  0  11
+01 Rodriguez,Mike...... g  4  6   0  1   2  2   1  3  4   0  10  7  0  0  1  35
+11 Smithpeters,Tyler... g  2  8   1  7   1  1   0  1  1   3   6  4  2  0  0  21
+25 Beane,Anthony....... g  5 13   4  8   2  2   2  5  7   1  16  1  0  0  2  34
+02 Postell, Jeremy.....    0  2   0  2   0  0   0  3  3   1   0  0  1  0  0   4
+05 Vincent,Leo.........    0  4   0  4   2  2   0  3  3   3   2  2  3  0  1  16
+13 Lloyd, Sean.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+14 Mannie,Bobby........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+15 Weiher,Austin.......    5  8   0  0   0  1   2  3  5   2  10  1  1  0  2  21
+22 Fletcher,Armon......    3  9   0  5   0  1   1  5  6   2   6  0  2  0  0  14
+24 Stradnieks,Rudy.....    1  1   0  0   0  0   0  0  0   1   2  0  1  1  0   8
+32 Leek,Deng...........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+TM Team................                         2  2  4
+   Totals..............   30 67   5 27   9 11  12 33 45  17  74 17 16  1  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-35  .429    15-32  .469    30-67  .448
+3-Pt. FG%:  2-13  .154     3-14  .214     5-27  .185
+F Throw %:  0-0   .000     9-11  .818     9-11  .818
+Deadball rebounds: 0
+Date: 12-02-15      Site: Carbondale, IL  Attendance: 4781
+Officials: Tim Fitzgerald; Ed Crenshaw; Brad Fritsche;
+Technical fouls: SE Missouri State-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+SE Missouri State... 27 23  - 50
+Southern Illinois... 32 42  - 74

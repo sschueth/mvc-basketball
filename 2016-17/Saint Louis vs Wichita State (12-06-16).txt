@@ -1,0 +1,56 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Saint Louis vs Wichita State (12-06-16)
+VISITORS: Saint Louis (2-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 ROBY, Davell........ *  0  8   0  5   0  0   0  2  2   0   0  1  0  0  0  21
+11 BISHOP, Jermaine.... *  4 10   2  4   2  2   0  8  8   1  12  7  3  0  4  35
+32 CRAWFORD, Mike...... *  2  9   1  4   2  2   0  0  0   1   7  0  1  0  0  30
+33 WELMER, Elliott..... *  2  8   1  4   1  2   1  2  3   3   6  0  0  0  0  17
+35 AGBEKO, Reggie...... *  1  4   0  0   2  4   0  4  4   3   4  1  1  0  2  18
+13 NEUFELD, Matt.......    0  0   0  0   0  0   0  0  0   2   0  0  1  0  1  12
+20 JOHNSON, Jalen......    2  8   1  2   0  0   0  5  5   4   5  0  0  0  0  24
+23 MOORE, Zeke.........    4  8   3  7   0  0   0  1  1   3  11  1  1  0  0  24
+24 HINES, Aaron........    0  1   0  0   0  0   1  0  1   0   0  0  1  0  0   9
+25 GILLMANN, Austin....    0  2   0  2   0  0   0  2  2   1   0  1  1  1  0  10
+TM TEAM................                         1  2  3
+   Totals..............   15 58   8 28   7 10   3 26 29  18  45 11  9  1  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  3-29  .103    12-29  .414    15-58  .259
+3-Pt. FG%:  2-11  .182     6-17  .353     8-28  .286
+F Throw %:  1-2   .500     6-8   .750     7-10  .700
+Deadball rebounds: 1
+HOME TEAM: Wichita State (8-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Smith, Daishon...... *  2  3   2  3   0  0   0  5  5   0   6  2  1  0  1  20
+11 Shamet, Landry...... *  1  4   1  3   2  2   0  3  3   1   5  5  1  0  0  18
+20 Nurger, Rauno....... *  0  2   0  0   0  1   2  1  3   3   0  0  0  1  0  16
+21 Willis, Darral...... *  5  8   0  0   2  4   1  4  5   2  12  0  1  1  0  18
+32 McDuffie, Markis.... *  2  9   0  2   3  4   1  2  3   0   7  3  0  0  1  20
+00 Kelly, Rashard......    6  8   1  1   2  2   2  6  8   1  15  1  1  0  2  21
+01 Brown, Zach.........    2  6   0  2   4  4   1  3  4   1   8  3  1  0  1  19
+04 Barney, Brett.......    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+05 Bush, Zach..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+10 Malone, Kaelen......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+12 Reaves, Austin......    2  3   2  3   0  0   0  1  1   0   6  2  1  0  0  16
+14 Simon, John Robert..    0  1   0  1   0  0   0  1  1   0   0  1  1  0  0   5
+24 Morris, Shaquille...    4  7   0  0   0  0   0  7  7   3   8  1  0  0  0  16
+25 Hamilton, Eric......    2  3   1  1   0  0   1  1  2   0   5  0  1  1  0   7
+33 Frankamp, Conner....    1  5   1  4   0  0   0  4  4   1   3  2  1  0  1  19
+TM TEAM................                         2  4  6             1
+   Totals..............   27 60   8 20  13 17  10 42 52  12  75 20 10  3  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-29  .448    14-31  .452    27-60  .450
+3-Pt. FG%:  4-10  .400     4-10  .400     8-20  .400
+F Throw %:  6-8   .750     7-9   .778    13-17  .765
+Deadball rebounds: 1
+Date: 12-06-16      Site: Wichita, Kan./ Charles Koch Arena  Attendance: 10157
+Officials: Gary Maxwell; Rick Crawford; Randy Heimerman;
+Technical fouls: Saint Louis-None. Wichita State-None.
+Score by Periods      1  2   Total
+Saint Louis.........  9 36  - 45
+Wichita State....... 36 39  - 75

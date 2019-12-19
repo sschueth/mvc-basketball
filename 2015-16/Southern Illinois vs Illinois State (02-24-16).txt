@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Southern Illinois vs Illinois State (02-24-16)
+VISITORS: Southern Illinois (21-9 (10-7 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 O'Brien,Sean........ f  6 13   1  2   1  4   2  3  5   0  14  2  2  0  0  27
+23 Olaniyan,Bola....... c  2  8   0  0   1  1   4  8 12   2   5  1  2  0  0  26
+01 Rodriguez,Mike...... g  1  5   0  2   3  5   2  0  2   2   5  1  0  0  0  22
+11 Smithpeters,Tyler... g  0  3   0  2   0  0   0  0  0   1   0  0  4  0  1  19
+25 Beane,Anthony....... g  1  8   0  4   0  0   1  2  3   4   2  3  3  0  0  32
+05 Vincent,Leo.........    1  8   0  5   2  2   0  2  2   0   4  2  2  0  1  24
+10 Djimde,Ibby.........    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   6
+15 Weiher,Austin.......    0  2   0  1   0  0   0  1  1   1   0  1  0  0  1  10
+22 Fletcher,Armon......    4  5   1  2   4  6   4  3  7   3  13  1  1  0  0  24
+24 Stradnieks,Rudy.....    2  2   0  0   3  3   0  1  1   1   7  0  0  0  0   8
+32 Leek,Deng...........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+TM Team................                         2  3  5             1
+   Totals..............   17 54   2 18  14 21  15 23 38  14  50 11 16  0  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  5-25  .200    12-29  .414    17-54  .315
+3-Pt. FG%:  1-10  .100     1-8   .125     2-18  .111
+F Throw %:  4-8   .500    10-13  .769    14-21  .667
+Deadball rebounds: 5
+HOME TEAM: Illinois State (18-12 (12-5 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Brewer,Quintin...... f  0  1   0  0   0  0   0  1  1   5   0  1  0  1  0  18
+23 Hawkins,Deontae..... f  7 12   1  5   0  2   2  5  7   1  15  1  0  0  0  24
+01 Lee,Paris........... g  7 12   4  7   3  3   0  2  2   0  21  4  1  0  2  31
+15 McCloud,Justin...... g  2  7   1  6   0  0   0  3  3   1   5  1  1  0  0  26
+44 Akoon-Purcell,DeVaug g  4 10   0  1   8  9   2  5  7   2  16  1  2  0  0  29
+00 Banyard,Nick........    3  4   0  0   2  2   2  5  7   3   8  1  0  0  0  26
+11 McIntosh,MiKyle.....    0  3   0  2   0  0   0  0  0   3   0  2  1  0  1  16
+12 Wills,Tony..........    3  5   0  2   0  0   0  1  1   2   6  3  2  0  3  28
+31 Thompson,Javaka.....    1  1   0  0   0  0   0  0  0   1   2  1  0  0  0   2
+TM Team................                         1  2  3             1
+   Totals..............   27 55   6 23  13 16   7 24 31  18  73 15  8  1  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-30  .500    12-25  .480    27-55  .491
+3-Pt. FG%:  3-12  .250     3-11  .273     6-23  .261
+F Throw %:  3-4   .750    10-12  .833    13-16  .813
+Deadball rebounds: 1
+Date: 02-24-16      Site: Doug Collins Court at Redbird Arena  Attendance: 6052
+Officials: Paul Janssen; Bert Smith; Tom O'Neill;
+Technical fouls: Southern Illinois-None. Illinois State-None.
+Score by Periods      1  2   Total
+Southern Illinois... 15 35  - 50
+Illinois State...... 36 37  - 73

@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  Missouri State vs Oklahoma State (12-05-15)
+VISITORS: Missouri State (2-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  1  2   0  0   0  0   0  3  3   3   2  0  1  2  0  21
+30 Boone,Camyn......... f  8 13   0  0   1  1   1  8  9   1  17  0  1  0  2  29
+33 Kendrix,Chris....... f  3  8   2  5   2  2   1  8  9   2  10  1  1  1  0  35
+04 Miller,Dequon....... g  8 16   3  5   2  3   1  3  4   1  21  3  4  0  1  37
+23 Williams,Dorrian.... g  1  5   0  1   0  0   0  4  4   2   2  4  4  0  2  35
+03 Gerring,Loomis......    2  4   1  1   0  0   2  2  4   3   5  0  0  0  0  12
+11 Dixon,Jarred........    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+20 Kreklow, Ryan.......    1  6   1  5   0  0   0  2  2   1   3  3  2  0  1  15
+25 Martin,Jordan.......    1  5   0  0   2  4   2  0  2   4   4  0  1  0  1   9
+50 McCullough, Tyler...    0  0   0  0   0  0   1  0  1   2   0  0  0  0  0   4
+TM Team................                         2  1  3             1
+   Totals..............   25 60   7 17   7 10  10 31 41  19  64 11 15  3  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-33  .364    13-27  .481    25-60  .417
+3-Pt. FG%:  4-9   .444     3-8   .375     7-17  .412
+F Throw %:  4-6   .667     3-4   .750     7-10  .700
+Deadball rebounds: 1
+HOME TEAM: Oklahoma State (5-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+41 Solomon, Mitchell... f  0  2   0  0   0  0   0  1  1   0   0  0  3  0  1  16
+32 Allen, Anthony...... c  3  6   0  0   2  2   1  1  2   2   8  3  2  0  0  16
+01 Evans, Jawun........ g  6  9   3  4   0  2   0  5  5   3  15  7  2  0  0  32
+22 Newberry, Jeff...... g  5  9   1  2   4  4   1  2  3   0  15  0  1  1  3  31
+30 Carroll, Jeffrey.... g  4  8   1  3   1  4   0  8  8   1  10  0  0  0  2  28
+02 Griffin, Tyree......    0  3   0  3   0  0   0  3  3   1   0  3  1  0  0  24
+04 Burton, Joe.........    0  2   0  1   0  0   0  1  1   0   0  2  0  0  1   4
+23 Hammonds, Leyton....    3 10   1  5   2  2   1  1  2   5   9  0  4  0  1  32
+24 Dillard, Davon......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   3
+31 Olivier, Chris......    2  5   0  0   2  2   1  3  4   1   6  0  1  1  0  14
+TM TEAM................                            2  2
+   Totals..............   23 54   6 18  11 16   4 27 31  14  63 15 14  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-28  .286    15-26  .577    23-54  .426
+3-Pt. FG%:  2-9   .222     4-9   .444     6-18  .333
+F Throw %:  2-4   .500     9-12  .750    11-16  .688
+Deadball rebounds: 1
+Date: 12-05-15      Site: Gallagher-Iba Arena (Stillwater, Okla.)  Attendance: 4651
+Officials: Gary Maxwell; Gerry Pollard; Terry Davis;
+Technical fouls: Missouri State-None. Oklahoma State-None.
+Score by Periods      1  2   Total
+Missouri State...... 32 32  - 64
+Oklahoma State...... 20 43  - 63

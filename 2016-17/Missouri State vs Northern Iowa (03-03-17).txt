@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Missouri State vs Northern Iowa (03-03-17)
+VISITORS: Missouri State (17-15; 7-11 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  4  5   0  0   0  1   3  8 11   4   8  2  0  1  0  29
+10 Rhodes,Jarrid....... f  2  5   1  4   0  0   1  3  4   2   5  0  1  0  0  15
+24 Johnson,Alize....... f  8 15   1  3   3  4   7 10 17   1  20  2  4  0  0  35
+04 Miller,Dequon....... g  2 10   1  3   4  5   0  3  3   2   9  3  4  0  1  39
+11 Dixon,Jarred........ g  0  3   0  0  10 10   0  0  0   4  10  2  3  0  0  28
+00 Martin,Jordan.......    0  0   0  0   3  4   0  3  3   5   3  0  2  0  0  10
+01 Thompson,Robin......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+15 Ruder,Austin........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+20 Kreklow,Ryan........    2  4   0  1   0  0   2  1  3   0   4  0  1  0  0  19
+33 Kendrix,Chris.......    2  6   2  5   5  6   0  6  6   2  11  0  1  0  0  21
+50 McCullough,Tyler....    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0  0+
+TM TEAM................                         2  1  3             1
+   Totals..............   20 48   5 16  25 30  15 35 50  21  70  9 17  1  1 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-26  .423     9-22  .409    20-48  .417
+3-Pt. FG%:  3-10  .300     2-6   .333     5-16  .313
+F Throw %:  6-8   .750    19-22  .864    25-30  .833
+Deadball rebounds: 2
+HOME TEAM: Northern Iowa (14-16; 9-9 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Carlson, Klint...... f  4 12   0  3   2  4   3  1  4   4  10  3  1  0  1  30
+25 Koch, Bennett....... f  4  8   0  0   7  9   2  3  5   5  15  1  0  1  2  20
+13 McCloud, Juwan...... g  0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+20 Morgan, Jeremy...... g  7 18   3  7   1  1   2  3  5   3  18  1  2  2  3  40
+23 Ashton, Jordan...... g  0  7   0  7   2  4   0  0  0   3   2  0  1  0  2  38
+03 Friedman, Ted.......    0  0   0  0   0  0   0  2  2   2   0  1  0  0  0  16
+21 Rhodes, Hunter......    3  8   2  6   0  0   0  1  1   1   8  1  0  0  1  29
+24 Brown, Isaiah.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+30 Haldeman, Spencer...    3  8   1  5   4  4   1  3  4   4  11  1  1  0  1  23
+34 McDonnell, Luke.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+TM TEAM................                         1  3  4
+   Totals..............   21 61   6 28  16 22   9 16 25  22  64  8  5  3 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-26  .346    12-35  .343    21-61  .344
+3-Pt. FG%:  4-14  .286     2-14  .143     6-28  .214
+F Throw %:  7-9   .778     9-13  .692    16-22  .727
+Deadball rebounds: 2
+Date: 03-03-17      Site: Scottrade Center, St. Louis, MO  Attendance: 9124
+Officials: Kelly Self; Kipp Kissinger; Brad Ferrie;
+Technical fouls: Missouri State-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+Missouri State...... 31 39  - 70
+Northern Iowa....... 29 35  - 64

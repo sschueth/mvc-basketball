@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Missouri State vs Indiana State (01-18-17)
+VISITORS: Missouri State (13-7. 4-3 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 Miller,Dequon....... *  7 15   3  6   7  9   0  1  1   2  24  2  5  0  1  37
+05 Church,Obediah...... *  2  3   0  0   0  0   2  0  2   0   4  1  1  3  0  24
+10 Rhodes,Jarrid....... *  1  5   0  0   4  4   1  5  6   2   6  1  3  0  1  28
+11 Dixon,Jarred........ *  1  6   0  1   1  2   2  0  2   1   3  2  0  0  0  11
+24 Johnson,Alize....... *  9 15   4  8   4  5   4 16 20   2  26  3  3  0  0  37
+00 Martin,Jordan.......    0  0   0  0   0  0   0  2  2   3   0  0  2  1  0   7
+15 Ruder,Austin........    1  3   1  3   0  0   0  0  0   1   3  0  0  0  0  12
+20 Kreklow,Ryan........    0  3   0  2   1  2   0  3  3   0   1  2  0  0  0  18
+33 Kendrix,Chris.......    1  4   0  2   0  0   0  2  2   1   2  0  1  0  0  17
+50 McCullough,Tyler....    2  2   0  0   0  0   1  0  1   2   4  0  0  0  0   9
+TM TEAM................                         1  4  5
+   Totals..............   24 56   8 22  17 22  11 33 44  14  73 11 15  4  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-33  .455     9-23  .391    24-56  .429
+3-Pt. FG%:  5-13  .385     3-9   .333     8-22  .364
+F Throw %:  4-6   .667    13-16  .813    17-22  .773
+Deadball rebounds: 2
+HOME TEAM: Indiana State (7-12, 1-6 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Clemons, Everett.... *  2  5   0  0   0  0   0  3  3   3   4  6  4  0  2  32
+04 Scott, Brenton...... *  9 20   4  8   5  7   1  7  8   3  27  1  0  0  0  35
+30 Van Scyoc, Matt..... *  1  6   0  5   0  0   0  2  2   1   2  1  1  0  0  20
+32 Paige, Laquarious... *  3  7   0  2   1  1   0  4  4   2   7  3  0  0  0  22
+34 Murphy, Brandon..... *  3  4   0  0   1  2   2  1  3   1   7  0  0  0  1  22
+02 Barnes, Jordan......    1  5   1  4   0  0   0  1  1   3   3  4  1  0  1  21
+05 Kessinger, Bronson..    1  2   0  0   0  0   1  0  1   0   2  0  0  0  0   2
+12 Bunschoten, Niels...    2  7   2  5   0  0   0  1  1   2   6  0  0  1  1  20
+13 Franklin, Donovan...    1  3   1  3   0  0   0  3  3   0   3  0  2  0  0  10
+41 Rickman, Emondre....    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+42 Bell, TJ............    3  5   0  0   1  2   3  0  3   3   7  0  0  0  0  15
+TM TEAM................                         2  2  4
+   Totals..............   26 65   8 27   8 12   9 24 33  18  68 15  8  1  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-29  .345    16-36  .444    26-65  .400
+3-Pt. FG%:  2-12  .167     6-15  .400     8-27  .296
+F Throw %:  4-5   .800     4-7   .571     8-12  .667
+Deadball rebounds: 1
+Date: 01-18-17      Site: Hulman Center (Terre Haute, Ind.)  Attendance: 3875
+Officials: Gary Maxwell; Hal Lusk; Ed Crenshaw;
+Technical fouls: Missouri State-None. Indiana State-None.
+Score by Periods      1  2   Total
+Missouri State...... 39 34  - 73
+Indiana State....... 26 42  - 68

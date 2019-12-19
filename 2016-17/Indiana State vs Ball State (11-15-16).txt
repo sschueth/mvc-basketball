@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Indiana State vs Ball State (11-15-16)
+VISITORS: Indiana State (1-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+30 Van Scyoc, Matt..... f  4  8   3  6   3  3   0  1  1   4  14  1  2  1  0  30
+34 Murphy, Brandon..... f  1  3   0  0   3  5   1  2  3   4   5  0  3  0  1  20
+00 Clemons, Everett.... g  5  6   0  0   1  2   0 10 10   2  11  9  2  0  1  38
+04 Scott, Brenton...... g  9 19   2 10   5  6   0  1  1   1  25  1  2  0  3  38
+32 Paige, Laquarious... g  3  4   0  0   0  0   0  3  3   3   6  2  2  0  1  19
+02 Barnes, Jordan......    1  3   1  2   4  4   0  3  3   1   7  0  0  0  0  20
+05 Kessinger, Bronson..    1  2   0  0   0  1   1  2  3   1   2  0  0  2  0  14
+12 Bunschoten, Niels...    2  6   0  1   1  2   0  3  3   0   5  0  0  0  0  14
+13 Franklin, Donovan...    2  6   0  2   1  2   1  2  3   1   5  0  2  0  2  17
+41 Rickman, Emondre....    0  0   0  0   0  0   0  2  2   2   0  0  1  1  0   7
+42 Bell, TJ............    0  2   0  0   0  0   0  0  0   3   0  0  1  1  0   8
+TM TEAM................                         3  3  6
+   Totals..............   28 59   6 21  18 25   6 32 38  22  80 13 15  5  8 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-26  .500    11-29  .379    28-59  .475
+3-Pt. FG%:  2-7   .286     3-13  .231     6-21  .286
+F Throw %:  5-6   .833     6-11  .545    18-25  .720
+Deadball rebounds: 2
+HOME TEAM: Ball State (1-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+15 HOUSE, Franko....... f  7 15   1  3   6  8   5  9 14   2  21  1  2  0  0  37
+34 SELLERS, Sean....... f  2  8   1  2   0  0   0  4  4   2   5  1  0  0  0  34
+41 MOSES, Trey......... c  5 10   0  0   0  3   2  1  3   3  10  2  3  0  0  31
+00 KIAPWAY, Francis.... g  1  8   0  4   4  4   1  0  1   1   6  2  0  0  0  36
+02 PERSONS, Tayler..... g  9 16   2  4   6  8   1  3  4   4  26  2  6  0  1  32
+14 MALLERS, Kyle.......    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   4
+25 TEAGUE, Tahjai......    2  5   0  1   0  0   2  5  7   3   4  0  2  2  2  17
+33 WEBER, Ryan.........    1  8   0  3   0  0   1  5  6   1   2  1  1  0  1  29
+35 GUEYE, DouDou.......    0  1   0  0   0  0   3  0  3   4   0  1  0  0  0   5
+TM TEAM................                         1  3  4
+   Totals..............   27 71   4 17  16 23  16 30 46  20  74 10 15  2  4 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-28  .393    12-35  .343    27-71  .380
+3-Pt. FG%:  2-8   .250     2-8   .250     4-17  .235
+F Throw %:  8-12  .667     6-9   .667    16-23  .696
+Deadball rebounds: 3
+Date: 11-15-16      Site: Muncie, Ind. (Worthen Arena)  Attendance: 3845
+Officials: John Yorkovich; Greg Langsdorf; Toby Martinez;
+Technical fouls: Indiana State-None. Ball State-None.
+Score by Periods      1  2 OT   Total
+Indiana State....... 33 31 16  - 80
+Ball State.......... 32 32 10  - 74

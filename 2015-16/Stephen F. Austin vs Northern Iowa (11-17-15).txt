@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Stephen F. Austin vs Northern Iowa (11-17-15)
+VISITORS: Stephen F. Austin (0-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Walkup, Thomas...... * 12 20   2  2   4  4   0  8  8   4  30  3  2  0  1  38
+04 Charles, Ty......... *  2 11   0  2   4  4   3  2  5   4   8  2  2  0  3  38
+10 Pinkney, Trey....... *  0  1   0  1   0  0   0  1  1   1   0  2  0  0  2  17
+12 Cameron, Dallas..... *  0  5   0  1   2  2   0  1  1   3   2  0  0  0  0  27
+22 Holyfield, TJ....... *  3  5   2  3   0  0   3  3  6   5   8  1  3  2  0  21
+01 Floyd, Demetrious...    2  7   2  5   0  0   0  0  0   1   6  0  0  0  0  13
+02 Williams, CJ........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+03 Johnson, Jared......    1  8   0  6   0  0   0  2  2   1   2  1  0  0  0  21
+11 Geffrard, Clide.....    1  3   0  1   0  0   0  2  2   4   2  1  3  0  0  15
+32 Grujic, Jovan.......    1  2   0  0   0  0   1  1  2   1   2  0  0  0  0   8
+TM TEAM................                         1  1  2             1
+   Totals..............   22 62   6 21  10 10   8 21 29  24  60 10 11  2  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-25  .360    13-37  .351    22-62  .355
+3-Pt. FG%:  2-12  .167     4-9   .444     6-21  .286
+F Throw %:  6-6  1.000     4-4  1.000    10-10 1.000
+Deadball rebounds: 0
+HOME TEAM: Northern Iowa (1-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 Jesperson, Paul..... *  4  6   1  3   6  6   0  4  4   3  15  0  2  0  0  30
+05 Bohannon, Matt...... *  6  9   3  6   0  0   0  5  5   2  15  0  0  0  0  33
+11 Washpun, Wes........ *  5  7   0  1   4  6   0  5  5   0  14  3  5  1  0  35
+20 Morgan, Jeremy...... *  4  8   1  2   5  8   2  5  7   4  14  1  2  1  1  35
+25 Koch, Bennett....... *  2  5   0  0   0  0   0  3  3   3   4  1  4  1  0  20
+01 Austin, Aarias......    2  8   2  5   0  0   0  3  3   1   6  2  1  0  1  21
+03 Friedman, Ted.......    0  0   0  0   0  0   0  0  0   2   0  0  0  1  0  10
+22 Knar, Robert........    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   1
+33 Lohaus, Wyatt.......    0  1   0  0   2  2   0  5  5   1   2  3  1  0  0  15
+TM Team................                            1  1             2
+   Totals..............   23 44   7 17  17 22   2 32 34  16  70 10 17  4  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-24  .625     8-20  .400    23-44  .523
+3-Pt. FG%:  5-9   .556     2-8   .250     7-17  .412
+F Throw %:  5-5  1.000    12-17  .706    17-22  .773
+Deadball rebounds: 3
+Date: 11-17-15      Site: Cedar Falls, Iowa (McLeod Center)  Attendance: 4720
+Officials: Paul Janssen; Hal Lusk; Jeff Malham;
+Technical fouls: Stephen F. Austin-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+Stephen F. Austin... 26 34  - 60
+Northern Iowa....... 40 30  - 70

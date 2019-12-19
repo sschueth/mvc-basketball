@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                         Evansville vs Drake (02-17-16)
+VISITORS: Evansville (21-7 (10-4 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 Simmons, Blake...... f  5  6   1  2   0  0   0  2  2   2  11  5  0  0  2  33
+55 Mockevicius,Egidijus c  9 13   0  0   3  4   3 10 13   2  21  0  1  1  2  33
+03 Brown, Jaylon....... g  1  4   0  2   3  4   0  1  1   4   5  4  3  0  0  31
+12 Wing, Adam.......... g  1  2   0  1   6  6   1  2  3   0   8  3  2  1  0  30
+31 Balentine, D.J...... g  9 24   4  7   4  4   1  1  2   2  26  7  0  0  1  40
+02 Benzon, Christian...    1  2   0  0   0  1   0  0  0   1   2  1  0  0  0  10
+10 Brzoja, Mislav......    1  2   0  0   0  0   1  2  3   3   2  1  0  0  0  16
+44 Howard, David.......    1  2   0  0   3  4   1  1  2   3   5  0  0  1  0   7
+TM Team................                            2  2
+   Totals..............   28 55   5 12  19 23   7 21 28  17  80 21  6  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-28  .500    14-27  .519    28-55  .509
+3-Pt. FG%:  3-7   .429     2-5   .400     5-12  .417
+F Throw %:  5-7   .714    14-16  .875    19-23  .826
+Deadball rebounds: 2,1
+HOME TEAM: Drake (6-21 (1-14 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+22 Schlatter, Casey.... f  3  7   1  3   0  1   1  3  4   3   7  1  1  1  0  25
+11 Enevold, Jacob...... c  3  3   0  0   0  0   1  3  4   3   6  2  3  0  0  12
+44 Olejniczak, Dominik. c  4  4   0  0   0  0   2  3  5   4   8  0  2  2  0  14
+12 Timmer, Reed........ g  3  8   0  1  10 11   0  3  3   1  16  0  3  0  1  30
+23 Arogundade, Ore..... g  0  5   0  2   2  2   0  1  1   2   2  2  0  0  1  26
+01 Madison, Karl.......    2  5   0  1   0  0   0  0  0   2   4  2  1  0  1  16
+02 Wampler, Billy......    2  4   2  3   0  0   0  1  1   2   6  1  0  0  0  18
+03 Woodward, Graham....    5  9   4  6   0  2   0  0  0   2  14  2  1  0  0  27
+31 Abrahamson, Kale....    0  2   0  1   0  0   0  2  2   1   0  0  0  0  0  18
+35 McGlynn, Nick.......    5  7   0  0   1  1   2  4  6   2  11  2  0  2  0  14
+TM Team................                         2  2  4             1
+   Totals..............   27 54   7 17  13 17   8 22 30  22  74 12 12  5  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-28  .464    14-26  .538    27-54  .500
+3-Pt. FG%:  3-9   .333     4-8   .500     7-17  .412
+F Throw %:  3-6   .500    10-11  .909    13-17  .765
+Deadball rebounds: 1
+Date: 02-17-16      Site: Des Moines, Iowa (Knapp Center)  Attendance: 2790
+Officials: Rick Hartzell; Zelton Steed; Larry Spaulding;
+Technical fouls: Evansville-None. Drake-None.
+Score by Periods      1  2   Total
+Evansville.......... 36 44  - 80
+Drake............... 32 42  - 74

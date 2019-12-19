@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       North Dakota vs Bradley (12-05-15)
+VISITORS: North Dakota (4-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 CRANDALL, Geno......    3 12   0  2   3  4   1  6  7   5   9  5  7  0  4  35
+01 BALDWIN, Corey......    7 14   3  9   3  8   2  4  6   1  20  0  1  0  1  28
+03 MCDERMOTT, Adam.....    1  6   0  3   3  4   1  3  4   2   5  0  1  0  2  27
+05 SHANKS, Carson......    0  1   0  0   0  0   0  0  0   4   0  0  1  0  0   6
+15 SEALES, Cortez......    0  5   0  2   1  2   1  1  2   1   1  0  1  0  0  17
+21 HOOKER, Quinton.....    5 12   1  4   7 12   1  4  5   0  18  4  0  1  3  45
+25 HOBAUGH, Dustin.....    0  0   0  0   0  0   1  0  1   0   0  0  2  0  0   2
+31 CASHMAN, Bryce......    0  1   0  0   0  0   0  1  1   4   0  0  0  0  0  13
+32 AVANTS, Conner......    4 10   0  1   1  3   4  3  7   4   9  1  0  1  0  43
+43 BERNSTINE, Drick....    1  4   0  0   1  3   3  9 12   4   3  0  3  1  0  34
+TM TEAM................                         4  5  9
+   Totals..............   21 65   4 21  19 36  18 36 54  25  65 10 16  3 10 250
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-28  .286     9-29  .310    21-65  .323
+3-Pt. FG%:  1-8   .125     3-12  .250     4-21  .190
+F Throw %:  3-8   .375     6-10  .600    19-36  .528
+Deadball rebounds: 10
+HOME TEAM: Bradley (1-8)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  6  9   0  1   0  1   2 11 13   2  12  2  3  1  4  38
+13 van Bree, Luuk...... f  1  4   1  2   1  2   1  5  6   5   4  0  2  0  1  32
+30 Barker, Callum...... f  4  7   1  1   3  5   3  2  5   2  12  0  0  0  0  45
+03 Pittman, Antoine.... g  5 12   3  7   1  3   1  3  4   2  14  4  3  0  1  41
+23 Lautier-Ogunleye, D. g  2 15   1 10   3  8   0  7  7   3   8  3  8  1  0  45
+00 Bell, Ka'Darryl.....    1  3   0  1   0  0   0  0  0   2   2  0  1  0  1  12
+04 Okafor, Joel........    0  2   0  0   0  0   1  0  1   1   0  0  1  0  0   3
+05 Cooper, Davante.....    0  0   0  0   0  0   0  0  0   2   0  0  1  0  0   5
+22 Suggs, Ronnie.......    3  6   0  1   1  3   2  5  7   4   7  2  2  2  0  27
+24 James, Scottie......    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   2
+TM Team................                         1     1
+   Totals..............   22 59   6 24   9 22  11 33 44  23  59 11 21  4  7 250
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-19  .368    10-27  .370    22-59  .373
+3-Pt. FG%:  2-9   .222     3-9   .333     6-24  .250
+F Throw %:  5-9   .556     3-5   .600     9-22  .409
+Deadball rebounds: 3
+Date: 12-05-15      Site: Peoria, IL - Carver Arena  Attendance: 5557
+Officials: Rick Randall; Winston Stith; K.B. Burdett;
+Technical fouls: North Dakota-, BALDWIN, Corey, TEAM. Bradley-None.
+Score by Periods      1  2 OT O2   Total
+North Dakota........ 20 27  2 16  - 65
+Bradley............. 21 26  2 10  - 59

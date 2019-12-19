@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Bradley vs Illinois State (02-11-17)
+VISITORS: Bradley (9-18 (4-10 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  2  5   0  0   3  4   3  4  7   4   7  3  3  0  3  24
+12 Bar, Koch........... c  4  7   0  0   1  2   3  3  6   2   9  0  1  1  1  26
+05 Brown, Darrell...... g  0  7   0  3   0  0   0  4  4   1   0  1  3  0  0  21
+25 Kennell, Nate....... g  0  5   0  5   0  0   0  0  0   1   0  3  3  0  0  22
+35 Hodgson, Jayden..... g  3  6   2  3   3  4   1  5  6   4  11  2  3  0  0  31
+03 Pittman, Antoine....    1  3   1  3   1  2   0  0  0   4   4  1  1  0  0  20
+13 van Bree, Luuk......    3  6   1  1   1  1   1  5  6   2   8  0  1  1  1  19
+23 Lautier-Ogunleye, D.    0  0   0  0   0  0   0  1  1   2   0  0  2  0  1   5
+24 McGlaston, JoJo.....    4 12   2  5   1  3   1  1  2   3  11  0  3  0  2  32
+TM TEAM................                         1  2  3
+   Totals..............   17 51   6 20  10 16  10 25 35  23  50 10 20  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  6-25  .240    11-26  .423    17-51  .333
+3-Pt. FG%:  1-10  .100     5-10  .500     6-20  .300
+F Throw %:  2-3   .667     8-13  .615    10-16  .625
+Deadball rebounds: 3
+HOME TEAM: Illinois State (21-5 (13-1 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne,Phil.......... f  4  5   0  0   3  5   1  2  3   4  11  1  1  0  0  20
+23 Hawkins,Deontae..... f  3  8   2  7   5  5   2  5  7   1  13  2  4  0  2  30
+01 Lee,Paris........... g  4 11   2  5   4  5   0  1  1   1  14  3  3  0  2  32
+03 Evans,Keyshawn...... g  2  9   0  6   0  0   0  3  3   0   4  4  3  0  2  29
+12 Wills,Tony.......... g  2  7   1  5   4  4   1  3  4   1   9  4  4  1  3  29
+02 Clayton,DJ..........    1  5   0  0   2  4   2  5  7   2   4  0  2  0  2  28
+04 Ndiaye,Daouda.......    3  3   0  0   3  4   2  7  9   1   9  0  0  5  1  27
+05 Hein,Matt...........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+31 Thompson,Javaka.....    0  1   0  1   0  0   1  0  1   2   0  0  0  0  0   5
+TM TEAM................                            1  1
+   Totals..............   19 49   5 24  21 27   9 27 36  12  64 14 17  6 12 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-27  .370     9-22  .409    19-49  .388
+3-Pt. FG%:  3-15  .200     2-9   .222     5-24  .208
+F Throw %:  9-11  .818    12-16  .750    21-27  .778
+Deadball rebounds: 2
+Date: 02-11-17      Site: Doug Collins Court at Redbird Arena  Attendance: 9380
+Officials: Mike Stuart; Ed Crenshaw; Jeff Malham;
+Technical fouls: Bradley-None. Illinois State-None.
+Score by Periods      1  2   Total
+Bradley............. 15 35  - 50
+Illinois State...... 32 32  - 64

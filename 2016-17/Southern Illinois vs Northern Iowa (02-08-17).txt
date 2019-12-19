@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Southern Illinois vs Northern Iowa (02-08-17)
+VISITORS: Southern Illinois (14-12, 7-6 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Rodriguez,Mike...... *  3 11   0  3   1  2   1  3  4   1   7  2  0  0  3  39
+13 Lloyd,Sean.......... *  2  6   0  1   1  4   0  2  2   4   5  1  3  0  1  29
+22 Fletcher,Armon...... *  1  8   0  4   0  0   2  2  4   3   2  0  0  1  1  20
+33 O'Brien,Sean........ *  4 14   0  1   0  0   1 11 12   3   8  4  5  0  0  35
+40 Bol,Thik............ *  3  5   0  0   0  0   0  4  4   3   6  0  1  0  0  25
+00 Wiley,Jonathan......    1  1   0  0   0  0   1  1  2   0   2  1  0  0  0   8
+05 Vincent,Leo.........    3 11   3  8   0  0   4  1  5   0   9  0  2  0  0  27
+10 Cook,Aaron..........    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   1
+15 Weiher,Austin.......    1  2   0  0   0  0   0  2  2   3   2  0  0  0  1  13
+24 Stradnieks,Rudy.....    0  1   0  1   0  0   0  0  0   1   0  0  0  0  0   3
+TM TEAM................
+   Totals..............   18 60   3 19   2  6   9 26 35  18  41  8 11  1  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-29  .276    10-31  .323    18-60  .300
+3-Pt. FG%:  0-7   .000     3-12  .250     3-19  .158
+F Throw %:  1-4   .250     1-2   .500     2-6   .333
+Deadball rebounds: 3
+HOME TEAM: Northern Iowa (12-12, 7-6 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Carlson, Klint...... *  6 11   0  3   2  2   1  7  8   1  14  0  1  0  1  36
+13 McCloud, Juwan...... *  0  3   0  0   3  4   0  2  2   0   3  0  1  0  2  27
+20 Morgan, Jeremy...... *  3  8   1  4   4  8   0  9  9   2  11  1  3  2  1  33
+23 Ashton, Jordan...... *  3  8   1  5   0  0   0  2  2   2   7  1  2  0  2  37
+25 Koch, Bennett....... *  4  5   0  0   4  6   2  6  8   2  12  2  3  1  1  24
+03 Friedman, Ted.......    0  0   0  0   0  2   0  0  0   1   0  1  0  0  0   4
+24 Brown, Isaiah.......    0  2   0  1   0  0   2  1  3   1   0  0  0  0  0  10
+30 Haldeman, Spencer...    0  3   0  3   0  0   0  2  2   1   0  1  1  0  1  13
+34 McDonnell, Luke.....    0  3   0  2   2  2   1  1  2   2   2  0  3  1  0  16
+TM TEAM................                         1  4  5             2
+   Totals..............   16 43   2 18  15 24   7 34 41  12  49  6 16  4  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-24  .417     6-19  .316    16-43  .372
+3-Pt. FG%:  0-7   .000     2-11  .182     2-18  .111
+F Throw %:  2-5   .400    13-19  .684    15-24  .625
+Deadball rebounds: 3
+Date: 02-08-17      Site: Cedar Falls, Iowa (McLeod Center)  Attendance: 3921
+Officials: Gerry Pollard; Kelly Self; Ray Natili;
+Technical fouls: Southern Illinois-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+Southern Illinois... 17 24  - 41
+Northern Iowa....... 22 27  - 49

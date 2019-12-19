@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                            Drake vs Iowa (12-19-15)
+VISITORS: Drake (4-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 Woodward, Graham.... *  1  9   1  5   0  0   1  3  4   1   3  1  2  0  0  28
+11 Enevold, Jacob...... *  1  2   0  0   0  0   3  1  4   0   2  0  0  1  0  15
+12 Timmer, Reed........ * 11 21   3  8   0  1   2  4  6   1  25  5  0  0  0  36
+23 Arogundade, Ore..... *  3  5   2  3   1  1   0  3  3   2   9  0  0  0  0  30
+31 Abrahamson, Kale.... *  4 11   3  6   3  4   2  5  7   3  14  2  0  0  0  29
+00 Rivers, C.J.........    0  1   0  1   0  0   0  1  1   1   0  2  0  0  0   9
+01 Madison, Karl.......    0  1   0  0   0  0   0  0  0   1   0  0  3  0  0   4
+02 Wampler, Billy......    2  5   1  2   0  0   0  1  1   1   5  2  2  1  0  13
+22 Schlatter, Casey....    1  2   1  1   0  0   1  2  3   1   3  0  0  0  0  13
+35 McGlynn, Nick.......    0  2   0  0   1  2   0  2  2   1   1  1  0  0  0  12
+44 Olejniczak, Dominik.    1  1   0  0   0  0   0  1  1   0   2  1  0  1  0  11
+TM Team................                         6  1  7             4
+   Totals..............   24 60  11 26   5  8  15 24 39  12  64 14 11  3  0 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-30  .367    13-30  .433    24-60  .400
+3-Pt. FG%:  6-14  .429     5-12  .417    11-26  .423
+F Throw %:  2-3   .667     3-5   .600     5-8   .625
+Deadball rebounds: 2
+HOME TEAM: Iowa (8-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Clemmons, Anthony... *  4  9   1  5   1  2   0  2  2   0  10  1  0  1  0  27
+10 Gesell, Mike........ *  7  8   2  2   1  2   0  3  3   0  17  4  0  1  0  34
+14 Jok, Peter.......... *  2 10   0  4   0  0   0  2  2   2   4  2  0  0  0  23
+20 Uthoff, Jarrod...... *  4  8   0  2   2  2   0  3  3   3  10  0  1  5  0  21
+34 Woodbury, Adam...... *  2  5   0  0   0  0   1  0  1   1   4  1  1  0  1  12
+00 Wagner, Ahmad.......    0  0   0  0   0  0   1  1  2   0   0  0  0  1  0   9
+24 Ellingson, Brady....    2  2   1  1   0  0   0  1  1   2   5  0  0  0  1  16
+25 Uhl, Dom............    2  8   1  2   2  2   2  6  8   1   7  2  0  0  1  28
+51 Baer, Nicholas......    5 10   3  5   0  0   3  4  7   3  13  2  0  6  1  30
+TM TEAM................                         2     2             1
+   Totals..............   28 60   8 21   6  8   9 22 31  12  70 12  3 14  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-28  .393    17-32  .531    28-60  .467
+3-Pt. FG%:  3-11  .273     5-10  .500     8-21  .381
+F Throw %:  5-6   .833     1-2   .500     6-8   .750
+Deadball rebounds: 1
+Date: 12-19-15      Site: Wells Fargo Arena - Des Moines, Iowa  Attendance: 15424
+Officials: Kelly Pfeiffer; Bobby Daw; Toby Martinez;
+Technical fouls: Drake-None. Iowa-None.
+Score by Periods      1  2   Total
+Drake............... 30 34  - 64
+Iowa................ 30 40  - 70

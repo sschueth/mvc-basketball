@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     South Dakota State vs Drake (12-19-16)
+VISITORS: South Dakota State (7-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+24 Mike Daum........... f  6 12   1  3   7  7   1  3  4   4  20  1  5  0  0  26
+35 A.J. Hess........... f  3 10   2  9   2  2   1  6  7   1  10  1  1  1  2  33
+02 Tevin King.......... g  1  1   0  0   2  3   1  5  6   1   4  3  0  0  1  27
+04 Sergio El Darwich... g  2  4   0  0   0  0   1  4  5   0   4  0  2  0  0  15
+23 Reed Tellinghuisen.. g  5 12   2  7   6  8   2  2  4   3  18  3  3  0  1  38
+01 Skyler Flatten......    0  1   0  1   0  0   0  1  1   0   0  0  0  0  0   5
+20 Andre Wallace.......    6  9   3  5   4  5   0  2  2   0  19  0  0  0  0  26
+45 Ian Theisen.........    4  6   0  0   0  0   5  1  6   0   8  1  2  0  1  15
+50 Michael Orris.......    0  2   0  0   0  0   0  0  0   3   0  2  2  0  1  15
+TM TEAM................                         1  1  2
+   Totals..............   27 57   8 25  21 25  12 25 37  12  83 11 15  1  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-31  .484    12-26  .462    27-57  .474
+3-Pt. FG%:  4-12  .333     4-13  .308     8-25  .320
+F Throw %:  6-7   .857    15-18  .833    21-25  .840
+Deadball rebounds: 0
+HOME TEAM: Drake (1-10)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Wampler, Billy...... f  7 12   4  8   0  0   0  2  2   3  18  0  0  0  0  29
+11 Enevold, Jacob...... c  2  2   0  0   0  0   2  3  5   1   4  1  1  1  0  13
+00 Rivers, C.J......... g  4  8   0  3   2  2   2  7  9   2  10  5  1  0  2  27
+04 McMurray, De'Antae.. g  1  8   0  3   0  0   0  2  2   0   2  2  2  0  0  19
+12 Timmer, Reed........ g  5 14   4 13   2  2   0  0  0   1  16  2  4  0  2  33
+03 Woodward, Graham....    1  4   1  4   2  2   1  1  2   4   5  1  3  1  0  21
+10 Thomas, T.J.........    2  2   0  0   1  2   0  0  0   4   5  0  0  0  0  12
+22 Schlatter, Casey....    0  2   0  0   0  0   1  1  2   2   0  2  1  1  0  12
+23 Arogundade, Ore.....    2  6   0  4   0  0   0  3  3   3   4  2  1  2  2  19
+32 Kuenstling, Kory....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+35 McGlynn, Nick.......    5  6   1  1   0  0   3  2  5   2  11  0  0  1  0  13
+TM TEAM................                         1     1
+   Totals..............   29 64  10 36   7  8  10 21 31  22  75 15 13  6  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-30  .367    18-34  .529    29-64  .453
+3-Pt. FG%:  4-20  .200     6-16  .375    10-36  .278
+F Throw %:  0-0   .000     7-8   .875     7-8   .875
+Deadball rebounds: 1,1
+Date: 12-19-16      Site: Des Moines, Iowa (Knapp Center)  Attendance: 2385
+Officials: Zelton Steed; Bret Smith; Ervin Wilson;
+Technical fouls: South Dakota State-None. Drake-None.
+Score by Periods      1  2   Total
+South Dakota State.. 40 43  - 83
+Drake............... 26 49  - 75

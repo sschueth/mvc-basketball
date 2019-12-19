@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Boise State vs Evansville (12-03-16)
+VISITORS: Boise State (4-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+13 DUNCAN, Nick........ f  5  8   3  6   0  0   0  4  4   3  13  2  0  1  0  35
+33 WACKER, David....... f  1  3   0  0   0  0   1  3  4   0   2  0  0  0  0   4
+03 JESSUP, Justinian... g  1  6   1  5   0  0   0  1  1   2   3  2  1  0  2  25
+15 HUTCHISON, Chandler. g  6 15   2  4   5  7   1  6  7   5  19  2  4  0  1  33
+30 AUSTIN, Paris....... g  2  8   0  2   5  8   0  1  1   4   9  3  3  0  1  37
+00 DICKINSON, Marcus...    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+10 JORCH, Robin........    3  4   0  0   6  6   6  2  8   3  12  1  2  0  0  22
+11 HANEY, Zach.........    1  4   0  0   0  0   1  0  1   1   2  0  1  2  0   9
+23 OLUYITAN, Cameron...    0  0   0  0   0  0   0  1  1   1   0  0  0  0  0   5
+55 REID, James.........    2  9   1  6   2  4   0  5  5   2   7  2  3  0  1  29
+TM TEAM................                         2  1  3
+   Totals..............   21 57   7 23  18 25  11 24 35  21  67 12 14  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-30  .333    11-27  .407    21-57  .368
+3-Pt. FG%:  3-11  .273     4-12  .333     7-23  .304
+F Throw %:  9-13  .692     9-12  .750    18-25  .720
+Deadball rebounds: 4
+HOME TEAM: Evansville (4-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 Wiley, Willie....... f  5  6   0  0   3  4   0  2  2   2  13  1  0  0  1  31
+14 Vucetic, Sergej..... c  0  1   0  0   0  0   0  2  2   2   0  0  0  1  0   6
+00 Taylor, Ryan........ g  5 12   2  5   2  2   0  5  5   3  14  3  1  0  1  37
+03 Brown, Jaylon....... g  5 16   0  1  11 12   0  4  4   1  21  3  5  0  2  38
+25 Gibson, Duane....... g  5 10   0  0   0  0   2  3  5   5  10  7  4  0  1  33
+02 Benzon, Christian...    0  0   0  0   0  0   0  4  4   5   0  1  1  0  0   8
+04 Eaves, Jaiveon......    1  1   1  1   0  0   0  1  1   2   3  0  0  0  0   4
+12 Smith, Dru..........    1  2   0  0   2  2   0  1  1   1   4  0  0  0  1  13
+15 Traore, Dalen.......    1  2   0  0   3  4   1  3  4   2   5  0  0  0  1  19
+44 Howard, David.......    1  2   0  0   0  0   1  1  2   3   2  0  1  3  0  11
+TM TEAM................                         1  2  3
+   Totals..............   24 52   3  7  21 24   5 28 33  26  72 15 12  4  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-25  .520    11-27  .407    24-52  .462
+3-Pt. FG%:  1-3   .333     2-4   .500     3-7   .429
+F Throw %:  3-3  1.000    18-21  .857    21-24  .875
+Deadball rebounds: 2
+Date: 12-03-16      Site: Ford Center, Evansville, Ind.  Attendance: 3773
+Officials: Larry Spaudling; Bob Staffen; Bert Smith;
+Technical fouls: Boise State-None. Evansville-None.
+Score by Periods      1  2   Total
+Boise State......... 32 35  - 67
+Evansville.......... 30 42  - 72

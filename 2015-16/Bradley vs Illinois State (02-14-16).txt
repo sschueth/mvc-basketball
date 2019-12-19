@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Bradley vs Illinois State (02-14-16)
+VISITORS: Bradley (4-23 (2-12 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  2  5   0  2   2  3   2  8 10   5   6  1  2  0  0  24
+13 van Bree, Luuk...... f  5  9   3  5   1  3   0  2  2   5  14  1  3  0  0  26
+30 Barker, Callum...... f  1  3   0  0   0  0   0  2  2   5   2  0  3  0  0  22
+03 Pittman, Antoine.... g  4  9   0  3   0  0   1  0  1   3   8  3  3  0  1  38
+22 Suggs, Ronnie....... g  6 13   2  5   2  4   3  1  4   4  16  1  3  0  0  36
+04 Okafor, Joel........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   1
+05 Cooper, Davante.....    1  1   0  0   0  0   0  0  0   0   2  0  0  0  0   1
+12 McBride, D'Angelo...    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   3
+14 Hanley, Peter.......    0  0   0  0   0  0   0  1  1   1   0  0  1  0  0  11
+23 Lautier-Ogunleye, D.    4  8   2  3   1  6   1  3  4   3  11  2  2  0  0  34
+24 James, Scottie......    0  1   0  1   1  2   0  1  1   0   1  1  0  0  0   4
+TM Team................                            2  2             1
+   Totals..............   23 49   7 19   7 18   7 21 28  27  60  9 18  0  1 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-21  .476    13-28  .464    23-49  .469
+3-Pt. FG%:  6-12  .500     1-7   .143     7-19  .368
+F Throw %:  0-2   .000     7-16  .438     7-18  .389
+Deadball rebounds: 5
+HOME TEAM: Illinois State (16-11 (10-4 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 McIntosh,MiKyle..... f  3  4   0  0   8 11   1  5  6   4  14  3  4  0  2  25
+23 Hawkins,Deontae..... f  4  8   0  2   3  5   2  4  6   2  11  1  2  1  2  24
+01 Lee,Paris........... g  3  4   1  2   3  4   0  1  1   2  10  0  1  0  1  27
+12 Wills,Tony.......... g  3  7   1  4   0  0   0  1  1   3   7  2  1  1  1  24
+44 Akoon-Purcell,DeVaug g  3  5   1  1   6  8   0  2  2   3  13  2  2  0  0  31
+00 Banyard,Nick........    3  5   1  2   2  4   0  5  5   2   9  2  0  0  1  26
+02 Brewer,Quintin......    1  1   0  0   0  0   0  2  2   2   2  3  0  0  1  17
+15 McCloud,Justin......    3  8   3  8   0  0   0  3  3   3   9  1  0  0  1  25
+31 Thompson,Javaka.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM Team................                            2  2
+   Totals..............   23 42   7 19  22 32   3 25 28  21  75 14 10  2  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-22  .591    10-20  .500    23-42  .548
+3-Pt. FG%:  4-12  .333     3-7   .429     7-19  .368
+F Throw %:  9-11  .818    13-21  .619    22-32  .688
+Deadball rebounds: 5
+Date: 02-14-16      Site: Doug Collins Court at Redbird Arena  Attendance: 7888
+Officials: Gerry Pollard; Don Daily; Jeff Malham;
+Technical fouls: Bradley-, Thomas, Donte. Illinois State-McIntosh,MiKyle.
+Score by Periods      1  2   Total
+Bradley............. 26 34  - 60
+Illinois State...... 39 36  - 75

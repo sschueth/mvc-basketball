@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Northern Iowa vs Drake (02-06-16)
+VISITORS: Northern Iowa (14-11 (6-6 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 Jesperson, Paul..... f  8 13   5  9   0  0   0  4  4   0  21  3  0  0  1  36
+25 Koch, Bennett....... f  2  3   0  0   0  0   0  1  1   4   4  1  1  0  0  12
+05 Bohannon, Matt...... g  5  9   2  3   0  0   0  2  2   2  12  2  0  0  1  38
+11 Washpun, Wes........ g  7  7   1  1   0  0   0  3  3   3  15  6  0  0  0  33
+20 Morgan, Jeremy...... g  6 12   2  5   0  0   2  1  3   3  14  6  2  0  1  33
+02 Carlson, Klint......    5 10   1  3   0  0   2  4  6   4  11  2  1  0  1  26
+03 Friedman, Ted.......    0  0   0  0   0  0   0  0  0   1   0  0  2  0  0   6
+22 Knar, Robert........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+33 Lohaus, Wyatt.......    1  1   1  1   2  2   0  1  1   1   5  0  0  0  0  16
+TM Team................                         1  1  2             1
+   Totals..............   34 55  12 22   2  2   5 17 22  18  82 20  7  0  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 18-29  .621    16-26  .615    34-55  .618
+3-Pt. FG%:  5-11  .455     7-11  .636    12-22  .545
+F Throw %:  0-0   .000     2-2  1.000     2-2  1.000
+Deadball rebounds: 0
+HOME TEAM: Drake (6-18 (1-11 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+31 Abrahamson, Kale.... f  3 10   2  8   0  0   0  2  2   0   8  1  1  0  0  31
+44 Olejniczak, Dominik. c  5  5   0  0   3  3   5  2  7   1  13  0  4  0  0  25
+03 Woodward, Graham.... g  4 10   2  5   0  0   0  1  1   0  10  7  3  0  0  37
+12 Timmer, Reed........ g  6 12   2  6   4  6   0  3  3   3  18  3  1  0  0  31
+23 Arogundade, Ore..... g  3  6   3  5   1  3   3  4  7   1  10  0  1  1  1  35
+01 Madison, Karl.......    0  1   0  1   2  2   0  0  0   1   2  0  2  0  0  14
+02 Wampler, Billy......    1  1   1  1   0  0   0  1  1   1   3  0  1  0  0   8
+11 Enevold, Jacob......    1  2   0  0   0  0   2  1  3   1   2  0  1  0  0  11
+22 Schlatter, Casey....    0  1   0  0   0  0   1  0  1   1   0  0  0  0  0   2
+35 McGlynn, Nick.......    0  0   0  0   0  0   0  1  1   2   0  0  1  0  0   6
+TM Team................                            1  1
+   Totals..............   23 48  10 26  10 14  11 16 27  11  66 11 15  1  1 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-19  .526    13-29  .448    23-48  .479
+3-Pt. FG%:  5-11  .455     5-15  .333    10-26  .385
+F Throw %:  3-5   .600     7-9   .778    10-14  .714
+Deadball rebounds: 1
+Date: 02-06-16      Site: Des Moines, Iowa (Knapp Center)  Attendance: 4724
+Officials: Zelton Steed; David Stevens; Kelly Pfeifer;
+Technical fouls: Northern Iowa-None. Drake-None.
+Score by Periods      1  2   Total
+Northern Iowa....... 41 41  - 82
+Drake............... 28 38  - 66

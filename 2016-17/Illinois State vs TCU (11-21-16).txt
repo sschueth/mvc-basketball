@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Illinois State vs TCU (11-21-16)
+VISITORS: Illinois State (1-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne,Phil.......... f  3  4   0  0   2  2   1  1  2   3   8  0  1  1  0  20
+11 McIntosh,MiKyle..... f  6 13   3  5   5  5   1  8  9   4  20  0  7  1  3  37
+23 Hawkins,Deontae..... f  3  8   1  4   1  1   1  3  4   5   8  3  0  1  0  23
+01 Lee,Paris........... g  4  8   2  4   3  4   0  2  2   1  13  7  5  0  2  38
+12 Wills,Tony.......... g  0  3   0  1   3  4   0  3  3   5   3  2  0  0  0  25
+02 Clayton,DJ..........    4  7   2  4   3  6   2  3  5   3  13  3  3  0  2  35
+03 Evans,Keyshawn......    2  8   2  7   0  0   0  2  2   1   6  2  1  0  0  20
+15 Washington,Andre....    0  0   0  0   0  0   0  0  0   2   0  0  0  0  0   1
+25 Williams,Madison....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                         1     1
+   Totals..............   22 51  10 25  17 22   6 22 28  24  71 17 17  3  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-27  .444    10-24  .417    22-51  .431
+3-Pt. FG%:  6-13  .462     4-12  .333    10-25  .400
+F Throw %:  6-8   .750    11-14  .786    17-22  .773
+Deadball rebounds: 3
+HOME TEAM: TCU (4-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+15 Miller, JD.......... f  2  3   0  1   1  2   1  1  2   1   5  0  2  0  0   9
+32 Shepherd, Karviar... f  1  3   0  0   0  2   0  3  3   3   2  0  0  1  1  15
+00 Fisher, Jaylen...... g  4 13   3  6   4  4   1  1  2   1  15  5  4  0  2  29
+01 Bane, Desmond....... g  1  2   0  0   0  0   0  1  1   2   2  1  0  0  0  16
+34 Williams, Kenrich... g  5 12   1  3   2  2   6  4 10   4  13  3  2  0  2  32
+03 Trent, Malique......    0  3   0  1   0  0   0  1  1   1   0  1  1  0  1  14
+10 Brodziansky, Vlad...    7  8   0  0  10 13   2  4  6   1  24  1  1  1  0  24
+11 Parrish, Brandon....    1  4   1  2   2  2   0  7  7   4   5  3  0  0  1  29
+25 Robinson, Alex......    5  8   1  1   3  5   0  1  1   2  14  6  2  0  3  32
+TM TEAM................                         2  2  4             1
+   Totals..............   26 56   6 14  22 30  12 25 37  19  80 20 13  2 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-24  .458    15-32  .469    26-56  .464
+3-Pt. FG%:  1-3   .333     5-11  .455     6-14  .429
+F Throw %:  8-15  .533    14-15  .933    22-30  .733
+Deadball rebounds: 4
+Date: 11-21-16      Site: Schollmaier Arena (Fort Worth, TX)  Attendance: 5938
+Officials: Ray Natili; Michael Greenstein; Brooks Wells;
+Technical fouls: Illinois State-None. TCU-, Robinson, Alex.
+Score by Periods      1  2   Total
+Illinois State...... 36 35  - 71
+TCU................. 31 49  - 80

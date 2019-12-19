@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Wichita State vs Drake (02-01-17)
+VISITORS: Wichita State (20-4 (10-1 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Brown, Zach......... f  3  8   2  4   0  0   0  1  1   1   8  3  0  0  0  29
+32 McDuffie, Markis.... f  1  8   0  2   1  2   4 10 14   3   3  8  2  0  2  29
+24 Morris, Shaquille... c  5 12   0  2   0  1   1 10 11   3  10  1  2  0  0  23
+11 Shamet, Landry...... g  6 10   3  4   2  2   0  2  2   3  17  3  4  0  1  36
+33 Frankamp, Conner.... g  6 10   4  8   0  0   0  2  2   0  16  3  1  0  0  34
+00 Kelly, Rashard......    5  6   0  0   3  5   4  2  6   0  13  0  0  1  0  13
+02 Smith, Daishon......    1  3   0  1   0  0   0  0  0   0   2  1  0  0  1  10
+03 Keyser, C.J.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+20 Nurger, Rauno.......    4  7   0  2   0  0   1  3  4   1   8  0  0  1  0  18
+21 Willis, Darral......    0  2   0  0   0  0   0  1  1   2   0  0  0  1  0   7
+TM TEAM................                         1  1  2
+   Totals..............   31 66   9 23   6 10  11 32 43  13  77 19  9  3  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-39  .410    15-27  .556    31-66  .470
+3-Pt. FG%:  5-14  .357     4-9   .444     9-23  .391
+F Throw %:  2-4   .500     4-6   .667     6-10  .600
+Deadball rebounds: 1
+HOME TEAM: Drake (7-16 (5-6 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Thomas, T.J......... f  2  7   0  1   0  0   1  8  9   0   4  1  0  0  2  30
+35 McGlynn, Nick....... f  3  7   1  3   0  0   1  3  4   4   7  2  0  1  0  27
+04 McMurray, De'Antae.. g  8 16   5 10   7  8   0  3  3   1  28  2  2  0  3  32
+12 Timmer, Reed........ g  2 11   1  5   2  2   1  1  2   1   7  0  1  0  1  26
+23 Arogundade, Ore..... g  2  6   1  4   0  0   0  3  3   4   5  0  1  0  0  29
+00 Rivers, C.J.........    1  2   0  0   0  0   0  1  1   2   2  1  1  0  1  10
+02 Wampler, Billy......    1  4   1  3   0  0   0  2  2   0   3  0  0  0  0   9
+03 Woodward, Graham....    3  4   2  3   0  0   0  3  3   1   8  2  1  0  0  14
+11 Enevold, Jacob......    1  2   0  0   2  2   1  1  2   0   4  0  1  0  0  13
+22 Schlatter, Casey....    0  2   0  0   1  2   1  1  2   2   1  2  1  1  0  10
+TM TEAM................                         2  1  3
+   Totals..............   23 61  11 29  12 14   7 27 34  15  69 10  8  2  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-33  .364    11-28  .393    23-61  .377
+3-Pt. FG%:  5-12  .417     6-17  .353    11-29  .379
+F Throw %:  6-6  1.000     6-8   .750    12-14  .857
+Deadball rebounds: 1
+Date: 02-01-17      Site: Des Moines, Iowa (Knapp Center)  Attendance: 3024
+Officials: Ed Crenshaw; Steve Olson; Jeff Campbell;
+Technical fouls: Wichita State-None. Drake-None.
+Score by Periods      1  2   Total
+Wichita State....... 39 38  - 77
+Drake............... 35 34  - 69

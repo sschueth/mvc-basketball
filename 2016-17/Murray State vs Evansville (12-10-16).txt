@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Murray State vs Evansville (12-10-16)
+VISITORS: Murray State (4-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Miller,Terrell...... f  1  5   1  5   3  5   1  6  7   3   6  0  4  0  0  24
+04 Sanchious,Brion..... f  0  1   0  0   0  0   1  1  2   2   0  0  0  1  0  13
+02 Stark,Jonathan...... g  3 10   1  6   2  2   2  1  3   3   9  2  4  0  0  30
+11 Croaker,Damarcus.... g  3 10   1  3   0  0   0  1  1   2   7  1  2  0  0  31
+32 Jones,Bryce......... g  2  8   1  5   4  4   0  8  8   3   9  4  2  0  0  34
+01 Grace,Jerami........    0  1   0  1   0  0   0  1  1   0   0  0  0  1  0   4
+10 GRIFFIN, Dondre.....    1  4   0  1   0  0   0  0  0   0   2  0  1  0  0   5
+12 MCGHEE, Gee.........    1  6   1  3   0  0   3  4  7   3   3  1  2  0  3  27
+22 Thomas,Gilbert......    1  2   0  0   0  0   0  0  0   3   2  0  0  0  0   4
+23 Taylor,Jachai.......    1  4   0  2   0  1   1  1  2   0   2  0  0  0  0  10
+40 Dupree,Jalen........    2  3   0  0   2  4   0  2  2   4   6  1  1  0  0  18
+TM TEAM................                         3  1  4             1
+   Totals..............   15 54   5 26  11 16  11 26 37  23  46  9 17  2  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  6-25  .240     9-29  .310    15-54  .278
+3-Pt. FG%:  4-13  .308     1-13  .077     5-26  .192
+F Throw %:  5-7   .714     6-9   .667    11-16  .688
+Deadball rebounds: 2
+HOME TEAM: Evansville (6-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+44 Howard, David....... f  4  6   0  0   2  4   1  0  1   3  10  0  0  0  0  12
+14 Vucetic, Sergej..... c  1  4   0  0   0  0   0  3  3   3   2  0  1  1  0   8
+00 Taylor, Ryan........ g  7 13   1  5   5  5   0  2  2   1  20  2  2  2  0  26
+03 Brown, Jaylon....... g  8 15   4  4   4  4   0  4  4   0  24  1  1  0  2  35
+25 Gibson, Duane....... g  1  3   0  0   1  2   0  3  3   1   3  6  2  2  5  27
+02 Benzon, Christian...    1  4   1  2   2  4   4  3  7   1   5  2  0  0  0  27
+04 Eaves, Jaiveon......    1  3   1  1   2  2   0  1  1   1   5  0  0  0  0   6
+05 Hainna, Solomon.....    1  1   0  0   0  0   1  3  4   0   2  0  0  0  0  12
+12 Smith, Dru..........    2  5   1  2   0  0   0  3  3   4   5  2  1  0  2  22
+15 Traore, Dalen.......    0  2   0  0   2  3   2  5  7   4   2  1  2  1  0  25
+TM TEAM................                         1  4  5
+   Totals..............   26 56   8 14  18 24   9 31 40  18  78 14  9  6  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-31  .516    10-25  .400    26-56  .464
+3-Pt. FG%:  6-8   .750     2-6   .333     8-14  .571
+F Throw %:  8-9   .889    10-15  .667    18-24  .750
+Deadball rebounds: 1
+Date: 12-10-16      Site: Ford Center, Evansville, Ind.  Attendance: 5016
+Officials: Bret Smith; David Stevens; James Durham;
+Technical fouls: Murray State-None. Evansville-None.
+Score by Periods      1  2   Total
+Murray State........ 21 25  - 46
+Evansville.......... 46 32  - 78

@@ -1,0 +1,56 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Indiana State vs Drake (01-11-17)
+VISITORS: Indiana State (6-11 (0-5 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+30 Van Scyoc, Matt..... f  2  9   1  6   0  1   1  3  4   3   5  0  0  0  0  17
+34 Murphy, Brandon..... c  1  2   0  0   0  0   1  3  4   0   2  0  1  1  0  16
+00 Clemons, Everett.... g  4 12   0  0   4  5   4  6 10   0  12  2  3  0  1  29
+04 Scott, Brenton...... g  2 11   2  7   6  8   0  7  7   1  12  1  4  2  1  30
+32 Paige, Laquarious... g  2  4   1  1   2  2   0  3  3   3   7  0  2  1  0  19
+05 Kessinger, Bronson..    1  5   0  0   0  0   2  3  5   2   2  0  0  0  1  13
+1  Ojinnaka, Demonte...    1  3   1  2   0  0   0  0  0   1   3  0  0  0  0   6
+11 Knight III, Trey....    1  1   1  1   0  0   1  0  1   3   3  1  1  0  0  12
+12 Bunschoten, Niels...    3  5   2  3   1  2   1  2  3   3   9  0  0  2  0  20
+14 Franklin, Donovan...    1  1   0  0   0  0   0  1  1   0   2  0  0  0  0   2
+20 Barnes, Jordan......    3 12   1  5   3  4   2  3  5   3  10  4  0  0  0  29
+41 Rickman, Emondre....    1  3   0  0   1  1   0  1  1   1   3  0  1  2  0   7
+TM TEAM................                            2  2
+   Totals..............   22 68   9 25  17 23  12 34 46  20  70  8 12  8  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-32  .375    10-36  .278    22-68  .324
+3-Pt. FG%:  6-11  .545     3-14  .214     9-25  .360
+F Throw %:  3-5   .600    14-18  .778    17-23  .739
+Deadball rebounds: 2,1
+HOME TEAM: Drake (5-12 (3-2 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Wampler, Billy...... f  4  9   4  6   2  2   1  2  3   1  14  0  0  0  0  29
+35 McGlynn, Nick....... f  2  5   0  1   0  0   0  3  3   2   4  0  0  0  2  12
+04 McMurray, De'Antae.. g  2  5   1  3   1  2   0  4  4   3   6  5  3  0  3  29
+12 Timmer, Reed........ g  4 12   1  4   2  2   2  3  5   2  11  2  1  0  4  28
+23 Arogundade, Ore..... g  6 11   2  3   1  3   1  7  8   2  15  3  0  0  1  29
+00 Rivers, C.J.........    3  6   0  1   1  1   0  5  5   2   7  9  1  0  0  17
+03 Woodward, Graham....    4  7   2  4   0  0   0  2  2   2  10  1  2  0  0  16
+10 Thomas, T.J.........    6  7   0  0   0  4   0  2  2   2  12  0  1  2  0  18
+11 Enevold, Jacob......    0  0   0  0   2  2   1  1  2   1   2  1  0  0  0   8
+14 Rutter, A.J.........    0  2   0  1   0  0   1  0  1   0   0  0  0  0  0   1
+22 Schlatter, Casey....    1  4   0  1   2  3   0  4  4   0   4  0  0  0  0   9
+25 Dolven, Johannes....    1  1   0  0   0  0   0  0  0   0   2  0  0  0  0   1
+32 Kuenstling, Kory....    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   3
+TM TEAM................                         2  5  7
+   Totals..............   33 69  10 24  11 19   8 38 46  17  87 21  9  2 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-36  .389    19-33  .576    33-69  .478
+3-Pt. FG%:  6-14  .429     4-10  .400    10-24  .417
+F Throw %:  8-10  .800     3-9   .333    11-19  .579
+Deadball rebounds: 1
+Date: 01-11-17      Site: Des Moines, Iowa (Knapp Center)  Attendance: 2958
+Officials: John Higgins; Tom O'Neill; Brad Ferrie;
+Technical fouls: Indiana State-None. Drake-None.
+Score by Periods      1  2   Total
+Indiana State....... 33 37  - 70
+Drake............... 42 45  - 87

@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Missouri State vs DePaul (11-23-16)
+VISITORS: Missouri State (3-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  1  1   0  0   0  0   0  2  2   3   2  1  3  2  0  22
+24 Johnson,Alize....... f  2  4   1  2   0  0   0  2  2   2   5  1  2  0  0  17
+04 Miller,Dequon....... g  5  9   2  4   0  0   1  3  4   0  12  5  5  0  2  33
+14 Rousseau III,Ronnie. g  4  7   2  3   4  5   0  0  0   2  14  3  0  0  1  31
+20 Kreklow,Ryan........ g  3  5   2  3   0  0   0  1  1   2   8  1  0  0  1  18
+00 Martin,Jordan.......    0  0   0  0   0  2   0  0  0   1   0  0  0  0  0   2
+10 Rhodes,Jarrid.......    2  3   0  0   0  0   0  1  1   5   4  0  1  1  1  12
+11 Dixon,Jarred........    0  7   0  1   0  0   2  2  4   1   0  5  2  0  1  23
+15 Ruder,Austin........    2  6   2  6   0  1   0  2  2   0   6  1  0  0  1  16
+33 Kendrix,Chris.......    6 13   1  5   2  3   3  6  9   2  15  0  0  1  1  26
+TM TEAM................                         1  2  3
+   Totals..............   25 55  10 24   6 11   7 21 28  18  66 17 13  4  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-29  .414    13-26  .500    25-55  .455
+3-Pt. FG%:  7-16  .438     3-8   .375    10-24  .417
+F Throw %:  0-4   .000     6-7   .857     6-11  .545
+Deadball rebounds: 1
+HOME TEAM: DePaul (3-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 McCallum,Tre'Darius. f  5 11   0  3   0  0   2 10 12   3  10  2  4  2  4  38
+33 Hanel,Joe........... f  1  1   0  0   2  2   3  4  7   2   4  1  3  0  0  33
+04 Cyrus,Brandon....... g  1  6   0  1   0  0   1  1  2   3   2  2  2  0  0  30
+05 Garrett,Billy....... g  7 15   1  3   8  8   1  1  2   2  23  3  5  1  0  28
+11 Cain,Eli............ g  9 16   1  2   3  4   1  7  8   2  22  1  1  0  1  36
+03 Gage,Devin..........    2  2   0  0   1  2   1  0  1   2   5  1  1  1  0  17
+12 Gazi,Erten..........    0  0   0  0   0  0   0  1  1   0   0  0  1  0  0   3
+23 Eichelberger,Al.....    1  1   0  0   0  0   0  0  0   2   2  0  0  0  0   5
+51 Harrison-Docks,Chris    0  3   0  3   0  0   0  0  0   1   0  0  1  0  0  10
+TM TEAM................                         1  3  4
+   Totals..............   26 55   2 12  14 16  10 27 37  17  68 10 18  4  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-26  .346    17-29  .586    26-55  .473
+3-Pt. FG%:  0-8   .000     2-4   .500     2-12  .167
+F Throw %:  4-6   .667    10-10 1.000    14-16  .875
+Deadball rebounds: 0
+Date: 11-23-16      Site: Rosemont, Ill.  Attendance: 4387
+Officials: Brian O'Connell; Tim Clougherty; Anthony Franklin;
+Technical fouls: Missouri State-None. DePaul-None.
+Score by Periods      1  2   Total
+Missouri State...... 31 35  - 66
+DePaul.............. 22 46  - 68

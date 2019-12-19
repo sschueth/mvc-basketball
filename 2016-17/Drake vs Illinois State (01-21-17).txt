@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Drake vs Illinois State (01-21-17)
+VISITORS: Drake (6-14 (4-4 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Thomas, T.J......... f  2  7   1  1   2  4   5  3  8   4   7  0  2  0  1  24
+35 McGlynn, Nick....... f  0  1   0  0   2  2   3  2  5   3   2  0  2  0  0  21
+04 McMurray, De'Antae.. g  1  5   1  4   0  0   0  2  2   3   3  0  2  0  1  15
+12 Timmer, Reed........ g  3  8   2  4   5  6   0  3  3   0  13  3  0  0  1  21
+23 Arogundade, Ore..... g  1  8   1  5   2  2   1  1  2   4   5  1  2  0  1  24
+00 Rivers, C.J.........    1  3   0  2   0  0   1  5  6   1   2  2  4  0  0  17
+02 Wampler, Billy......    2 12   2  9   0  0   0  1  1   1   6  0  0  0  1  22
+03 Woodward, Graham....    5  8   2  5   1  1   0  1  1   0  13  2  1  0  1  25
+11 Enevold, Jacob......    0  1   0  0   0  0   0  2  2   1   0  0  1  2  0  12
+22 Schlatter, Casey....    3  6   1  2   0  0   0  2  2   1   7  2  0  0  1  19
+TM TEAM................                         4  1  5             2
+   Totals..............   18 59  10 32  12 15  14 23 37  18  58 10 16  2  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-26  .308    10-33  .303    18-59  .305
+3-Pt. FG%:  5-14  .357     5-18  .278    10-32  .313
+F Throw %:  5-7   .714     7-8   .875    12-15  .800
+Deadball rebounds: 2
+HOME TEAM: Illinois State (16-4 (8-0 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne,Phil.......... f  3  5   0  0   3  4   1  2  3   0   9  1  0  1  1  24
+11 McIntosh,MiKyle..... f  3 13   1  4   5  6   2  7  9   0  12  2  3  5  1  30
+23 Hawkins,Deontae..... f  7 10   2  4   3  5   2  3  5   4  19  0  1  0  0  19
+01 Lee,Paris........... g  0  6   0  4   4  6   0  4  4   2   4  5  5  1  2  30
+12 Wills,Tony.......... g  2  5   1  4   0  0   0  0  0   2   5  2  0  2  1  27
+02 Clayton,DJ..........    6 10   1  2   2  2   4  3  7   0  15  2  2  1  0  33
+03 Evans,Keyshawn......    2  5   2  4   0  0   0  3  3   2   6  3  2  0  1  21
+04 Ndiaye,Daouda.......    0  0   0  0   0  0   2  2  4   1   0  0  1  1  0  13
+25 Williams,Madison....    1  1   0  0   0  0   0  0  0   1   2  0  0  0  0   3
+TM TEAM................                         1  4  5
+   Totals..............   24 55   7 22  17 23  12 28 40  12  72 15 14 11  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-29  .379    13-26  .500    24-55  .436
+3-Pt. FG%:  6-15  .400     1-7   .143     7-22  .318
+F Throw %:  2-4   .500    15-19  .789    17-23  .739
+Deadball rebounds: 2
+Date: 01-21-17      Site: Doug Collins Court at Redbird Arena  Attendance: 8123
+Officials: Ed Crenshaw; James Durham; Jeff Malham;
+Technical fouls: Drake-None. Illinois State-None.
+Score by Periods      1  2   Total
+Drake............... 26 32  - 58
+Illinois State...... 30 42  - 72

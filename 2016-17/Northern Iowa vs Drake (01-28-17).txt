@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Northern Iowa vs Drake (01-28-17)
+VISITORS: Northern Iowa (10-11 (5-5 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Carlson, Klint...... f  6  9   3  5   2  5   0  6  6   1  17  2  2  0  0  39
+25 Koch, Bennett....... f  7  8   0  1   2  2   1  4  5   3  16  0  3  2  1  29
+13 McCloud, Juwan...... g  1  3   0  0   0  0   1  2  3   1   2  1  1  0  1  16
+20 Morgan, Jeremy...... g  4 10   0  5   8 10   0  1  1   4  16  1  1  0  0  31
+23 Ashton, Jordan...... g  0  7   0  2   6  6   1  6  7   2   6  5  2  0  1  37
+03 Friedman, Ted.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+24 Brown, Isaiah.......    1  3   0  1   0  0   0  1  1   0   2  1  1  0  0  11
+30 Haldeman, Spencer...    1  4   1  3   2  2   1  5  6   2   5  0  1  0  2  24
+34 McDonnell, Luke.....    3  4   1  1   0  2   0  4  4   0   7  0  2  1  0  11
+TM TEAM................                         1  1  2             1
+   Totals..............   23 48   5 18  20 27   5 30 35  13  71 10 14  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-26  .423    12-22  .545    23-48  .479
+3-Pt. FG%:  1-10  .100     4-8   .500     5-18  .278
+F Throw %:  2-2  1.000    18-25  .720    20-27  .741
+Deadball rebounds: 3,1
+HOME TEAM: Drake (7-15 (5-5 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Thomas, T.J......... f  0  3   0  1   0  0   0  1  1   2   0  0  1  0  0  17
+35 McGlynn, Nick....... f  3  6   0  2   0  0   1  4  5   4   6  0  1  2  1  23
+04 McMurray, De'Antae.. g  3  8   1  5   0  0   0  4  4   4   7  1  4  0  2  24
+12 Timmer, Reed........ g  3  8   1  4   3  4   0  2  2   3  10  1  0  0  0  26
+23 Arogundade, Ore..... g  6 11   3  6   0  0   1  2  3   2  15  2  1  0  1  26
+00 Rivers, C.J.........    2  8   0  1   0  0   3  4  7   3   4  1  1  0  2  16
+02 Wampler, Billy......    1  9   0  6   4  6   1  1  2   1   6  0  0  0  0  19
+03 Woodward, Graham....    3  7   1  4   0  0   0  3  3   1   7  3  1  0  0  24
+11 Enevold, Jacob......    0  0   0  0   0  0   0  2  2   0   0  1  0  1  0   8
+22 Schlatter, Casey....    4  5   0  0   0  0   2  0  2   2   8  0  0  0  0  14
+32 Kuenstling, Kory....    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   3
+TM TEAM................                         3  1  4             1
+   Totals..............   25 65   6 29   7 10  11 24 35  23  63  9 10  3  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-30  .300    16-35  .457    25-65  .385
+3-Pt. FG%:  1-13  .077     5-16  .313     6-29  .207
+F Throw %:  3-5   .600     4-5   .800     7-10  .700
+Deadball rebounds: 1
+Date: 01-28-17      Site: Des Moines, Iowa (Knapp Center)  Attendance: 5237
+Officials: Paul Janssen; Randy Heimerman; Brad Gaston;
+Technical fouls: Northern Iowa-None. Drake-, Rivers, C.J..
+Score by Periods      1  2   Total
+Northern Iowa....... 25 46  - 71
+Drake............... 22 41  - 63

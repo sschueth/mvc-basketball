@@ -1,0 +1,56 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Illinois State vs Bradley (01-18-17)
+VISITORS: Illinois State (15-4, 7-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne,Phil.......... f  4  6   0  0   1  2   5  5 10   4   9  1  1  0  0  22
+11 McIntosh,MiKyle..... f  0  3   0  2   3  4   1  3  4   3   3  4  4  0  2  24
+23 Hawkins,Deontae..... f  7 13   4  5   2  2   1  9 10   0  20  2  2  0  2  24
+01 Lee,Paris........... g  5 10   4  7   0  0   0  2  2   1  14  5  5  0  6  28
+12 Wills,Tony.......... g  2  6   0  3   0  0   0  2  2   2   4  2  0  1  0  24
+02 Clayton,DJ..........    3  3   1  1   1  2   1  3  4   4   8  2  0  0  0  21
+03 Evans,Keyshawn......    3  7   2  6   1  2   0  1  1   1   9  3  2  0  0  22
+04 Ndiaye,Daouda.......    1  2   0  0   0  0   1  2  3   1   2  1  1  2  0  20
+05 Hein,Matt...........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+15 Washington,Andre....    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   3
+25 Williams,Madison....    0  2   0  0   0  2   0  1  1   2   0  0  1  0  0   8
+31 Thompson,Javaka.....    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+TM TEAM................                            1  1
+   Totals..............   25 53  11 24   8 14   9 29 38  18  69 20 17  3 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-31  .452    11-22  .500    25-53  .472
+3-Pt. FG%:  6-15  .400     5-9   .556    11-24  .458
+F Throw %:  2-3   .667     6-11  .545     8-14  .571
+Deadball rebounds: 1
+HOME TEAM: Bradley (8-12, 3-4 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  1  5   0  1   0  2   1  3  4   2   2  0  1  0  1  20
+12 Bar, Koch........... c  1  2   0  0   0  0   1  3  4   2   2  1  2  0  0  18
+03 Pittman, Antoine.... g  2  4   1  3   6  7   0  1  1   1  11  3  2  0  2  29
+05 Brown, Darrell...... g  1  7   0  2   4  5   1  1  2   2   6  3  3  0  1  29
+23 Lautier-Ogunleye, D. g  2  6   1  1   0  0   1  2  3   1   5  1  1  0  1  17
+02 Suggs, Ronnie.......    0  2   0  2   0  0   1  1  2   0   0  0  0  0  0   3
+13 van Bree, Luuk......    3  6   3  4   0  0   0  1  1   3   9  0  0  0  2  21
+14 Hanley, Peter.......    0  0   0  0   1  2   1  1  2   1   1  1  0  0  0   2
+24 McGlaston, JoJo.....    0  3   0  2   0  1   0  3  3   0   0  0  2  1  0  15
+25 Kennell, Nate.......    1  3   0  1   0  0   0  0  0   0   2  0  1  0  0   6
+30 Barker, Callum......    1  1   0  0   0  0   0  4  4   0   2  0  0  0  2  15
+34 Foster, Alex........    0  2   0  0   2  2   2  2  4   1   2  0  0  0  0   3
+35 Hodgson, Jayden.....    3  6   1  2   0  1   0  1  1   1   7  2  2  0  1  22
+TM TEAM................                            1  1             1
+   Totals..............   15 47   6 18  13 20   8 24 32  14  49 11 15  1 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  6-20  .300     9-27  .333    15-47  .319
+3-Pt. FG%:  2-6   .333     4-12  .333     6-18  .333
+F Throw %:  3-7   .429    10-13  .769    13-20  .650
+Deadball rebounds: 2
+Date: 01-18-17      Site: Peoria, Ill. (Carver Arena)  Attendance: 7170
+Officials: Joe DeRosa; Bret Smith; Brad Ferrie;
+Technical fouls: Illinois State-None. Bradley-None.
+Score by Periods      1  2   Total
+Illinois State...... 36 33  - 69
+Bradley............. 17 32  - 49

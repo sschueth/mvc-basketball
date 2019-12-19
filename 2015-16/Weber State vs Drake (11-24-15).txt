@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Weber State vs Drake (11-24-15)
+VISITORS: Weber State (3-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+21 BOLOMBOY, Joel...... *  5 12   0  1   2  6   5  7 12   1  12  1  2  2  1  34
+24 CANNON, McKay....... *  4  6   4  6   2  2   2  0  2   2  14  3  2  0  1  28
+25 BAKER, Dusty........ *  0  5   0  3   0  0   1  2  3   0   0  2  1  0  1  20
+30 SENGLIN, Jeremy..... * 12 18   8 12   2  4   0  6  6   2  34  1  2  0  0  36
+44 BRAXTON, Zach....... *  0  3   0  0   0  0   1  4  5   3   0  0  0  2  1  23
+02 WILLIAMS, Juwan.....    0  1   0  0   0  0   0  0  0   0   0  0  1  0  0   4
+05 JOHN, Cody..........    1  4   0  2   0  0   0  1  1   1   2  2  0  0  0  16
+23 GITTENS, Richaud....    3  5   2  4   0  0   0  2  2   1   8  3  0  0  0  20
+35 HILL, Kyndahl.......    1  4   0  2   2  3   2  3  5   2   4  0  0  0  0  19
+TM TEAM................                         1  2  3
+   Totals..............   26 58  14 30   8 15  12 27 39  12  74 12  8  4  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-36  .389    12-22  .545    26-58  .448
+3-Pt. FG%:  5-14  .357     9-16  .563    14-30  .467
+F Throw %:  0-1   .000     8-14  .571     8-15  .533
+Deadball rebounds: 2
+HOME TEAM: Drake (2-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Rivers, C.J......... *  1  2   0  0   0  0   0  3  3   2   2  1  1  0  0  21
+03 Woodward, Graham.... *  7 12   4  7   0  0   0  3  3   4  18  1  3  0  1  25
+11 Enevold, Jacob...... *  0  1   0  0   0  0   1  3  4   2   0  1  0  0  0  16
+12 Timmer, Reed........ *  6 13   1  2   2  2   0  4  4   3  15  4  1  0  0  34
+31 Abrahamson, Kale.... *  4 14   3  9   0  0   0  4  4   1  11  1  0  0  0  28
+01 Madison, Karl.......    2  2   0  0   1  1   0  0  0   1   5  3  1  0  0  14
+02 Wampler, Billy......    1  4   1  1   0  0   0  0  0   1   3  0  0  0  0  13
+22 Schlatter, Casey....    0  3   0  1   0  0   1  1  2   2   0  0  0  0  2  11
+23 Arogundade, Ore.....    0  1   0  0   0  0   0  4  4   0   0  0  1  0  0  12
+35 McGlynn, Nick.......    0  2   0  0   0  0   1  1  2   1   0  0  1  0  0  10
+44 Olejniczak, Dominik.    2  3   0  0   0  0   2  1  3   0   4  0  2  0  0  16
+TM Team................                         2  1  3
+   Totals..............   23 57   9 20   3  3   7 25 32  17  58 11 10  0  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-29  .414    11-28  .393    23-57  .404
+3-Pt. FG%:  4-7   .571     5-13  .385     9-20  .450
+F Throw %:  0-0   .000     3-3  1.000     3-3  1.000
+Deadball rebounds: 1
+Date: 11-24-15      Site: Germain Arena (Fort Myers)  Attendance: 1053
+Officials: Rick Crawford; Kevin Mathis; Brent Hampton;
+Technical fouls: Weber State-None. Drake-None.
+Score by Periods      1  2   Total
+Weber State......... 33 41  - 74
+Drake............... 28 30  - 58

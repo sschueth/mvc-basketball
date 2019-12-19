@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                          Bradley vs Drake (01-30-16)
+VISITORS: Bradley (3-20 (1-9 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  2  7   2  4   5  7   1  2  3   3  11  0  3  0  1  29
+13 van Bree, Luuk...... f  4  6   3  4   2  2   1  3  4   4  13  1  1  1  0  26
+30 Barker, Callum...... f  1  2   0  0   0  0   2  1  3   4   2  1  3  0  1  13
+03 Pittman, Antoine.... g  7 14   2  5   1  1   1  0  1   5  17  1  1  0  1  28
+22 Suggs, Ronnie....... g  4 14   0  3   0  0   0  9  9   4   8  1  0  0  1  36
+04 Okafor, Joel........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   1
+05 Cooper, Davante.....    2  2   0  0   0  0   1  2  3   0   4  1  0  2  0  15
+14 Hanley, Peter.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+23 Lautier-Ogunleye, D.    4 13   0  4   4  5   1  4  5   5  12  6  1  0  1  36
+24 James, Scottie......    1  3   1  2   0  0   2  2  4   3   3  0  1  0  0  16
+TM Team................                         2  1  3             1
+   Totals..............   25 61   8 22  12 15  11 24 35  29  70 11 11  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-25  .520    12-36  .333    25-61  .410
+3-Pt. FG%:  4-8   .500     4-14  .286     8-22  .364
+F Throw %:  5-7   .714     7-8   .875    12-15  .800
+Deadball rebounds: 0
+HOME TEAM: Drake (6-16 (1-9 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+31 Abrahamson, Kale.... f  5 12   1  5   2  4   2  3  5   3  13  1  3  0  2  31
+11 Enevold, Jacob...... c  1  2   0  0   1  2   1  3  4   1   3  0  1  1  0  19
+01 Madison, Karl....... g  0  2   0  0   0  0   1  1  2   2   0  0  1  0  0  23
+03 Woodward, Graham.... g  7 11   4  5   5  6   0  3  3   4  23  2  1  0  1  35
+12 Timmer, Reed........ g  4 11   0  1  11 12   0  3  3   2  19  4  1  0  0  29
+02 Wampler, Billy......    2  4   1  3   2  2   1  1  2   2   7  0  0  0  0   5
+22 Schlatter, Casey....    0  0   0  0   0  0   0  1  1   0   0  2  1  0  0   8
+23 Arogundade, Ore.....    1  5   1  2   3  4   0  9  9   3   6  0  1  0  0  28
+35 McGlynn, Nick.......    0  0   0  0   1  2   0  0  0   0   1  0  0  0  0   7
+44 Olejniczak, Dominik.    3  3   0  0   2  4   2  2  4   1   8  1  1  2  0  15
+TM Team................                         2  2  4
+   Totals..............   23 50   7 16  27 36   9 28 37  18  80 10 10  3  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-28  .429    11-22  .500    23-50  .460
+3-Pt. FG%:  4-9   .444     3-7   .429     7-16  .438
+F Throw %: 10-12  .833    17-24  .708    27-36  .750
+Deadball rebounds: 3
+Date: 01-30-16      Site: Des Moines, Iowa (Knapp Center)  Attendance: 3254
+Officials: Terry Oglesby; Brad Ferrie; Ed Crenshaw;
+Technical fouls: Bradley-None. Drake-None.
+Score by Periods      1  2   Total
+Bradley............. 35 35  - 70
+Drake............... 38 42  - 80

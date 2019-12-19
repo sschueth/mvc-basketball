@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Air Force vs Southern Illinois (11-13-15)
+VISITORS: Air Force (0-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+32 Manning,Ryan........ f  2  8   1  5   0  0   1  1  2   3   5  2  1  1  0  27
+35 Graham,Hayden....... f  7  8   0  1   5  7   4  6 10   3  19  1  0  0  0  37
+41 Moer,Zach........... c  3  7   0  0   5  6   2  2  4   2  11  0  2  0  0  25
+05 Kocur,Zach.......... g  1  4   1  4   5  6   0  1  1   5   8  1  4  0  0  13
+20 Lyons,Trevor........ g  6 11   1  4   5  6   0  8  8   4  18  3  2  0  1  38
+02 Siples,C.J..........    0  0   0  0   5  6   0  1  1   3   5  0  1  0  0   9
+11 Tuss,Joe............    1  6   0  3   0  0   1  1  2   0   2  1  1  0  0  14
+24 James,Dezmond.......    1  6   1  3   0  0   0  1  1   0   3  2  1  0  1  24
+25 Broekhuis,Kyle......    1  1   0  0   2  2   0  3  3   1   4  0  0  0  0  13
+TM Team................                         2  2  4
+   Totals..............   22 51   4 20  27 33  10 26 36  21  75 10 12  1  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-27  .481     9-24  .375    22-51  .431
+3-Pt. FG%:  1-7   .143     3-13  .231     4-20  .200
+F Throw %: 11-15  .733    16-18  .889    27-33  .818
+Deadball rebounds: 4
+HOME TEAM: Southern Illinois (1-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 Olaniyan,Bola....... f  4  5   0  0   0  0   6  6 12   2   8  3  0  0  2  29
+33 O'Brien,Sean........ f  3  8   0  2   2  4   1  3  4   5   8  2  1  0  0  23
+01 Rodriguez,Mike...... g  5 10   0  2   5 11   0  1  1   4  15  2  0  0  1  26
+11 Smithpeters,Tyler... g  4  9   3  6   3  4   0  2  2   3  14  3  2  0  0  31
+25 Beane,Anthony....... g  5 16   2  6   1  3   0  4  4   3  13  1  0  0  1  30
+05 Vincent,Leo.........    2  4   1  3   0  0   0  1  1   0   5  2  2  0  1  16
+10 Djimde,Ibby.........    0  0   0  0   0  0   0  0  0   2   0  0  0  0  0   3
+15 Weiher,Austin.......    1  4   0  1   2  2   4  0  4   2   4  1  0  0  2  22
+22 Fletcher,Armon......    4 11   0  4   2  2   2  1  3   5  10  0  0  1  1  17
+24 Stradnieks,Rudy.....    0  0   0  0   0  2   1  1  2   0   0  0  0  0  0   3
+32 Leek,Deng...........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+TM Team................                         3  2  5             1
+   Totals..............   28 67   6 24  15 28  17 21 38  26  77 14  6  1  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-35  .343    16-32  .500    28-67  .418
+3-Pt. FG%:  2-14  .143     4-10  .400     6-24  .250
+F Throw %:  4-11  .364    11-17  .647    15-28  .536
+Deadball rebounds: 9
+Date: 11-13-15      Site: Carbondale, IL SIU Arena  Attendance: 4759
+Officials: David Hall; Randy McCall; Randy Heimerman;
+Technical fouls: Air Force-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+Air Force........... 38 37  - 75
+Southern Illinois... 30 47  - 77

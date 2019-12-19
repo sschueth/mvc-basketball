@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     UC Irvine vs Illinois State (03-15-17)
+VISITORS: UC Irvine (21-15 (12-4))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Galloway, Jonathan.. f  3  6   0  0   0  2   4  7 11   2   6  0  0  1  0  34
+13 Smith, Brandon...... f  0  2   0  0   0  0   2  1  3   1   0  2  1  0  0  19
+12 Dimakopoulos,Ioannis c  4 11   0  2   1  3   0  5  5   1   9  0  1  0  0  18
+00 Martin, Jaron....... g  9 17   5 10   1  2   0  0  0   2  24  3  2  0  0  34
+10 Nelson, Luke........ g  6 13   5 10   0  2   1  2  3   3  17  9  4  1  5  38
+02 Hazzard, Max........    1  4   1  3   0  0   0  1  1   1   3  1  0  0  0   6
+11 Edgar Jr., John.....    0  1   0  1   0  0   0  0  0   1   0  0  0  0  0   4
+14 Leonard, Evan.......    1  1   0  0   0  0   0  0  0   0   2  0  0  0  0   1
+23 Traylor, Darrian....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+24 Worku, Eyassu.......    2  8   1  3   0  0   0  3  3   1   5  1  0  0  0  19
+25 Rivers, Spencer.....    1  1   1  1   0  1   0  0  0   0   3  0  0  0  0   3
+42 Rutherford, Tommy...    1  2   0  0   0  0   3  2  5   4   2  0  1  0  1  20
+55 Greene, Brad........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+TM TEAM................                         4  1  5             1
+   Totals..............   28 66  13 30   2 10  14 22 36  16  71 16 10  2  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-31  .387    16-35  .457    28-66  .424
+3-Pt. FG%:  8-14  .571     5-16  .313    13-30  .433
+F Throw %:  2-5   .400     0-5   .000     2-10  .200
+Deadball rebounds: 2
+HOME TEAM: Illinois State (28-6 (17-1))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne,Phil.......... f  5  6   0  0   1  2   3  4  7   5  11  2  0  2  0  19
+11 McIntosh,MiKyle..... f  5 12   1  3   2  2   2  6  8   2  13  1  2  2  1  27
+23 Hawkins,Deontae..... f  8 11   6  6   0  0   1  4  5   3  22  1  3  0  0  25
+01 Lee,Paris........... g  5 10   2  3   1  2   0  2  2   1  13  7  0  0  1  31
+12 Wills,Tony.......... g  2  6   1  5   0  0   0  3  3   2   5  4  1  1  0  33
+02 Clayton,DJ..........    2  5   1  1   1  2   1  2  3   0   6  0  2  0  1  12
+03 Evans,Keyshawn......    3  8   2  6   0  0   0  3  3   0   8  4  0  0  3  21
+04 Ndiaye,Daouda.......    2  2   0  0   2  3   2  5  7   0   6  0  0  1  0  20
+15 Washington,Andre....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+25 Williams,Madison....    0  1   0  1   1  2   0  0  0   0   1  3  0  0  0  10
+31 Thompson,Javaka.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                         2  1  3
+   Totals..............   32 61  13 25   8 13  11 30 41  13  85 22  8  6  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-34  .500    15-27  .556    32-61  .525
+3-Pt. FG%:  7-12  .583     6-13  .462    13-25  .520
+F Throw %:  2-4   .500     6-9   .667     8-13  .615
+Deadball rebounds: 1
+Date: 03-15-17      Site: Doug Collins Court at Redbird Arena  Attendance: 5124
+Officials: Jon Campbell; Rob Kueneman; Matt Morales;
+Technical fouls: UC Irvine-None. Illinois State-None.
+Score by Periods      1  2   Total
+UC Irvine........... 34 37  - 71
+Illinois State...... 43 42  - 85

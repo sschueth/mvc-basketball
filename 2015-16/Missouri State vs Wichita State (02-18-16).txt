@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Missouri State vs Wichita State (02-18-16)
+VISITORS: Missouri State (11-16 (7-8 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... *  7  8   0  0   0  2   2  6  8   2  14  1  2  1  0  31
+11 Dixon,Jarred........ *  3 11   0  1   2  2   0  1  1   1   8  1  2  0  2  30
+30 Boone,Camyn......... *  4  7   0  0   1  2   3  1  4   1   9  0  2  0  0  19
+33 Kendrix,Chris....... *  4 12   1  5   2  2   0  4  4   3  11  2  3  0  0  32
+4  MILLER,Dequon....... *  4 10   2  4   2  3   1  3  4   1  12  7  2  0  0  34
+03 Gerring,Loomis......    1  3   0  1   0  0   0  1  1   3   2  0  3  0  0   8
+20 KREKLOW,Ryan........    1  6   0  3   6  6   0  0  0   1   8  0  2  0  0  26
+25 Martin,Jordan.......    1  1   0  0   2  2   2  0  2   3   4  0  2  0  1   7
+50 McCullough, Tyler...    0  1   0  0   0  0   1  1  2   1   0  0  0  0  0  13
+TM Team................                         4  2  6
+   Totals..............   25 59   3 14  15 19  13 19 32  16  68 11 18  1  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-25  .400    15-34  .441    25-59  .424
+3-Pt. FG%:  1-3   .333     2-11  .182     3-14  .214
+F Throw %:  6-7   .857     9-12  .750    15-19  .789
+Deadball rebounds: 0
+HOME TEAM: Wichita State (20-7 (13-2 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Brown, Zach......... *  7 11   1  4   1  1   0  2  2   1  16  1  1  0  1  26
+03 Wessel, Evan........ *  0  2   0  2   0  0   1  0  1   3   0  0  0  0  0  13
+23 VanVleet, Fred...... *  6  9   1  2   2  2   0  2  2   4  15  5  1  0  0  24
+24 Morris, Shaquille... *  3  5   0  0   1  1   4  4  8   0   7  0  2  0  2  17
+31 Baker, Ron.......... *  5  9   2  5   3  4   0  4  4   0  15  5  2  1  4  29
+00 Kelly, Rashard......    5  7   0  0   2  4   0  3  3   2  12  4  1  0  3  21
+05 Bush, Zach..........    0  0   0  0   0  0   0  0  0   0   0  1  0  0  0   2
+10 Taylor II, Ty.......    1  2   1  1   0  0   0  0  0   0   3  0  0  0  0   4
+14 Simon, John Robert..    1  1   1  1   0  0   0  0  0   1   3  0  0  0  0   3
+15 Grady, Anton........    3  6   0  0   1  2   0  3  3   2   7  1  2  1  0  13
+20 Nurger, Rauno.......    2  2   0  0   0  0   0  1  1   1   4  0  0  0  0   5
+21 Wamukota, Bush......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  1   6
+25 Hamilton, Eric......    2  3   0  0   2  2   2  0  2   1   6  0  0  0  0   5
+32 McDuffie, Markis....    3  4   0  0   2  2   2  3  5   2   8  0  1  0  2  13
+33 Frankamp, Conner....    1  5   1  3   0  0   0  2  2   0   3  0  0  0  0  19
+TM Team................                         1  1  2
+   Totals..............   39 66   7 18  14 18  10 25 35  17  99 17 10  2 13 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 21-38  .553    18-28  .643    39-66  .591
+3-Pt. FG%:  3-11  .273     4-7   .571     7-18  .389
+F Throw %:  6-8   .750     8-10  .800    14-18  .778
+Deadball rebounds: 2
+Date: 02-18-16      Site: Wichita, Kan./Charles Koch Ar  Attendance: 10506
+Officials: Mike Stuart; Zelton Steed; Terry Davis;
+Technical fouls: Missouri State-None. Wichita State-None.
+Score by Periods      1  2   Total
+Missouri State...... 27 41  - 68
+Wichita State....... 51 48  - 99

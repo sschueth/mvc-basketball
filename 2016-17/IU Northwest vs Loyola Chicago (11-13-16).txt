@@ -1,0 +1,62 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   IU Northwest vs Loyola Chicago (11-13-16)
+VISITORS: IU Northwest (1-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+13 Pennington, JJ...... f  6 13   2  4   0  0   0  2  2   3  14  0  2  0  0  29
+24 Mosser, John........ f  0  1   0  1   0  0   1  2  3   0   0  1  2  1  1  18
+01 Alexander, Ronald... g  2  6   0  0   0  1   2  5  7   3   4  2  3  0  2  22
+10 Davis, Darrius...... g  4 10   1  6   2  2   1  1  2   1  11  0  0  0  1  24
+12 Jackson, Jovan...... g  5 15   0  3   4  4   2  2  4   2  14  1  5  0  0  26
+00 Gooden, Vince.......    3 10   1  5   1  1   1  0  1   4   8  0  2  1  2  22
+03 Haden, Dwayne.......    0  2   0  1   0  0   0  1  1   2   0  1  0  1  1  12
+04 Davis, Eon..........    0  1   0  0   0  0   2  0  2   1   0  0  3  0  0   8
+11 Ramirez, Dylan......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   7
+21 Williams, Austin....    0  1   0  1   0  0   0  1  1   0   0  0  0  0  0   5
+22 Delis, Demetri......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+23 Wilson, Isaiah......    0  3   0  0   0  0   0  0  0   2   0  1  2  0  1  14
+34 Moore, Khiry........    0  2   0  0   0  0   0  2  2   4   0  0  0  0  1   9
+35 Wilson, Trevon......    0  0   0  0   0  1   0  2  2   0   0  0  1  0  0   2
+TM TEAM................                                             1
+   Totals..............   20 64   4 21   7  9   9 18 27  22  51  6 21  3  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-31  .387     8-33  .242    20-64  .313
+3-Pt. FG%:  2-11  .182     2-10  .200     4-21  .190
+F Throw %:  3-4   .750     4-5   .800     7-9   .778
+Deadball rebounds: 0
+HOME TEAM: Loyola Chicago (2-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+31 Kirby, Maurice...... f  0  3   0  0   0  0   2  2  4   2   0  2  1  1  0  13
+00 Ingram, Donte....... g  1  3   0  1   0  0   1  3  4   1   2  3  0  0  2  15
+13 Custer, Clayton..... g  9 11   3  5   1  2   0  1  1   2  22  2  1  0  1  19
+14 Richardson, Ben..... g  4  5   2  3   0  0   0  0  0   0  10  2  0  0  4  17
+35 Doyle, Milton....... g  3  7   1  4   6  6   0  4  4   0  13  5  1  0  0  18
+01 Lisha, Glorind......    1  2   0  1   0  0   0  0  0   1   2  0  1  0  1   6
+02 Baughman, Jake......    1  1   0  0   0  0   0  0  0   0   2  0  0  0  0   5
+04 Skokna, Bruno.......    2  4   0  2   2  2   1  0  1   1   6  3  4  0  0  18
+10 Cvorovic, Igor......    1  5   0  0   0  2   2  2  4   1   2  1  1  0  0   7
+22 Chastain, Matt......    2  3   1  2   0  0   2  3  5   2   5  0  1  2  0  16
+23 Satterwhite, Cameron    1  3   1  3   4  4   0  3  3   2   7  2  2  0  0  14
+24 Jackson, Aundre.....    4  4   1  1   2  6   2  5  7   0  11  0  2  0  2  17
+25 Smith, Tyson........    0  4   0  3   0  0   0  2  2   0   0  2  0  0  1   8
+30 Burt, Byron.........    2  2   2  2   0  0   0  3  3   1   6  0  2  0  1   5
+32 Granic, Vlatko......    3  3   2  2   0  0   1  0  1   1   8  0  2  0  0  14
+33 Woodyard, Cameron...    1  2   0  0   0  0   0  1  1   0   2  1  0  1  1   4
+44 DiNardi, Nick.......    1  1   0  0   0  0   1  3  4   1   2  0  0  0  0   4
+TM TEAM................                         1  5  6
+   Totals..............   36 63  13 29  15 22  13 37 50  15 100 23 18  4 13 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-26  .538    22-37  .595    36-63  .571
+3-Pt. FG%:  6-13  .462     7-16  .438    13-29  .448
+F Throw %: 11-16  .688     4-6   .667    15-22  .682
+Deadball rebounds: 3
+Date: 11-13-16      Site: Chicago, Ill. - Gentile Arena  Attendance: 1092
+Officials: Rick Crawford; Jeb Hartness; Ervin Wilson;
+Technical fouls: IU Northwest-None. Loyola Chicago-None.
+Score by Periods      1  2   Total
+IU Northwest........ 29 22  - 51
+Loyola Chicago...... 45 55  -100

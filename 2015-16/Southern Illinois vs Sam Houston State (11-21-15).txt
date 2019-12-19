@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+               Southern Illinois vs Sam Houston State (11-21-15)
+VISITORS: Southern Illinois (4-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Rodriguez,Mike...... *  4 10   0  1   5  6   0  0  0   3  13  5  2  0  3  34
+11 Smithpeters,Tyler... *  2  5   2  3   0  0   0  0  0   4   6  2  0  0  1  21
+23 Olaniyan,Bola....... *  0  0   0  0   8  8   1  7  8   5   8  0  3  0  1  24
+25 Beane,Anthony....... *  7 17   3  4   4  4   1  2  3   4  21  1  5  0  4  30
+33 O'Brien,Sean........ *  6 10   0  2   5  7   1  6  7   3  17  1  3  0  1  36
+05 Vincent,Leo.........    6  8   4  6   0  0   1  1  2   1  16  0  1  0  1  35
+10 Djimde,Ibby.........    0  0   0  0   2  4   0  5  5   4   2  2  2  0  0  17
+14 Mannie,Bobby........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+15 Weiher,Austin.......    0  0   0  0   1  2   0  0  0   0   1  0  0  0  0   2
+22 Fletcher,Armon......    0  3   0  2   2  2   0  1  1   4   2  2  1  1  0  22
+24 Stradnieks,Rudy.....    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+TM Team................                         2  3  5
+   Totals..............   25 54   9 18  27 33   6 25 31  28  86 13 17  1 11 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-22  .409    14-27  .519    25-54  .463
+3-Pt. FG%:  4-9   .444     5-9   .556     9-18  .500
+F Throw %: 11-13  .846    11-12  .917    27-33  .818
+Deadball rebounds: 2
+HOME TEAM: Sam Houston State (1-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 Henderson, Dakarai.. *  5 11   2  6   6  8   0  2  2   0  18  2  2  0  0  37
+11 Barnes, Jalin....... *  3  5   0  1   2  3   0  3  3   4   8  6  3  0  1  32
+13 Majauskas, Aurimas.. *  6  8   1  2   3  4   0  2  2   5  16  0  3  1  1  21
+20 Williams, Jamal..... *  4  7   0  2   0  0   1  8  9   2   8  7  3  0  2  42
+24 Butler, Torry....... *  1  2   0  0   2  2   2  5  7   4   4  3  5  0  0  18
+00 Almanza, Albert.....    1  1   1  1   0  0   0  0  0   3   3  1  0  0  0   8
+01 Jackson, Ameer......    3  8   3  5   5 11   0  1  1   4  14  0  2  0  0  26
+04 Spivey, Jovante'....    1  4   1  2   0  0   0  0  0   1   3  2  2  0  0  18
+23 Sands, Andre........    3  6   0  0   0  1   1  3  4   4   6  2  1  0  0  20
+33 Fortin, Marc........    0  0   0  0   1  2   0  0  0   1   1  0  0  0  0   3
+TM Team................                            3  3
+   Totals..............   27 52   8 19  19 31   4 27 31  28  81 23 21  1  4 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-26  .538    12-21  .571    27-52  .519
+3-Pt. FG%:  4-9   .444     3-8   .375     8-19  .421
+F Throw %:  5-10  .500    13-19  .684    19-31  .613
+Deadball rebounds: 7
+Date: 11-21-15      Site: Huntsville, Texas  Attendance: 1008
+Officials: Brent Meaux; Rob Wolff; Roger Schmitz;
+Technical fouls: Southern Illinois-None. Sam Houston State-None.
+Score by Periods      1  2 OT   Total
+Southern Illinois... 33 44  9  - 86
+Sam Houston State... 37 40  4  - 81

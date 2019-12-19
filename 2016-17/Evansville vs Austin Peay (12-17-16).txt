@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Evansville vs Austin Peay (12-17-16)
+VISITORS: Evansville (8-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+44 Howard, David....... f  2  4   0  0   0  0   3  3  6   3   4  0  3  0  0  18
+14 Vucetic, Sergej..... c  0  1   0  0   0  0   0  1  1   2   0  0  0  0  0   3
+00 Taylor, Ryan........ g  3  9   1  3   2  2   1  0  1   3   9  2  2  0  2  33
+03 Brown, Jaylon....... g  9 18   1  3   6  6   0  3  3   1  25  2  1  0  0  40
+25 Gibson, Duane....... g  3  5   0  0   2  2   0  4  4   4   8  4  2  0  0  22
+02 Benzon, Christian...    8 10   0  1   2  5   3  4  7   3  18  2  1  0  2  33
+04 Eaves, Jaiveon......    3  5   0  1   0  1   0  2  2   0   6  2  0  0  0  14
+05 Hainna, Solomon.....    1  1   0  0   1  2   0  1  1   3   3  0  1  0  0  13
+15 Traore, Dalen.......    1  2   0  0   2  4   2  4  6   4   4  0  2  0  1  24
+TM TEAM................                         1  4  5             1
+   Totals..............   30 55   2  8  15 22  10 26 36  23  77 12 13  0  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-25  .560    16-30  .533    30-55  .545
+3-Pt. FG%:  2-4   .500     0-4   .000     2-8   .250
+F Throw %:  6-10  .600     9-12  .750    15-22  .682
+Deadball rebounds: 1
+HOME TEAM: Austin Peay (4-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 SAVAGE, Jared....... f  0  6   0  4   0  0   0  2  2   1   0  0  1  0  1  15
+03 PORTER-BUNTON, Chris f  1  3   1  1   0  0   1  1  2   5   3  2  1  0  0  17
+24 DOBBS, Jartavious... c  1  2   0  0   0  0   0  1  1   3   2  0  1  0  0  10
+04 ROBINSON, Josh...... g  5 19   2  9  12 13   1  0  1   1  24  3  3  0  0  40
+10 IVORY, Tre'......... g  1  1   1  1   0  0   1  0  1   3   3  4  1  0  0  28
+01 DIOP, Assane........    4  6   0  0   1  4   4  6 10   5   9  2  1  1  0  20
+25 CLAYTON, Dre'Kalo...    0  3   0  2   0  0   0  2  2   2   0  0  0  0  0   7
+32 MURRY, John.........    2  4   1  1   2  2   1  1  2   0   7  0  0  0  0  15
+42 JONES, Kenny........    2  3   0  0   3  6   1  4  5   2   7  2  4  1  1  26
+45 GLOTTA, Zach........    5  6   4  5   0  0   0  1  1   1  14  1  1  0  0  22
+TM TEAM................                         1  1  2
+   Totals..............   21 53   9 23  18 25  10 19 29  23  69 14 13  2  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-31  .355    10-22  .455    21-53  .396
+3-Pt. FG%:  3-9   .333     6-14  .429     9-23  .391
+F Throw %:  6-12  .500    12-13  .923    18-25  .720
+Deadball rebounds: 3,2
+Date: 12-17-16      Site: Clarksville, Tenn. (Dunn Center)  Attendance: 1428
+Officials: Brett Miles; Kelly Davis; Ford Branch Jr.;
+Technical fouls: Evansville-None. Austin Peay-None.
+Score by Periods      1  2   Total
+Evansville.......... 36 41  - 77
+Austin Peay......... 31 38  - 69

@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Evansville vs Indiana State (02-01-17)
+VISITORS: Evansville (10-14, 1-10 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Taylor, Ryan........ *  8 15   2  2   0  0   3  1  4   3  18  0  3  3  2  34
+03 Brown, Jaylon....... *  4 13   1  4  16 16   0  4  4   4  25  2  4  0  0  43
+12 Smith, Dru.......... *  4  7   1  2   1  1   1  2  3   3  10  7  2  0  3  36
+25 Gibson, Duane....... *  3  7   0  0   2  2   2  3  5   5   8  2  1  2  0  21
+44 Howard, David....... *  3  9   0  0   0  1   2  4  6   4   6  1  0  1  0  35
+02 Benzon, Christian...    4  6   1  1   3  4   0  5  5   3  12  2  1  0  2  35
+04 Eaves, Jaiveon......    1  1   1  1   0  0   0  2  2   0   3  0  0  0  0  10
+15 Traore, Dalen.......    0  0   0  0   0  0   1  1  2   3   0  0  1  0  0   7
+23 Wiley, Willie.......    0  0   0  0   2  2   0  0  0   0   2  0  1  0  0   4
+TM TEAM................                         3     3             1
+   Totals..............   27 58   6 10  24 26  12 22 34  25  84 14 14  6  7 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-22  .636    12-32  .375    27-58  .466
+3-Pt. FG%:  4-5   .800     2-5   .400     6-10  .600
+F Throw %: 10-11  .909     8-8  1.000    24-26  .923
+Deadball rebounds: 1
+HOME TEAM: Indiana State (8-15, 2-9 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Clemons, Everett.... *  5  7   0  0   4  5   3  5  8   2  14  5  2  0  2  38
+04 Scott, Brenton...... *  7 12   3  5   5  8   0  1  1   2  22  6  3  0  2  42
+13 Franklin, Donovan... *  0  3   0  1   2  2   0  0  0   2   2  0  2  0  0  14
+30 Van Scyoc, Matt..... *  3  7   2  6   4  5   0  1  1   2  12  1  0  1  1  28
+42 Bell, TJ............ *  4  7   0  0   2  3   1  2  3   4  10  3  1  4  2  29
+02 Barnes, Jordan......    2  7   1  4   5  5   1  1  2   4  10  2  2  1  1  27
+05 Kessinger, Bronson..    1  1   0  0   0  0   0  1  1   1   2  0  0  0  0   3
+12 Bunschoten, Niels...    1  1   1  1   0  0   1  2  3   1   3  0  1  3  0  12
+32 Paige, Laquarious...    3  6   1  3   0  0   1  5  6   4   7  0  3  0  1  19
+34 Murphy, Brandon.....    1  2   0  0   1  3   1  0  1   1   3  0  0  1  0  13
+TM TEAM................                         1  2  3             2
+   Totals..............   27 53   8 20  23 31   9 20 29  23  85 17 16 10  9 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-27  .444    12-21  .571    27-53  .509
+3-Pt. FG%:  4-11  .364     4-7   .571     8-20  .400
+F Throw %:  4-7   .571    16-19  .842    23-31  .742
+Deadball rebounds: 3
+Date: 02-01-17      Site: Hulman Center (Terre Haute, Ind.)  Attendance: 3669
+Officials: Kelly Self; Rick Randall; Randy Heimerman;
+Technical fouls: Evansville-None. Indiana State-Bell, TJ.
+Score by Periods      1  2 OT   Total
+Evansville.......... 42 34  8  - 84
+Indiana State....... 32 44  9  - 85

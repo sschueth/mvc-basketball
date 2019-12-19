@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  Missouri State vs Loyola Chicago (01-09-16)
+VISITORS: Missouri State (6-10 (2-2))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 Gerring,Loomis...... *  0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+04 Miller,Dequon....... *  6 12   2  6   2  2   1  1  2   1  16  4  6  0  1  40
+05 Church,Obediah...... *  5 10   0  0   0  1   1  5  6   1  10  1  0  1  3  34
+11 Dixon,Jarred........ *  3  9   1  3   0  0   0  1  1   3   7  3  1  0  1  40
+30 Boone,Camyn......... *  4  7   0  0   4  6   1  8  9   4  12  2  2  0  0  29
+01 Thompson,Robin......    1  1   0  0   1  1   0  0  0   2   3  1  1  0  1   8
+20 Kreklow, Ryan.......    3  5   2  4   0  1   0  3  3   4   8  2  2  1  0  37
+25 Martin,Jordan.......    0  1   0  0   0  0   1  2  3   2   0  0  2  0  0   7
+50 McCullough, Tyler...    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+TM Team................                            3  3
+   Totals..............   22 46   5 13   7 11   4 23 27  17  56 13 14  2  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-21  .381    14-25  .560    22-46  .478
+3-Pt. FG%:  3-6   .500     2-7   .286     5-13  .385
+F Throw %:  4-5   .800     3-6   .500     7-11  .636
+Deadball rebounds: 2
+HOME TEAM: Loyola Chicago (7-9 (0-4))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... *  3  7   0  2   0  1   1  7  8   1   6  1  2  0  0  31
+02 Peterson, Earl...... *  7 13   1  3   3  4   0  6  6   2  18  2  2  0  1  31
+04 Turk, Devon......... *  1  4   0  2   0  0   0  1  1   1   2  1  1  0  0  21
+24 James, Montel....... *  1  4   0  0   2  4   0  2  2   2   4  2  1  0  1  16
+35 Doyle, Milton....... *  5 11   1  4   2  2   0  2  2   2  13  0  4  1  1  32
+12 Rajala, Julius......    2  2   0  0   0  0   1  0  1   0   4  0  0  0  0  11
+14 Richardson, Ben.....    2  4   1  2   0  0   0  4  4   0   5  4  1  0  2  25
+23 White, Jeff.........    1  2   0  0   0  0   0  0  0   3   2  2  0  0  0  19
+25 Smith, Tyson........    0  1   0  0   0  0   0  0  0   1   0  0  1  0  2  11
+33 Kennedy, Cal........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+TM Team................                         2     2             1
+   Totals..............   22 48   3 13   7 11   4 22 26  12  54 12 13  1  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-23  .565     9-25  .360    22-48  .458
+3-Pt. FG%:  2-6   .333     1-7   .143     3-13  .231
+F Throw %:  1-2   .500     6-9   .667     7-11  .636
+Deadball rebounds: 3
+Date: 01-09-16      Site: Gentile Arena - Chicago, Ill.  Attendance: 1128
+Officials: Zelton Steed; KB Burdett; Jeff Campbell;
+Technical fouls: Missouri State-None. Loyola Chicago-None.
+Score by Periods      1  2   Total
+Missouri State...... 23 33  - 56
+Loyola Chicago...... 29 25  - 54

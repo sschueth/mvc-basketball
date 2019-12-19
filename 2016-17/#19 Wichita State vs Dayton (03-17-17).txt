@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     #19 Wichita State vs Dayton (03-17-17)
+VISITORS: #19 Wichita State (31-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Brown, Zach......... f  4  5   3  3   1  2   1  3  4   1  12  0  1  0  0  25
+32 McDuffie, Markis.... f  1  8   0  3   6  6   3  2  5   2   8  0  1  2  0  34
+24 Morris, Shaquille... c  4  7   0  1   2  4   2  4  6   4  10  2  1  1  0  14
+11 Shamet, Landry...... g  3  9   1  5   6  8   1  2  3   4  13  3  4  1  0  36
+33 Frankamp, Conner.... g  1  5   1  3   0  0   0  0  0   1   3  3  1  0  0  24
+00 Kelly, Rashard......    3  5   1  2   1  3   3  8 11   2   8  1  2  3  0  26
+02 Smith, Daishon......    0  3   0  2   0  0   0  0  0   2   0  1  1  0  0  11
+12 Reaves, Austin......    0  1   0  1   2  2   0  1  1   0   2  0  1  0  0   4
+20 Nurger, Rauno.......    2  3   0  0   0  0   1  6  7   1   4  1  2  1  0  12
+21 Willis, Darral......    1  2   0  0   2  2   0  3  3   2   4  0  2  0  0  14
+TM TEAM................                         2  6  8
+   Totals..............   19 48   6 20  20 27  13 35 48  19  64 11 16  8  0 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-28  .357     9-20  .450    19-48  .396
+3-Pt. FG%:  2-12  .167     4-8   .500     6-20  .300
+F Throw %:  5-6   .833    15-21  .714    20-27  .741
+Deadball rebounds: 4
+HOME TEAM: Dayton (24-8)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+20 WILLIAMS, Xeyrius... f  1  9   0  5   1  2   3  3  6   3   3  0  0  0  1  32
+25 POLLARD, Kendall.... f  4 11   0  0   5  7   2  0  2   4  13  3  3  1  1  23
+03 DAVIS, Kyle......... g  1  1   1  1   3  4   0  3  3   3   6  1  0  0  0  33
+04 COOKE, Charles...... g  1 10   1  3   3  4   1  4  5   4   6  1  1  1  0  30
+11 SMITH, Scoochie..... g  9 17   4 10   3  3   0  3  3   2  25  4  2  1  4  37
+00 CUNNINGHAM, Josh....    1  3   0  0   0  0   0  0  0   2   2  2  0  0  0   7
+01 DAVIS, Darrell......    0  2   0  0   0  0   1  1  2   1   0  0  0  0  0  17
+02 MILLER, Sam.........    1  4   1  3   0  0   0  1  1   1   3  0  0  0  0  10
+15 CROSBY, John........    0  1   0  0   0  0   0  1  1   0   0  0  0  0  0   3
+33 MIKESELL, Ryan......    0  0   0  0   0  0   1  0  1   3   0  0  0  0  0   8
+TM TEAM................                         2  3  5
+   Totals..............   18 58   7 22  15 20  10 19 29  23  58 11  6  3  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-29  .345     8-29  .276    18-58  .310
+3-Pt. FG%:  5-13  .385     2-9   .222     7-22  .318
+F Throw %:  4-6   .667    11-14  .786    15-20  .750
+Deadball rebounds: 0
+Date: 03-17-17      Site: Bankers Life Fieldhouse-Indianapo  Attendance: 18269
+Officials: Randy McCall; Jeb Hartness; Bret Smith;
+Technical fouls: #19 Wichita State-None. Dayton-None.
+Score by Periods      1  2   Total
+#19 Wichita State... 27 37  - 64
+Dayton.............. 29 29  - 58

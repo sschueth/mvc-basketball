@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Milwaukee vs Loyola Chicago (12-10-16)
+VISITORS: Milwaukee (4-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 PRAHL, Brett........ f  2  4   0  0   0  0   2  1  3   2   4  0  0  0  1  16
+03 STULL, Brock........ g  4 10   2  5   1  2   0  1  1   2  11  3  1  0  1  33
+05 WICHMANN, Cody...... g  4  8   4  8   1  2   1  3  4   4  13  1  0  0  2  33
+13 HAAS, August........ g  2  3   0  0   3  4   1  0  1   1   7  4  5  0  0  25
+31 HARVEY, Cameron..... g  2  6   1  2   0  0   0  0  0   1   5  1  0  0  0  18
+00 BARNES, Bryce.......    4  7   1  1   0  0   1  0  1   3   9  3  2  0  1  20
+01 BELL, Jeremiah......    0  6   0  2   1  2   0  3  3   0   1  1  1  0  1  14
+04 JOHNSON, Jeremy.....    2  6   0  2   0  0   0  1  1   2   4  0  0  0  0  16
+15 PETERSON, Baylor....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+21 STUDER, Dan.........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   1
+24 NZE, Bryce..........    1  4   0  0   0  1   4  1  5   1   2  0  2  0  0  22
+52 PRAHL, Alex.........    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   1
+TM TEAM................                         2     2
+   Totals..............   21 54   8 20   6 11  11 11 22  17  56 13 11  0  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-23  .522     9-31  .290    21-54  .389
+3-Pt. FG%:  6-11  .545     2-9   .222     8-20  .400
+F Throw %:  3-4   .750     3-7   .429     6-11  .545
+Deadball rebounds: 4
+HOME TEAM: Loyola Chicago (9-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+24 Jackson, Aundre..... f  9  9   0  0   3  4   1  3  4   3  21  0  2  1  0  24
+35 Doyle, Milton....... f  9 10   2  3   2  2   0  6  6   3  22  7  3  2  1  35
+04 Skokna, Bruno....... g  1  5   1  3   0  0   0  2  2   2   3  2  2  1  1  29
+13 Custer, Clayton..... g  3  5   1  2   5  6   0  1  1   1  12  5  2  0  1  31
+14 Richardson, Ben..... g  1  3   0  2   0  0   0  4  4   2   2  1  3  1  0  26
+01 Lisha, Glorind......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+23 Satterwhite, Cameron    1  2   0  1   2  2   0  0  0   1   4  0  1  0  0  21
+25 Smith, Tyson........    1  2   1  2   0  0   0  3  3   1   3  1  1  0  0  16
+31 Kirby, Maurice......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+32 Granic, Vlatko......    2  4   0  2   1  1   0  2  2   0   5  0  0  1  0  14
+TM TEAM................                         1  2  3
+   Totals..............   27 40   5 15  13 15   2 23 25  13  72 16 14  6  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 18-23  .783     9-17  .529    27-40  .675
+3-Pt. FG%:  5-8   .625     0-7   .000     5-15  .333
+F Throw %:  3-3  1.000    10-12  .833    13-15  .867
+Deadball rebounds: 2
+Date: 12-10-16      Site: Gentile Arena - Chicago, Ill.  Attendance: 1696
+Officials: Ford Branch Jr.; Brian McNutt; Albert Buckles;
+Technical fouls: Milwaukee-None. Loyola Chicago-None.
+Score by Periods      1  2   Total
+Milwaukee........... 33 23  - 56
+Loyola Chicago...... 44 28  - 72

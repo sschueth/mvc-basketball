@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Bradley vs Northern Iowa (02-15-17)
+VISITORS: Bradley (9-19, 4-11 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... *  2  4   0  0   3  4   3  1  4   4   7  1  1  0  2  20
+05 Brown, Darrell...... *  2 13   0  6   3  3   1  3  4   1   7  3  4  0  1  35
+12 Bar, Koch........... *  3  6   0  0   1  1   3  3  6   3   7  0  1  0  0  21
+25 Kennell, Nate....... *  4  6   4  5   1  2   0  1  1   1  13  3  2  0  0  37
+35 Hodgson, Jayden..... *  1  2   0  0   0  0   1  6  7   1   2  1  3  0  0  26
+03 Pittman, Antoine....    0  4   0  1   0  0   1  1  2   1   0  0  1  0  1  11
+13 van Bree, Luuk......    3  5   1  2   1  1   0  2  2   5   8  0  0  0  0  14
+24 McGlaston, JoJo.....    5 11   1  4   4  4   3  2  5   2  15  0  1  1  1  30
+30 Barker, Callum......    1  1   0  0   0  0   0  1  1   1   2  1  0  0  0   6
+TM TEAM................                         1  3  4
+   Totals..............   21 52   6 18  13 15  13 23 36  19  61  9 13  1  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-27  .481     8-25  .320    21-52  .404
+3-Pt. FG%:  6-11  .545     0-7   .000     6-18  .333
+F Throw %:  2-2  1.000    11-13  .846    13-15  .867
+Deadball rebounds: 1
+HOME TEAM: Northern Iowa (14-12, 9-6 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Carlson, Klint...... *  3  6   0  1   0  0   0  3  3   2   6  3  2  0  0  39
+13 McCloud, Juwan...... *  2  6   0  1   0  2   1  1  2   1   4  2  0  0  2  29
+20 Morgan, Jeremy...... *  6 12   4  7   2  2   0  7  7   3  18  4  1  0  0  39
+23 Ashton, Jordan...... *  4  8   3  6   0  0   1  4  5   2  11  4  2  1  1  38
+25 Koch, Bennett....... *  5  8   0  0   8  9   1  2  3   4  18  1  2  0  1  30
+03 Friedman, Ted.......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   1
+21 Rhodes, Hunter......    1  3   1  3   2  2   0  1  1   1   5  0  0  0  1   9
+24 Brown, Isaiah.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  1   3
+30 Haldeman, Spencer...    0  1   0  1   0  1   0  0  0   1   0  0  0  0  0   5
+34 McDonnell, Luke.....    1  3   0  1   0  0   1  0  1   1   2  0  0  0  0   7
+TM TEAM................                            2  2             1
+   Totals..............   22 47   8 20  12 16   4 20 24  16  64 14  8  1  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-23  .435    12-24  .500    22-47  .468
+3-Pt. FG%:  5-16  .313     3-4   .750     8-20  .400
+F Throw %:  6-8   .750     6-8   .750    12-16  .750
+Deadball rebounds: 1
+Date: 02-15-17      Site: Cedar Falls, Iowa (McLeod Center)  Attendance: 4225
+Officials: Steve Olson; Winston Stith; Brad Gaston;
+Technical fouls: Bradley-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+Bradley............. 34 27  - 61
+Northern Iowa....... 31 33  - 64

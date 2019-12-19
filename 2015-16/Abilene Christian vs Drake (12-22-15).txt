@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Abilene Christian vs Drake (12-22-15)
+VISITORS: Abilene Christian (4-8)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Lewis, Jaren........ f  6  8   3  3   0  0   2  3  5   3  15  2  1  0  3  24
+33 Porter, Duran....... c  4  6   0  0   1  3   1  1  2   1   9  1  0  0  0  18
+00 Franklin, Jaylen.... g 10 19   0  0   4  8   1  3  4   2  24  3  1  1  0  32
+03 Wentz, Parker....... g  1  5   1  3   0  0   0  2  2   2   3  2  0  0  0  32
+04 Crnic, Jovan........ g  2  7   2  4   2  2   1  1  2   1   8  4  4  0  1  24
+10 Tripp, Isaiah.......    0  1   0  0   0  0   0  1  1   4   0  0  0  0  0  11
+12 Cooke, Austin.......    1  4   0  1   0  0   0  2  2   3   2  1  0  0  1  20
+15 Farquhar, Hayden....    0  2   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+22 Green, Drake........    1  5   1  5   0  0   0  2  2   4   3  0  1  1  1  23
+23 Howell, Hayden......    1  1   0  0   4  4   1  1  2   2   6  1  1  0  0  13
+TM TEAM................                         1     1
+   Totals..............   26 58   7 16  11 17   7 16 23  22  70 14  8  2  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-27  .444    14-31  .452    26-58  .448
+3-Pt. FG%:  5-8   .625     2-8   .250     7-16  .438
+F Throw %:  3-5   .600     8-12  .667    11-17  .647
+Deadball rebounds: 1,1
+HOME TEAM: Drake (5-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+31 Abrahamson, Kale.... f  9 14   5  9   7  9   0  8  8   0  30  4  0  0  1  33
+11 Enevold, Jacob...... c  2  2   0  0   0  0   0  6  6   1   4  0  1  1  0  24
+03 Woodward, Graham.... g  9 13   4  6   1  2   0  1  1   3  23  2  1  0  0  37
+12 Timmer, Reed........ g  2  4   0  0   6  8   0  0  0   4  10  1  3  0  0  21
+23 Arogundade, Ore..... g  2  5   1  2   0  0   1  6  7   4   5  3  3  0  1  29
+00 Rivers, C.J.........    1  2   0  0   1  2   0  1  1   0   3  2  2  0  0  21
+01 Madison, Karl.......    1  1   0  0   0  0   0  0  0   0   2  0  0  0  0   3
+02 Wampler, Billy......    1  1   0  0   0  0   0  0  0   0   2  0  0  0  2   8
+22 Schlatter, Casey....    1  2   0  1   2  4   1  1  2   0   4  1  0  0  0   9
+35 McGlynn, Nick.......    1  3   0  0   0  0   1  1  2   3   2  0  1  1  0   9
+44 Olejniczak, Dominik.    1  1   0  0   0  0   1  2  3   2   2  0  1  0  0   6
+TM Team................                         1  3  4
+   Totals..............   30 48  10 18  17 25   5 29 34  17  87 13 12  2  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 18-27  .667    12-21  .571    30-48  .625
+3-Pt. FG%:  5-8   .625     5-10  .500    10-18  .556
+F Throw %:  2-4   .500    15-21  .714    17-25  .680
+Deadball rebounds: 4,1
+Date: 12-22-15      Site: Des Moines, Iowa (Knapp Center)  Attendance: 2701
+Officials: Rick Hartzell; James Durham; Tim Fitzgerald;
+Technical fouls: Abilene Christian-Tripp, Isaiah. Drake-None.
+Score by Periods      1  2   Total
+Abilene Christian... 32 38  - 70
+Drake............... 43 44  - 87

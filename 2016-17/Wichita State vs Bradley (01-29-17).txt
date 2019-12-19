@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Wichita State vs Bradley (01-29-17)
+VISITORS: Wichita State (19-4, 9-1 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Brown, Zach......... f  1  4   0  1   0  0   0  1  1   2   2  0  1  0  0  15
+21 Willis, Darral...... f  2  6   0  0   0  0   3  2  5   2   4  1  2  0  0  17
+32 McDuffie, Markis.... f  2  7   0  3   5  6   2 12 14   2   9  2  3  0  1  36
+11 Shamet, Landry...... g  6  8   3  5   4  5   0  2  2   3  19  6  3  1  0  36
+33 Frankamp, Conner.... g  6 10   3  6   0  1   1  5  6   0  15  3  3  0  3  36
+00 Kelly, Rashard......    3  5   0  0   1  3   3  3  6   1   7  1  1  0  3  18
+02 Smith, Daishon......    0  3   0  2   0  0   0  2  2   2   0  0  0  0  0   8
+03 Keyser, C.J.........    0  2   0  1   0  0   0  1  1   2   0  0  1  0  0   2
+20 Nurger, Rauno.......    2  4   0  1   2  2   0  3  3   2   6  1  1  0  1  19
+24 Morris, Shaquille...    1  3   0  0   0  0   0  3  3   1   2  0  3  1  0  13
+TM TEAM................                            3  3
+   Totals..............   23 52   6 19  12 17   9 37 46  17  64 14 18  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-26  .308    15-26  .577    23-52  .442
+3-Pt. FG%:  1-10  .100     5-9   .556     6-19  .316
+F Throw %:  3-3  1.000     9-14  .643    12-17  .706
+Deadball rebounds: 1
+HOME TEAM: Bradley (8-15, 3-7 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  1  5   0  1   2  2   1  3  4   3   4  1  0  1  2  26
+12 Bar, Koch........... c  2  5   0  0   0  0   1  2  3   4   4  0  0  1  0  24
+03 Pittman, Antoine.... g  2  7   0  1   1  3   0  2  2   1   5  1  1  0  1  20
+05 Brown, Darrell...... g  6 13   2  5   4  6   0  0  0   2  18  2  4  0  1  34
+25 Kennell, Nate....... g  3  5   0  1   0  0   0  5  5   2   6  1  3  0  1  25
+13 van Bree, Luuk......    1  8   0  4   0  0   0  2  2   4   2  1  2  0  2  22
+24 McGlaston, JoJo.....    2  8   1  4   0  0   1  7  8   1   5  0  1  2  2  21
+30 Barker, Callum......    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   5
+35 Hodgson, Jayden.....    2  5   1  3   0  0   0  1  1   2   5  1  2  0  2  23
+TM TEAM................                            1  1
+   Totals..............   19 56   4 19   7 11   3 24 27  19  49  7 13  4 11 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-27  .333    10-29  .345    19-56  .339
+3-Pt. FG%:  3-10  .300     1-9   .111     4-19  .211
+F Throw %:  4-4  1.000     3-7   .429     7-11  .636
+Deadball rebounds: 1
+Date: 01-29-17      Site: Peoria, Ill. (Carver Arena)  Attendance: 6001
+Officials: Gerry Pollard; Paul Janssen; Ray Natili;
+Technical fouls: Wichita State-None. Bradley-None.
+Score by Periods      1  2   Total
+Wichita State....... 20 44  - 64
+Bradley............. 25 24  - 49

@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Creighton vs Loyola Chicago (12-05-15)
+VISITORS: Creighton (5-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 THOMAS,Khyri........ *  9 10   4  4   0  3   2  3  5   3  22  0  4  0  1  28
+10 WATSON Jr.,Maurice.. *  3 11   0  1   2  2   0  7  7   2   8  5  1  0  0  27
+13 HUFF,Cole........... *  4  7   1  4   2  2   1  2  3   2  11  1  1  2  0  17
+21 ZIERDEN,Isaiah...... *  0  7   0  6   0  0   0  3  3   0   0  3  0  0  3  34
+41 GROSELLE,Geoffrey... *  6 10   0  0   3  6   5  7 12   5  15  1  1  2  0  31
+04 HARRELL Jr.,Ronnie..    0  1   0  1   0  0   0  2  2   1   0  1  1  0  0   9
+11 CLEMENT,Tyler.......    0  1   0  0   0  0   0  0  0   0   0  0  1  0  0   4
+12 ALBERT,Malik........    0  1   0  0   0  1   0  0  0   0   0  0  0  0  0   2
+15 KRAMPELJ,Martin.....    0  0   0  0   0  0   0  2  2   1   0  0  0  0  0   2
+23 MILLIKEN,James......    0  5   0  2   0  0   0  1  1   1   0  0  1  0  0  22
+32 HEGNER,Toby.........    1  3   1  2   2  2   1  1  2   2   5  1  0  1  0  17
+40 HANSON,Zach.........    2  3   0  0   0  0   1  1  2   1   4  0  1  0  0   7
+TM Team................                         5  1  6             1
+   Totals..............   25 59   6 20   9 16  15 30 45  18  65 12 12  5  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-27  .333    16-32  .500    25-59  .424
+3-Pt. FG%:  3-11  .273     3-9   .333     6-20  .300
+F Throw %:  4-6   .667     5-10  .500     9-16  .563
+Deadball rebounds: 3
+HOME TEAM: Loyola Chicago (5-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Peterson, Earl...... *  2  9   0  0   2  4   0  4  4   1   6  3  2  0  0  31
+04 Turk, Devon......... *  6 12   3  8   0  0   0  3  3   1  15  1  1  0  0  35
+05 Adgei, Pernell...... *  0  3   0  0   0  0   4  0  4   3   0  1  0  0  0  10
+14 Richardson, Ben..... *  1  3   1  2   0  0   0  0  0   2   3  2  1  0  1  19
+35 Doyle, Milton....... *  5  9   1  3   6  8   0  8  8   4  17  8  2  0  0  31
+00 Ingram, Donte.......    5 12   0  2   0  0   1  1  2   3  10  0  1  0  0  19
+12 Rajala, Julius......    1  1   0  0   2  2   1  2  3   1   4  0  0  0  0   9
+23 White, Jeff.........    0  3   0  1   0  0   0  3  3   1   0  2  0  0  2  19
+25 Smith, Tyson........    4  6   3  4   0  0   1  0  1   0  11  0  0  2  1  23
+31 Kirby, Maurice......    1  2   0  0   0  0   1  0  1   2   2  0  1  0  0   4
+TM Team................                         1  2  3             1
+   Totals..............   25 60   8 20  10 14   9 23 32  18  68 17  9  2  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-32  .344    14-28  .500    25-60  .417
+3-Pt. FG%:  4-10  .400     4-10  .400     8-20  .400
+F Throw %:  3-4   .750     7-10  .700    10-14  .714
+Deadball rebounds: 0
+Date: 12-05-15      Site: Gentile Arena - Chicago, Ill.  Attendance: 3473
+Officials: Evon Burroughs; Wally Rutecki; James Breeding;
+Technical fouls: Creighton-None. Loyola Chicago-None.
+Score by Periods      1  2   Total
+Creighton........... 25 40  - 65
+Loyola Chicago...... 29 39  - 68

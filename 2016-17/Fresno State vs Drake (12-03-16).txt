@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Fresno State vs Drake (12-03-16)
+VISITORS: Fresno State (5-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 WILLIAMS, Bryson.... f  3  3   0  0   0  3   0  3  3   2   6  0  1  2  1  29
+13 RUSSO, Cullen....... f  3  7   0  2   3  6   2  5  7   1   9  5  5  2  2  40
+01 HOPKINS, Jaron...... g  6 12   0  1   0  3   0 11 11   4  12  3  7  2  6  40
+03 WATSON, Paul........ g  8 11   3  5   0  1   2  4  6   4  19  1  3  2  2  37
+05 TAYLOR, Jahmel...... g  6 11   5 10   2  2   0  2  2   3  19  2  2  0  0  44
+10 MCWILLIAMS, Johnny..    2  2   0  0   0  0   0  0  0   0   4  0  0  0  0   7
+20 BITTNER, Sam........    0  0   0  0   0  0   1  1  2   1   0  0  0  0  0   6
+21 TAYLOR, Deshon......    0  2   0  2   0  0   0  0  0   0   0  0  1  0  0   6
+32 GRIMES, Nate........    0  1   0  0   1  2   1  1  2   1   1  0  0  0  0   5
+34 CARTER II, Terrell..    4  6   0  0   0  2   1  3  4   5   8  0  2  0  0  11
+TM TEAM................                         1     1             1
+   Totals..............   32 55   8 20   6 19   8 30 38  21  78 11 22  8 11 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-26  .577    13-22  .591    32-55  .582
+3-Pt. FG%:  7-14  .500     1-4   .250     8-20  .400
+F Throw %:  4-9   .444     1-9   .111     6-19  .316
+Deadball rebounds: 4
+HOME TEAM: Drake (1-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+22 Schlatter, Casey.... f  0  2   0  2   0  0   0  2  2   0   0  0  3  1  0  10
+35 McGlynn, Nick....... f  2  3   0  0   5  6   0  4  4   2   9  0  2  0  2  20
+03 Woodward, Graham.... g  0  3   0  3   1  4   0  1  1   2   1  2  0  0  0  19
+04 McMurray, De'Antae.. g  4 11   2  7   3  3   0  4  4   2  13  3  2  0  2  34
+12 Timmer, Reed........ g  1  8   1  4   5  5   0  3  3   1   8  3  2  0  1  38
+00 Rivers, C.J.........    4 10   1  2   3  4   1  5  6   1  12  3  1  0  2  37
+02 Wampler, Billy......    6 11   4  7   0  0   0  0  0   3  16  1  2  0  2  27
+10 Thomas, T.J.........    6  9   0  0   1  1   3  2  5   3  13  2  2  0  0  24
+23 Arogundade, Ore.....    1  3   0  2   0  0   1  1  2   2   2  0  0  0  1   8
+32 Kuenstling, Kory....    1  2   0  0   0  0   3  1  4   2   2  0  0  0  0   8
+TM TEAM................                         1  1  2             1
+   Totals..............   25 62   8 27  18 23   9 24 33  18  76 14 15  1 10 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-25  .360    13-32  .406    25-62  .403
+3-Pt. FG%:  2-10  .200     5-15  .333     8-27  .296
+F Throw %:  9-11  .818     9-12  .750    18-23  .783
+Deadball rebounds: 3
+Date: 12-03-16      Site: Des Moines, Iowa (Knapp Center)  Attendance: 2633
+Officials: Kelly Self; Brent Meaux; Ryan McDaniel;
+Technical fouls: Fresno State-None. Drake-None.
+Score by Periods      1  2 OT   Total
+Fresno State........ 41 28  9  - 78
+Drake............... 29 40  7  - 76

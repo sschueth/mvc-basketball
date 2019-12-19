@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      #25 Utah vs Wichita State (12-12-15)
+VISITORS: #25 Utah (7-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+21 LOVERIDGE, Jordan... f  0  5   0  3   9  9   0  5  5   3   9  1  1  1  0  30
+35 KUZMA, Kyle......... f  0  4   0  1   2  2   2  4  6   1   2  1  1  0  0  24
+42 POELTL, Jakob....... f  4  5   0  0   3  6   2  7  9   2  11  0  4  0  0  31
+11 TAYLOR, Brandon..... g  4 10   0  3   1  2   0  2  2   0   9  3  6  0  1  37
+15 BONAM, Lorenzo...... g  2  6   2  3   0  0   0  1  1   0   6  0  2  0  0  24
+00 CHAPMAN, Brekkott...    1  1   0  0   2  2   0  1  1   4   4  0  2  2  0  13
+01 WRIGHT, Isaiah......    2  2   2  2   0  0   0  0  0   0   6  0  2  0  0  15
+05 EASTMAN, Austin.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+10 CONNOR, Jake........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+14 TUCKER, Dakarai.....    1  1   1  1   0  0   0  2  2   0   3  0  1  0  0  16
+20 REYES, Chris........    0  0   0  0   0  0   0  0  0   3   0  0  0  0  0   7
+41 MONTGOMERY, Austin..    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                            5  5
+   Totals..............   14 34   5 13  17 21   4 27 31  13  50  5 19  3  1 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  6-16  .375     8-18  .444    14-34  .412
+3-Pt. FG%:  1-5   .200     4-8   .500     5-13  .385
+F Throw %:  7-8   .875    10-13  .769    17-21  .810
+Deadball rebounds: 1
+HOME TEAM: Wichita State (5-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Brown, Zach......... f  5  7   1  1   3  4   1  2  3   3  14  0  0  0  1  23
+24 Morris, Shaquille... c  1  4   0  0   0  0   0  0  0   3   2  1  0  1  1  11
+03 Wessel, Evan........ g  2  9   2  8   0  0   2  0  2   3   6  0  0  0  0  23
+23 VanVleet, Fred...... g  4 11   1  3   1  2   0  4  4   2  10  6  2  0  1  31
+31 Baker, Ron.......... g  3  8   1  3   0  0   0  4  4   1   7  5  0  1  4  34
+00 Kelly, Rashard......    1  4   0  1   0  0   1  2  3   1   2  1  0  1  0  17
+14 Simon, John Robert..    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+20 Nurger, Rauno.......    2  2   0  0   0  0   1  1  2   0   4  0  0  0  0   9
+21 Wamukota, Bush......    2  2   0  0   0  1   0  2  2   2   4  0  0  0  0  20
+32 McDuffie, Markis....    4  6   4  5   1  1   0  1  1   2  13  1  0  0  0  17
+33 Frankamp, Conner....    2  6   1  4   0  2   0  0  0   0   5  1  1  0  0  14
+TM Team................                         3  3  6
+   Totals..............   26 59  10 25   5 10   8 19 27  17  67 15  3  3  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-32  .406    13-27  .481    26-59  .441
+3-Pt. FG%:  7-16  .438     3-9   .333    10-25  .400
+F Throw %:  0-0   .000     5-10  .500     5-10  .500
+Deadball rebounds: 3
+Date: 12-12-15      Site: Wichita, Kan./INTRUST Bank Ar  Attendance: 15004
+Officials: Randy Heimerman; Kipp Kissinger; Gerry Pollard;
+Technical fouls: #25 Utah-, TEAM. Wichita State-None.
+Score by Periods      1  2   Total
+#25 Utah............ 20 30  - 50
+Wichita State....... 33 34  - 67

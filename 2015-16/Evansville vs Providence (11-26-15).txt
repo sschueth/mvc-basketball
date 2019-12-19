@@ -1,0 +1,48 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Evansville vs Providence (11-26-15)
+VISITORS: Evansville (3-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+55 Mockevicius,Egidijus c  6  8   0  0   1  4   2  7  9   3  13  1  1  4  0  24
+03 Brown, Jaylon....... g  3  6   0  1   2  2   1  3  4   4   8  3  3  0  1  25
+12 Wing, Adam.......... g  4  5   1  1   0  0   0  1  1   5   9  4  3  2  1  26
+31 Balentine, D.J...... g  7 18   3  8   1  2   1  3  4   4  18  5  4  0  0  34
+50 Simmons, Blake...... g  2  5   0  1   0  0   0  0  0   1   4  4  2  1  0  24
+10 Brzoja, Mislav......    5 10   1  3   0  0   0  0  0   2  11  6  0  0  0  32
+13 Brown, Harris.......    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   7
+25 Gibson, Duane.......    0  1   0  0   0  1   0  4  4   3   0  3  1  0  0  11
+44 Howard, David.......    0  0   0  0   1  2   0  5  5   0   1  0  0  2  0  17
+TM Team................                         2  1  3
+   Totals..............   27 53   5 14   5 11   6 24 30  22  64 26 15  9  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-22  .636    13-31  .419    27-53  .509
+3-Pt. FG%:  3-6   .500     2-8   .250     5-14  .357
+F Throw %:  1-5   .200     4-6   .667     5-11  .455
+Deadball rebounds: 3
+HOME TEAM: Providence (5-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 BENTIL, Ben......... f  6 16   2  5  10 11   4  4  8   4  24  0  4  1  0  38
+05 BULLOCK, Rodney..... f  2  8   0  1   3  4   3  4  7   3   7  2  1  1  3  34
+03 DUNN, Kris.......... g  7 15   0  3   4  6   1  5  6   4  18  5  5  1  3  36
+32 LOMOMBA, Junior..... g  4  8   1  2   4  6   2  1  3   2  13  2  0  0  0  30
+35 FAZEKAS, Ryan....... g  3  4   2  2   2  2   0  4  4   2  10  0  0  1  0  26
+10 SMITH, Quadree......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   2
+21 LINDSEY, Jalen......    1  5   0  3   0  0   0  2  2   1   2  1  0  0  0  20
+24 CARTWRIGHT, Kyron...    0  1   0  0   0  0   0  0  0   2   0  2  0  0  0  14
+TM TEAM................                         3  3  6
+   Totals..............   23 57   5 16  23 29  13 23 36  19  74 12 10  4  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-26  .462    11-31  .355    23-57  .404
+3-Pt. FG%:  4-10  .400     1-6   .167     5-16  .313
+F Throw %: 12-14  .857    11-15  .733    23-29  .793
+Deadball rebounds: 3
+Date: 11-26-15      Site: Fullerton, Calif. (Titan Gym)  Attendance: 0
+Officials: David Hall; Deron White; Frank Harvey;
+Technical fouls: Evansville-None. Providence-None.
+Score by Periods      1  2   Total
+Evansville.......... 32 32  - 64
+Providence.......... 40 34  - 74

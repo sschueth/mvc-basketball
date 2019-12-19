@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Bradley vs Loyola Chicago (01-25-17)
+VISITORS: Bradley (8-14 (3-6 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  3  7   0  0   5  6   1 10 11   3  11  1  1  3  2  31
+12 Bar, Koch........... c  1  4   0  0   1  2   0  4  4   0   3  0  1  1  1  20
+03 Pittman, Antoine.... g  2  6   0  2   1  2   0  3  3   3   5  1  2  1  0  18
+05 Brown, Darrell...... g  3  5   2  3   0  0   0  0  0   1   8  0  7  0  0  23
+25 Kennell, Nate....... g  0  1   0  0   0  0   0  1  1   3   0  1  2  0  0  17
+02 Suggs, Ronnie.......    0  1   0  1   0  0   1  0  1   0   0  0  0  0  0   2
+13 van Bree, Luuk......    2  6   2  5   1  2   1  2  3   3   7  0  4  0  0  25
+23 Lautier-Ogunleye, D.    1  3   0  1   4  5   0  0  0   1   6  3  2  1  2  22
+24 McGlaston, JoJo.....    0  1   0  1   1  2   0  1  1   1   1  0  2  0  0  13
+30 Barker, Callum......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+34 Foster, Alex........    0  1   0  0   1  2   1  1  2   0   1  0  0  0  0   2
+35 Hodgson, Jayden.....    3  3   2  2   0  0   0  1  1   2   8  3  0  0  0  26
+TM TEAM................                         1  1  2
+   Totals..............   15 38   6 15  14 21   5 24 29  17  50  9 21  6  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-19  .579     4-19  .211    15-38  .395
+3-Pt. FG%:  5-8   .625     1-7   .143     6-15  .400
+F Throw %:  3-5   .600    11-16  .688    14-21  .667
+Deadball rebounds: 4
+HOME TEAM: Loyola Chicago (15-7 (5-4 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+31 Kirby, Maurice...... f  0  1   0  0   0  2   1  2  3   2   0  0  1  0  0   8
+00 Ingram, Donte....... g  9 13   6  9   0  0   2  5  7   3  24  2  1  0  2  36
+13 Custer, Clayton..... g  0  5   0  4   0  0   0  1  1   2   0  1  1  0  1  25
+14 Richardson, Ben..... g  3  6   0  1   2  4   1  2  3   2   8  4  1  0  1  35
+35 Doyle, Milton....... g  5 10   2  2   2  3   0  2  2   3  14  4  2  2  4  34
+01 Lisha, Glorind......    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   2
+04 Skokna, Bruno.......    3  7   2  3   0  0   0  2  2   2   8  0  3  0  0  19
+24 Jackson, Aundre.....    4  5   0  0   1  2   1  2  3   4   9  3  0  0  1  21
+25 Smith, Tyson........    3  4   1  1   0  0   0  3  3   1   7  0  1  1  1  14
+30 Burt, Byron.........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   2
+32 Granic, Vlatko......    0  2   0  1   0  0   0  0  0   0   0  0  1  0  1   4
+TM TEAM................                         1  1  2             1
+   Totals..............   27 53  11 21   5 11   6 21 27  20  70 14 12  3 11 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-27  .481    14-26  .538    27-53  .509
+3-Pt. FG%:  5-10  .500     6-11  .545    11-21  .524
+F Throw %:  3-8   .375     2-3   .667     5-11  .455
+Deadball rebounds: 2
+Date: 01-25-17      Site: Gentile Arena - Chicago, Ill.  Attendance: 2089
+Officials: Steve Olson; Kipp Kissinger; Randy Heimerman;
+Technical fouls: Bradley-None. Loyola Chicago-None.
+Score by Periods      1  2   Total
+Bradley............. 30 20  - 50
+Loyola Chicago...... 34 36  - 70

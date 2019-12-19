@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Southern Illinois vs Indiana State (02-10-16)
+VISITORS: Southern Illinois (19-7, 8-5 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Rodriguez,Mike...... *  1  3   0  1   3  4   0  1  1   2   5  1  2  0  0  23
+11 Smithpeters,Tyler... *  4  6   4  6   4  7   1  3  4   4  16  2  0  0  0  25
+23 Olaniyan,Bola....... *  4  4   0  0   3  4   0  4  4   5  11  0  3  0  2  23
+25 Beane,Anthony....... * 10 17   5 10   6  8   1  5  6   3  31  2  2  0  2  33
+33 O'Brien,Sean........ *  5 11   0  0   2  2   1  3  4   0  12  0  1  2  2  32
+05 Vincent,Leo.........    1  4   1  3   3  4   0  2  2   1   6  2  2  0  1  20
+10 Djimde,Ibby.........    0  0   0  0   0  0   0  0  0   2   0  0  1  0  1   8
+13 Lloyd, Sean.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+15 Weiher,Austin.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  11
+22 Fletcher,Armon......    2  4   0  1   0  0   3  0  3   3   4  0  1  0  0  24
+32 Leek,Deng...........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+TM Team................                         3  2  5             1
+   Totals..............   27 49  10 21  21 29   9 20 29  20  85  7 13  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-26  .577    12-23  .522    27-49  .551
+3-Pt. FG%:  7-11  .636     3-10  .300    10-21  .476
+F Throw %:  5-9   .556    16-20  .800    21-29  .724
+Deadball rebounds: 5
+HOME TEAM: Indiana State (13-12, 7-6 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Smith, Khristian.... *  7 13   2  4   2  2   3  1  4   2  18  1  0  0  0  32
+04 Scott, Brenton...... *  5 11   0  2   2  2   1  1  2   3  12  0  2  0  2  30
+11 Brown, Devonte...... *  4 11   0  2  11 13   2  1  3   3  19  3  5  0  4  37
+30 Van Scyoc, Matt..... *  0  3   0  3   0  0   0  1  1   2   0  0  3  1  0  11
+34 Murphy, Brandon..... *  2  3   0  0   0  0   0  2  2   3   4  0  3  0  0  18
+00 Clemons, Everett....    0  0   0  0   1  2   1  1  2   3   1  6  2  0  0  23
+12 Bunschoten, Niels...    8 13   5  9   0  0   0  4  4   3  21  2  0  1  0  29
+20 Prusator, Grant.....    0  0   0  0   0  1   0  1  1   0   0  0  0  0  0   2
+32 Paige, Laquarious...    0  0   0  0   0  0   0  1  1   1   0  1  0  0  0   6
+41 Rickman, Emondre....    1  1   0  0   1  2   1  3  4   1   3  0  0  0  0  12
+TM Team................                         3     3
+   Totals..............   27 55   7 20  17 22  11 16 27  21  78 13 15  2  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-26  .462    15-29  .517    27-55  .491
+3-Pt. FG%:  2-12  .167     5-8   .625     7-20  .350
+F Throw %:  9-12  .750     8-10  .800    17-22  .773
+Deadball rebounds: 2
+Date: 02-10-16      Site: Hulman Center (Terre Haute, Ind.)  Attendance: 3221
+Officials: Paul Janssen; Kipp Kissinger; Terry Davis;
+Technical fouls: Southern Illinois-Olaniyan,Bola. Indiana State-None.
+Score by Periods      1  2   Total
+Southern Illinois... 42 43  - 85
+Indiana State....... 35 43  - 78

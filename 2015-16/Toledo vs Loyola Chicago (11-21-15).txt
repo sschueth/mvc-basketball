@@ -1,0 +1,48 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Toledo vs Loyola Chicago (11-21-15)
+VISITORS: Toledo (2-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 WILLIAMS, Jonathan.. *  6 17   3  7   0  0   0  3  3   4  15  1  4  0  2  30
+03 MOSLEY, Stuckey..... *  3  6   0  2   0  0   1  5  6   2   6  2  1  0  3  30
+13 SANFORD, Jaelan..... *  1  5   0  4   0  0   0  0  0   1   2  2  0  0  0  23
+35 NAVIGATO, Nate...... *  1  3   1  3   0  0   0  3  3   4   3  0  0  0  0  28
+53 BOOTHE, Nathan...... * 12 24   1  3   4  5   3  8 11   4  29  2  1  1  2  34
+02 ADWAY, Taylor.......    1  1   0  0   0  0   2  2  4   2   2  1  3  0  0  12
+10 ROGERS, Nick........    1  2   1  1   0  0   0  0  0   2   3  2  1  0  0  10
+25 LAUF, Jordan........    0  2   0  1   0  1   1  0  1   2   0  1  1  1  2  27
+33 GARBER, Zach........    0  1   0  0   2  4   0  0  0   2   2  0  0  0  0   6
+TM Team................                         2     2
+   Totals..............   25 61   6 21   6 10   9 21 30  23  62 11 11  2  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-35  .457     9-26  .346    25-61  .410
+3-Pt. FG%:  5-11  .455     1-10  .100     6-21  .286
+F Throw %:  2-3   .667     4-7   .571     6-10  .600
+Deadball rebounds: 1
+HOME TEAM: Loyola Chicago (3-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Peterson, Earl...... *  4  6   0  0  10 15   0  3  3   0  18  2  1  0  0  31
+04 Turk, Devon......... *  2  8   2  6   0  0   0  3  3   3   6  1  0  0  1  26
+24 James, Montel....... *  5 15   0  1   1  1   3  6  9   3  11  0  3  0  0  33
+31 Kirby, Maurice...... *  1  1   0  0   2  2   1  0  1   2   4  0  0  0  0  10
+35 Doyle, Milton....... *  8  9   6  6   4  4   0  5  5   3  26  2  9  0  1  31
+00 Ingram, Donte.......    1  6   0  2   0  0   1  6  7   1   2  2  1  0  0  32
+14 Richardson, Ben.....    0  1   0  1   0  0   0  3  3   0   0  1  0  1  1  19
+23 White, Jeff.........    0  0   0  0   2  3   0  3  3   1   2  0  3  0  2  18
+TM Team................                         2  1  3
+   Totals..............   21 46   8 16  19 25   7 30 37  13  69  8 17  1  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-24  .333    13-22  .591    21-46  .457
+3-Pt. FG%:  2-7   .286     6-9   .667     8-16  .500
+F Throw %:  6-7   .857    13-18  .722    19-25  .760
+Deadball rebounds: 3
+Date: 11-21-15      Site: Gentile Arena - Chicago, Ill.  Attendance: 1556
+Officials: Zelton Steed; Roland Simmons; Donnie Olson;
+Technical fouls: Toledo-None. Loyola Chicago-None.
+Score by Periods      1  2   Total
+Toledo.............. 39 23  - 62
+Loyola Chicago...... 24 45  - 69

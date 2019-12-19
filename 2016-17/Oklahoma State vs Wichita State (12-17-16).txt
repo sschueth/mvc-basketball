@@ -1,0 +1,59 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Oklahoma State vs Wichita State (12-17-16)
+VISITORS: Oklahoma State (9-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+14 N'Guessan, Lucas.... f  1  1   0  0   0  1   0  1  1   4   2  0  1  2  0  10
+23 Hammonds, Leyton.... f  4  5   3  4   1  1   1  3  4   4  12  2  0  0  0  17
+01 Evans, Jawun........ g  9 16   3  5   1  2   3  2  5   2  22  4  4  1  3  24
+13 Forte, Phil......... g  3 11   1  6   4  4   0  1  1   3  11  0  1  0  1  26
+21 Waters, Lindy....... g  1  3   1  2   1  3   1  1  2   3   4  1  2  0  0  13
+00 Averette, Brandon...    1  4   0  0   6  9   0  4  4   4   8  3  5  0  2  19
+04 Dziagwa, Thomas.....    3  4   3  4   0  0   0  0  0   4   9  2  0  0  0  15
+12 McGriff, Cameron....    0  2   0  2   0  0   0  1  1   1   0  0  0  0  1  13
+30 Carroll, Jeffrey....    8 10   3  5   3  4   2  3  5   2  22  0  3  0  0  33
+33 Reeves, Trey........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+34 Lienhard, Will......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+41 Solomon, Mitchell...    1  3   0  0   1  2   3  0  3   5   3  4  1  0  0  27
+TM Team................                         7  3 10
+   Totals..............   31 59  14 28  17 26  17 19 36  32  93 16 17  3  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-31  .516    15-28  .536    31-59  .525
+3-Pt. FG%:  6-11  .545     8-17  .471    14-28  .500
+F Throw %: 11-18  .611     6-8   .750    17-26  .654
+Deadball rebounds: 4
+HOME TEAM: Wichita State (9-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+21 Willis, Darral...... f  5  7   0  0  14 17   9  4 13   2  24  0  1  1  1  30
+32 McDuffie, Markis.... f  2  7   0  1  10 14   2  4  6   4  14  0  3  2  2  25
+20 Nurger, Rauno....... c  1  1   0  0   0  0   0  0  0   2   2  0  1  0  0  11
+02 Smith, Daishon...... g  0  4   0  4   7  8   1  1  2   1   7  3  2  0  2  30
+11 Shamet, Landry...... g  2  9   1  3   2  2   1  0  1   3   7  0  0  0  0  17
+00 Kelly, Rashard......    1  2   0  0   0  0   0  0  0   0   2  0  2  1  0  10
+01 Brown, Zach.........    4  9   2  5   0  0   1  5  6   4  10  0  1  1  1  18
+03 Keyser, C.J.........    0  1   0  1   0  0   0  0  0   1   0  0  0  0  0   1
+04 Barney, Brett.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+05 Bush, Zach..........    0  0   0  0   0  0   1  0  1   0   0  0  0  0  0   1
+10 Malone, Kaelen......    1  1   0  0   0  0   0  0  0   0   2  0  0  0  0   1
+12 Reaves, Austin......    0  2   0  1   0  0   0  0  0   1   0  0  3  0  0   9
+14 Simon, John Robert..    0  1   0  1   0  0   0  0  0   1   0  2  0  0  2   5
+24 Morris, Shaquille...    1  2   0  0   2  2   0  1  1   2   4  0  1  2  0  16
+25 Hamilton, Eric......    0  1   0  0   0  4   1  0  1   0   0  0  0  1  1   8
+33 Frankamp, Conner....    2  5   0  1   0  0   0  0  0   0   4  3  1  0  0  17
+TM TEAM................                         2  1  3
+   Totals..............   19 52   3 17  35 47  18 16 34  21  76  8 15  8  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-21  .333    12-31  .387    19-52  .365
+3-Pt. FG%:  1-6   .167     2-11  .182     3-17  .176
+F Throw %: 18-24  .750    17-23  .739    35-47  .745
+Deadball rebounds: 8
+Date: 12-17-16      Site: Wichita, Kan./ INTRUST Bank Arena  Attendance: 15004
+Officials: Tom Eades; Gary Maxwell; Rick Crawford;
+Technical fouls: Oklahoma State-None. Wichita State-None.
+Score by Periods      1  2   Total
+Oklahoma State...... 49 44  - 93
+Wichita State....... 33 43  - 76

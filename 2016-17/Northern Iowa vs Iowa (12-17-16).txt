@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Northern Iowa vs Iowa (12-17-16)
+VISITORS: Northern Iowa (5-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Carlson, Klint...... *  1  5   0  3   0  0   3  3  6   2   2  3  0  0  2  31
+03 Friedman, Ted....... *  0  0   0  0   0  2   2  2  4   2   0  0  1  0  0  16
+13 McCloud, Juwan...... *  1  8   0  3   0  0   0  0  0   0   2  1  3  0  2  25
+20 Morgan, Jeremy...... *  4 13   1  6   5  6   0  9  9   1  14  4  2  1  0  32
+30 Haldeman, Spencer... *  3 12   2  7   4  4   0  0  0   2  12  0  0  0  1  27
+15 Dahl, Justin........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+21 Rhodes, Hunter......    0  0   0  0   0  0   0  1  1   0   0  1  0  0  0   9
+23 Ashton, Jordan......    0  2   0  0   0  0   0  3  3   1   0  0  2  0  0  17
+24 Brown, Isaiah.......    1  3   0  1   0  0   0  1  1   0   2  0  0  0  0   8
+25 Koch, Bennett.......    0  2   0  0   0  0   0  0  0   4   0  0  0  0  0   7
+33 Lohaus, Wyatt.......    4 10   2  5   0  0   1  1  2   0  10  0  1  0  0  20
+34 McDonnell, Luke.....    1  1   1  1   1  2   1  1  2   0   4  0  0  0  0   4
+TM TEAM................                         1     1             2
+   Totals..............   15 56   6 26  10 14   8 21 29  12  46  9 11  1  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  6-31  .194     9-25  .360    15-56  .268
+3-Pt. FG%:  3-16  .188     3-10  .300     6-26  .231
+F Throw %:  1-3   .333     9-11  .818    10-14  .714
+Deadball rebounds: 4,1
+HOME TEAM: Iowa (6-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Wagner, Ahmad....... *  3  6   0  0   0  0   2  2  4   3   6  2  3  0  1  26
+03 Bohannon, Jordan.... *  2  7   2  5   0  0   0  4  4   1   6  6  2  0  0  31
+04 Moss, Isaiah........ *  2  6   0  2   3  3   0  1  1   3   7  1  0  0  0  15
+14 Jok, Peter.......... *  9 15   3  3   0  0   1  7  8   2  21  0  1  0  0  29
+35 Pemsl, Cordell...... *  4  4   0  0   2  3   0  5  5   3  10  0  1  0  1  18
+01 Dailey, Maishe......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+10 Williams, Christian.    1  2   0  0   0  0   0  1  1   1   2  1  1  0  0  13
+11 Rose, Charlie.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+15 Kriener, Ryan.......    1  2   0  0   0  0   1  1  2   1   2  0  0  0  0   4
+24 Ellingson, Brady....    0  0   0  0   2  2   0  0  0   1   2  0  2  0  1  11
+25 Uhl, Dom............    1  5   0  3   0  1   1  3  4   1   2  1  1  0  0  20
+51 Baer, Nicholas......    5 11   1  7   0  0   4  7 11   1  11  3  2  2  1  28
+TM TEAM................                         1  2  3
+   Totals..............   28 58   6 20   7  9  10 33 43  17  69 14 13  2  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-30  .500    13-28  .464    28-58  .483
+3-Pt. FG%:  4-10  .400     2-10  .200     6-20  .300
+F Throw %:  0-2   .000     7-7  1.000     7-9   .778
+Deadball rebounds: 0
+Date: 12-17-16      Site: Wells Fargo Arena - Des Moines, Iowa  Attendance: 15028
+Officials: Bo Boroski; D.J. Carstensen; Kelly Pfeifer;
+Technical fouls: Northern Iowa-None. Iowa-None.
+Score by Periods      1  2   Total
+Northern Iowa....... 16 30  - 46
+Iowa................ 34 35  - 69

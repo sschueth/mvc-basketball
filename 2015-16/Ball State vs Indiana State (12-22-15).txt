@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Ball State vs Indiana State (12-22-15)
+VISITORS: Ball State (7-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 KIAPWAY, Francis.... *  0  0   0  0   0  0   0  1  1   1   0  0  1  0  0  19
+01 SMITH, Naiel........ *  1  8   0  4   0  0   1  6  7   2   2  4  3  0  2  19
+12 CALHOUN, Bo......... *  3  9   3  7   1  2   1  6  7   3  10  1  1  0  0  27
+33 WEBER, Ryan......... *  1  3   0  1   2  2   0  3  3   3   4  0  3  1  1  25
+41 MOSES, Trey......... *  2  6   1  1   2  4   3  2  5   4   7  1  1  2  0  22
+15 HOUSE, Franko.......    5  7   0  0   5  7   2  2  4   3  15  1  2  0  0  25
+22 TYLER, Jeremie......    5 13   2  6   1  3   0  3  3   1  13  1  0  0  2  22
+24 DAVIS, Jeremiah.....    5  9   0  2   0  0   0  2  2   4  10  0  3  0  3  21
+34 SELLERS, Sean.......    0  2   0  1   0  0   1  1  2   2   0  2  2  0  1  20
+TM TEAM................                            2  2
+   Totals..............   22 57   6 22  11 18   8 28 36  23  61 10 16  3  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-29  .345    12-28  .429    22-57  .386
+3-Pt. FG%:  3-11  .273     3-11  .273     6-22  .273
+F Throw %:  1-2   .500    10-16  .625    11-18  .611
+Deadball rebounds: 2
+HOME TEAM: Indiana State (6-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Clemons, Everett.... *  1  2   0  0   1  2   1  5  6   0   3  4  1  0  3  26
+01 Smith, Khristian.... *  6 14   1  3   4  6   1  7  8   2  17  0  2  0  0  31
+11 Brown, Devonte...... *  2  8   0  1   5  7   0  6  6   1   9  1  3  0  0  33
+30 Van Scyoc, Matt..... *  5  9   3  7   2  2   1  3  4   4  15  0  3  0  0  23
+34 Murphy, Brandon..... *  4  6   0  0   0  0   4  3  7   4   8  0  0  0  0  21
+04 Scott, Brenton......    6 10   2  6   5  6   0  3  3   1  19  3  1  0  2  30
+12 Bunschoten, Niels...    0  1   0  0   1  2   1  0  1   2   1  0  0  0  0   6
+20 Prusator, Grant.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+22 Burnett, Brandon....    0  3   0  1   0  0   0  1  1   0   0  1  3  0  1  15
+41 Rickman, Emondre....    0  1   0  0   1  4   0  2  2   2   1  0  0  0  1  13
+TM Team................                         1  2  3
+   Totals..............   24 54   6 18  19 29   9 32 41  16  73  9 13  0  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-33  .394    11-21  .524    24-54  .444
+3-Pt. FG%:  2-10  .200     4-8   .500     6-18  .333
+F Throw %:  5-6   .833    14-23  .609    19-29  .655
+Deadball rebounds: 3
+Date: 12-22-15      Site: Hulman Center (Terre Haute, Ind.)  Attendance: 3256
+Officials: Rick Randall; Zelton Steed; Randy Heimerman;
+Technical fouls: Ball State-None. Indiana State-None.
+Score by Periods      1  2   Total
+Ball State.......... 24 37  - 61
+Indiana State....... 33 40  - 73

@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Southern Illinois vs Drake (01-17-16)
+VISITORS: Southern Illinois (16-3 (5-1 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 O'Brien,Sean........ f  5  7   0  1   0  0   1  1  2   4  10  0  1  0  1  23
+23 Olaniyan,Bola....... c  5  7   0  0   1  1   5  9 14   2  11  2  1  1  1  33
+01 Rodriguez,Mike...... g  1  2   0  1   2  4   1  1  2   2   4  4  2  0  0  20
+11 Smithpeters,Tyler... g  2  7   2  5   2  4   1  3  4   2   8  3  1  1  1  33
+25 Beane,Anthony....... g  9 22   3  8   5  5   1  2  3   1  26  3  1  0  3  37
+05 Vincent,Leo.........    3  8   0  3   6  6   0  2  2   2  12  2  1  0  1  27
+15 Weiher,Austin.......    5  5   0  0   0  0   0  2  2   2  10  0  0  0  0  17
+22 Fletcher,Armon......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   4
+24 Stradnieks,Rudy.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   6
+TM Team................                            1  1
+   Totals..............   30 58   5 18  16 20   9 21 30  16  81 14  7  2  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 18-32  .563    12-26  .462    30-58  .517
+3-Pt. FG%:  1-6   .167     4-12  .333     5-18  .278
+F Throw %:  5-6   .833    11-14  .786    16-20  .800
+Deadball rebounds: 2
+HOME TEAM: Drake (5-13 (0-6 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+31 Abrahamson, Kale.... f  1  7   1  5   1  2   1  2  3   2   4  1  1  0  0  27
+11 Enevold, Jacob...... c  6  6   0  0   1  2   2  4  6   1  13  0  2  0  0  26
+01 Madison, Karl....... g  1  2   0  0   0  0   0  3  3   4   2  5  0  0  0  21
+03 Woodward, Graham.... g  3  9   2  5   0  0   0  1  1   1   8  4  1  0  1  33
+12 Timmer, Reed........ g  8 14   3  5   8 11   1  1  2   3  27  5  1  0  2  39
+02 Wampler, Billy......    3  4   2  3   0  0   0  1  1   2   8  0  2  0  0   6
+22 Schlatter, Casey....    0  2   0  0   0  0   0  0  0   1   0  0  0  0  0   4
+23 Arogundade, Ore.....    3  6   1  4   1  1   0  2  2   1   8  1  1  0  1  23
+35 McGlynn, Nick.......    0  0   0  0   0  0   0  2  2   2   0  1  3  0  0   7
+44 Olejniczak, Dominik.    3  3   0  0   0  0   2  4  6   3   6  0  1  0  0  14
+TM Team................                         1  1  2             1
+   Totals..............   28 53   9 22  11 16   7 21 28  20  76 17 13  0  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-26  .462    16-27  .593    28-53  .528
+3-Pt. FG%:  4-11  .364     5-11  .455     9-22  .409
+F Throw %:  3-3  1.000     8-13  .615    11-16  .688
+Deadball rebounds: 2
+Date: 01-17-16      Site: Des Moines, Iowa (Knapp Center)  Attendance: 3136
+Officials: Gerry Pollard; Winston Stith; Paul Janssen;
+Technical fouls: Southern Illinois-None. Drake-None.
+Score by Periods      1  2   Total
+Southern Illinois... 42 39  - 81
+Drake............... 31 45  - 76

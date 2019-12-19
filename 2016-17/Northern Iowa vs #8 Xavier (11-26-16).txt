@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Northern Iowa vs #8 Xavier (11-26-16)
+VISITORS: Northern Iowa (3-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Carlson, Klint...... f  4  8   0  1   3  3   0  3  3   3  11  3  3  0  1  24
+25 Koch, Bennett....... f  2  3   0  0   1  2   1  1  2   5   5  0  4  0  0  18
+13 McCloud, Juwan...... g  1  1   0  0   2  4   0  0  0   0   4  1  1  1  1  27
+20 Morgan, Jeremy...... g  5 11   4  6   0  0   0  3  3   1  14  1  1  4  3  34
+23 Ashton, Jordan...... g  0  7   0  4   2  2   0  1  1   2   2  0  3  0  1  29
+03 Friedman, Ted.......    0  0   0  0   0  2   1  0  1   2   0  0  1  0  0  15
+15 Dahl, Justin........    0  1   0  0   0  1   1  0  1   0   0  0  0  0  0   4
+21 Rhodes, Hunter......    0  2   0  1   0  0   0  1  1   1   0  1  0  0  1  13
+24 Brown, Isaiah.......    0  4   0  2   0  0   1  1  2   2   0  1  0  0  0  19
+30 Haldeman, Spencer...    2  5   2  4   0  0   0  3  3   1   6  0  1  0  0  14
+34 McDonnell, Luke.....    0  1   0  0   0  0   1  0  1   0   0  0  0  0  0   3
+TM TEAM................                            2  2
+   Totals..............   14 43   6 18   8 14   5 15 20  17  42  7 14  5  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  4-19  .211    10-24  .417    14-43  .326
+3-Pt. FG%:  1-9   .111     5-9   .556     6-18  .333
+F Throw %:  3-5   .600     5-9   .556     8-14  .571
+Deadball rebounds: 3,1
+HOME TEAM: #8 Xavier (6-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+54 O'MARA, Sean........ c  4  7   0  0   0  0   0  2  2   3   8  0  1  0  0  13
+04 SUMNER, Edmond...... g  6 10   2  4   0  0   0  4  4   3  14  7  1  0  2  32
+05 BLUIETT, Trevon..... g  3 12   2  6   0  1   1  7  8   2   8  1  2  0  2  33
+11 BERNARD, Malcolm.... g  0  4   0  2   1  2   1  3  4   1   1  1  1  0  0  32
+55 MACURA, J.P......... g  6  9   3  6   3  3   2  2  4   0  18  3  3  0  3  33
+00 JONES, Tyrique......    3  4   0  0   0  0   5  1  6   4   6  1  1  0  0  11
+03 GOODIN, Quentin.....    3  4   1  2   0  0   0  3  3   1   7  0  1  0  0  18
+21 STAINBROOK, Tim.....    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   2
+22 GATES, Kaiser.......    0  1   0  1   0  0   1  1  2   3   0  0  0  1  0  11
+35 GASTON, RaShid......    1  5   0  0   0  0   2  3  5   1   2  2  3  0  0  15
+TM TEAM................                         3  1  4
+   Totals..............   26 57   8 22   4  6  15 27 42  18  64 15 13  1  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-29  .483    12-28  .429    26-57  .456
+3-Pt. FG%:  6-13  .462     2-9   .222     8-22  .364
+F Throw %:  1-2   .500     3-4   .750     4-6   .667
+Deadball rebounds: 2
+Date: 11-26-16      Site: Cincinnati, Ohio (Cintas Center)  Attendance: 10028
+Officials: Jeffrey Anderson; Mike Stuart; Gary Prager;
+Technical fouls: Northern Iowa-None. #8 Xavier-None.
+Score by Periods      1  2   Total
+Northern Iowa....... 12 30  - 42
+#8 Xavier........... 35 29  - 64

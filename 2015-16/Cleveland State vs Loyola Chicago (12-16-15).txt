@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  Cleveland State vs Loyola Chicago (12-16-15)
+VISITORS: Cleveland State (3-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 YATES, Andre........ *  5 10   2  4   2  2   0  3  3   3  14  2  0  0  1  28
+03 EDWARDS, Rob........ *  2  6   0  0   0  0   0  2  2   3   4  1  2  0  1  18
+11 HALES, Terrell...... *  0  1   0  0   0  0   1  1  2   2   0  2  0  0  0   9
+33 FLANNIGAN, Demonte.. *  5  6   0  0   0  2   2  1  3   2  10  0  2  3  0  14
+41 ZOLLO, Vinny........ *  0  5   0  1   0  0   3  5  8   2   0  0  2  0  0  22
+02 HAMILTON, Myles.....    0  2   0  1   2  2   2  0  2   1   2  3  3  1  0  15
+04 CARPENTER, Kenny....    0  3   0  1   0  2   1  0  1   0   0  1  2  0  1  10
+05 BLOUNT, Jibri.......    2  7   0  0   7  8   3  4  7   3  11  0  1  2  2  26
+21 HASBARGEN, Tim......    1  5   1  2   4  4   1  1  2   1   7  1  0  0  1  20
+34 ROGERS, Jeron.......    0  4   0  2   0  0   1  3  4   1   0  0  0  0  1  10
+44 LEVITT, Daniel......    4  6   4  6   0  0   0  0  0   1  12  1  0  0  2  28
+TM TEAM................                         3  1  4             1
+   Totals..............   19 55   7 17  15 20  17 21 38  19  60 11 13  6  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-23  .304    12-32  .375    19-55  .345
+3-Pt. FG%:  2-5   .400     5-12  .417     7-17  .412
+F Throw %:  7-10  .700     8-10  .800    15-20  .750
+Deadball rebounds: 2
+HOME TEAM: Loyola Chicago (5-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... *  3  5   0  0   0  1   1  3  4   4   6  2  3  1  1  28
+02 Peterson, Earl...... *  6  9   0  0   4  5   0  0  0   2  16  2  2  1  2  32
+04 Turk, Devon......... *  2  5   0  2   0  0   0  0  0   1   4  0  1  0  0  24
+14 Richardson, Ben..... *  2  4   2  3   3  4   0  2  2   2   9  1  2  1  0  23
+31 Kirby, Maurice...... *  2  4   0  0   1  1   1  4  5   1   5  1  1  1  0  19
+12 Rajala, Julius......    1  2   0  0   0  0   2  2  4   2   2  0  1  1  0  12
+23 White, Jeff.........    0  0   0  0   0  0   0  0  0   0   0  2  1  0  0  12
+25 Smith, Tyson........    1 12   0  5   1  2   1  6  7   2   3  2  0  0  0  27
+35 Doyle, Milton.......    3  8   1  3   2  3   1  3  4   4   9  2  4  0  1  23
+TM Team................                         5  2  7             1
+   Totals..............   20 49   3 13  11 16  11 22 33  18  54 12 16  5  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-24  .333    12-25  .480    20-49  .408
+3-Pt. FG%:  2-6   .333     1-7   .143     3-13  .231
+F Throw %:  6-7   .857     5-9   .556    11-16  .688
+Deadball rebounds: 2
+Date: 12-16-15      Site: Gentile Arena - Chicago, Ill.  Attendance: 1189
+Officials: Terry Oglesboy; Rick Hartzell; Randy Heimerman;
+Technical fouls: Cleveland State-None. Loyola Chicago-None.
+Score by Periods      1  2   Total
+Cleveland State..... 23 37  - 60
+Loyola Chicago...... 24 30  - 54

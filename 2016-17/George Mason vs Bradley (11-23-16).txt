@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       George Mason vs Bradley (11-23-16)
+VISITORS: George Mason (3-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 KIER, Justin........ *  3  9   0  3   2  2   2  8 10   3   8  0  0  0  0  27
+04 LIVINGSTON, Otis.... *  8 13   2  5   4  4   0  3  3   1  22  3  2  0  1  34
+05 GRAYER, Jaire....... *  2 10   1  4   4  4   1  3  4   2   9  1  3  1  1  31
+22 MOORE, Marquise..... *  4 12   0  0   9 15   3 12 15   2  17  5  2  1  1  37
+31 JENKINS, Jalen...... *  2  4   0  0   2  3   1  7  8   5   6  1  2  0  1  21
+02 MURRELL, Kameron....    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0  0+
+10 NEWMAN, Karmari.....    2  4   1  3   0  0   0  0  0   3   5  0  0  0  1  19
+14 RELVAO, Daniel......    0  2   0  0   2  2   3  1  4   3   2  0  1  0  0   7
+25 TEMARA, Troy........    2  2   0  0   0  0   0  0  0   3   4  0  0  0  0  12
+32 BOYD, Ian...........    2  5   0  2   0  1   0  0  0   1   4  0  0  0  1  12
+TM TEAM................                         3  2  5
+   Totals..............   25 61   4 17  23 31  13 37 50  23  77 10 10  2  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-35  .229    17-26  .654    25-61  .410
+3-Pt. FG%:  0-11  .000     4-6   .667     4-17  .235
+F Throw %: 10-16  .625    13-15  .867    23-31  .742
+Deadball rebounds: 4
+HOME TEAM: Bradley (3-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 Pittman, Antoine.... *  5 13   2  3   0  4   0  3  3   2  12  0  1  0  0  23
+05 Brown, Darrell...... *  5 11   2  5   3  3   0  0  0   2  15  4  0  0  0  27
+12 Bar, Koch........... *  1  2   0  0   3  5   1  1  2   1   5  0  1  2  1  17
+13 van Bree, Luuk...... *  1  5   1  4   0  0   0  6  6   2   3  2  1  0  1  22
+24 McGlaston, JoJo..... *  2  5   0  2   1  2   0  5  5   3   5  1  1  1  0  20
+01 Thomas, Donte.......    1  3   0  1   0  0   2  3  5   1   2  0  1  0  0   7
+02 Suggs, Ronnie.......    0  2   0  2   0  1   0  0  0   3   0  1  0  0  1  12
+23 Lautier-Ogunleye, D.    0  4   0  0   1  2   0  1  1   1   1  1  0  0  0  17
+25 Kennell, Nate.......    3  6   2  4   1  2   0  0  0   3   9  2  0  0  2  13
+30 Barker, Callum......    3  5   0  0   2  2   3  3  6   2   8  1  0  1  1  17
+34 Foster, Alex........    0  1   0  0   0  0   0  1  1   1   0  0  1  0  0   5
+35 Hodgson, Jayden.....    3  6   0  2   0  0   0  0  0   1   6  2  1  0  1  20
+TM TEAM................                         2  4  6
+   Totals..............   24 63   7 23  11 21   8 27 35  22  66 14  7  4  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-32  .281    15-31  .484    24-63  .381
+3-Pt. FG%:  2-11  .182     5-12  .417     7-23  .304
+F Throw %:  5-10  .500     6-11  .545    11-21  .524
+Deadball rebounds: 4
+Date: 11-23-16      Site: Germain Arena (Estero, Fla.)  Attendance: 0
+Officials: Trey Styons; Mick Feildbinder; Tommy Short;
+Technical fouls: George Mason-None. Bradley-None.
+Score by Periods      1  2   Total
+George Mason........ 26 51  - 77
+Bradley............. 25 41  - 66

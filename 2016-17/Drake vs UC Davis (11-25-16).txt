@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                          Drake vs UC Davis (11-25-16)
+VISITORS: Drake (1-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Thomas, T.J......... f  4  6   0  0   0  1   1  2  3   4   8  0  1  2  0  23
+32 Kuenstling, Kory.... f  1  1   0  0   0  0   0  1  1   3   2  1  1  1  0  18
+00 Rivers, C.J......... g  0  2   0  0   0  0   1  0  1   1   0  1  0  0  0   6
+03 Woodward, Graham.... g  4  6   1  3   0  0   0  0  0   2   9  4  2  0  0  32
+12 Timmer, Reed........ g  2  9   0  3   1  2   0  2  2   1   5  2  0  0  0  24
+02 Wampler, Billy......    3  6   3  6   0  0   1  0  1   0   9  0  1  0  2  15
+04 McMurray, De'Antae..    2  5   2  4   0  0   0  2  2   3   6  3  1  0  2  23
+11 Enevold, Jacob......    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+22 Schlatter, Casey....    5  7   0  0   5  5   0  3  3   3  15  2  3  0  1  28
+23 Arogundade, Ore.....    0  4   0  2   2  2   1  1  2   0   2  1  0  0  4  19
+35 McGlynn, Nick.......    1  3   0  0   0  0   1  2  3   2   2  0  1  0  0   9
+TM TEAM................
+   Totals..............   22 50   6 18   8 10   5 13 18  19  58 14 10  3  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-28  .393    11-22  .500    22-50  .440
+3-Pt. FG%:  2-9   .222     4-9   .444     6-18  .333
+F Throw %:  6-8   .750     2-2  1.000     8-10  .800
+Deadball rebounds: 2,1
+HOME TEAM: UC Davis (5-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 Moneke,Chima........ f  4  7   0  0   4  5   4  4  8   4  12  1  2  1  1  23
+13 Adenrele,J.T........ f  2  2   0  0   0  3   1  2  3   4   4  1  1  0  1  22
+00 Lemar,Brynton....... g  6 14   3  5   2  2   0  2  2   0  17  5  1  0  2  35
+02 Graham,Darius....... g  5  6   3  4   0  1   0  2  2   0  13  5  6  0  0  34
+05 Schneider,Siler..... g  2  8   1  5   0  0   1  2  3   2   5  3  3  1  0  23
+01 White,Lawrence......    1  1   0  0   1  2   0  1  1   0   3  1  0  0  0  12
+12 Funtarov,Georgi.....    0  1   0  1   0  0   1  2  3   2   0  0  2  1  0  15
+22 Mooney,Joe..........    3  7   2  6   0  0   0  1  1   2   8  0  1  0  1  22
+24 Henn,Mikey..........    1  3   0  1   0  0   3  3  6   2   2  0  2  0  0  14
+TM TEAM................                         1  3  4
+   Totals..............   24 49   9 22   7 13  11 22 33  16  64 16 18  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-24  .542    11-25  .440    24-49  .490
+3-Pt. FG%:  5-13  .385     4-9   .444     9-22  .409
+F Throw %:  4-5   .800     3-8   .375     7-13  .538
+Deadball rebounds: 6,1
+Date: 11-25-16      Site: Alaska Airlines Center - Anchorage,  Attendance: 2308
+Officials: Bruce Corson; Tom Nally; Brett Miles;
+Technical fouls: Drake-None. UC Davis-None.
+Score by Periods      1  2   Total
+Drake............... 30 28  - 58
+UC Davis............ 35 29  - 64

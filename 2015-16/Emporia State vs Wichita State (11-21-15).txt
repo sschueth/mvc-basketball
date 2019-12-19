@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Emporia State vs Wichita State (11-21-15)
+VISITORS: Emporia State (0-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Oswald,Joshua....... *  6 10   1  2   3  5   3  1  4   4  16  1  3  0  2  30
+10 Temaat,Jay.......... *  2  5   2  5   1  2   0  0  0   1   7  0  1  0  0  21
+11 Moore,Terrence...... *  3 11   0  4   3  4   0  5  5   4   9  2  2  0  1  29
+13 Swank,Micah......... *  0  4   0  2   2  2   0  4  4   2   2  1  2  0  0  29
+33 Sardin,Terrence..... *  3  4   0  0   0  1   2  1  3   3   6  0  1  1  0  19
+02 Morgan,Sam..........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   3
+03 Jordan,Tyler........    1  1   0  0   0  0   0  0  0   0   2  0  0  0  1   6
+05 Hall,Brandon........    1  5   0  0   0  0   1  2  3   4   2  0  2  0  0  17
+21 Taylor,Jevon........    0  2   0  0   0  0   1  0  1   0   0  1  0  0  0   5
+23 McKinney,Charles....    4  7   0  0   2  4   2  0  2   4  10  2  1  0  3  22
+30 Pedersen,Josh.......    0  2   0  2   0  0   0  2  2   4   0  0  1  0  0  19
+TM TEAM................                         2  5  7             3
+   Totals..............   20 51   3 15  11 18  11 20 31  27  54  7 16  1  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  5-22  .227    15-29  .517    20-51  .392
+3-Pt. FG%:  0-7   .000     3-8   .375     3-15  .200
+F Throw %:  3-5   .600     8-13  .615    11-18  .611
+Deadball rebounds: 3
+HOME TEAM: Wichita State (2-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Kelly, Rashard...... *  3  4   0  1   0  0   2  2  4   3   6  2  1  1  0  20
+03 Wessel, Evan........ *  1  3   1  3   0  0   0  1  1   0   3  1  0  0  2  23
+11 Shamet, Landry...... *  3  6   1  4   2  4   1  1  2   2   9  3  1  0  1  22
+15 Grady, Anton........ *  1  5   0  0   2  3   0  5  5   3   4  1  2  2  0  24
+31 Baker, Ron.......... *  6 13   2  5   9 10   3  2  5   0  23  4  2  1  1  31
+01 Brown, Zach.........    1  1   0  0   2  2   0  2  2   3   4  1  0  2  0   9
+05 Bush, Zach..........    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   1
+10 Taylor II, Ty.......    3  7   3  4   0  0   0  0  0   2   9  1  2  0  1  17
+14 Simon, John Robert..    0  0   0  0   0  2   0  0  0   1   0  1  1  0  0   8
+21 Wamukota, Bush......    2  3   0  0   2  2   4  3  7   3   6  0  1  0  0  14
+24 Morris, Shaquille...    3  5   0  0   0  0   1  2  3   0   6  0  0  1  0  15
+25 Hamilton, Eric......    1  1   0  0   1  4   0  2  2   1   3  0  1  0  1   6
+32 McDuffie, Markis....    0  2   0  1   3  4   2  2  4   1   3  1  1  0  0  10
+TM Team................                            2  2             1
+   Totals..............   24 51   7 19  21 31  13 24 37  19  76 15 13  7  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-21  .571    12-30  .400    24-51  .471
+3-Pt. FG%:  4-11  .364     3-8   .375     7-19  .368
+F Throw %: 10-15  .667    11-16  .688    21-31  .677
+Deadball rebounds: 4
+Date: 11-21-15      Site: Wichita, Kan./Charles Koch Ar  Attendance: 10506
+Officials: Brad Ferrie; Patrick Boeh; John Moore;
+Technical fouls: Emporia State-None. Wichita State-None.
+Score by Periods      1  2   Total
+Emporia State....... 13 41  - 54
+Wichita State....... 38 38  - 76

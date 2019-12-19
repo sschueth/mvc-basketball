@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Illinois State vs Drake (01-03-16)
+VISITORS: Illinois State (8-7 (2-0 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Banyard,Nick........ f  0  3   0  2   0  0   1  2  3   0   0  2  1  0  0  15
+11 McIntosh,MiKyle..... f  0  5   0  1   0  0   1  0  1   2   0  1  0  0  0   8
+35 Griffin,Roland...... f  2  6   1  2   0  0   0  1  1   0   5  0  1  0  0  21
+01 Lee,Paris........... g  5 11   1  3   4  4   0  2  2   4  15  2  0  0  1  36
+44 Akoon-Purcell,DeVaug g 13 21   0  3   2  7   4  5  9   3  28  1  2  1  1  31
+02 Brewer,Quintin......    1  4   0  0   0  0   2  5  7   4   2  0  0  3  0  30
+12 Wills,Tony..........    2  5   1  2   0  0   0  1  1   4   5  1  0  0  2  25
+15 McCloud,Justin......    0  2   0  2   0  0   0  2  2   0   0  0  0  0  0   9
+23 Hawkins,Deontae.....    5  8   2  5   0  0   0  5  5   3  12  0  0  0  0  25
+TM Team................                         4     4
+   Totals..............   28 65   5 20   6 11  12 23 35  20  67  7  4  4  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-34  .265    19-31  .613    28-65  .431
+3-Pt. FG%:  2-13  .154     3-7   .429     5-20  .250
+F Throw %:  2-5   .400     4-6   .667     6-11  .545
+Deadball rebounds: 2,1
+HOME TEAM: Drake (5-9 (0-2 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+31 Abrahamson, Kale.... f  2  6   0  3   1  4   2  6  8   3   5  3  1  0  0  35
+11 Enevold, Jacob...... c  4  8   0  0   1  2   2  4  6   2   9  0  1  1  0  25
+03 Woodward, Graham.... g  3 11   3  6   6  6   0  1  1   4  15  3  1  0  2  38
+12 Timmer, Reed........ g  6 11   1  2   3  4   1  4  5   1  16  1  4  0  0  33
+23 Arogundade, Ore..... g  2  4   1  3   0  0   0  6  6   0   5  0  1  0  0  20
+00 Rivers, C.J.........    1  2   0  0   0  0   0  2  2   1   2  1  0  0  0  13
+01 Madison, Karl.......    4  4   0  0   0  0   0  0  0   3   8  2  0  0  0  16
+02 Wampler, Billy......    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   3
+22 Schlatter, Casey....    0  1   0  0   0  0   0  0  0   1   0  0  0  0  0   3
+35 McGlynn, Nick.......    1  2   0  0   0  0   0  3  3   2   2  0  0  1  0  14
+TM Team................                            1  1             1
+   Totals..............   23 49   5 14  11 16   5 28 33  17  62 10  9  2  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-25  .480    11-24  .458    23-49  .469
+3-Pt. FG%:  5-8   .625     0-6   .000     5-14  .357
+F Throw %:  3-5   .600     8-11  .727    11-16  .688
+Deadball rebounds: 2
+Date: 01-03-16      Site: Des Moines, Iowa (Knapp Center)  Attendance: 2803
+Officials: Kelly Self; Hal Lusk; Tom O'Neill;
+Technical fouls: Illinois State-None. Drake-None.
+Score by Periods      1  2   Total
+Illinois State...... 22 45  - 67
+Drake............... 32 30  - 62

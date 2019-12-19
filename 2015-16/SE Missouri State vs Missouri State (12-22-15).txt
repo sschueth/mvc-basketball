@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 SE Missouri State vs Missouri State (12-22-15)
+VISITORS: SE Missouri State (1-10)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 ANGUS III, Joel..... f  6 10   0  0   2  2   2  4  6   3  14  1  2  1  0  32
+13 KELLUM, Trey........ f  5  9   0  0   0  3   1  2  3   5  10  0  0  0  1  26
+02 JONES, Isiah........ g  5 12   5  9   2  2   0  4  4   2  17  3  4  0  3  36
+03 McGILL, Eric........ g  4  7   1  2   1  4   0  0  0   1  10  5  1  0  3  30
+04 CLEVELAND, Antonius. g  6 10   0  0   6 12   3  7 10   2  18  4  1  0  3  35
+00 STEWART, Jaylin.....    1  4   0  2   0  0   1  1  2   1   2  0  0  0  0   8
+01 ANDERSON, Tony......    1  4   0  0   0  0   1  1  2   0   2  0  0  1  0  12
+10 DOSIER, Robby.......    0  0   0  0   0  0   0  1  1   1   0  0  1  0  0   4
+12 CALVIN, Jamaal......    1  4   0  3   3  6   0  3  3   0   5  0  1  0  0  10
+21 GULLETT, Kyle.......    0  0   0  0   0  0   1  0  1   1   0  0  1  0  1   7
+TM TEAM................                         3     3
+   Totals..............   29 60   6 16  14 29  12 23 35  16  78 13 11  2 11 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-40  .425    12-20  .600    29-60  .483
+3-Pt. FG%:  3-9   .333     3-7   .429     6-16  .375
+F Throw %:  3-4   .750    11-25  .440    14-29  .483
+Deadball rebounds: 7
+HOME TEAM: Missouri State (4-8)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  1  3   0  1   1  3   2  2  4   2   3  0  1  2  0  16
+30 Boone,Camyn......... f  2  4   0  0   2  2   5  4  9   3   6  0  2  0  0  22
+04 Miller,Dequon....... g  6 12   3  7   2  6   0  3  3   3  17  3  3  0  0  37
+20 Kreklow, Ryan....... g  2  6   2  6   2  2   1  1  2   4   8  2  2  0  0  14
+23 Williams,Dorrian.... g  4  9   0  2   2  2   0  8  8   4  10  8  2  0  3  36
+03 Gerring,Loomis......    3  6   1  4   2  3   0  2  2   0   9  0  1  0  0  19
+11 Dixon,Jarred........    7 16   0  4   1  1   4  0  4   3  15  2  1  0  3  27
+25 Martin,Jordan.......    0  0   0  0   0  0   0  1  1   0   0  0  1  1  0   4
+33 Kendrix,Chris.......    1  6   0  4   2  2   1  3  4   0   4  0  2  0  1  15
+50 McCullough, Tyler...    0  1   0  0   2  2   1  2  3   4   2  0  1  3  0  10
+TM Team................                         4  1  5
+   Totals..............   26 63   6 28  16 23  18 27 45  23  74 15 16  6  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-29  .414    14-34  .412    26-63  .413
+3-Pt. FG%:  3-15  .200     3-13  .231     6-28  .214
+F Throw %:  6-9   .667    10-14  .714    16-23  .696
+Deadball rebounds: 3
+Date: 12-22-15      Site: JQH Arena, Springfield, Mo.  Attendance: 4189
+Officials: Kelly Self; David Stevens; Todd Parker;
+Technical fouls: SE Missouri State-None. Missouri State-None.
+Score by Periods      1  2   Total
+SE Missouri State... 40 38  - 78
+Missouri State...... 33 41  - 74

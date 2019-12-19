@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Indiana State vs Drake (01-06-16)
+VISITORS: Indiana State (8-7 (2-1 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Smith, Khristian.... f  4  8   0  1   2  3   0  2  2   3  10  5  1  0  3  33
+30 Van Scyoc, Matt..... f  4 10   3  6   2  2   2  2  4   4  13  0  0  0  0  26
+34 Murphy, Brandon..... f  2  4   0  0   0  0   1  2  3   4   4  0  0  0  0  14
+04 Scott, Brenton...... g  4 12   1  5   5  7   1  3  4   2  14  2  1  1  1  30
+11 Brown, Devonte...... g  9 16   2  3   7  8   2  6  8   1  27  0  1  1  1  34
+00 Clemons, Everett....    2  3   0  0   1  4   1  6  7   1   5  2  1  0  1  26
+12 Bunschoten, Niels...    1  5   1  2   0  0   2  1  3   4   3  0  1  1  0  13
+22 Burnett, Brandon....    0  0   0  0   0  0   0  0  0   0   0  2  0  0  0   5
+32 Paige, Laquarious...    1  2   1  2   0  0   0  1  1   0   3  0  0  0  2  11
+41 Rickman, Emondre....    0  1   0  0   0  0   0  2  2   3   0  0  0  1  1   8
+TM Team................                            2  2             1
+   Totals..............   27 61   8 19  17 24   9 27 36  22  79 11  6  4  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-32  .531    10-29  .345    27-61  .443
+3-Pt. FG%:  8-14  .571     0-5   .000     8-19  .421
+F Throw %:  4-7   .571    13-17  .765    17-24  .708
+Deadball rebounds: 3
+HOME TEAM: Drake (5-10 (0-3 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+31 Abrahamson, Kale.... f  3  5   2  4   3  5   0  4  4   2  11  0  3  0  0  29
+11 Enevold, Jacob...... c  4  6   0  0   6  6   3  8 11   2  14  1  1  2  0  21
+03 Woodward, Graham.... g  4 12   2  6   1  2   0  1  1   4  11  3  0  0  1  25
+12 Timmer, Reed........ g  3 14   2  8   5  8   2  1  3   1  13  3  1  0  0  32
+23 Arogundade, Ore..... g  0  2   0  2   0  0   0  0  0   1   0  0  2  0  0   9
+00 Rivers, C.J.........    6  8   1  1   0  1   1  4  5   4  13  2  2  0  0  30
+01 Madison, Karl.......    1  2   0  0   0  0   0  2  2   1   2  0  3  0  0  15
+02 Wampler, Billy......    0  2   0  1   0  1   0  2  2   2   0  0  1  0  0  11
+22 Schlatter, Casey....    0  1   0  1   0  1   1  2  3   0   0  0  0  0  0   8
+35 McGlynn, Nick.......    1  2   0  0   1  3   2  5  7   0   3  1  1  1  1  15
+44 Olejniczak, Dominik.    1  1   0  0   0  0   1  0  1   0   2  0  0  0  0   5
+TM Team................                         3     3
+   Totals..............   23 55   7 23  16 27  13 29 42  17  69 10 14  3  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-27  .333    14-28  .500    23-55  .418
+3-Pt. FG%:  3-12  .250     4-11  .364     7-23  .304
+F Throw %:  5-10  .500    11-17  .647    16-27  .593
+Deadball rebounds: 3
+Date: 01-06-16      Site: Des Moines, Iowa (Knapp Center)  Attendance: 2717
+Officials: Rick Hartzell; Rick Randall; Paul Janssen;
+Technical fouls: Indiana State-None. Drake-None.
+Score by Periods      1  2   Total
+Indiana State....... 46 33  - 79
+Drake............... 26 43  - 69

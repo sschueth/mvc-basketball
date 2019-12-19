@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                           Drake vs DePaul (11-30-16)
+VISITORS: Drake (1-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+22 Schlatter, Casey.... f  2  3   0  1   0  0   2  1  3   2   4  1  1  0  0  14
+35 McGlynn, Nick....... f  2  4   0  0   5  6   5  2  7   3   9  0  3  0  1  17
+03 Woodward, Graham.... g  2  8   1  5   0  0   0  1  1   1   5  2  3  0  0  27
+04 McMurray, De'Antae.. g  1  6   1  4   0  0   0  0  0   2   3  8  3  1  2  34
+12 Timmer, Reed........ g  7 11   3  6   1  2   0  6  6   2  18  2  3  0  0  32
+00 Rivers, C.J.........    2  2   0  0   0  0   1  3  4   0   4  0  1  0  0  12
+02 Wampler, Billy......    5 12   3  9   4  4   2  2  4   2  17  1  1  0  4  22
+10 Thomas, T.J.........    3  6   0  1   4  4   5  4  9   2  10  1  1  0  0  23
+11 Enevold, Jacob......    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   1
+23 Arogundade, Ore.....    1  5   0  3   0  0   0  2  2   4   2  2  0  0  1  15
+32 Kuenstling, Kory....    1  1   0  0   1  2   0  1  1   2   3  0  0  0  0   3
+   Totals..............   26 58   8 29  15 18  15 22 37  20  75 17 17  1  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-30  .467    12-28  .429    26-58  .448
+3-Pt. FG%:  3-13  .231     5-16  .313     8-29  .276
+F Throw %:  7-8   .875     8-10  .800    15-18  .833
+Deadball rebounds: 0
+HOME TEAM: DePaul (4-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 McCallum,Tre'Darius. f  5  9   0  2   0  0   2  4  6   3  10  1  3  0  2  31
+33 Hanel,Joe........... f  0  0   0  0   0  0   2  1  3   2   0  0  1  0  0  13
+04 Cyrus,Brandon....... g  5  9   0  0   4  5   5  3  8   2  14  0  0  0  0  26
+05 Garrett,Billy....... g  2  7   0  2   0  0   0  3  3   2   4  4  2  0  1  31
+11 Cain,Eli............ g  7 13   0  3   5  7   2  4  6   4  19  4  4  0  1  31
+01 Wood,Darrick........    5 11   1  3   1  3   0  3  3   3  12  0  0  0  1  26
+03 Gage,Devin..........    0  0   0  0   0  0   0  1  1   1   0  1  2  0  0   3
+23 Eichelberger,Al.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+44 Cook,Levi...........    1  1   0  0   2  2   0  0  0   2   4  0  0  0  0   8
+51 Harrison-Docks,Chris    5  7   4  5   0  0   0  0  0   0  14  1  2  0  2  27
+   Totals..............   30 57   5 15  12 17  11 19 30  19  77 11 14  0  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-27  .407    19-30  .633    30-57  .526
+3-Pt. FG%:  1-10  .100     4-5   .800     5-15  .333
+F Throw %:  6-8   .750     6-9   .667    12-17  .706
+Deadball rebounds: 0
+Date: 11-30-16      Site: Chicago, Ill.  Attendance: 2091
+Officials: Wally Rutecki; Tom Eades; Alfred Smith;
+Technical fouls: Drake-None. DePaul-None.
+Score by Periods      1  2   Total
+Drake............... 38 37  - 75
+DePaul.............. 29 48  - 77

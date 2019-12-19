@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                            Drake vs UMKC (11-15-16)
+VISITORS: Drake (0-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Wampler, Billy...... f  2  7   0  4   0  1   0  3  3   2   4  3  3  0  0  25
+32 Kuenstling, Kory.... f  3  3   0  0   1  4   3  1  4   2   7  0  0  0  0  19
+00 Rivers, C.J......... g  3  8   0  2   1  1   2  1  3   2   7  0  1  0  2  25
+03 Woodward, Graham.... g  4  8   1  2   2  3   2  3  5   2  11  3  1  0  3  32
+12 Timmer, Reed........ g  5 12   2  5   3  5   1  2  3   2  15  0  4  0  2  32
+04 McMurray, De'Antae..    3  7   0  2   0  0   0  2  2   2   6  0  1  0  3  22
+10 Thomas, T.J.........    0  0   0  0   1  4   1  5  6   2   1  2  8  1  1  16
+22 Schlatter, Casey....    1  1   0  0   0  0   0  1  1   2   2  0  4  0  0   6
+23 Arogundade, Ore.....    0  2   0  0   2  2   1  1  2   1   2  0  0  0  1  12
+35 McGlynn, Nick.......    2  3   0  0   3  4   2  1  3   4   7  0  0  0  0  11
+TM TEAM................                            1  1             1
+   Totals..............   23 51   3 15  13 24  12 21 33  21  62  8 23  1 12 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-22  .500    12-29  .414    23-51  .451
+3-Pt. FG%:  2-6   .333     1-9   .111     3-15  .200
+F Throw %:  2-5   .400    11-19  .579    13-24  .542
+Deadball rebounds: 5,2
+HOME TEAM: UMKC (1-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 Steward, Kyle....... f  5  9   2  5   1  3   2  4  6   4  13  0  3  1  1  33
+54 Tillman, Darnell.... f  1  2   0  0   0  0   1  0  1   5   2  0  1  0  1  11
+02 Ross, Isaiah........ g  1  3   1  2   0  0   1  1  2   3   3  0  0  0  0  10
+04 Boyd, LaVell........ g  6 13   3  7   3  4   0  4  4   1  18  0  2  0  0  32
+12 Harrison, Martez.... g  7  9   3  5   5  6   0  3  3   3  22  3  4  0  3  33
+00 Bishop, Xavier......    0  0   0  0   0  0   0  3  3   0   0  1  5  0  0   8
+01 King, Dashawn.......    0  1   0  1   0  0   0  0  0   1   0  0  1  0  2   7
+05 Giles, Jordan.......    0  0   0  0   0  0   1  1  2   1   0  2  1  0  0   9
+10 Robinson, Broderick.    2  7   2  5   0  0   1  1  2   2   6  3  1  0  2  26
+11 Leach, Grant........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+22 Clark, Duane........    0  1   0  0   0  0   0  0  0   1   0  0  1  0  0   6
+25 Newbill, Broderick..    2  4   0  0   0  0   0  3  3   0   4  2  0  0  0  16
+30 Leek, Aleer.........    0  2   0  2   0  0   0  0  0   1   0  0  0  0  0   6
+TM TEAM................
+   Totals..............   24 51  11 27   9 13   6 20 26  22  68 11 19  1  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-29  .483    10-22  .455    24-51  .471
+3-Pt. FG%:  7-15  .467     4-12  .333    11-27  .407
+F Throw %:  2-2  1.000     7-11  .636     9-13  .692
+Deadball rebounds: 2,2
+Date: 11-15-16      Site: Kansas City, Mo. (Municipal Auditoriu  Attendance: 1535
+Officials: Larry Spaulding; Brent Meaux; Ryan McDaniel;
+Technical fouls: Drake-None. UMKC-None.
+Score by Periods      1  2   Total
+Drake............... 26 36  - 62
+UMKC................ 37 31  - 68

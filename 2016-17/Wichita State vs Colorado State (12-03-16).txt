@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Wichita State vs Colorado State (12-03-16)
+VISITORS: Wichita State (7-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+21 Willis, Darral...... f  2  5   0  0   2  2   3  1  4   4   6  0  4  1  0  16
+32 McDuffie, Markis.... f  3  9   2  3   4  4   2  3  5   1  12  2  0  0  2  33
+20 Nurger, Rauno....... c  0  4   0  2   0  0   0  3  3   4   0  1  1  0  0  19
+02 Smith, Daishon...... g  2  3   2  3   3  4   0  0  0   2   9  4  3  0  4  22
+11 Shamet, Landry...... g  4 11   3  6   0  0   0  4  4   3  11  3  2  0  0  34
+00 Kelly, Rashard......    1  2   0  1   0  0   1  0  1   2   2  0  0  0  0   7
+01 Brown, Zach.........    5  9   2  4   4  6   2  1  3   1  16  1  1  0  2  23
+12 Reaves, Austin......    2  2   1  1   0  0   1  0  1   0   5  1  0  0  0  10
+24 Morris, Shaquille...    6  9   1  2   0  1   1  5  6   4  13  1  1  1  0  21
+33 Frankamp, Conner....    3  6   2  5   0  0   0  2  2   2   8  2  1  0  0  15
+TM TEAM................                         2  2  4
+   Totals..............   28 60  13 27  13 17  12 21 33  23  82 15 13  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-32  .438    14-28  .500    28-60  .467
+3-Pt. FG%:  6-13  .462     7-14  .500    13-27  .481
+F Throw %:  0-1   .000    13-16  .813    13-17  .765
+Deadball rebounds: 1
+HOME TEAM: Colorado State (6-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 JACKSON,Kimani...... f  2  3   0  1   1  2   1  0  1   3   5  0  2  0  0  19
+02 OMOGBO,Emmanuel..... f  3  9   0  2   3  5   5  9 14   5   9  3  3  1  1  34
+32 CARVACHO,Nico....... f  1  2   0  1   0  0   1  3  4   3   2  1  2  0  2  24
+11 NIXON,Prentiss...... g  5  9   5  6   5  6   0  2  2   4  20  2  2  1  2  30
+22 PAIGE,J.D........... g  5 11   0  3   7  8   0  3  3   5  17  4  4  0  0  32
+01 BUTLER,Devocio......    2  5   2  3   6  6   0  2  2   0  12  1  1  0  1  25
+10 BOB,Che.............    0  2   0  1   0  0   0  0  0   0   0  0  2  1  0  11
+15 BONNER,Anthony......    0  1   0  0   2  2   0  0  0   0   2  0  1  0  0  12
+33 KOELLIKER,Braden....    0  2   0  1   0  0   1  3  4   0   0  1  2  0  1  13
+TM TEAM................                            1  1
+   Totals..............   18 44   7 18  24 29   8 23 31  20  67 12 19  3  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-23  .348    10-21  .476    18-44  .409
+3-Pt. FG%:  2-10  .200     5-8   .625     7-18  .389
+F Throw %: 13-15  .867    11-14  .786    24-29  .828
+Deadball rebounds: 2
+Date: 12-03-16      Site: Fort Collins, Colo. (Moby Arena)  Attendance: 6918
+Officials: Paul Janssen; Terry Davis; Jeff Campbell;
+Technical fouls: Wichita State-None. Colorado State-None.
+Score by Periods      1  2   Total
+Wichita State....... 34 48  - 82
+Colorado State...... 31 36  - 67

@@ -1,0 +1,60 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Eureka vs Loyola Chicago (11-14-15)
+VISITORS: Eureka (0-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Sam Feehan.......... *  3 10   2  6   0  0   1  0  1   4   8  0  0  0  1  32
+10 Greg Kent........... *  2  6   1  2   0  0   0  7  7   1   5  3  4  0  2  27
+14 Alex Wiegand........ *  3  8   0  0   3  3   3  4  7   4   9  1  1  0  2  27
+21 Tommy Goulding...... *  3 12   1  6   2  2   1  0  1   3   9  1  2  0  2  20
+33 Parker Gibson....... *  3  7   3  7   0  2   0  2  2   3   9  0  3  0  1  26
+02 Michael Sain........    0  1   0  0   0  0   0  0  0   2   0  1  2  0  0   8
+03 Hank Thomas.........    2  6   2  3   0  0   1  2  3   1   6  0  4  0  1  24
+04 Harry Ito...........    1  2   0  0   0  0   0  0  0   0   2  0  1  0  0   2
+05 Dylan Troyer........    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   2
+15 Cade Fawcett........    1  1   1  1   0  0   0  1  1   0   3  0  0  0  0   3
+22 Brandon Gossett.....    0  3   0  1   0  0   0  0  0   0   0  0  2  0  0   5
+24 Jacob Warner........    0  1   0  1   0  0   0  0  0   0   0  0  1  0  0  10
+32 Kyle Robison........    0  0   0  0   0  1   0  1  1   2   0  0  0  0  0   3
+34 Brock Vogel.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+40 Jacob Sall..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+44 Austin Ahnafield....    0  1   0  1   0  0   0  0  0   3   0  0  1  0  0   9
+54 Malachi Matias......    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0  0+
+55 Gabe Burgos.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+TM TEAM................                         4  2  6
+   Totals..............   18 59  10 29   5  8  10 20 30  23  51  6 21  0  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-33  .212    11-26  .423    18-59  .305
+3-Pt. FG%:  4-14  .286     6-15  .400    10-29  .345
+F Throw %:  0-2   .000     5-6   .833     5-8   .625
+Deadball rebounds: 1
+HOME TEAM: Loyola Chicago (2-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... *  1  4   0  3   4  4   0  2  2   1   6  0  1  0  1  26
+02 Peterson, Earl...... *  4  5   1  2   0  0   2  1  3   0   9  1  1  0  1  20
+04 Turk, Devon......... *  7 10   1  4   1  3   0  3  3   2  16  1  2  0  1  15
+24 James, Montel....... *  2  7   0  0   4  5   2  2  4   0   8  0  0  2  1  14
+35 Doyle, Milton....... *  5 10   0  3   8  8   2  5  7   0  18  1  0  0  2  18
+05 Adgei, Pernell......    2  2   0  0   4  8   3  4  7   1   8  1  2  0  2  20
+12 Rajala, Julius......    2  3   0  0   0  0   1  1  2   2   4  0  5  1  0  13
+13 Lisha, Glorind......    0  1   0  1   1  4   0  0  0   1   1  0  1  0  2  13
+23 White, Jeff.........    1  6   0  4   0  0   1  7  8   1   2  5  2  0  0  30
+31 Kirby, Maurice......    1  5   0  0   0  0   3  3  6   5   2  1  2  1  1  15
+33 Kennedy, Cal........    4  6   2  4   0  0   2  3  5   1  10  0  2  0  0  16
+TM Team................                            2  2
+   Totals..............   29 59   4 21  22 32  16 33 49  14  84 10 18  4 11 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-29  .517    14-30  .467    29-59  .492
+3-Pt. FG%:  2-11  .182     2-10  .200     4-21  .190
+F Throw %: 12-15  .800    10-17  .588    22-32  .688
+Deadball rebounds: 4
+Date: 11-14-15      Site: Gentile Arena - Chicago, Ill.  Attendance: 1217
+Officials: Dan Chrisman; Bobby Daw; Nathan Remis;
+Technical fouls: Eureka-None. Loyola Chicago-None.
+Score by Periods      1  2   Total
+Eureka.............. 18 33  - 51
+Loyola Chicago...... 44 40  - 84

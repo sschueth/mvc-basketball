@@ -1,0 +1,56 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Wichita State vs Drake (02-09-16)
+VISITORS: Wichita State (18-6 (12-1 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Brown, Zach......... f  3 10   1  5   2  2   0  1  1   0   9  2  1  0  3  21
+24 Morris, Shaquille... f  5  6   0  0   1  2   1  2  3   3  11  0  0  0  0  18
+03 Wessel, Evan........ g  1  2   1  2   0  0   2  1  3   0   3  0  0  0  0  13
+23 VanVleet, Fred...... g  2  6   1  3   1  2   2  1  3   1   6  5  1  0  1  25
+31 Baker, Ron.......... g  4  7   2  3   1  2   0  6  6   2  11  5  3  1  0  28
+00 Kelly, Rashard......    2  4   0  0   2  2   3  5  8   0   6  2  1  1  0  19
+05 Bush, Zach..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+10 Taylor II, Ty.......    1  2   1  1   0  0   0  1  1   0   3  0  0  0  0   4
+14 Simon, John Robert..    1  3   0  1   0  0   0  0  0   0   2  1  0  0  0   7
+15 Grady, Anton........    3  3   0  0   1  5   1  2  3   4   7  0  0  1  0   7
+20 Nurger, Rauno.......    0  1   0  0   0  0   0  1  1   4   0  0  0  1  1  10
+21 Wamukota, Bush......    1  1   0  0   0  0   0  1  1   2   2  0  1  0  1   6
+25 Hamilton, Eric......    0  3   0  0   1  2   1  1  2   1   1  0  1  1  0   8
+32 McDuffie, Markis....    3  5   1  1   0  0   0  1  1   2   7  0  0  1  0  17
+33 Frankamp, Conner....    2  6   2  5   0  0   0  4  4   2   6  0  0  0  0  15
+TM Team................                         1  1  2
+   Totals..............   28 59   9 21   9 17  11 28 39  21  74 15  8  6  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-30  .567    11-29  .379    28-59  .475
+3-Pt. FG%:  7-12  .583     2-9   .222     9-21  .429
+F Throw %:  3-4   .750     6-13  .462     9-17  .529
+Deadball rebounds: 4
+HOME TEAM: Drake (6-19 (1-12 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+31 Abrahamson, Kale.... f  1  7   0  4   2  2   0  7  7   1   4  0  0  0  0  25
+44 Olejniczak, Dominik. c  2  6   0  0   5  6   2  0  2   3   9  0  2  0  0  27
+03 Woodward, Graham.... g  2  8   2  5   2  2   0  1  1   2   8  1  1  0  0  23
+12 Timmer, Reed........ g  4 10   1  2  11 12   0  5  5   1  20  2  5  0  3  38
+23 Arogundade, Ore..... g  1  7   0  3   0  0   2  6  8   2   2  0  2  0  2  33
+01 Madison, Karl.......    0  2   0  1   0  0   0  1  1   2   0  0  2  0  0  20
+02 Wampler, Billy......    1  4   1  3   0  0   0  2  2   1   3  0  0  0  0  20
+11 Enevold, Jacob......    0  0   0  0   2  2   0  1  1   3   2  1  2  1  0   9
+22 Schlatter, Casey....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+35 McGlynn, Nick.......    0  0   0  0   0  0   0  0  0   3   0  0  1  0  0   4
+TM Team................                         2  1  3
+   Totals..............   11 44   4 18  22 24   6 24 30  18  48  4 15  1  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  5-23  .217     6-21  .286    11-44  .250
+3-Pt. FG%:  3-10  .300     1-8   .125     4-18  .222
+F Throw %:  8-8  1.000    14-16  .875    22-24  .917
+Deadball rebounds: 1
+Date: 02-09-16      Site: Des Moines, Iowa (Knapp Center)  Attendance: 3317
+Officials: Mark Whitehead; Bert Smith; Randy Heimerman;
+Technical fouls: Wichita State-None. Drake-None.
+Score by Periods      1  2   Total
+Wichita State....... 44 30  - 74
+Drake............... 21 27  - 48

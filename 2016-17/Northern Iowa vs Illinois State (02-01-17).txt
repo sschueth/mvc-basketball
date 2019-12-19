@@ -1,0 +1,47 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Northern Iowa vs Illinois State (02-01-17)
+VISITORS: Northern Iowa (10-12 (5-6 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Carlson, Klint...... f  1  7   0  3   2  2   0  9  9   0   4  2  1  1  1  40
+25 Koch, Bennett....... f  1  5   0  0   5  6   4  2  6   5   7  0  4  0  1  23
+13 McCloud, Juwan...... g  4  4   3  3   0  2   0  1  1   2  11  3  1  0  1  29
+20 Morgan, Jeremy...... g  5 16   2  8   0  0   1  5  6   2  12  1  4  0  0  39
+23 Ashton, Jordan...... g  3  9   2  4   0  0   0  4  4   0   8  1  0  0  1  38
+24 Brown, Isaiah.......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   4
+30 Haldeman, Spencer...    2  5   2  5   2  2   0  1  1   1   8  1  0  0  0  16
+34 McDonnell, Luke.....    0  2   0  1   1  2   1  0  1   0   1  0  3  0  0  11
+TM TEAM................                         1  2  3
+   Totals..............   16 48   9 24  10 14   7 24 31  11  51  8 13  1  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  6-22  .273    10-26  .385    16-48  .333
+3-Pt. FG%:  3-11  .273     6-13  .462     9-24  .375
+F Throw %:  4-6   .667     6-8   .750    10-14  .714
+Deadball rebounds: 1
+HOME TEAM: Illinois State (19-4 (11-0 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne,Phil.......... f  8 10   0  0   1  2   2  8 10   0  17  0  2  0  0  33
+23 Hawkins,Deontae..... f  5 13   1  5   0  0   3  6  9   3  11  1  2  0  0  27
+01 Lee,Paris........... g  6 15   2  7   4  5   0  5  5   1  18  5  3  0  3  34
+03 Evans,Keyshawn...... g  2  7   2  6   0  0   0  1  1   0   6  2  1  0  0  31
+12 Wills,Tony.......... g  1  2   1  2   0  0   1  1  2   2   3  0  0  2  1  30
+02 Clayton,DJ..........    0  6   0  0   0  0   1  2  3   2   0  1  0  0  0  24
+04 Ndiaye,Daouda.......    0  0   0  0   0  0   1  2  3   3   0  0  0  1  0  11
+25 Williams,Madison....    1  1   0  0   0  0   0  1  1   3   2  0  3  0  1  10
+TM TEAM................                         1  2  3
+   Totals..............   23 54   6 20   5  7   9 28 37  14  57  9 11  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-26  .346    14-28  .500    23-54  .426
+3-Pt. FG%:  3-13  .231     3-7   .429     6-20  .300
+F Throw %:  2-2  1.000     3-5   .600     5-7   .714
+Deadball rebounds: 0
+Date: 02-01-17      Site: Doug Collins Court at Redbird Arena  Attendance: 5732
+Officials: Hal Lusk; Zelton Steed; Jeff Malham;
+Technical fouls: Northern Iowa-None. Illinois State-None.
+Score by Periods      1  2   Total
+Northern Iowa....... 19 32  - 51
+Illinois State...... 23 34  - 57

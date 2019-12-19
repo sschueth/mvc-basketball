@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Missouri State vs Southern Illinois (02-27-16)
+VISITORS: Missouri State (12-18, 8-10)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 Miller,Dequon....... *  5  8   2  5   3  6   3  0  3   2  15  4  5  0  1  38
+05 Church,Obediah...... *  1  3   0  0   0  4   0  3  3   3   2  0  1  1  3  34
+11 Dixon,Jarred........ *  5 10   1  4   2  2   0  3  3   4  13  4  5  0  4  33
+30 Boone,Camyn......... *  4 10   0  0   4  7   1 10 11   3  12  0  2  1  0  26
+33 Kendrix,Chris....... *  3 10   3  7   7  9   2  4  6   4  16  3  3  0  1  32
+03 Gerring,Loomis......    2  5   0  0   1  2   0  1  1   4   5  0  0  0  0  15
+20 Kreklow, Ryan.......    1  5   1  4   2  2   1  1  2   5   5  1  0  0  1  17
+50 McCullough, Tyler...    0  0   0  0   0  0   0  1  1   0   0  0  1  2  0   5
+TM Team................                            1  1
+   Totals..............   21 51   7 20  19 32   7 24 31  25  68 12 17  4 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-28  .429     9-23  .391    21-51  .412
+3-Pt. FG%:  4-8   .500     3-12  .250     7-20  .350
+F Throw %:  5-7   .714    14-25  .560    19-32  .594
+Deadball rebounds: 4
+HOME TEAM: Southern Illinois (22-9, 11-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 O'Brien,Sean........ f  2  4   0  0   0  5   3  7 10   2   4  8  3  1  1  36
+10 Djimde,Ibby......... c  0  2   0  0   2  2   1  0  1   1   2  0  0  0  1   6
+32 Leek,Deng........... c  0  0   0  0   0  0   0  0  0   0   0  0  2  0  0   2
+01 Rodriguez,Mike...... g  1  4   0  1   6  8   1  1  2   4   8  4  0  0  2  28
+25 Beane,Anthony....... g  5 16   3 11   6  7   0  2  2   2  19  1  3  0  2  26
+05 Vincent,Leo.........    5 11   3  7   4  6   1  3  4   2  17  0  3  0  1  29
+11 Smithpeters,Tyler...    1  3   1  3   4  4   1  4  5   3   7  1  2  0  4  23
+15 Weiher,Austin.......    1  1   0  0   0  0   0  0  0   1   2  0  1  0  0   3
+22 Fletcher,Armon......    2  5   2  4   0  0   1  3  4   4   6  1  3  0  1  15
+23 Olaniyan,Bola.......    5  6   0  0   3  5   5  8 13   5  13  0  5  0  1  28
+24 Stradnieks,Rudy.....    0  1   0  0   0  0   0  1  1   1   0  0  0  0  0   4
+TM Team................                         2  3  5
+   Totals..............   22 53   9 26  25 37  15 32 47  25  78 15 22  1 13 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-28  .250    15-25  .600    22-53  .415
+3-Pt. FG%:  4-13  .308     5-13  .385     9-26  .346
+F Throw %: 12-18  .667    13-19  .684    25-37  .676
+Deadball rebounds: 4
+Date: 02-27-16      Site: Carbondale, IL  Attendance: 6012
+Officials: David Stevens; Winston Stith; Brad Gaston;
+Technical fouls: Missouri State-Kreklow, Ryan. Southern Illinois-,
+O'Brien,Sean.
+Score by Periods      1  2   Total
+Missouri State...... 33 35  - 68
+Southern Illinois... 30 48  - 78

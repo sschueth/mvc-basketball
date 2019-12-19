@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Loyola Chicago vs Southern Illinois (02-06-16)
+VISITORS: Loyola Chicago (11-13, 4-8)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... *  6 13   1  4   1  1   2  1  3   2  14  0  1  1  0  33
+12 Rajala, Julius...... *  0  0   0  0   0  0   1  2  3   1   0  1  1  0  1  10
+14 Richardson, Ben..... *  0  1   0  0   0  0   0  0  0   0   0  0  0  0  1  15
+23 White, Jeff......... *  1  4   0  1   0  0   0  2  2   1   2  2  1  0  0  19
+25 Smith, Tyson........ *  0  0   0  0   2  2   0  0  0   1   2  5  0  0  0  17
+02 Peterson, Earl......    3  3   2  2   2  2   0  1  1   2  10  1  3  0  2  25
+04 Turk, Devon.........    5  8   2  4   2  2   0  4  4   3  14  0  0  0  0  23
+24 James, Montel.......    7 11   0  1   4  5   1 10 11   5  18  0  4  1  0  25
+31 Kirby, Maurice......    1  1   0  0   0  0   1  0  1   1   2  0  0  0  0   6
+35 Doyle, Milton.......    3  6   1  3   4  5   0  3  3   3  11  4  2  2  0  27
+TM Team................                         1     1
+   Totals..............   26 47   6 15  15 17   6 23 29  19  73 13 12  4  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-26  .538    12-21  .571    26-47  .553
+3-Pt. FG%:  2-7   .286     4-8   .500     6-15  .400
+F Throw %:  0-0   .000    15-17  .882    15-17  .882
+Deadball rebounds: 1
+HOME TEAM: Southern Illinois (18-7, 7-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 Olaniyan,Bola....... f  1  1   0  0   0  0   1  5  6   3   2  2  4  1  2  31
+33 O'Brien,Sean........ f  8 11   1  2   0  1   1  1  2   2  17  0  2  1  1  29
+01 Rodriguez,Mike...... g  2  9   0  3   1  2   0  0  0   1   5  4  2  0  3  33
+11 Smithpeters,Tyler... g  0  5   0  4   2  3   2  0  2   2   2  2  1  0  0  19
+25 Beane,Anthony....... g  5 12   1  3   7 10   3  8 11   3  18  2  1  0  1  37
+05 Vincent,Leo.........    2  7   1  6   0  0   1  0  1   3   5  1  0  0  0  22
+10 Djimde,Ibby.........    0  1   0  0   0  0   1  0  1   0   0  0  0  0  0   5
+13 Lloyd, Sean.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+15 Weiher,Austin.......    3  5   0  0   0  0   0  0  0   0   6  0  2  0  0  11
+22 Fletcher,Armon......    1  1   1  1   1  2   2  2  4   2   4  1  0  0  1  12
+TM Team................
+   Totals..............   22 52   4 19  11 18  11 16 27  16  59 12 12  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-27  .407    11-25  .440    22-52  .423
+3-Pt. FG%:  2-9   .222     2-10  .200     4-19  .211
+F Throw %:  2-4   .500     9-14  .643    11-18  .611
+Deadball rebounds: 3
+Date: 02-06-16      Site: Carbondale, IL  Attendance: 5788
+Officials: Brad Gaston; Gene Grimshaw; Patrick Boeh;
+Technical fouls: Loyola Chicago-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+Loyola Chicago...... 30 43  - 73
+Southern Illinois... 26 33  - 59

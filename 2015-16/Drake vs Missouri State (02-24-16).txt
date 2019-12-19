@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Drake vs Missouri State (02-24-16)
+VISITORS: Drake (6-23 (1-16 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+22 Schlatter, Casey.... f  1  6   0  0   0  0   1  4  5   3   2  5  1  2  0  28
+31 Abrahamson, Kale.... f  0  7   0  4   2  2   0  2  2   2   2  1  2  0  1  22
+44 Olejniczak, Dominik. c  6  7   0  0   0  1   1  5  6   3  12  0  1  0  1  31
+12 Timmer, Reed........ g  3 14   0  3   0  0   0  4  4   1   6  4  2  0  0  36
+23 Arogundade, Ore..... g  7 12   2  3   0  0   0  8  8   0  16  2  3  1  1  34
+01 Madison, Karl.......    0  1   0  0   0  0   0  0  0   1   0  1  0  0  0   4
+02 Wampler, Billy......    4  6   3  4   0  0   0  1  1   3  11  1  2  0  0  21
+03 Woodward, Graham....    1  6   1  3   0  0   1  1  2   0   3  0  1  0  0  13
+11 Enevold, Jacob......    0  2   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+35 McGlynn, Nick.......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   7
+TM Team................                         7  3 10
+   Totals..............   22 61   6 17   2  3  10 28 38  14  52 14 12  3  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-32  .406     9-29  .310    22-61  .361
+3-Pt. FG%:  3-7   .429     3-10  .300     6-17  .353
+F Throw %:  0-0   .000     2-3   .667     2-3   .667
+Deadball rebounds: 0,1
+HOME TEAM: Missouri State (12-17 (8-9 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 Gerring,Loomis...... f  0  5   0  1   0  0   1  2  3   0   0  0  1  0  0  10
+05 Church,Obediah...... f  2  4   0  1   1  2   2  4  6   2   5  2  2  4  1  30
+30 Boone,Camyn......... f  5 12   0  0   7  7   0  5  5   2  17  2  0  2  1  29
+04 Miller,Dequon....... g  3  8   2  5   1  2   0  3  3   0   9  5  2  0  2  35
+33 Kendrix,Chris....... g  3  9   2  4   2  2   0  4  4   2  10  1  2  2  1  36
+01 Thompson,Robin......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+11 Dixon,Jarred........    3  6   1  2   3  3   2  8 10   2  10  4  1  0  1  32
+20 Kreklow, Ryan.......    2  9   1  6   1  2   0  0  0   0   6  0  0  0  1  15
+50 McCullough, Tyler...    2  5   0  0   0  0   2  1  3   2   4  0  0  3  1  11
+TM Team................                         4  1  5
+   Totals..............   20 58   6 19  15 18  11 28 39  10  61 14  8 11  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-34  .294    10-24  .417    20-58  .345
+3-Pt. FG%:  3-11  .273     3-8   .375     6-19  .316
+F Throw %:  4-4  1.000    11-14  .786    15-18  .833
+Deadball rebounds: 1,2
+Date: 02-24-16      Site: JQH Arena, Springfield, Mo.  Attendance: 0
+Officials: John Higgins; Hal Lusk; Brad Ferrie;
+Technical fouls: Drake-None. Missouri State-None.
+Score by Periods      1  2   Total
+Drake............... 29 23  - 52
+Missouri State...... 27 34  - 61

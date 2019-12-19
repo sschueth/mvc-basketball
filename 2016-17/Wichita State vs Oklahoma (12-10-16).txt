@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Wichita State vs Oklahoma (12-10-16)
+VISITORS: Wichita State (9-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+21 Willis, Darral...... f  4  7   0  0   4  6   2  5  7   3  12  0  2  0  0  23
+32 McDuffie, Markis.... f  2 10   1  3   0  1   4  4  8   1   5  1  2  0  1  22
+20 Nurger, Rauno....... c  0  2   0  2   0  0   0  2  2   2   0  0  0  0  0   7
+02 Smith, Daishon...... g  3  5   1  2   6  6   0  3  3   4  13  6  2  0  2  21
+11 Shamet, Landry...... g  3 10   0  5   0  0   0  4  4   2   6  3  2  0  0  27
+00 Kelly, Rashard......    1  5   0  1   0  0   2  1  3   0   2  0  2  0  1  12
+01 Brown, Zach.........    4  6   3  4   6  6   0  4  4   2  17  0  0  2  0  22
+12 Reaves, Austin......    3  5   2  4   0  0   0  2  2   4   8  2  1  0  0  16
+24 Morris, Shaquille...    3  6   0  0   1  2   0  6  6   2   7  2  0  5  0  30
+33 Frankamp, Conner....    2  7   2  7   0  2   0  1  1   3   6  2  1  0  0  20
+TM TEAM................                         3     3
+   Totals..............   25 63   9 28  17 23  11 32 43  23  76 16 12  7  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-29  .483    11-34  .324    25-63  .397
+3-Pt. FG%:  5-15  .333     4-13  .308     9-28  .321
+F Throw %:  4-5   .800    13-18  .722    17-23  .739
+Deadball rebounds: 3
+HOME TEAM: Oklahoma (6-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+12 Lattin, Khadeem..... f  0  3   0  0   3  4   1  7  8   2   3  0  0  4  2  26
+21 Buford, Dante....... f  2  5   0  2   0  0   1  0  1   2   4  1  2  1  0  19
+01 Odomes, Rashard..... g  3  8   0  0   4  6   1  1  2   3  10  1  1  0  1  24
+03 James, Christian.... g  3 17   1  5   8 10   4  2  6   5  15  0  2  1  2  33
+10 Woodard, Jordan..... g  7 17   4  9  10 10   0  7  7   4  28  4  2  0  2  34
+00 Strong-Moore,Darrion    0  5   0  3   0  1   1  1  2   1   0  5  2  0  0  23
+04 McNeace, Jamuni.....    1  1   0  0   0  0   1  3  4   2   2  0  1  2  0  14
+05 Freeman, Matt.......    1  3   1  2   0  0   0  0  0   3   3  0  0  0  0   2
+11 Doolittle, Kristian.    3  6   0  0   2  3   1  4  5   1   8  0  0  1  1  18
+13 Shepherd, Jordan....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+20 McGusty, Kameron....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   6
+TM TEAM................                         6  5 11
+   Totals..............   20 65   6 21  27 34  16 30 46  23  73 11 10  9  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-35  .314     9-30  .300    20-65  .308
+3-Pt. FG%:  3-14  .214     3-7   .429     6-21  .286
+F Throw %: 14-16  .875    13-18  .722    27-34  .794
+Deadball rebounds: 4
+Date: 12-10-16      Site: Chesapeake Energy Arena - Oklahoma Cit  Attendance: 11157
+Officials: John Higgins; Don Daily; Jeff Malham;
+Technical fouls: Wichita State-None. Oklahoma-None.
+Score by Periods      1  2   Total
+Wichita State....... 37 39  - 76
+Oklahoma............ 39 34  - 73

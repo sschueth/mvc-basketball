@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+               Missouri Southern vs Southern Illinois (11-16-16)
+VISITORS: Missouri Southern (2-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 Brown,Lawrence...... f  1  1   1  1   0  0   0  0  0   4   3  2  1  0  0  13
+10 Ross,Lj............. f  0  3   0  0   3  6   2  2  4   4   3  0  1  0  0  23
+00 Carr,Cj............. g  5 17   2  6   1  3   3  4  7   3  13  3  6  0  2  27
+01 Cratit,Jj........... g  5  9   3  5   4  5   0  2  2   2  17  0  0  0  2  29
+15 Clark,Elyjah........ g  5 11   3  7   0  0   1  1  2   3  13  1  0  0  0  23
+03 Jennings,Parker.....    3  4   3  4   0  2   0  2  2   0   9  3  1  0  0  13
+11 Lambert,Kinzer......    0  4   0  2   0  0   0  1  1   4   0  1  2  0  0  16
+22 Sanders,Melton......    0  2   0  1   0  0   0  1  1   1   0  0  0  0  0  15
+23 Gregory,Dylon.......    0  0   0  0   0  0   0  0  0   1   0  0  2  0  0  10
+25 Fritz,Vince.........    1  5   0  2   0  0   0  0  0   1   2  1  2  0  2  14
+52 Frisbie,Dexter......    2  5   0  0   0  0   0  2  2   3   4  0  2  0  0  17
+TM TEAM................                         3  1  4
+   Totals..............   22 61  12 28   8 16   9 16 25  26  64 11 17  0  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  6-26  .231    16-35  .457    22-61  .361
+3-Pt. FG%:  1-11  .091    11-17  .647    12-28  .429
+F Throw %:  7-14  .500     1-2   .500     8-16  .500
+Deadball rebounds: 6
+HOME TEAM: Southern Illinois (1-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 O'Brien,Sean........ f  8 11   0  1   3  6   3  7 10   3  19  2  5  0  1  27
+40 Bol,Thik............ f  4  7   0  0   2  2   2 15 17   2  10  1  0  3  1  25
+01 Rodriguez,Mike...... g  5  9   0  1   1  3   0  0  0   4  11  4  5  1  1  23
+05 Vincent,Leo......... g  2  5   0  1   4  4   1  2  3   2   8  2  2  1  1  29
+22 Fletcher,Armon...... g  3  5   2  3   6  6   1  2  3   2  14  0  0  0  0  17
+00 Wiley,Jonathan......    1  3   0  0   1  2   0  0  0   1   3  1  0  0  0   9
+10 Cook,Aaron..........    1  4   0  0   2  2   1  1  2   4   4  1  2  0  1  17
+13 Lloyd,Sean..........    1  3   0  1   2  4   0  5  5   2   4  1  3  0  0  24
+15 Weiher,Austin.......    4  5   1  2   3  4   2  0  2   0  12  0  0  0  0  12
+24 Stradnieks,Rudy.....    0  1   0  0   0  0   1  0  1   2   0  0  2  0  1  17
+TM TEAM................                         1     1
+   Totals..............   29 53   3  9  24 33  12 32 44  22  85 12 19  5  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-21  .524    18-32  .563    29-53  .547
+3-Pt. FG%:  0-3   .000     3-6   .500     3-9   .333
+F Throw %: 14-21  .667    10-12  .833    24-33  .727
+Deadball rebounds: 5
+Date: 11-16-16      Site: Carbondale, IL  Attendance: 4042
+Officials: Rick Randall; Jeb Hartness; Mike O'Neill;
+Technical fouls: Missouri Southern-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+Missouri Southern... 20 44  - 64
+Southern Illinois... 36 49  - 85

@@ -1,0 +1,47 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        UCF vs Illinois State (03-20-17)
+VISITORS: UCF (23-11)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 DAVIS, A.J.......... f  4  8   0  0   3  5   1  5  6   3  11  3  3  1  0  38
+14 BANYARD, Nick....... f  3  9   1  3   0  0   0  3  3   2   7  1  0  1  0  30
+24 FALL, Tacko......... c  4  7   0  0   0  2   5  9 14   2   8  0  5  1  0  30
+01 TAYLOR, B.J......... g  5 15   1  3  11 11   0  2  2   4  22  5  1  0  2  40
+12 WILLIAMS, Matt...... g  5 10   5  9   0  0   1  3  4   1  15  0  2  0  2  40
+00 EFIANAYI, Tank......    0  2   0  0   0  0   0  1  1   0   0  1  0  0  0  12
+21 BROWN, Chad.........    0  2   0  0   0  0   2  2  4   0   0  0  0  0  0  10
+TM TEAM................                         2  2  4             4
+   Totals..............   21 53   7 15  14 18  11 27 38  12  63 10 15  3  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-23  .304    14-30  .467    21-53  .396
+3-Pt. FG%:  4-7   .571     3-8   .375     7-15  .467
+F Throw %:  5-7   .714     9-11  .818    14-18  .778
+Deadball rebounds: 5
+HOME TEAM: Illinois State (28-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne,Phil.......... f  1  3   0  0   6  6   3  2  5   3   8  0  0  3  3  22
+11 McIntosh,MiKyle..... f  2  9   0  4   2  2   1  1  2   4   6  5  2  1  1  30
+23 Hawkins,Deontae..... f  7 16   1  3   0  0   1  3  4   3  15  1  0  0  0  32
+01 Lee,Paris........... g  3 12   3  6   0  0   1  2  3   1   9  3  1  0  1  33
+12 Wills,Tony.......... g  4  6   3  4   0  0   1  4  5   4  11  1  3  2  1  23
+02 Clayton,DJ..........    3  4   1  2   0  0   2  2  4   0   7  1  0  0  0  13
+03 Evans,Keyshawn......    2  8   2  6   0  0   0  1  1   1   6  3  0  0  0  21
+04 Ndiaye,Daouda.......    0  1   0  0   0  0   0  1  1   3   0  0  1  1  0  21
+25 Williams,Madison....    0  1   0  0   0  0   0  1  1   3   0  0  0  0  0   5
+TM TEAM................                         2  3  5
+   Totals..............   22 60  10 25   8  8  11 20 31  22  62 14  7  7  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-31  .419     9-29  .310    22-60  .367
+3-Pt. FG%:  8-14  .571     2-11  .182    10-25  .400
+F Throw %:  2-2  1.000     6-6  1.000     8-8  1.000
+Deadball rebounds: 0
+Date: 03-20-17      Site: Doug Collins Court at Redbird Arena  Attendance: 7984
+Officials: Lamar Simpson; Bret Smith; Bart Lenox;
+Technical fouls: UCF-None. Illinois State-None.
+Score by Periods      1  2   Total
+UCF................. 23 40  - 63
+Illinois State...... 36 26  - 62

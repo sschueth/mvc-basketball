@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                          Drake vs Bradley (02-04-17)
+VISITORS: Drake (7-17, 5-7 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Thomas, T.J......... f  4  8   0  0   2  2   5  8 13   3  10  0  1  0  0  28
+35 McGlynn, Nick....... f  2  5   0  1   0  0   1  2  3   4   4  0  1  3  0  15
+04 McMurray, De'Antae.. g  2  6   0  3   0  0   0  2  2   0   4  1  1  0  1  21
+12 Timmer, Reed........ g  3 13   0  5   7 10   0  5  5   4  13  3  1  1  2  29
+23 Arogundade, Ore..... g  3  8   3  6   2  2   0  3  3   2  11  1  2  0  0  30
+00 Rivers, C.J.........    0  2   0  1   1  2   2  0  2   0   1  1  0  0  1  10
+02 Wampler, Billy......    1  5   1  5   1  3   0  0  0   2   4  0  2  0  3  12
+03 Woodward, Graham....    4  8   2  5   2  2   0  1  1   4  12  3  3  0  0  21
+11 Enevold, Jacob......    0  0   0  0   0  0   0  1  1   1   0  0  0  0  0   4
+22 Schlatter, Casey....    3  5   1  1   2  2   2  6  8   3   9  4  2  0  2  21
+32 Kuenstling, Kory....    2  3   0  0   0  0   0  1  1   3   4  0  0  0  0   9
+TM TEAM................                         4     4
+   Totals..............   24 63   7 27  17 23  14 29 43  26  72 13 13  4  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-29  .310    15-34  .441    24-63  .381
+3-Pt. FG%:  2-13  .154     5-14  .357     7-27  .259
+F Throw %:  3-7   .429    14-16  .875    17-23  .739
+Deadball rebounds: 3
+HOME TEAM: Bradley (9-16, 4-8 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  7  9   1  1   4  7   2  8 10   2  19  1  0  0  0  32
+12 Bar, Koch........... c  2  7   0  0   6  8   3  2  5   5  10  0  0  2  0  23
+05 Brown, Darrell...... g  3 13   0  4  14 15   0  3  3   2  20  5  1  0  0  34
+25 Kennell, Nate....... g  1  5   1  4   0  0   0  1  1   2   3  2  3  0  0  21
+35 Hodgson, Jayden..... g  2  4   2  2   0  0   1  2  3   3   6  7  2  0  2  32
+03 Pittman, Antoine....    1  2   1  1   0  0   1  2  3   0   3  0  3  1  1  13
+13 van Bree, Luuk......    3  8   1  5   0  0   0  3  3   4   7  0  2  0  2  23
+24 McGlaston, JoJo.....    3  6   2  3   3  5   0  6  6   0  11  1  2  2  1  22
+TM TEAM................                         2  1  3
+   Totals..............   22 54   8 20  27 35   9 28 37  18  79 16 13  5  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-27  .481     9-27  .333    22-54  .407
+3-Pt. FG%:  6-11  .545     2-9   .222     8-20  .400
+F Throw %:  9-11  .818    18-24  .750    27-35  .771
+Deadball rebounds: 2
+Date: 02-04-17      Site: Peoria, Ill. (Carver Arena)  Attendance: 5815
+Officials: Rick Randall; Rick Hartzell; Ervin Wilson;
+Technical fouls: Drake-None. Bradley-Bar, Koch.
+Score by Periods      1  2   Total
+Drake............... 23 49  - 72
+Bradley............. 41 38  - 79

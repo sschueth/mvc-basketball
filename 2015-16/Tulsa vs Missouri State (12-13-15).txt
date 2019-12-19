@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Tulsa vs Missouri State (12-13-15)
+VISITORS: Tulsa (7-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 SMITH, Rashad....... f  6  9   0  0   0  0   0  7  7   2  12  2  1  0  2  23
+40 WRIGHT, D'Andre..... f  2  4   0  1   1  1   1  3  4   4   5  0  3  0  0  14
+03 HARRISON, Shaquille. g  4  8   0  2   3  5   0  3  3   2  11  6  1  0  2  35
+04 TAPLIN, Sterling.... g  1  3   0  2   0  1   0  3  3   0   2  0  2  0  0  15
+10 WOODARD, James...... g  6 15   4 11   4  4   0  6  6   1  20  1  3  0  0  33
+05 RAY, Rashad.........    0  2   0  0   0  0   0  1  1   2   0  4  0  0  0  10
+11 BIRT, Pat...........    3  9   2  7   0  0   0  2  2   2   8  0  1  0  0  23
+15 CURTIS, Marquel.....    2  5   0  1   0  0   1  3  4   3   4  1  0  1  1  26
+44 SWANNEGAN, Brandon..    4 10   0  0   0  0   2  3  5   2   8  1  0  0  0  21
+TM TEAM................                         2  1  3             1
+   Totals..............   28 65   6 24   8 11   6 32 38  18  70 15 12  1  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-32  .438    14-33  .424    28-65  .431
+3-Pt. FG%:  4-13  .308     2-11  .182     6-24  .250
+F Throw %:  6-7   .857     2-4   .500     8-11  .727
+Deadball rebounds: 3,2
+HOME TEAM: Missouri State (3-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  2  3   0  0   2  2   3  5  8   1   6  1  1  1  0  25
+30 Boone,Camyn......... f  3  8   0  0   0  0   1  7  8   4   6  0  3  0  0  20
+04 Miller,Dequon....... g  3 13   1  5   4  6   1  3  4   2  11  3  3  0  0  36
+23 Williams,Dorrian.... g  1  9   0  3   0  0   0  5  5   2   2  4  0  0  0  35
+33 Kendrix,Chris....... g  4 10   1  4   8  9   1  4  5   1  17  1  2  3  2  36
+03 Gerring,Loomis......    1  3   0  0   0  0   3  0  3   1   2  0  1  0  0   5
+11 Dixon,Jarred........    1  3   0  0   2  2   1  1  2   1   4  0  1  0  1   9
+20 Kreklow, Ryan.......    4  9   1  5   2  2   0  2  2   2  11  0  0  0  2  23
+25 Martin,Jordan.......    0  2   0  0   0  1   0  0  0   2   0  0  0  2  0   6
+50 McCullough, Tyler...    1  3   0  0   0  0   2  0  2   1   2  0  0  0  0   5
+TM Team................                            4  4
+   Totals..............   20 63   3 17  18 22  12 31 43  17  61  9 11  6  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-35  .314     9-28  .321    20-63  .317
+3-Pt. FG%:  2-10  .200     1-7   .143     3-17  .176
+F Throw %:  4-5   .800    14-17  .824    18-22  .818
+Deadball rebounds: 1
+Date: 12-13-15      Site: JQH Arena, Springfield, Mo.  Attendance: 4052
+Officials: Bert Smith; Kelly Self; John Hampton;
+Technical fouls: Tulsa-None. Missouri State-None.
+Score by Periods      1  2   Total
+Tulsa............... 38 32  - 70
+Missouri State...... 28 33  - 61

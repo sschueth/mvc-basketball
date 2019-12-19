@@ -1,0 +1,47 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Illinois State vs Northern Iowa (02-20-16)
+VISITORS: Illinois State (17-12, 11-5 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Lee,Paris........... *  5 15   2  5   2  2   0  6  6   2  14  7  1  0  2  37
+11 McIntosh,MiKyle..... *  1  6   1  2   0  0   1  0  1   3   3  2  0  0  0  13
+12 Wills,Tony.......... *  5  8   2  3   1  2   0  2  2   5  13  2  1  0  1  32
+23 Hawkins,Deontae..... *  5 12   2  5   0  0   1  3  4   0  12  1  2  3  0  29
+44 Akoon-Purcell,DeVaug *  1  4   0  1   0  0   2  1  3   0   2  0  2  0  0   9
+00 Banyard,Nick........    2  5   1  4   2  2   1  1  2   3   7  0  0  0  0  28
+02 Brewer,Quintin......    2  2   0  0   0  0   2  4  6   3   4  1  2  0  0  19
+15 McCloud,Justin......    4  7   3  5   0  0   0  2  2   2  11  2  0  0  2  33
+TM Team................                         1  2  3
+   Totals..............   25 59  11 25   5  6   8 21 29  18  66 15  8  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-28  .321    16-31  .516    25-59  .424
+3-Pt. FG%:  5-12  .417     6-13  .462    11-25  .440
+F Throw %:  3-4   .750     2-2  1.000     5-6   .833
+Deadball rebounds: 1
+HOME TEAM: Northern Iowa (17-12, 9-7 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 Jesperson, Paul..... *  5  7   2  4   0  0   0  6  6   2  12  1  0  0  1  33
+05 Bohannon, Matt...... *  3  7   2  6   2  2   0  1  1   2  10  1  1  0  0  29
+11 Washpun, Wes........ *  6 10   1  3   5  7   0  4  4   4  18  5  2  0  0  33
+20 Morgan, Jeremy...... *  4 11   1  4   4  7   1  5  6   1  13  3  2  5  2  38
+25 Koch, Bennett....... *  4  7   0  0   2  2   2  7  9   1  10  0  1  0  1  21
+02 Carlson, Klint......    2  3   2  2   0  0   0  2  2   2   6  2  3  0  0  26
+03 Friedman, Ted.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+33 Lohaus, Wyatt.......    3  4   0  0   0  0   0  1  1   0   6  3  0  0  0  18
+TM Team................                         1     1
+   Totals..............   27 49   8 19  13 18   4 26 30  12  75 15  9  5  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-27  .556    12-22  .545    27-49  .551
+3-Pt. FG%:  5-9   .556     3-10  .300     8-19  .421
+F Throw %:  5-6   .833     8-12  .667    13-18  .722
+Deadball rebounds: 2
+Date: 02-20-16      Site: Cedar Falls, Iowa (McLeod Center)  Attendance: 6145
+Officials: Don Daily; Hal Lusk; Roland Simmons;
+Technical fouls: Illinois State-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+Illinois State...... 26 40  - 66
+Northern Iowa....... 40 35  - 75

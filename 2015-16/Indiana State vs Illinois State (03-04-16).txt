@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Indiana State vs Illinois State (03-04-16)
+VISITORS: Indiana State (15-16; 8-10 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+12 Bunschoten, Niels... f  3  6   1  3   4  4   0  2  2   2  11  0  1  2  1  25
+34 Murphy, Brandon..... f  2  3   0  0   2  2   2  1  3   2   6  0  1  0  0  19
+01 Smith, Khristian.... g  3  9   0  3   2  2   0  2  2   5   8  2  4  0  0  25
+04 Scott, Brenton...... g  5 13   3  9   1  1   1  4  5   1  14  2  2  0  5  32
+11 Brown, Devonte...... g  1  8   0  2   4  6   0  3  3   2   6  4  3  0  1  33
+00 Clemons, Everett....    2  5   0  1   4  6   1  7  8   1   8  2  1  0  1  25
+22 Burnett, Brandon....    0  2   0  1   0  0   1  0  1   0   0  0  0  0  1   3
+30 Van Scyoc, Matt.....    3 10   1  4   3  7   1  3  4   0  10  0  1  0  0  20
+32 Paige, Laquarious...    0  0   0  0   0  0   0  3  3   0   0  0  0  0  0   8
+41 Rickman, Emondre....    1  1   0  0   0  1   1  2  3   0   2  0  0  0  0  10
+TM Team................                         4  5  9
+   Totals..............   20 57   5 23  20 29  11 32 43  13  65 10 13  2  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-29  .310    11-28  .393    20-57  .351
+3-Pt. FG%:  3-14  .214     2-9   .222     5-23  .217
+F Throw %:  3-5   .600    17-24  .708    20-29  .690
+Deadball rebounds: 4,2
+HOME TEAM: Illinois State (18-14; 12-6 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 McIntosh,MiKyle..... f  6 13   4  8   1  2   2  2  4   4  17  1  3  2  0  27
+23 Hawkins,Deontae..... f  1 10   0  6   1  2   4  7 11   5   3  0  3  0  0  18
+01 Lee,Paris........... g  3 13   2  5   3  4   0  3  3   3  11  2  2  0  2  37
+12 Wills,Tony.......... g  3  6   0  3   0  0   0  0  0   4   6  2  0  0  3  34
+44 Akoon-Purcell,DeVaug g  4 13   2  6   3  5   3 11 14   1  13  1  6  1  1  34
+00 Banyard,Nick........    0  3   0  2   0  2   0  3  3   1   0  1  1  1  1  15
+02 Brewer,Quintin......    0  0   0  0   0  0   1  2  3   2   0  0  1  1  0   9
+15 McCloud,Justin......    3  6   1  3   0  0   0  2  2   2   7  1  0  0  1  26
+TM Team................                         4  1  5
+   Totals..............   20 64   9 33   8 15  14 31 45  22  57  8 16  5  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-30  .233    13-34  .382    20-64  .313
+3-Pt. FG%:  3-16  .188     6-17  .353     9-33  .273
+F Throw %:  0-2   .000     8-13  .615     8-15  .533
+Deadball rebounds: 3
+Date: 03-04-16      Site: St. Louis, Mo. Scottrade Center  Attendance: 8468
+Officials: Mike Stuart; Bert Smith; Gerry Pollard;
+Technical fouls: Indiana State-None. Illinois State-None.
+Score by Periods      1  2   Total
+Indiana State....... 24 41  - 65
+Illinois State...... 17 40  - 57

@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Southern Illinois vs Illinois State (03-04-17)
+VISITORS: Southern Illinois (17-16; 9-9 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 O'Brien,Sean........ f  2  9   0  0   0  0   4  4  8   1   4  0  2  0  0  32
+40 Bol,Thik............ f  2  8   0  0   0  0   4  0  4   0   4  0  0  2  0  27
+01 Rodriguez,Mike...... g  4  8   0  0   3  3   1  3  4   2  11  5  3  1  1  31
+13 Lloyd,Sean.......... g  3 10   3  6   3  4   1  2  3   2  12  0  0  0  3  34
+22 Fletcher,Armon...... g  3  8   0  5   0  0   2  5  7   1   6  0  2  0  0  22
+00 Wiley,Jonathan......    0  1   0  0   0  0   0  2  2   1   0  0  1  0  0  10
+05 Vincent,Leo.........    2  8   1  7   0  0   0  2  2   0   5  0  0  0  0  22
+10 Cook,Aaron..........    0  1   0  0   0  0   0  1  1   1   0  0  1  2  1   8
+15 Weiher,Austin.......    0  0   0  0   1  2   0  0  0   0   1  0  0  0  0   1
+24 Stradnieks,Rudy.....    3  6   1  1   0  0   2  3  5   0   7  0  0  0  0  13
+TM TEAM................                            3  3
+   Totals..............   19 59   5 19   7  9  14 25 39   8  50  5  9  5  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-31  .290    10-28  .357    19-59  .322
+3-Pt. FG%:  2-8   .250     3-11  .273     5-19  .263
+F Throw %:  0-0   .000     7-9   .778     7-9   .778
+Deadball rebounds: 1
+HOME TEAM: Illinois State (27-5; 17-1 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne,Phil.......... f  3  8   0  0   0  0   6  5 11   1   6  3  1  2  0  21
+11 McIntosh,MiKyle..... f  6 13   3  6   0  0   0  0  0   0  15  0  0  1  0  15
+23 Hawkins,Deontae..... f  3 12   2  4   0  0   1  4  5   1   8  3  0  0  1  22
+01 Lee,Paris........... g  4  6   4  6   0  0   0  1  1   0  12  5  0  0  0  17
+12 Wills,Tony.......... g  3  8   3  7   0  0   0  4  4   2   9  1  1  0  2  24
+02 Clayton,DJ..........    2  6   0  0   0  0   3  5  8   2   4  2  1  0  1  21
+03 Evans,Keyshawn......    1  6   1  4   0  0   0  1  1   1   3  2  2  0  0  24
+04 Ndiaye,Daouda.......    2  4   0  0   0  0   4  2  6   1   4  0  0  3  0  25
+05 Hein,Matt...........    0  0   0  0   0  0   0  0  0   1   0  0  2  0  0   3
+15 Washington,Andre....    0  1   0  0   0  0   1  1  2   1   0  0  0  0  0   6
+25 Williams,Madison....    1  4   0  2   0  0   0  1  1   0   2  0  0  0  0  20
+31 Thompson,Javaka.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+TM TEAM................                         3  2  5
+   Totals..............   25 68  13 29   0  0  18 26 44  10  63 16  7  6  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-37  .459     8-31  .258    25-68  .368
+3-Pt. FG%:  9-15  .600     4-14  .286    13-29  .448
+F Throw %:  0-0   .000     0-0   .000     0-0   .000
+Deadball rebounds: 0,1
+Date: 03-04-17      Site: Scottrade Center, St. Louis, MO  Attendance: 12124
+Officials: John Higgins; Kelly Self; Randy Heimerman;
+Technical fouls: Southern Illinois-None. Illinois State-None.
+Score by Periods      1  2   Total
+Southern Illinois... 20 30  - 50
+Illinois State...... 43 20  - 63

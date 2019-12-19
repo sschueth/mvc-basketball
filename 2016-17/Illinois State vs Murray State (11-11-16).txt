@@ -1,0 +1,48 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Illinois State vs Murray State (11-11-16)
+VISITORS: Illinois State (0-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Lee,Paris........... *  5  7   1  2   4  4   0  0  0   4  15  4  6  0  1  28
+10 Fayne,Phil.......... *  4  6   0  0   0  2   1  6  7   2   8  0  2  1  3  31
+11 McIntosh,MiKyle..... *  6 12   1  2   5  6   3  5  8   4  18  0  4  0  1  31
+12 Wills,Tony.......... *  1  6   1  4   3  4   2  2  4   1   6  0  3  1  1  32
+23 Hawkins,Deontae..... *  4 13   2  5   4  4   3 12 15   3  14  1  0  1  2  37
+02 Clayton,DJ..........    3  8   0  2   0  0   0  3  3   4   6  4  1  0  0  25
+03 Evans,Keyshawn......    1  1   1  1   0  1   0  0  0   2   3  2  2  0  0  11
+25 Williams,Madison....    0  1   0  0   0  0   0  0  0   1   0  0  0  0  0   5
+TM TEAM................                         1  1  2
+   Totals..............   24 54   6 16  16 21  10 29 39  21  70 11 18  3  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-27  .370    14-27  .519    24-54  .444
+3-Pt. FG%:  3-7   .429     3-9   .333     6-16  .375
+F Throw %:  9-12  .750     7-9   .778    16-21  .762
+Deadball rebounds: 1
+HOME TEAM: Murray State (1-0`)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Miller,Terrell...... f  9 14   5 10   0  0   1  4  5   4  23  1  4  0  1  25
+04 Sanchious,Brion..... f  0  0   0  0   0  4   2  4  6   2   0  1  1  0  0  33
+02 Stark,Jonathan...... g  6 14   4  8   3  3   2  4  6   2  19  4  4  0  2  34
+11 Croaker,Damarcus.... g  5 11   1  5   1  2   0  3  3   1  12  1  1  0  2  37
+32 Jones,Bryce......... g  2 11   2  7   8  8   1  6  7   3  14  5  2  1  0  34
+01 Grace,Jerami........    0  3   0  3   1  2   0  0  0   1   1  0  1  0  3  13
+22 Thomas,Gilbert......    2  4   0  0   0  0   2  0  2   1   4  0  0  2  0  14
+23 Taylor,Jachai.......    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   2
+40 Dupree,Jalen........    0  1   0  0   0  0   1  0  1   4   0  0  1  0  0   8
+TM TEAM................                            2  2
+   Totals..............   24 58  12 33  13 19   9 24 33  18  73 12 14  3  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-34  .324    13-24  .542    24-58  .414
+3-Pt. FG%:  3-15  .200     9-18  .500    12-33  .364
+F Throw %:  4-5   .800     9-14  .643    13-19  .684
+Deadball rebounds: 2
+Date: 11-11-16      Site: Murray, Ky.  Attendance: 4321
+Officials: Brett Miles; Ford Branch Jr.; Chris Hudson;
+Technical fouls: Illinois State-None. Murray State-None.
+Score by Periods      1  2   Total
+Illinois State...... 32 38  - 70
+Murray State........ 29 44  - 73

@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  Houston Baptist vs Illinois State (11-21-15)
+VISITORS: Houston Baptist (1-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Lasher, Colter...... f  0  5   0  2   1  2   1  2  3   3   1  3  2  0  0  23
+11 Crayton, Caleb...... f  4  8   0  0   1  2   0  5  5   4   9  0  1  0  0  20
+44 Ibarra, Josh........ c  5  9   0  0   0  0   3  5  8   2  10  2  0  2  1  24
+02 Odunsi, Anthony..... g  1  3   0  0   0  0   0  0  0   1   2  1  6  0  1  19
+30 Stickler, Jourdan... g  1  3   0  1   2  2   1  2  3   2   4  0  2  0  0  20
+03 Cantwell, Asa.......    3  8   2  7   0  0   0  0  0   0   8  0  1  0  1  21
+04 Stetler, Cody.......    0  3   0  0   0  0   1  0  1   0   0  0  0  0  0  10
+10 Patterson, Trey.....    2  3   0  0   6  6   0  0  0   2  10  0  4  0  0  20
+12 Harris, Terry.......    0  2   0  0   2  2   0  1  1   1   2  0  0  0  0  11
+15 Chukwujekwu, Reveal.    1  3   0  0   6  9   3  2  5   3   8  0  3  0  1  18
+23 Fountain, Alex......    0  2   0  0   0  0   2  2  4   0   0  0  0  0  1   7
+33 Robinson, Isaiah....    1  2   0  1   0  1   0  0  0   0   2  0  0  0  0   6
+55 Anderson, Evan......    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   1
+TM TEAM................                         2  3  5             3
+   Totals..............   18 51   2 11  18 24  13 22 35  18  56  6 23  2  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-18  .444    10-33  .303    18-51  .353
+3-Pt. FG%:  1-4   .250     1-7   .143     2-11  .182
+F Throw %:  9-11  .818     9-13  .692    18-24  .750
+Deadball rebounds: 3
+HOME TEAM: Illinois State (2-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 McIntosh,MiKyle..... f  4  7   1  1   0  0   3  1  4   5   9  1  2  0  1  20
+23 Hawkins,Deontae..... f  5  9   1  4   2  3   3  3  6   4  13  2  1  0  0  21
+01 Lee,Paris........... g  2  4   0  1   2  2   0  1  1   2   6  5  3  0  1  28
+12 Wills,Tony.......... g  1  5   0  1   0  0   1  0  1   0   2  2  0  0  2  26
+44 Akoon-Purcell,DeVaug g  8 11   0  1   4  6   2  1  3   4  20  2  4  0  1  27
+00 Banyard,Nick........    3  9   1  1   0  2   0  5  5   3   7  2  3  1  1  16
+03 Evans,Keyshawn......    0  0   0  0   0  0   1  1  2   0   0  1  1  0  0  12
+04 Ndiaye,Daouda.......    0  1   0  0   0  0   1  1  2   3   0  1  0  1  0   8
+15 McCloud,Justin......    3  8   2  7   1  1   0  5  5   3   9  2  1  0  0  22
+35 Griffin,Roland......    3  5   0  1   0  4   1  3  4   2   6  1  1  1  0  20
+TM Team................                         1  2  3
+   Totals..............   29 59   5 17   9 18  13 23 36  26  72 19 16  3  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-26  .423    18-33  .545    29-59  .492
+3-Pt. FG%:  1-9   .111     4-8   .500     5-17  .294
+F Throw %:  5-13  .385     4-5   .800     9-18  .500
+Deadball rebounds: 4
+Date: 11-21-15      Site: Doug Collins Court at Redbird Arena  Attendance: 4100
+Officials: Ed Crenshaw; Brad Gaston; Ryan Odneal;
+Technical fouls: Houston Baptist-None. Illinois State-None.
+Score by Periods      1  2   Total
+Houston Baptist..... 26 30  - 56
+Illinois State...... 28 44  - 72

@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Wichita State vs Iowa (11-29-15)
+VISITORS: Wichita State (2-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Kelly, Rashard...... f  0  4   0  0   0  0   2  1  3   0   0  0  1  0  0  11
+32 McDuffie, Markis.... f  3 10   1  4   2  2   1  0  1   1   9  2  1  0  1  26
+21 Wamukota, Bush...... c  1  1   0  0   0  0   1  1  2   5   2  0  0  0  0   9
+03 Wessel, Evan........ g  1  4   0  3   0  1   0  1  1   1   2  0  0  0  0  23
+31 Baker, Ron.......... g  2  9   1  4   2  2   0  3  3   1   7  4  4  0  0  36
+01 Brown, Zach.........    3  5   1  3   3  6   2  0  2   3  10  3  1  1  2  22
+10 Taylor II, Ty.......    2  8   2  4   0  0   0  3  3   2   6  0  1  0  0  12
+14 Simon, John Robert..    0  2   0  1   0  0   1  0  1   0   0  1  0  0  1  11
+20 Nurger, Rauno.......    0  2   0  1   0  0   0  1  1   0   0  0  1  0  0   9
+24 Morris, Shaquille...    4  7   0  0   3  3   3  0  3   3  11  0  1  0  2  24
+25 Hamilton, Eric......    5  7   1  2   3  3   2  3  5   0  14  1  1  0  0  17
+TM Team................                         2  3  5   1
+   Totals..............   21 59   6 22  13 17  14 16 30  17  61 11 11  1  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-25  .320    13-34  .382    21-59  .356
+3-Pt. FG%:  3-9   .333     3-13  .231     6-22  .273
+F Throw %:  2-3   .667    11-14  .786    13-17  .765
+Deadball rebounds: 1
+HOME TEAM: Iowa (4-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+20 Uthoff, Jarrod...... f  9 15   2  5   2  2   1  6  7   1  22  1  1  5  2  37
+34 Woodbury, Adam...... c  4  7   0  0   7 10   5  2  7   2  15  2  3  0  0  33
+05 Clemmons, Anthony... g  2  6   1  1   0  0   0  1  1   1   5  3  1  0  1  21
+10 Gesell, Mike........ g  4  7   1  2   5  6   0  5  5   1  14  9  3  0  0  37
+14 Jok, Peter.......... g  3  9   0  4   6  6   2  4  6   3  12  0  1  0  0  19
+00 Wagner, Ahmad.......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   2
+01 Jones, Dale.........    1  2   1  2   0  0   0  0  0   1   3  0  0  0  0   7
+11 Williams, Christian.    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+24 Ellingson, Brady....    2  2   1  1   0  0   0  2  2   3   5  0  0  0  0  11
+25 Uhl, Dom............    0  0   0  0   0  0   0  0  0   3   0  1  1  0  0   9
+51 Baer, Nicholas......    3  4   2  3   0  0   1  1  2   2   8  0  1  0  1  24
+TM TEAM................                         2  6  8             1
+   Totals..............   28 52   8 18  20 24  11 27 38  18  84 16 12  5  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-27  .519    14-25  .560    28-52  .538
+3-Pt. FG%:  5-12  .417     3-6   .500     8-18  .444
+F Throw %:  7-9   .778    13-15  .867    20-24  .833
+Deadball rebounds: 1
+Date: 11-29-15      Site: HP Field House (Lake Buena Vista, Fla.)  Attendance: 0
+Officials: Rick Crawford; Jose Carrion; Jeff Pon;
+Technical fouls: Wichita State-, Team. Iowa-None.
+Score by Periods      1  2   Total
+Wichita State....... 21 40  - 61
+Iowa................ 40 44  - 84

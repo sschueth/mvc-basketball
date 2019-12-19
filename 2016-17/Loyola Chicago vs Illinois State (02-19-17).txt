@@ -1,0 +1,47 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  Loyola Chicago vs Illinois State (02-19-17)
+VISITORS: Loyola Chicago (17-12 (7-9 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... f  4 11   2  4   3  4   2  4  6   3  13  2  0  0  0  37
+31 Kirby, Maurice...... f  0  2   0  0   0  0   0  1  1   1   0  0  0  0  0  12
+13 Custer, Clayton..... g  1  5   0  2   0  0   0  3  3   2   2  1  1  0  0  31
+14 Richardson, Ben..... g  3  7   2  6   0  0   0  1  1   0   8  1  0  0  1  34
+35 Doyle, Milton....... g  5 13   0  2   7  8   1  4  5   2  17  4  2  1  1  37
+04 Skokna, Bruno.......    0  1   0  1   0  0   0  0  0   0   0  1  0  0  0   8
+23 Satterwhite, Cameron    2  5   1  3   1  2   0  1  1   0   6  0  0  0  3  15
+24 Jackson, Aundre.....    7 10   1  2   2  3   4  2  6   4  17  2  1  1  1  26
+TM TEAM................                            2  2
+   Totals..............   22 54   6 20  13 17   7 18 25  12  63 11  4  2  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-28  .393    11-26  .423    22-54  .407
+3-Pt. FG%:  3-11  .273     3-9   .333     6-20  .300
+F Throw %:  6-7   .857     7-10  .700    13-17  .765
+Deadball rebounds: 2
+HOME TEAM: Illinois State (23-5 (15-1 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne,Phil.......... f  4  7   0  0   0  2   3  4  7   1   8  3  1  1  0  32
+11 McIntosh,MiKyle..... f  3  6   2  4   5  5   3  2  5   1  13  0  2  0  0  23
+23 Hawkins,Deontae..... f  7  9   0  2   2  2   3  8 11   3  16  1  1  1  0  30
+01 Lee,Paris........... g  3 12   3  7   0  0   0  5  5   0   9  9  3  0  0  34
+12 Wills,Tony.......... g  3  6   3  6   0  0   0  2  2   4   9  1  0  2  3  28
+02 Clayton,DJ..........    2  7   0  1   0  0   2  1  3   3   4  3  2  0  0  22
+03 Evans,Keyshawn......    0  2   0  2   0  0   0  1  1   2   0  1  3  0  0  21
+04 Ndiaye,Daouda.......    3  4   0  0   0  1   0  4  4   0   6  0  1  1  0  10
+TM TEAM................                                             1
+   Totals..............   25 53   8 22   7 10  11 27 38  14  65 18 14  5  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-27  .556    10-26  .385    25-53  .472
+3-Pt. FG%:  4-10  .400     4-12  .333     8-22  .364
+F Throw %:  4-7   .571     3-3  1.000     7-10  .700
+Deadball rebounds: 2
+Date: 02-19-17      Site: Doug Collins Court at Redbird Arena  Attendance: 8052
+Officials: Bert Smith; Hal Lusk; Ed Crenshaw;
+Technical fouls: Loyola Chicago-None. Illinois State-None.
+Score by Periods      1  2   Total
+Loyola Chicago...... 31 32  - 63
+Illinois State...... 38 27  - 65

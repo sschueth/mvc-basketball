@@ -1,0 +1,62 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Fontbonne vs Missouri State (11-17-16)
+VISITORS: Fontbonne (0-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 Jeff Smith.......... c  1  4   0  0   0  0   1  0  1   5   2  0  2  0  0  10
+05 Trey Watkins........ g  0  1   0  0   0  0   0  1  1   2   0  0  3  1  0  22
+11 Dallas Haywood...... g  2  8   0  4   0  0   0  1  1   1   4  0  3  0  2  23
+42 Rio Justice Chandler g  3  6   0  0   2  2   0  3  3   2   8  0  0  0  1  16
+43 Kris McCann......... g  1  9   0  4   0  0   0  2  2   3   2  0  3  0  1  23
+01 Orkan Bakis.........    1  3   0  1   0  0   0  4  4   3   2  0  0  0  0   8
+02 Murphy Hamer........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   5
+03 Tyler Schwartz......    0  2   0  2   1  2   1  1  2   4   1  0  5  1  0  16
+04 Trey Miller.........    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+12 Garrett McDowell....    0  1   0  1   0  0   0  0  0   0   0  1  0  0  0   4
+20 Andrew Sawdy........    0  1   0  0   1  2   0  0  0   0   1  1  0  0  0   4
+22 Josh Calloni........    0  3   0  1   0  0   0  1  1   1   0  0  0  0  0   9
+23 James Wiggins.......    0  2   0  0   2  2   0  1  1   2   2  0  0  0  0   8
+24 Zac Ridenhour.......    0  1   0  0   0  0   0  0  0   1   0  0  1  0  0   5
+25 Jack Lake...........    1  5   0  2   0  2   0  1  1   2   2  0  1  0  1  16
+32 Anthony Loper.......    0  0   0  0   0  0   0  0  0   2   0  0  1  0  0   5
+33 Thomas Ritter.......    0  3   0  3   0  0   0  0  0   0   0  0  2  0  0  11
+40 Jayden Hatcher......    1  1   1  1   0  0   0  0  0   0   3  0  0  0  0   4
+41 Logan Kelley-Wolff..    0  1   0  0   0  0   1  0  1   3   0  0  0  0  0   8
+TM TEAM................                         4  1  5             1
+   Totals..............   10 52   1 19   6 10   7 16 23  31  27  2 22  2  5 201
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  5-30  .167     5-22  .227    10-52  .192
+3-Pt. FG%:  0-11  .000     1-8   .125     1-19  .053
+F Throw %:  5-6   .833     1-4   .250     6-10  .600
+Deadball rebounds: 4,3
+HOME TEAM: Missouri State (3-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  2  3   0  0   4  8   1  3  4   1   8  0  0  6  0  18
+24 Johnson,Alize....... f  2  4   0  1   2  3   4  5  9   2   6  2  1  0  1  21
+04 Miller,Dequon....... g  3  9   0  4   3  3   2  4  6   0   9  3  1  0  1  24
+14 Rousseau III,Ronnie. g  8 11   0  0   1  3   0  2  2   0  17  2  1  0  1  22
+20 Kreklow,Ryan........ g  4  8   2  4   5  5   1  1  2   2  15  0  1  0  1  21
+00 Martin,Jordan.......    3  4   0  0   2  3   1  4  5   3   8  0  0  1  3  21
+01 Thompson,Robin......    2  2   0  0   0  0   2  3  5   0   4  0  0  0  1   8
+10 Rhodes,Jarrid.......    2  3   1  2   0  2   0  5  5   1   5  3  2  1  0  20
+11 Dixon,Jarred........    0  3   0  0   2  2   0  3  3   2   2  5  2  0  1  19
+21 Owens,Ross..........    2  4   1  3   0  0   0  0  0   1   5  0  0  0  0   4
+33 Kendrix,Chris.......    5 10   5  9   4  4   2  3  5   3  19  1  1  0  1  19
+35 Hill-Thomas,Tyrie...    1  1   0  0   0  0   0  1  1   0   2  0  0  0  0   3
+TM TEAM................
+   Totals..............   34 62   9 23  23 33  13 34 47  15 100 16  9  8 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 18-32  .563    16-30  .533    34-62  .548
+3-Pt. FG%:  6-16  .375     3-7   .429     9-23  .391
+F Throw %: 12-18  .667    11-15  .733    23-33  .697
+Deadball rebounds: 6,1
+Date: 11-17-16      Site: JQH Arena, Springfield, Mo.  Attendance: 3121
+Officials: Brad Ferrie; Greg Rennegarbe; Nathan Bemis;
+Technical fouls: Fontbonne-None. Missouri State-None.
+Score by Periods      1  2   Total
+Fontbonne........... 15 12  - 27
+Missouri State...... 54 46  -100

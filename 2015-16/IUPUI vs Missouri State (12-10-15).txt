@@ -1,0 +1,48 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       IUPUI vs Missouri State (12-10-15)
+VISITORS: IUPUI (3-8)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+15 O'Leary, Matt....... f  6  9   2  4   2  2   1  7  8   1  16  4  3  2  0  36
+33 Osborne, Nick....... f  4 11   0  0   0  0   4  3  7   4   8  1  1  0  1  23
+00 Combs, Darell....... g  7 13   4  7   2  2   0  0  0   2  20  1  4  0  0  34
+04 Jordan Pickett...... g  4 10   3  5   1  1   0  4  4   5  12  3  2  0  1  37
+22 Barksdale, Marcellus g  3  8   0  1   0  1   1  3  4   3   6  0  2  0  2  23
+01 Henderson, T.J......    0  0   0  0   1  2   0  3  3   1   1  3  1  0  0  12
+02 Archie, Mason.......    1  4   1  4   2  3   1  1  2   3   5  1  1  0  0  23
+45 Brennan, Aaron......    2  5   0  0   2  2   2  2  4   4   6  0  2  1  0  12
+TM TEAM................                         2     2
+   Totals..............   27 60  10 21  10 13  11 23 34  23  74 13 16  3  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-32  .500    11-28  .393    27-60  .450
+3-Pt. FG%:  6-11  .545     4-10  .400    10-21  .476
+F Throw %:  4-6   .667     6-7   .857    10-13  .769
+Deadball rebounds: 0
+HOME TEAM: Missouri State (3-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  0  3   0  0   0  0   2  1  3   4   0  2  2  1  0  17
+30 Boone,Camyn......... f  9 15   0  0   6  7   3  7 10   1  24  0  1  1  1  30
+04 Miller,Dequon....... g  4 11   3  6   4  5   1  2  3   2  15  5  1  0  0  36
+23 Williams,Dorrian.... g  7 10   1  4   4  4   0  4  4   3  19  5  0  0  3  39
+33 Kendrix,Chris....... g  5  8   0  2   9  9   1  5  6   3  19  1  1  1  3  31
+03 Gerring,Loomis......    0  4   0  1   0  0   0  1  1   0   0  0  0  0  1   5
+11 Dixon,Jarred........    3  6   1  1   0  0   0  1  1   1   7  2  1  0  0  14
+20 Kreklow, Ryan.......    0  2   0  2   0  0   1  2  3   2   0  1  1  0  0  18
+25 Martin,Jordan.......    2  2   0  0   0  2   2  1  3   0   4  0  0  1  0  10
+TM Team................                         1  1  2
+   Totals..............   30 61   5 16  23 27  11 25 36  16  88 16  7  4  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-32  .406    17-29  .586    30-61  .492
+3-Pt. FG%:  1-7   .143     4-9   .444     5-16  .313
+F Throw %:  6-10  .600    17-17 1.000    23-27  .852
+Deadball rebounds: 1
+Date: 12-10-15      Site: JQH Arena, Springfield, Mo.  Attendance: 4113
+Officials: John Higgins; Kipp Kissinger; Kelly Pfeifer;
+Technical fouls: IUPUI-None. Missouri State-None.
+Score by Periods      1  2   Total
+IUPUI............... 42 32  - 74
+Missouri State...... 33 55  - 88

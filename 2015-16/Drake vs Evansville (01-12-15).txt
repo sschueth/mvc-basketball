@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                         Drake vs Evansville (01-12-15)
+VISITORS: Drake (5-12, 0-5 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+31 Abrahamson, Kale.... f  2  9   1  2   0  0   0  2  2   3   5  2  0  2  0  30
+11 Enevold, Jacob...... c  5  7   0  0   4  4   0  8  8   2  14  0  2  0  0  24
+03 Woodward, Graham.... g  1  7   0  4   0  0   0  1  1   1   2  1  4  0  2  25
+12 Timmer, Reed........ g  6  9   1  1   6  7   1  3  4   2  19  1  4  0  1  35
+23 Arogundade, Ore..... g  0  4   0  2   0  0   0  3  3   3   0  2  2  0  0  22
+01 Madison, Karl.......    0  1   0  0   0  0   0  0  0   4   0  4  0  0  0  18
+02 Wampler, Billy......    5  8   3  5   1  2   0  2  2   3  14  0  0  0  0  21
+22 Schlatter, Casey....    2  3   1  1   0  0   0  0  0   0   5  0  1  0  0   8
+35 McGlynn, Nick.......    1  2   0  0   0  0   2  1  3   1   2  0  0  1  2  10
+44 Olejniczak, Dominik.    1  3   0  0   2  2   0  1  1   1   4  0  1  0  1   7
+TM Team................                         2     2             1
+   Totals..............   23 53   6 15  13 15   5 21 26  20  65 10 15  3  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-25  .360    14-28  .500    23-53  .434
+3-Pt. FG%:  2-8   .250     4-7   .571     6-15  .400
+F Throw %:  2-2  1.000    11-13  .846    13-15  .867
+Deadball rebounds: 1
+HOME TEAM: Evansville (15-3, 4-1 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 Simmons, Blake...... f  1  4   1  3   0  0   0  3  3   1   3  3  0  0  1  25
+55 Mockevicius,Egidijus c  9 12   0  0   3  4   3  9 12   3  21  0  2  3  1  35
+03 Brown, Jaylon....... g  5  7   0  2   1  2   0  2  2   3  11  3  3  0  3  29
+12 Wing, Adam.......... g  3  5   0  0   3  4   2  3  5   1   9  3  0  0  0  29
+31 Balentine, D.J...... g  9 20   1  4   5  6   3  2  5   1  24  3  3  0  0  37
+02 Benzon, Christian...    0  0   0  0   0  0   0  2  2   0   0  1  0  0  0   6
+10 Brzoja, Mislav......    5  9   1  1   4  4   2  3  5   3  15  2  2  0  1  23
+13 Brown, Harris.......    0  1   0  0   0  0   0  0  0   1   0  1  0  0  1  11
+44 Howard, David.......    0  2   0  0   1  2   1  0  1   2   1  0  0  0  0   5
+TM Team................
+   Totals..............   32 60   3 10  17 22  11 24 35  15  84 16 10  3  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-29  .552    16-31  .516    32-60  .533
+3-Pt. FG%:  2-5   .400     1-5   .200     3-10  .300
+F Throw %:  4-5   .800    13-17  .765    17-22  .773
+Deadball rebounds: 2
+Date: 01-12-15      Site: Ford Center, Evansville, Ind.  Attendance: 4011
+Officials: Hal Lusk; Kelly Self; Terry Davis;
+Technical fouls: Drake-None. Evansville-None.
+Score by Periods      1  2   Total
+Drake............... 22 43  - 65
+Evansville.......... 38 46  - 84

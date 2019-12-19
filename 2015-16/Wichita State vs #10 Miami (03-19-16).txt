@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Wichita State vs #10 Miami (03-19-16)
+VISITORS: Wichita State (26-9)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Brown, Zach......... f  1  3   1  2   0  0   1  2  3   3   3  0  0  0  0  17
+24 Morris, Shaquille... f  6 12   0  0   0  0   3  3  6   4  12  0  2  0  2  25
+03 Wessel, Evan........ g  1  3   0  2   0  0   1  2  3   1   2  0  0  0  0  20
+23 VanVleet, Fred...... g  4 12   1  6   3  4   3  2  5   2  12  5  4  0  4  35
+31 Baker, Ron.......... g  4 12   3  7   0  0   0  2  2   3  11  2  4  0  2  37
+00 Kelly, Rashard......    0  3   0  0   3  4   2  1  3   0   3  1  0  0  1  15
+15 Grady, Anton........    1  3   0  1   1  2   2  3  5   2   3  0  0  0  0  14
+20 Nurger, Rauno.......    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   5
+32 McDuffie, Markis....    3  9   1  3   2  2   2  1  3   3   9  0  3  0  1  23
+33 Frankamp, Conner....    0  2   0  1   2  2   0  0  0   0   2  0  0  0  0   9
+TM Team................                         2  1  3             1
+   Totals..............   20 59   6 22  11 14  16 17 33  18  57  8 15  0 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-29  .241    13-30  .433    20-59  .339
+3-Pt. FG%:  1-9   .111     5-13  .385     6-22  .273
+F Throw %:  4-4  1.000     7-10  .700    11-14  .786
+Deadball rebounds: 2
+HOME TEAM: #10 Miami (27-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+21 Kamari Murphy....... f  2  3   0  0   0  1   0  7  7   2   4  0  1  2  2  36
+23 Tonye Jekiri........ c  1  3   0  0   1  4   1  6  7   4   3  0  0  0  1  27
+05 Davon Reed.......... g  3  4   2  2   2  2   0  4  4   1  10  1  4  1  1  32
+10 Sheldon McClellan... g  5 11   2  4   6  8   0  3  3   1  18  0  1  0  1  38
+13 Angel Rodriguez..... g  9 11   3  4   7  8   0  2  2   3  28  5  7  0  4  35
+00 Ja'Quan Newton......    1  3   0  0   0  0   0  0  0   1   2  1  2  0  0  17
+03 Anthony Lawrence....    0  2   0  1   0  0   1  1  2   2   0  0  1  1  1  11
+12 James Palmer........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+33 Ivan CruzUceda......    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   2
+TM TEAM................                            1  1   1
+   Totals..............   21 38   7 12  16 23   2 24 26  15  65  7 16  4 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-20  .600     9-18  .500    21-38  .553
+3-Pt. FG%:  3-6   .500     4-6   .667     7-12  .583
+F Throw %:  5-6   .833    11-17  .647    16-23  .696
+Deadball rebounds: 5
+Date: 03-19-16      Site: Providence, R.I./Dunkin' Donuts  Attendance: 11679
+Officials: Roger Ayers; Lamont Simpson; Ray Natili (David Ha;
+Technical fouls: Wichita State-None. #10 Miami-, TEAM.
+Score by Periods      1  2   Total
+Wichita State....... 19 38  - 57
+#10 Miami........... 32 33  - 65

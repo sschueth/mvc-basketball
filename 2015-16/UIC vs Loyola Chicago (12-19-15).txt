@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        UIC vs Loyola Chicago (12-19-15)
+VISITORS: UIC (1-8)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 MATTHEWS, Dominique. *  3 12   1  4   0  1   0  2  2   3   7  1  4  0  0  33
+01 BURNS, Paris........ *  1  7   0  4   1  2   0  1  1   3   3  2  3  0  1  32
+04 WHITAKER, Lance..... *  2  3   1  2   2  2   1  4  5   4   7  3  1  1  1  25
+10 DIXSON, Dikembe..... *  2 12   0  4   3  4   1  5  6   1   7  0  3  0  1  31
+21 ODIASE, Tai......... *  2  3   0  0   0  0   2  2  4   3   4  0  3  3  1  20
+02 SNIDER, Gabe........    4  9   3  8   0  0   1  3  4   3  11  1  2  0  1  24
+03 THOMAS, Hassan......    0  0   0  0   0  0   1  1  2   2   0  0  0  0  0   7
+05 KOLAWOLE, Michael...    1  1   0  0   0  0   0  0  0   0   2  0  0  0  0   1
+15 TORRES, Julian......    1  2   0  0   0  0   1  3  4   3   2  0  3  2  1  12
+22 HACKETT, Drew.......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   1
+23 YOUNG, Najeal.......    1  1   0  0   0  0   1  1  2   1   2  0  1  0  0   6
+40 WIEGAND, Jake.......    1  2   0  0   0  0   1  1  2   2   2  0  0  0  0   8
+TM TEAM................                         6  2  8             1
+   Totals..............   18 52   5 22   6  9  15 25 40  26  47  7 21  6  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-26  .346     9-26  .346    18-52  .346
+3-Pt. FG%:  4-14  .286     1-8   .125     5-22  .227
+F Throw %:  0-0   .000     6-9   .667     6-9   .667
+Deadball rebounds: 0
+HOME TEAM: Loyola Chicago (6-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Peterson, Earl...... *  4 13   1  3   2  2   1  1  2   0  11  1  1  0  1  30
+04 Turk, Devon......... *  4  9   2  4   2  2   0  2  2   1  12  1  0  0  1  22
+14 Richardson, Ben..... *  0  1   0  1   0  0   1  2  3   2   0  1  2  2  1  22
+31 Kirby, Maurice...... *  0  2   0  0   1  4   1  1  2   1   1  0  0  0  0  13
+35 Doyle, Milton....... *  4 11   1  2   4  4   1  2  3   3  13  2  3  0  1  31
+00 Ingram, Donte.......    3  5   0  1   5  5   3  5  8   1  11  1  0  0  0  27
+12 Rajala, Julius......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+23 White, Jeff.........    0  3   0  1   0  0   0  2  2   3   0  3  1  0  0  15
+24 James, Montel.......    5  9   0  1   4  6   2  5  7   2  14  0  2  1  3  25
+25 Smith, Tyson........    0  1   0  0   2  2   0  0  0   2   2  0  1  0  1  13
+TM Team................                         3  2  5             1
+   Totals..............   20 54   4 13  20 25  12 22 34  15  64  9 11  3  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-25  .280    13-29  .448    20-54  .370
+3-Pt. FG%:  1-6   .167     3-7   .429     4-13  .308
+F Throw %: 10-13  .769    10-12  .833    20-25  .800
+Deadball rebounds: 2
+Date: 12-19-15      Site: Gentile Arena - Chicago, Ill.  Attendance: 1562
+Officials: Dan Chrisman; Gene Grimshaw; Tim Fitzgerald;
+Technical fouls: UIC-None. Loyola Chicago-None.
+Score by Periods      1  2   Total
+UIC................. 22 25  - 47
+Loyola Chicago...... 25 39  - 64

@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Quincy vs Illinois State (11-27-15)
+VISITORS: Quincy (2-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Tagarelli, Joseph... f  6 17   0  0   0  0   4  3  7   5  12  3  3  0  1  33
+24 Eneogwe, Godson..... f  4 13   2  5   0  0   2  2  4   4  10  1  2  0  1  17
+42 McGaughey, Evan..... f  3 11   1  5   1  3   5  7 12   1   8  4  2  1  2  34
+01 Jackson, Thomas..... g  1  4   0  1   2  2   2  5  7   4   4  1  0  0  1  36
+30 Washington III, Von. g  3 10   2  7   1  2   0  2  2   3   9  1  0  0  1  23
+02 Senor II, Herm......    4 14   3 10   0  0   2  1  3   4  11  2  1  0  2  28
+03 Des Jardins, Nate...    2  3   2  2   0  0   0  3  3   4   6  1  0  0  0  20
+12 Frasco, Bobby.......    0  1   0  1   0  0   0  0  0   1   0  0  0  0  0   3
+22 Wilson, Jordan......    1  2   1  2   0  0   0  0  0   1   3  0  0  0  0   6
+35 Crochrell, DeVonta..    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+TM TEAM................                            2  2             1
+   Totals..............   24 76  11 33   4  7  15 25 40  27  63 13  9  1  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-38  .263    14-38  .368    24-76  .316
+3-Pt. FG%:  7-18  .389     4-15  .267    11-33  .333
+F Throw %:  1-2   .500     3-5   .600     4-7   .571
+Deadball rebounds: 1,2
+HOME TEAM: Illinois State (3-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 Hawkins,Deontae..... f  5  7   2  3   0  2   0  7  7   0  12  1  1  0  0  21
+35 Griffin,Roland...... f  0  1   0  0   0  0   0  1  1   1   0  3  3  1  0  18
+01 Lee,Paris........... g  5 10   3  4   1  3   0  4  4   1  14  5  0  0  1  30
+12 Wills,Tony.......... g  2  3   1  1   6  7   1  6  7   1  11  0  2  0  2  27
+44 Akoon-Purcell,DeVaug g  5  8   1  2   7 10   1  4  5   1  18  5  2  0  0  23
+00 Banyard,Nick........    1  6   1  3   1  2   0  5  5   3   4  0  4  0  0  23
+02 Brewer,Quintin......    1  2   0  0   0  0   3  2  5   0   2  0  3  0  0  12
+03 Evans,Keyshawn......    1  2   0  0   1  1   0  2  2   0   3  0  0  0  0  13
+04 Ndiaye,Daouda.......    2  4   0  0   5 11   0  4  4   1   9  0  0  4  0  21
+15 McCloud,Justin......    0  4   0  3   0  0   0  1  1   3   0  1  0  1  0  12
+TM Team................                            3  3             1
+   Totals..............   22 47   8 16  21 36   5 39 44  11  73 15 16  6  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-22  .364    14-25  .560    22-47  .468
+3-Pt. FG%:  5-9   .556     3-7   .429     8-16  .500
+F Throw %: 12-16  .750     9-20  .450    21-36  .583
+Deadball rebounds: 8
+Date: 11-27-15      Site: Doug Collins Court at Redbird Arena  Attendance: 3853
+Officials: David Stevens; James Durham; Jeff Campbell;
+Technical fouls: Quincy-None. Illinois State-None.
+Score by Periods      1  2   Total
+Quincy.............. 28 35  - 63
+Illinois State...... 33 40  - 73

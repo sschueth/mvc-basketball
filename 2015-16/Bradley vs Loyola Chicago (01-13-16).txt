@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Bradley vs Loyola Chicago (01-13-16)
+VISITORS: Bradley (3-15 (1-4))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 Pittman, Antoine.... *  3  7   0  2   2  2   0  3  3   4   8  1  0  2  2  36
+13 van Bree, Luuk...... *  5  8   2  3   2  2   1  4  5   5  14  3  0  1  0  32
+22 Suggs, Ronnie....... *  4 10   0  0   1  1   0  3  3   1   9  2  2  0  1  36
+23 Lautier-Ogunleye, D. *  2  9   1  3   2  2   0  4  4   3   7  5  5  0  1  37
+24 James, Scottie...... *  1  5   1  2   0  0   4  1  5   0   3  0  0  0  0  15
+01 Thomas, Donte.......    1  3   1  3   0  0   0  3  3   3   3  0  2  0  0  12
+14 Hanley, Peter.......    0  0   0  0   0  0   0  3  3   1   0  0  1  0  1   6
+30 Barker, Callum......    4  8   0  0   2  2   3  6  9   2  10  1  3  0  0  26
+TM Team................                         2     2             3
+   Totals..............   20 50   5 13   9  9  10 27 37  19  54 12 16  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-22  .364    12-28  .429    20-50  .400
+3-Pt. FG%:  2-4   .500     3-9   .333     5-13  .385
+F Throw %:  3-3  1.000     6-6  1.000     9-9  1.000
+Deadball rebounds: 0
+HOME TEAM: Loyola Chicago (7-10 (0-5))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Peterson, Earl...... *  2  5   1  1   3  3   0  3  3   3   8  2  2  0  0  31
+04 Turk, Devon......... *  6 13   3  7   0  0   0  5  5   3  15  1  2  0  0  23
+23 White, Jeff......... *  2  4   0  0   0  0   1  1  2   2   4  3  3  0  0  31
+24 James, Montel....... *  2  6   0  0   3  3   1  3  4   0   7  1  3  0  1  23
+35 Doyle, Milton....... *  1  4   0  1   3  7   0  0  0   1   5  1  0  0  1  27
+00 Ingram, Donte.......    0  2   0  2   5  8   0  2  2   0   5  0  0  0  0  21
+12 Rajala, Julius......    2  2   0  0   0  0   1  4  5   3   4  0  0  2  0   9
+14 Richardson, Ben.....    2  5   1  3   0  0   1  1  2   1   5  0  1  0  1  27
+25 Smith, Tyson........    0  2   0  2   0  0   0  0  0   0   0  0  0  0  1   5
+31 Kirby, Maurice......    0  0   0  0   0  0   0  1  1   0   0  0  0  1  0   3
+TM Team................
+   Totals..............   17 43   5 16  14 21   4 20 24  13  53  8 11  3  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-19  .421     9-24  .375    17-43  .395
+3-Pt. FG%:  3-9   .333     2-7   .286     5-16  .313
+F Throw %:  4-6   .667    10-15  .667    14-21  .667
+Deadball rebounds: 2
+Date: 01-13-16      Site: Gentile Arena - Chicago, Ill.  Attendance: 1386
+Officials: Hal Lusk; Rick Randall; Terry Davis;
+Technical fouls: Bradley-None. Loyola Chicago-None.
+Score by Periods      1  2   Total
+Bradley............. 21 33  - 54
+Loyola Chicago...... 23 30  - 53

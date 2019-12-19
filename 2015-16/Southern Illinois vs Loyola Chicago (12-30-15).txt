@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Southern Illinois vs Loyola Chicago (12-30-15)
+VISITORS: Southern Illinois (12-2, 1-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Rodriguez,Mike...... *  1  2   0  0   3  6   0  5  5   2   5  3  2  1  0  32
+11 Smithpeters,Tyler... *  1  5   1  4   2  2   1  3  4   3   5  0  0  0  0  30
+23 Olaniyan,Bola....... *  4  6   0  0   0  1   2  8 10   4   8  2  0  0  0  22
+25 Beane,Anthony....... *  7 10   4  5   8  9   0  1  1   3  26  1  4  0  0  38
+33 O'Brien,Sean........ *  3 10   0  1   1  2   1  5  6   4   7  2  2  1  2  25
+05 Vincent,Leo.........    3  5   1  2   1  2   1  0  1   3   8  3  4  0  0  19
+10 Djimde,Ibby.........    2  4   0  0   0  0   1  1  2   1   4  0  1  0  0   8
+15 Weiher,Austin.......    0  1   0  0   0  0   0  2  2   0   0  0  1  0  0   8
+22 Fletcher,Armon......    2  4   1  2   0  0   0  2  2   1   5  0  1  0  0  10
+32 Leek,Deng...........    2  3   0  0   0  0   3  0  3   1   4  0  1  4  0   8
+TM Team................                         2     2
+   Totals..............   25 50   7 14  15 22  11 27 38  22  72 11 16  6  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-31  .452    11-19  .579    25-50  .500
+3-Pt. FG%:  6-11  .545     1-3   .333     7-14  .500
+F Throw %:  0-0   .000    15-22  .682    15-22  .682
+Deadball rebounds: 3
+HOME TEAM: Loyola Chicago (7-6, 0-1 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... *  0  4   0  2   0  0   2  4  6   3   0  0  1  0  0  25
+02 Peterson, Earl...... *  1  4   0  0   1  1   0  0  0   5   3  2  3  1  0  22
+04 Turk, Devon......... *  2  7   1  4   0  0   0  2  2   5   5  0  2  0  1  23
+24 James, Montel....... *  4 12   1  2   3  4   1  6  7   2  12  0  0  0  0  24
+35 Doyle, Milton....... *  5  9   1  2   6  7   1  3  4   1  17  7  2  0  1  34
+12 Rajala, Julius......    2  2   0  0   2  2   0  0  0   1   6  0  0  0  0  10
+14 Richardson, Ben.....    1  4   1  3   2  2   0  0  0   4   5  0  0  0  0  21
+23 White, Jeff.........    5  7   0  1   1  1   0  2  2   1  11  1  0  0  3  22
+25 Smith, Tyson........    1  5   1  2   0  0   0  0  0   3   3  0  1  0  0  13
+31 Kirby, Maurice......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  1   6
+TM Team................                         4  1  5             1
+   Totals..............   21 54   5 16  15 17   8 18 26  25  62 10 10  1  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-24  .417    11-30  .367    21-54  .389
+3-Pt. FG%:  4-6   .667     1-10  .100     5-16  .313
+F Throw %:  6-7   .857     9-10  .900    15-17  .882
+Deadball rebounds: 0
+Date: 12-30-15      Site: Gentile Arena - Chicago, Ill.  Attendance: 1624
+Officials: Rick Hartzell; Paul Janssen; Rick Randall;
+Technical fouls: Southern Illinois-None. Loyola Chicago-None.
+Score by Periods      1  2   Total
+Southern Illinois... 34 38  - 72
+Loyola Chicago...... 30 32  - 62

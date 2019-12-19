@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Wichita State vs Illinois State (01-14-17)
+VISITORS: Wichita State (15-4 (5-1 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Brown, Zach......... f  2  5   1  3   1  2   1  1  2   0   6  2  3  0  0  15
+21 Willis, Darral...... f  6 13   0  0   2  3   5  4  9   3  14  0  1  1  0  32
+32 McDuffie, Markis.... f  4 12   2  6   1  2   2  1  3   4  11  1  2  1  0  23
+02 Smith, Daishon...... g  1  4   0  2   0  0   0  0  0   1   2  0  1  0  0  14
+11 Shamet, Landry...... g  3  9   2  5   6  7   2  6  8   1  14  6  1  0  0  33
+00 Kelly, Rashard......    0  1   0  0   0  0   1  1  2   3   0  0  1  0  0   7
+03 Keyser, C.J.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+12 Reaves, Austin......    0  4   0  0   0  0   0  0  0   0   0  1  1  0  1  14
+14 Simon, John Robert..    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+20 Nurger, Rauno.......    1  3   0  0   1  1   2  0  2   2   3  0  0  2  0  14
+24 Morris, Shaquille...    3  6   0  0   0  0   2  3  5   3   6  3  2  1  2  20
+25 Hamilton, Eric......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+33 Frankamp, Conner....    2  6   2  5   0  0   0  1  1   4   6  0  1  0  0  25
+TM TEAM................                         2  1  3
+   Totals..............   22 63   7 21  11 15  17 18 35  21  62 13 13  5  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-29  .345    12-34  .353    22-63  .349
+3-Pt. FG%:  2-8   .250     5-13  .385     7-21  .333
+F Throw %:  5-7   .714     6-8   .750    11-15  .733
+Deadball rebounds: 1
+HOME TEAM: Illinois State (14-4 (6-0 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne,Phil.......... f  2  7   0  0   0  1   2  6  8   2   4  0  0  3  2  28
+11 McIntosh,MiKyle..... f  7  9   1  2   5  5   2  3  5   4  20  4  6  0  0  27
+23 Hawkins,Deontae..... f  5  9   3  7   1  2   1  7  8   4  14  1  0  3  3  33
+01 Lee,Paris........... g  3 10   2  5   2  3   1  2  3   1  10  6  3  0  2  30
+12 Wills,Tony.......... g  2  4   2  4   1  4   0  5  5   2   7  1  0  1  1  30
+02 Clayton,DJ..........    5  5   0  0   1  2   1  1  2   4  11  2  2  0  1  28
+03 Evans,Keyshawn......    2  4   2  4   4  4   0  0  0   0  10  2  1  0  0  18
+04 Ndiaye,Daouda.......    0  0   0  0   0  0   0  0  0   2   0  0  0  1  0   6
+TM TEAM................                            3  3             2
+   Totals..............   26 48  10 22  14 21   7 27 34  19  76 16 14  8  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-27  .481    13-21  .619    26-48  .542
+3-Pt. FG%:  6-15  .400     4-7   .571    10-22  .455
+F Throw %:  4-7   .571    10-14  .714    14-21  .667
+Deadball rebounds: 4
+Date: 01-14-17      Site: Doug Collins Court at Redbird Arena  Attendance: 9078
+Officials: Tom O'Neill; Bo Boroski; Terry Davis;
+Technical fouls: Wichita State-None. Illinois State-None.
+Score by Periods      1  2   Total
+Wichita State....... 27 35  - 62
+Illinois State...... 36 40  - 76
