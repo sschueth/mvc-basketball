@@ -1,0 +1,58 @@
+
+
+                               Box Score (Final)
+                           Missouri Valley Conference
+                         Delaware vs Bradley (11-14-17)
+
+
+VISITORS: Delaware (1-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Carter, Eric........ f  7  9   0  0   4  5   3  9 12   4  18  2  1  0  1  31
+11 Walker, Chyree...... f  0  1   0  0   0  0   0  0  0   3   0  1  2  0  0  10
+22 Cushing, Jacob...... f  0  3   0  1   0  0   0  2  2   2   0  0  0  0  0  11
+00 Daly, Ryan.......... g  1 11   0  5   1  2   1  2  3   4   3  2  3  0  1  39
+01 Anderson, Kevin..... g  5 11   2  6   3  4   1  7  8   4  15  2  2  1  1  39
+03 Mosley, Anthony.....    4  8   0  0   5 10   2  3  5   3  13  2  2  1  2  32
+04 Bryant, Darian......    1  3   0  2   0  2   1  2  3   1   2  2  2  0  0  27
+20 Woods, Derrick......    1  2   0  0   0  0   1  1  2   1   2  0  1  1  0  11
+TM TEAM................                         2  1  3             2
+   Totals..............   19 48   2 14  13 23  11 27 38  22  53 11 15  3  5 200
+
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-22  .500     8-26  .308    19-48  .396
+3-Pt. FG%:  1-5   .200     1-9   .111     2-14  .143
+F Throw %:  4-9   .444     9-14  .643    13-23  .565
+Deadball rebounds: 5
+
+HOME TEAM: Bradley (2-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  3 11   0  1   1  2   5  5 10   4   7  1  1  2  2  25
+12 Bar, Koch........... f  4  7   0  0   2  3   5  1  6   2  10  1  1  1  2  21
+05 Brown, Darrell...... g  3 13   2  3   3  6   1  2  3   3  11  3  3  0  0  34
+23 Lautier-Ogunleye, D. g  0  0   0  0   2  5   3  2  5   2   2  3  1  0  0  23
+35 Hodgson, Jayden..... g  0  2   0  1   0  0   0  1  1   1   0  0  1  0  2  20
+10 Childs, Elijah......    1  5   0  0   2  2   0  5  5   1   4  1  0  1  0  14
+13 van Bree, Luuk......    5 10   3  4   2  2   1  2  3   2  15  0  0  1  1  20
+24 McGlaston, JoJo.....    2  6   0  1   2  4   2  4  6   1   6  1  2  0  1  20
+25 Kennell, Nate.......    2  6   1  4   1  2   0  1  1   4   6  1  0  0  0  23
+TM TEAM................                         2     2
+   Totals..............   20 60   6 14  15 26  19 23 42  20  61 11  9  5  8 200
+
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-35  .314     9-25  .360    20-60  .333
+3-Pt. FG%:  3-6   .500     3-8   .375     6-14  .429
+F Throw %:  6-9   .667     9-17  .529    15-26  .577
+Deadball rebounds: 5
+
+Date: 11-14-17      Site: Peoria, Ill. (Carver Arena)  Attendance: 4556
+Officials: Gerry Pollard; Brad Ferrie; Eric Lowe;
+Technical fouls: Delaware-None. Bradley-None.
+Score by Periods      1  2   Total
+Delaware............ 27 26  - 53
+Bradley............. 31 30  - 61
+
+
