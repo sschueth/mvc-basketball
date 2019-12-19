@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Bradley vs Illinois State (01-17-18)
+VISITORS: Bradley (13-7, 3-4 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  6  9   0  1   1  2   7  6 13   2  13  1  1  1  0  31
+10 Childs, Elijah...... f  3  7   0  1   2  5   1  5  6   4   8  0  0  4  0  26
+05 Brown, Darrell...... g  3 19   1  8   2  2   0  3  3   2   9  6  2  0  0  36
+23 Lautier-Ogunleye, D. g  4 10   2  6   3  6   3  3  6   4  13  4  2  0  0  29
+35 Hodgson, Jayden..... g  0  2   0  2   0  0   0  3  3   2   0  0  0  0  1  20
+02 Lundy, Luqman.......    0  0   0  0   0  0   0  0  0   1   0  1  0  0  0   1
+12 Bar, Koch...........    0  0   0  0   2  2   3  3  6   1   2  0  0  0  0  16
+13 van Bree, Luuk......    3  8   1  3   0  0   0  2  2   3   7  0  0  0  2  14
+21 Stipanovich, Ryan...    0  1   0  1   0  0   0  0  0   0   0  1  2  0  0   5
+25 Kennell, Nate.......    2  8   1  6   0  0   0  0  0   3   5  1  0  0  0  22
+TM TEAM................                         4  1  5             1
+   Totals..............   21 64   5 28  10 17  18 26 44  22  57 14  8  5  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-34  .265    12-30  .400    21-64  .328
+3-Pt. FG%:  1-14  .071     4-14  .286     5-28  .179
+F Throw %:  3-7   .429     7-10  .700    10-17  .588
+Deadball rebounds: 2
+HOME TEAM: Illinois State (10-9, 4-3 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne, Phil......... f  3  6   0  0   2  4   0  2  2   3   8  0  2  0  0  24
+52 Yarbrough, Milik.... f  4 11   0  4  12 12   5  6 11   2  20  3  0  1  1  31
+04 Ndiaye, Daouda...... c  4  6   0  0   0  1   5  7 12   4   8  1  0  2  0  27
+03 Evans, Keyshawn..... g  4 10   2  6   1  3   1  2  3   3  11  3  2  0  0  31
+05 Hein, Matt.......... g  2  6   1  2   3  4   0  3  3   5   8  3  3  0  1  32
+00 Gassman, Isaac......    2  3   1  1   2  4   0  1  1   1   7  0  0  0  2  14
+01 Clarance, Elijah....    2  5   1  2   0  0   0  1  1   1   5  1  1  0  0  14
+23 Tinsley, William....    1  4   1  3   0  1   0  4  4   0   3  0  0  1  0  17
+32 Bruninga, Taylor....    0  3   0  3   0  0   0  3  3   4   0  0  1  0  0  10
+TM TEAM................                         2  1  3
+   Totals..............   22 54   6 21  20 29  13 30 43  23  70 11  9  4  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-28  .393    11-26  .423    22-54  .407
+3-Pt. FG%:  4-14  .286     2-7   .286     6-21  .286
+F Throw %:  3-8   .375    17-21  .810    20-29  .690
+Deadball rebounds: 2
+Date: 01-17-18      Site: Doug Collins Court at Redbird Arena  Attendance: 6321
+Officials: Paul Janssen; Antinio Petty; Rick O'Neill;
+Technical fouls: Bradley-None. Illinois State-None.
+Score by Periods      1  2   Total
+Bradley............. 22 35  - 57
+Illinois State...... 29 41  - 70
+Drawn Offensive Fouls:
+Illinois State-none.
+Bradley-4 (Childs, Brown, Kennell, Lautier-Ogunleye).
+Fouled out: Home $5, Hein (4th 0:39).

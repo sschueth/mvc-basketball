@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Valparaiso vs Ball State (12-09-17)
+VISITORS: Valparaiso (8-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Hazen, Parker....... f  0  0   0  0   0  0   1  1  2   2   0  0  2  0  0  12
+14 Sorolla, Jaume...... c  2  3   0  1   0  0   1  1  2   2   4  1  0  1  0   9
+04 Evelyn, Bakari...... g  5 10   2  5   2  2   1  4  5   2  14  6  4  0  2  36
+05 Golder, Markus...... g  3  8   1  1   1  2   0  7  7   2   8  1  2  1  0  26
+10 Burton, Joe......... g  6 11   4  8   1  1   0  3  3   2  17  0  2  2  0  26
+01 Bradford, Micah.....    1  4   1  3   0  0   0  1  1   1   3  2  0  0  1  12
+03 Joseph, Max.........    3  6   0  0   2  3   4  7 11   2   8  3  3  0  2  32
+12 Linssen, Marten.....    0  1   0  0   0  0   0  0  0   1   0  1  0  1  0   3
+21 Smits, Derrik.......    3  4   0  0   6  8   1  5  6   2  12  1  4  0  0  22
+23 McMillan, Mileek....    1  3   1  2   0  0   0  1  1   2   3  0  1  0  0   9
+33 Kiser, John.........    0  3   0  2   1  2   1  0  1   0   1  1  0  0  0  13
+   Totals..............   24 53   9 22  13 18   9 30 39  18  70 16 18  5  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-27  .407    13-26  .500    24-53  .453
+3-Pt. FG%:  5-13  .385     4-9   .444     9-22  .409
+F Throw %:  4-5   .800     9-13  .692    13-18  .722
+Deadball rebounds: 0
+HOME TEAM: Ball State (6-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+14 Mallers,Kyle........ f  3  8   0  3   4  5   4  2  6   1  10  2  0  1  1  31
+25 Teague,Tahjai....... f  2  5   0  1   0  0   0  2  2   4   4  0  2  1  1  14
+01 Walker,Jontrell..... g  2  5   2  5   2  2   0  0  0   1   8  0  0  0  0  24
+02 Persons,Tayler...... g  9 17   3  4   2  2   1  4  5   3  23  5  4  0  1  30
+34 Sellers,Sean........ g  2  7   0  3   2  4   0  5  5   3   6  1  0  0  1  27
+05 El-Amin,Ishmael.....    0  1   0  1   0  0   0  0  0   1   0  3  1  0  0  14
+15 Gunn,Zach...........    0  1   0  1   0  0   1  2  3   1   0  0  2  0  0   9
+22 TYLER, Jeremie......    4  6   2  4   0  1   0  3  3   1  10  1  1  1  3  25
+24 Moses,Trey..........    5 10   0  0   0  4   2  5  7   3  10  6  1  2  0  26
+TM TEAM................                            2  2
+   Totals..............   27 60   7 22  10 18   8 25 33  18  71 18 11  5  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-27  .333    18-33  .545    27-60  .450
+3-Pt. FG%:  2-9   .222     5-13  .385     7-22  .318
+F Throw %:  9-13  .692     1-5   .200    10-18  .556
+Deadball rebounds: 3
+Date: 12-09-17      Site: Muncie, Ind. (Worthen Arena)  Attendance: 5009
+Officials: Glen Mayborg; Frank Spencer; Tim Stewart;
+Technical fouls: Valparaiso-None. Ball State-None.
+Score by Periods      1  2   Total
+Valparaiso.......... 31 39  - 70
+Ball State.......... 29 42  - 71

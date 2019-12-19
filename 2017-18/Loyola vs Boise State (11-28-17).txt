@@ -1,0 +1,56 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Loyola vs Boise State (11-28-17)
+VISITORS: Loyola (7-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+24 Jackson, Aundre..... f  6 10   1  2   1  2   0  2  2   2  14  0  2  0  1  19
+25 Krutwig, Cameron.... f  1  4   0  0   0  2   1  4  5   0   2  1  3  3  0  23
+00 Ingram, Donte....... g  3  8   0  4   2  2   0  4  4   3   8  1  2  1  0  28
+05 Townes, Marques..... g  2  9   1  3   2  2   0  2  2   1   7  0  2  0  0  27
+13 Custer, Clayton..... g  5 12   2  4   0  0   0  2  2   0  12  4  0  0  3  32
+01 Williamson, Lucas...    2  3   1  2   0  0   0  2  2   1   5  0  2  0  0  27
+02 Baughman, Jake......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+04 Skokna, Bruno.......    1  3   0  0   0  0   1  1  2   1   2  1  1  0  0  16
+12 Negron, Christian...    1  4   0  0   1  2   0  1  1   1   3  2  1  0  1  14
+23 Satterwhite, Cameron    0  2   0  1   0  0   0  1  1   0   0  0  0  0  0   7
+32 Shanks, Carson......    0  1   0  0   0  0   0  1  1   2   0  0  0  0  0   4
+44 DiNardi, Nick.......    0  1   0  0   0  0   1  0  1   0   0  0  0  0  0   1
+TM TEAM................
+   Totals..............   21 57   5 16   6 10   3 20 23  11  53  9 13  4  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-27  .259    14-30  .467    21-57  .368
+3-Pt. FG%:  1-10  .100     4-6   .667     5-16  .313
+F Throw %:  5-8   .625     1-2   .500     6-10  .600
+Deadball rebounds: 3,2
+HOME TEAM: Boise State (6-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 HANEY, Zach......... f  6  8   1  2   0  0   2  2  4   3  13  0  1  0  1  18
+43 SENGFELDER, Chris... f  4 11   2  5   0  0   2 10 12   1  10  2  3  2  1  26
+02 WILLIAMS, Lexus..... g  3  7   2  4   4  4   0  3  3   0  12  2  1  1  1  23
+03 JESSUP, Justinian... g  7 10   6  7   0  0   1  3  4   2  20  1  1  0  3  27
+15 HUTCHISON, Chandler. g  1  3   0  0   0  0   0  4  4   3   2  5  5  0  0  17
+00 DICKINSON, Marcus...    2  4   1  2   0  0   0  3  3   0   5  4  0  0  1  25
+01 CHRISTON, Cam.......    1  3   1  1   0  0   0  0  0   0   3  0  1  0  0   6
+05 HARWELL, Malek......    0  2   0  2   0  0   0  0  0   0   0  0  0  0  0   4
+10 JORCH, Robin........    0  1   0  0   0  0   0  4  4   2   0  1  1  2  1  10
+21 ALSTON, Derrick.....    1  1   1  1   0  0   1  0  1   0   3  0  0  0  0   2
+22 JARDINE, Casdon.....    2  3   1  2   0  0   1  1  2   0   5  0  0  0  0   8
+33 WACKER, David.......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   6
+34 HOBBS, Alex.........    6  9   1  2   1  2   0  3  3   1  14  2  2  0  0  28
+TM TEAM................                            1  1
+   Totals..............   33 62  16 28   5  6   7 34 41  13  87 17 15  5  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-28  .536    18-34  .529    33-62  .532
+3-Pt. FG%:  6-10  .600    10-18  .556    16-28  .571
+F Throw %:  5-6   .833     0-0   .000     5-6   .833
+Deadball rebounds: 1
+Date: 11-28-17      Site: Boise, Idaho - Taco Bell Arena  Attendance: 3738
+Officials: Kelly Self; Gerry Pollard and Ra;
+Technical fouls: Loyola-None. Boise State-None.
+Score by Periods      1  2   Total
+Loyola.............. 20 33  - 53
+Boise State......... 41 46  - 87

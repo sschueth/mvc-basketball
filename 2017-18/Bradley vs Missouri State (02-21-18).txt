@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Bradley vs Missouri State (02-21-18)
+VISITORS: Bradley (19-11 (9-8 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  5  9   0  1   0  2   1  6  7   2  10  0  1  0  3  30
+12 Bar, Koch........... c  2  5   0  0   6  6   0  4  4   2  10  0  1  2  0  22
+05 Brown, Darrell...... g  2  8   1  3  11 12   0  2  2   1  16  4  3  0  1  27
+23 Lautier-Ogunleye, D. g  6 12   2  6   4  5   3  3  6   2  18  1  0  0  2  34
+25 Kennell, Nate....... g  6 11   6 10   2  2   0  1  1   3  20  1  1  0  1  34
+02 Lundy, Luqman.......    0  0   0  0   1  2   0  1  1   0   1  0  0  0  0   7
+10 Childs, Elijah......    2  6   0  1   1  2   0  2  2   4   5  3  2  0  1  19
+21 Stipanovich, Ryan...    0  0   0  0   0  0   0  2  2   0   0  0  0  0  0   9
+35 Hodgson, Jayden.....    1  1   0  0   0  0   0  0  0   1   2  1  1  0  0  18
+TM TEAM................                         5  2  7
+   Totals..............   24 52   9 21  25 31   9 23 32  15  82 10  9  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-25  .480    12-27  .444    24-52  .462
+3-Pt. FG%:  6-14  .429     3-7   .429     9-21  .429
+F Throw %:  8-11  .727    17-20  .850    25-31  .806
+Deadball rebounds: 1
+HOME TEAM: Missouri State (17-13 (7-10 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  3  4   0  0   1  1   1  6  7   4   7  3  2  1  1  27
+15 Rhodes,Jarrid....... f  7 13   4  9   2  2   0  1  1   2  20  4  2  0  0  36
+24 Johnson,Alize....... f  2  9   0  2   2  2   1 10 11   3   6  6  2  0  0  34
+01 Lawrence,Mustafa.... g  3  9   3  8   2  2   1  1  2   4  11  1  0  0  0  27
+23 Miller, JT.......... g  2  9   0  2   0  0   1  2  3   2   4  0  3  0  1  24
+11 Dixon,Jarred........    9 14   6  8   0  0   1  3  4   3  24  2  1  0  0  31
+20 Kreklow,Ryan........    0  0   0  0   2  2   0  0  0   1   2  0  0  0  0   5
+21 Ross Owens..........    0  1   0  1   0  0   0  0  0   1   0  0  0  0  0   3
+34 Bhullar,Tanveer.....    2  3   0  0   0  0   4  0  4   3   4  0  1  1  1  13
+TM Team................                         1  1  2
+   Totals..............   28 62  13 30   9  9  10 24 34  23  78 16 11  2  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-33  .455    13-29  .448    28-62  .452
+3-Pt. FG%:  9-17  .529     4-13  .308    13-30  .433
+F Throw %:  2-2  1.000     7-7  1.000     9-9  1.000
+Deadball rebounds: 1
+Date: 02-21-18      Site: JQH Arena, Springfield, Mo.  Attendance: 4054
+Officials: Tom O'Neill; Paul Janssen; Jeff Campbell;
+Technical fouls: Bradley-None. Missouri State-None.
+Score by Periods      1  2   Total
+Bradley............. 38 44  - 82
+Missouri State...... 41 37  - 78

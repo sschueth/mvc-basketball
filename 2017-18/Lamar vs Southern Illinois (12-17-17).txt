@@ -1,0 +1,48 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Lamar vs Southern Illinois (12-17-17)
+VISITORS: Lamar (8-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 Nzeakor,Josh........ f  4 12   0  0   1  2   2  4  6   1   9  2  4  0  1  32
+21 Weisbrod,Colton..... f  6 12   1  1   1  2   6 13 19   3  14  0  3  0  0  38
+12 Bosha,Zjori......... g  6 14   1  5   1  1   2  1  3   2  14  2  0  0  3  39
+15 Atwood,T.J.......... g  2  4   0  0   1  4   2  2  4   1   5  0  0  0  0  17
+32 Frenchwood,Joey..... g  3  9   3  5   0  1   0  1  1   1   9  6  5  0  2  27
+03 Garth,Nick..........    2  9   2  9   0  0   1  0  1   3   6  2  1  0  1  25
+05 Sullivan,Avery......    1  1   0  0   0  0   0  1  1   1   2  0  0  0  0   8
+10 Noel,Torey..........    1  4   0  1   0  0   1  1  2   2   2  2  1  0  1  14
+TM TEAM................                         1  1  2
+   Totals..............   25 65   7 21   4 10  15 24 39  14  61 14 14  0  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-27  .296    17-38  .447    25-65  .385
+3-Pt. FG%:  4-10  .400     3-11  .273     7-21  .333
+F Throw %:  2-7   .286     2-3   .667     4-10  .400
+Deadball rebounds: 2
+HOME TEAM: Southern Illinois (6-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Pippen,Kavion....... c  1  4   0  0   0  0   0  4  4   3   2  0  1  1  0  12
+03 Bartley,Marcus...... g  1  4   1  3   2  2   0  1  1   3   5  2  3  0  1  22
+10 Cook,Aaron.......... g  6 10   1  3   0  0   0  1  1   1  13  2  1  0  1  31
+13 Lloyd,Sean.......... g  9 11   2  4   1  4   1  2  3   1  21  5  1  1  2  37
+22 Fletcher,Armon...... g  5  8   1  2   1  1   0  4  4   2  12  4  3  0  0  26
+00 Wiley,Jonathan......    5  7   0  0   1  2   1  6  7   0  11  0  1  1  3  25
+04 McGill,Eric.........    0  0   0  0   0  0   0  0  0   1   0  0  1  0  0   2
+11 Smithpeters,Tyler...    2  7   1  5   0  2   2  4  6   3   5  2  2  1  1  29
+24 Stradnieks,Rudy.....    1  4   0  1   0  0   1  5  6   2   2  0  0  0  0  16
+TM TEAM................                         1  2  3             1
+   Totals..............   30 55   6 18   5 11   6 29 35  16  71 15 14  4  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-30  .533    14-25  .560    30-55  .545
+3-Pt. FG%:  3-8   .375     3-10  .300     6-18  .333
+F Throw %:  1-1  1.000     4-10  .400     5-11  .455
+Deadball rebounds: 1
+Date: 12-17-17      Site: Carbondale, IL  Attendance: 2136
+Officials: Mike Stuart; Kelly Self; Justin Walker;
+Technical fouls: Lamar-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+Lamar............... 22 39  - 61
+Southern Illinois... 36 35  - 71

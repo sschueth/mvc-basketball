@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+              Illinois Springfield vs Southern Illinois (11-18-17)
+VISITORS: Illinois Springfield
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Longmeyer,Eddie..... *  7 16   2  3   1  2   2 12 14   1  17  0  1  0  3  36
+03 Nelson,Gilwan....... *  8 11   4  6   4  5   2  4  6   3  24  0  3  2  1  31
+04 Gonce,Logan......... *  2  4   0  1   0  0   0  1  1   2   4  1  1  0  1  24
+10 Walker,Vince........ *  1  7   1  6   0  0   0  3  3   1   3  1  0  0  0  21
+21 Steinberg,Zach...... *  1  7   0  3   0  0   2  2  4   4   2  2  2  0  0  17
+01 Donnelly,Lijah......    2  5   0  1   3  4   1  0  1   4   7  3  2  0  2  20
+02 Williams,Aundrae....    1  4   0  1   2  2   0  2  2   4   4  1  2  0  0  16
+15 Amaya,Bahari........    1  4   1  2   0  0   0  1  1   2   3  0  1  0  0   7
+22 Payawal,Cj..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+23 Stallworth,Collin...    0  1   0  1   0  0   1  1  2   0   0  0  0  0  0   9
+24 Days,Kaj............    0  0   0  0   0  0   0  0  0   3   0  0  0  2  0  15
+32 Van Sant,Brandon....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+TM TEAM................                            3  3
+   Totals..............   23 59   8 24  10 13   8 29 37  24  64  8 12  4  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-25  .360    14-34  .412    23-59  .390
+3-Pt. FG%:  6-15  .400     2-9   .222     8-24  .333
+F Throw %:  2-4   .500     8-9   .889    10-13  .769
+Deadball rebounds: 1
+HOME TEAM: Southern Illinois (2-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Pippen,Kavion....... c  5  7   0  0   1  2   1  6  7   2  11  1  1  3  0  29
+00 Wiley,Jonathan...... g  4 11   0  1   1  2   2  6  8   3   9  2  2  1  1  26
+10 Cook,Aaron.......... g  6 10   3  5   5  6   0  3  3   4  20  4  4  1  0  34
+11 Smithpeters,Tyler... g  2  4   1  3   3  4   1  3  4   2   8  0  0  1  1  33
+13 Lloyd,Sean.......... g  0  8   0  3   0  0   2  5  7   3   0  4  2  0  2  31
+04 McGill,Eric.........    4  9   2  6   3  5   0  3  3   0  13  2  2  1  2  28
+15 Weiher,Austin.......    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   2
+24 Stradnieks,Rudy.....    1  2   0  1   3  5   1  2  3   0   5  0  2  0  0  10
+25 Gooch,Brendon.......    1  1   1  1   0  0   0  2  2   0   3  0  1  1  0   7
+TM TEAM................                         2     2
+   Totals..............   23 53   7 21  16 24   9 30 39  14  69 13 14  8  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-28  .393    12-25  .480    23-53  .434
+3-Pt. FG%:  4-14  .286     3-7   .429     7-21  .333
+F Throw %:  4-7   .571    12-17  .706    16-24  .667
+Deadball rebounds: 0
+Date: 11-18-17      Site: Carbondale, IL  Attendance: 4166
+Officials: Brad Gaston; Nathan Bemis; Drew Bontrager;
+Technical fouls: Illinois Springfield-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+Illinois Springfield 26 38  - 64
+Southern Illinois... 30 39  - 69

@@ -1,0 +1,48 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Southern Illinois vs Drake (01-30-18)
+VISITORS: Southern Illinois (15-9 (7-4 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Pippen,Kavion....... c  6  8   0  0   2  2   2  3  5   4  14  0  3  1  2  27
+03 Bartley,Marcus...... g  3  6   2  3   0  0   0  1  1   4   8  4  0  1  1  21
+10 Cook,Aaron.......... g  5 14   3  7   5  8   0  4  4   2  18  1  1  0  1  33
+13 Lloyd,Sean.......... g  3  8   0  1   1  2   2  5  7   3   7  6  3  1  4  37
+22 Fletcher,Armon...... g  4 10   0  4   3  4   2  3  5   1  11  2  2  1  1  35
+11 Smithpeters,Tyler...    4  7   2  5   2  2   0  8  8   3  12  4  5  0  0  30
+24 Stradnieks,Rudy.....    4  4   0  0   0  0   0  1  1   1   8  1  0  0  0  14
+25 Gooch,Brendon.......    0  0   0  0   0  0   1  1  2   1   0  0  1  1  0   3
+TM TEAM................                         4  1  5
+   Totals..............   29 57   7 20  13 18  11 27 38  19  78 18 15  5  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-31  .484    14-26  .538    29-57  .509
+3-Pt. FG%:  5-12  .417     2-8   .250     7-20  .350
+F Throw %:  4-6   .667     9-12  .750    13-18  .722
+Deadball rebounds: 3
+HOME TEAM: Drake (12-12 (6-5 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 McGlynn, Nick....... f  2  6   0  0   8  9   4  6 10   1  12  1  2  1  2  28
+00 Rivers, C.J......... g  1  4   0  1   0  0   0  2  2   2   2  4  3  0  3  30
+04 McMurray, De'Antae.. g  3 10   1  6   2  2   0  2  2   1   9  1  2  0  1  32
+12 Timmer, Reed........ g  6 13   3  6   7  8   0  3  3   3  22  1  4  0  0  33
+23 Arogundade, Ore..... g  3  5   3  3   0  0   0  1  1   2   9  1  2  1  1  28
+02 Gibbs, Jalen........    1  1   0  0   0  0   0  0  0   0   2  0  0  0  0   3
+03 Woodward, Graham....    3 10   2  8   1  2   0  1  1   4   9  3  4  0  1  25
+14 Thomas, Noah........    0  1   0  0   0  0   1  0  1   0   0  0  0  0  0   9
+22 Schlatter, Casey....    1  2   0  0   0  0   0  1  1   1   2  2  0  1  0  12
+TM TEAM................                         2  2  4
+   Totals..............   20 52   9 24  18 21   7 18 25  14  67 13 17  3  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-27  .370    10-25  .400    20-52  .385
+3-Pt. FG%:  4-11  .364     5-13  .385     9-24  .375
+F Throw %:  8-10  .800    10-11  .909    18-21  .857
+Deadball rebounds: 1,1
+Date: 01-30-18      Site: Des Moines, Iowa (Knapp Center)  Attendance: 3198
+Officials: Tom O'Neill; Don Daily; Owen Shortt;
+Technical fouls: Southern Illinois-None. Drake-, Arogundade, Ore.
+Score by Periods      1  2   Total
+Southern Illinois... 39 39  - 78
+Drake............... 32 35  - 67

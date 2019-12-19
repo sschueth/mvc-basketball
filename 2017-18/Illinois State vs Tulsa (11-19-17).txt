@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Illinois State vs Tulsa (11-19-17)
+VISITORS: Illinois State (2-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne, Phil......... f  6  8   0  0   6 10   2  3  5   2  18  1  3  2  3  36
+52 Yarbrough, Milik.... f  5 11   2  4   6  8   2  6  8   4  18  5  5  2  0  24
+03 Evans, Keyshawn..... g 10 13   6  6   3  4   0  4  4   1  29  5  3  0  0  32
+23 Tinsley, William.... g  1  7   1  7   0  0   1  3  4   4   3  0  0  1  2  28
+25 Williams, Madison... g  2  3   1  1   0  0   0  2  2   3   5  3  2  0  1  25
+00 Gassman, Isaac......    2  2   0  0   0  0   0  1  1   1   4  0  0  0  0  12
+05 Hein, Matt..........    1  2   1  2   1  2   0  1  1   2   4  0  2  0  0  20
+24 Martin, Jerron......    1  2   1  2   0  0   1  1  2   0   3  0  1  0  0  10
+30 Litwiller, Luke.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+32 Bruninga, Taylor....    0  1   0  1   0  0   0  2  2   4   0  1  0  0  0  12
+TM TEAM................                         2  3  5   1
+   Totals..............   28 49  12 23  16 24   8 26 34  22  84 15 16  5  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-26  .615    12-23  .522    28-49  .571
+3-Pt. FG%:  8-15  .533     4-8   .500    12-23  .522
+F Throw %:  6-8   .750    10-16  .625    16-24  .667
+Deadball rebounds: 3
+HOME TEAM: Tulsa (2-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 ETOU, Junior........ f  4  7   0  0   8 10   2  2  4   5  16  0  1  0  0  26
+02 JEFFRIES, DaQuan.... f  1 10   0  3   2  2   5  4  9   4   4  4  2  1  0  32
+04 TAPLIN, Sterling.... g  5  8   3  4   2  2   0  2  2   1  15  6  5  0  0  33
+10 SCOTT, Curran....... g  4  9   1  3   4  5   0  0  0   0  13  1  1  1  1  26
+13 WHEELER, Jaleel..... g  0  1   0  1   0  0   0  1  1   1   0  0  0  0  0   7
+01 IGBANU, Martins.....    4  7   0  0   2  3   3  5  8   3  10  0  2  0  0  20
+03 JOINER, Elijah......    4  9   2  6   0  0   0  0  0   1  10  2  3  0  0  19
+05 KORITA, Lawson......    0  1   0  1   0  0   1  0  1   0   0  0  0  0  0   3
+11 JACKSON, Darien.....    0  0   0  0   0  0   1  0  1   2   0  1  0  0  0  10
+32 HENDERSON JR, Corey.    0  6   0  4   0  0   0  0  0   0   0  2  0  0  0  18
+35 ARTISON, Geno.......    0  1   0  1   0  0   0  2  2   1   0  0  0  0  0   6
+TM TEAM................                         2  2  4
+   Totals..............   22 59   6 23  18 22  14 18 32  18  68 16 14  2  1 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-29  .310    13-30  .433    22-59  .373
+3-Pt. FG%:  1-11  .091     5-12  .417     6-23  .261
+F Throw %:  8-9   .889    10-13  .769    18-22  .818
+Deadball rebounds: 1
+Date: 11-19-17      Site: HTC Center (Conway, SC)  Attendance: 2119
+Officials: Les Jones; Rod Dixon; Jose Carrion;
+Technical fouls: Illinois State-, TEAM. Tulsa-None.
+Score by Periods      1  2   Total
+Illinois State...... 46 38  - 84
+Tulsa............... 27 41  - 68
+Game 11 of the Puerto Rico Tip-Off at Myrtle Beach
+3rd Place Game

@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Loyola vs Northern Iowa (01-07-18)
+VISITORS: Loyola (12-4, 2-2 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... *  3  9   1  5   1  3   1  5  6   3   8  1  2  0  2  29
+05 Townes, Marques..... *  1  4   0  0   2  2   2  1  3   0   4  2  0  0  1  22
+13 Custer, Clayton..... *  4 12   3  7   0  0   0  1  1   0  11  4  0  1  1  32
+14 Richardson, Ben..... *  3  4   3  4   0  0   1  2  3   2   9  2  0  1  2  25
+25 Krutwig, Cameron.... *  2  8   0  0   5  6   1  4  5   4   9  0  0  0  0  18
+01 Williamson, Lucas...    2  4   2  3   1  2   0  5  5   1   7  1  1  1  3  32
+04 Skokna, Bruno.......    2  3   0  1   0  0   0  1  1   0   4  0  0  0  0  13
+10 Avery, Adarius......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+12 Negron, Christian...    0  2   0  0   0  0   1  0  1   1   0  0  0  0  0   5
+23 Satterwhite, Cameron    0  1   0  1   0  0   0  1  1   0   0  0  1  0  0   5
+24 Jackson, Aundre.....    2  7   0  1   0  0   2  2  4   4   4  1  3  0  0  17
+TM TEAM................                         2  1  3
+   Totals..............   19 54   9 22   9 13  10 23 33  15  56 11  7  3  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-27  .370     9-27  .333    19-54  .352
+3-Pt. FG%:  3-10  .300     6-12  .500     9-22  .409
+F Throw %:  0-0   .000     9-13  .692     9-13  .692
+Deadball rebounds: 3
+HOME TEAM: Northern Iowa (8-8, 0-4 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Carlson, Klint...... *  1  4   0  2   0  0   1  3  4   0   2  0  3  0  0  33
+04 Pickford, Tywhon.... *  6 11   2  5   1  2   3  8 11   1  15  1  4  0  0  39
+13 McCloud, Juwan...... *  0  6   0  2   2  2   0  2  2   2   2  4  1  0  1  28
+24 Brown, Isaiah....... *  0  2   0  0   0  0   0  0  0   2   0  0  1  0  1  13
+25 Koch, Bennett....... *  7 14   0  0   3  4   5  4  9   3  17  2  2  5  0  31
+01 McDermott, Adam.....    0  2   0  2   0  0   0  1  1   0   0  1  0  0  0   6
+03 Friedman, Ted.......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   2
+30 Haldeman, Spencer...    1  5   1  4   0  0   0  1  1   4   3  2  1  0  0  17
+33 Lohaus, Wyatt.......    4  8   3  5   0  0   1  5  6   3  11  3  0  0  0  31
+TM TEAM................                         1  2  3
+   Totals..............   19 52   6 20   6  8  11 26 37  16  50 13 12  5  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-28  .357     9-24  .375    19-52  .365
+3-Pt. FG%:  4-14  .286     2-6   .333     6-20  .300
+F Throw %:  2-4   .500     4-4  1.000     6-8   .750
+Deadball rebounds: 1
+Date: 01-07-18      Site: Cedar Falls, Iowa (McLeod Center)  Attendance: 3765
+Officials: Tom Eades; Bert Smith; Paul Janssen;
+Technical fouls: Loyola-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+Loyola.............. 23 33  - 56
+Northern Iowa....... 26 24  - 50

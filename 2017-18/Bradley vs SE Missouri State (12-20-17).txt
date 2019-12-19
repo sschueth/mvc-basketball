@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Bradley vs SE Missouri State (12-20-17)
+VISITORS: Bradley (10-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  2  3   0  0   2  4   2  4  6   4   6  0  4  0  2  15
+12 Bar, Koch........... c  3  4   0  0   2  3   2  4  6   3   8  1  1  2  0  20
+05 Brown, Darrell...... g  6 13   1  3   5  8   0  2  2   1  18  3  3  0  0  35
+23 Lautier-Ogunleye, D. g  1  6   0  2   0  0   0  2  2   2   2  2  0  0  1  34
+25 Kennell, Nate....... g  4 10   2  6   2  2   1  1  2   2  12  5  1  1  1  34
+02 Lundy, Luqman.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+10 Childs, Elijah......    5  9   3  3   2  2   1  5  6   1  15  0  0  2  0  19
+13 van Bree, Luuk......    4  8   3  4   3  4   1  5  6   3  14  1  1  0  0  25
+21 Stipanovich, Ryan...    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+35 Hodgson, Jayden.....    0  0   0  0   0  0   0  1  1   4   0  0  0  0  0  13
+TM TEAM................                            5  5
+   Totals..............   25 53   9 18  16 23   7 29 36  20  75 12 10  5  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-30  .533     9-23  .391    25-53  .472
+3-Pt. FG%:  7-12  .583     2-6   .333     9-18  .500
+F Throw %:  2-2  1.000    14-21  .667    16-23  .696
+Deadball rebounds: 3
+HOME TEAM: SE Missouri State (6-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 VRANES, Milos....... f  2  7   0  4   0  1   1  5  6   1   4  2  3  0  1  25
+20 CARPENTER, Justin... c  3  5   0  0   0  2   2  1  3   4   6  0  2  0  0  17
+02 DALTON, Jonathan.... g  1  3   0  1   0  0   2  2  4   2   2  3  1  0  1  37
+25 BREWER, Ledarrius... g  4  9   3  6   2  2   0  7  7   4  13  2  4  0  1  31
+34 MAHONEY, Denzel..... g  3 12   1  4  10 12   1  4  5   4  17  1  1  0  0  33
+03 KOWALSKI, Ray.......    3  8   2  5   2  2   0  3  3   0  10  1  0  0  0  20
+13 GABLE, Isaiah.......    3  5   3  4   0  0   0  1  1   2   9  1  0  0  0  17
+15 LEWIS, Donnie.......    0  0   0  0   0  0   1  0  1   2   0  0  0  0  0   3
+23 SIMMONS, Daniel.....    1  5   0  1   2  3   0  0  0   1   4  1  1  0  0  11
+42 LAROS, Mark.........    1  1   0  0   0  0   0  0  0   0   2  0  0  0  0   6
+TM TEAM................                         3  2  5
+   Totals..............   21 55   9 25  16 22  10 25 35  20  67 11 12  0  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-27  .370    11-28  .393    21-55  .382
+3-Pt. FG%:  5-15  .333     4-10  .400     9-25  .360
+F Throw %:  4-6   .667    12-16  .750    16-22  .727
+Deadball rebounds: 1
+Date: 12-20-17      Site: Cape Girardeau, Mo. (Show Me Center)  Attendance: 702
+Officials: Greg Rennegarbe; Rick O'Neill; Scott Tierney;
+Technical fouls: Bradley-None. SE Missouri State-None.
+Score by Periods      1  2   Total
+Bradley............. 41 34  - 75
+SE Missouri State... 29 38  - 67

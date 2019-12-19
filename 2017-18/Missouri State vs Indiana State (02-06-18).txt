@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Missouri State vs Indiana State (02-06-18)
+VISITORS: Missouri State (16-10, 6-7 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Lawrence,Mustafa.... *  2  6   1  5   0  0   0  0  0   0   5  0  0  0  0  17
+05 Church,Obediah...... *  4  5   0  0   0  0   2  7  9   3   8  2  0  2  1  24
+15 Rhodes,Jarrid....... *  4 13   2  8   1  1   1  4  5   2  11  2  2  1  1  29
+23 Miller, JT.......... *  3  6   0  1   0  1   0  5  5   3   6  2  3  0  0  19
+24 Johnson,Alize....... *  9 15   5  9   5  6   3  5  8   2  28  5  1  4  2  36
+11 Dixon,Jarred........    6  9   1  2   0  0   0  4  4   0  13  1  0  0  0  29
+14 Rousseau III,Ronnie.    0  5   0  4   0  0   0  1  1   0   0  1  1  0  1  15
+20 Kreklow,Ryan........    2  3   2  2   0  0   0  2  2   2   6  1  0  1  1  17
+21 Ross Owens..........    0  1   0  1   0  0   0  0  0   1   0  0  2  0  0   3
+34 Bhullar,Tanveer.....    2  3   0  0   0  0   2  2  4   3   4  2  1  4  0  11
+TM Team................                            4  4
+   Totals..............   32 66  11 32   6  8   8 34 42  16  81 16 10 12  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-30  .467    18-36  .500    32-66  .485
+3-Pt. FG%:  4-14  .286     7-18  .389    11-32  .344
+F Throw %:  4-5   .800     2-3   .667     6-8   .750
+Deadball rebounds: 0
+HOME TEAM: Indiana State (11-14, 6-7 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Barnes, Jordan...... *  4 15   4  9   0  0   0  4  4   2  12  3  2  0  1  36
+04 Scott, Brenton...... *  7 16   5  7   0  0   0  4  4   1  19  2  3  0  1  36
+25 Davis, Qiydar....... *  3 11   0  6   2  2   0  4  4   3   8  0  1  1  1  31
+34 Murphy, Brandon..... *  1  6   0  0   8  9   4  1  5   1  10  0  2  0  0  12
+35 Thomas, Devin....... *  2  6   1  3   2  2   3  3  6   2   7  1  1  0  0  22
+01 Ojinnaka, Demonte...    0  0   0  0   0  0   0  2  2   0   0  0  1  0  0   4
+05 Kessinger, Bronson..    0  2   0  0   1  2   0  3  3   0   1  0  0  0  0  13
+13 Hughes, Clayton.....    0  3   0  3   0  0   0  1  1   1   0  2  0  0  0  21
+20 Huenermann, Daniel..    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+24 Deady, Matt.........    1  3   0  0   0  0   0  0  0   2   2  3  2  0  2  13
+41 Rickman, Emondre....    1  1   0  0   1  2   2  4  6   1   3  0  0  0  0  12
+TM TEAM................                         3  1  4             1
+   Totals..............   19 63  10 28  14 17  12 27 39  13  62 11 13  1  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-29  .241    12-34  .353    19-63  .302
+3-Pt. FG%:  3-12  .250     7-16  .438    10-28  .357
+F Throw %:  8-10  .800     6-7   .857    14-17  .824
+Deadball rebounds: 1,1
+Date: 02-06-18      Site: Hulman Center (Terre Haute, Ind.)  Attendance: 4040
+Officials: Mike Stuart; Kelly Self; K.B. Burdett;
+Technical fouls: Missouri State-None. Indiana State-None.
+Score by Periods      1  2   Total
+Missouri State...... 36 45  - 81
+Indiana State....... 25 37  - 62

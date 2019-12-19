@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Missouri State vs Bradley (01-23-18)
+VISITORS: Missouri State (15-7, 5-4 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  3  5   0  0   2  4   6  3  9   1   8  2  1  4  1  32
+15 Rhodes,Jarrid....... f  3  9   2  6   2  2   1  3  4   1  10  0  0  0  0  28
+24 Johnson,Alize....... f  2  5   0  2   3  5   3  2  5   3   7  0  2  0  0  15
+11 Dixon,Jarred........ g  2 10   2  6   0  0   4  2  6   0   6  1  3  1  1  35
+14 Rousseau III,Ronnie. g  4 12   2  8   0  0   0  1  1   3  10  4  0  0  0  31
+01 Lawrence,Mustafa....    1  1   0  0   0  0   0  0  0   2   2  0  0  0  0   2
+20 Kreklow,Ryan........    1  4   1  4   1  2   0  3  3   2   4  2  0  0  0  21
+21 Ross Owens..........    2  7   1  6   0  0   0  2  2   1   5  1  0  0  1  21
+23 Miller, JT..........    0  4   0  1   0  0   0  1  1   1   0  1  4  0  0  10
+34 Bhullar,Tanveer.....    0  0   0  0   0  0   0  0  0   1   0  1  0  0  0   5
+TM Team................                         3  1  4             1
+   Totals..............   18 57   8 33   8 13  17 18 35  15  52 12 11  5  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-28  .357     8-29  .276    18-57  .316
+3-Pt. FG%:  5-14  .357     3-19  .158     8-33  .242
+F Throw %:  3-5   .600     5-8   .625     8-13  .615
+Deadball rebounds: 2
+HOME TEAM: Bradley (15-7, 5-4 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  6  8   0  1   1  2   4  3  7   4  13  1  0  1  1  23
+10 Childs, Elijah...... f  5 10   0  1   2  2   5  7 12   3  12  1  0  0  0  29
+05 Brown, Darrell...... g  6 16   4  7   4  4   0  4  4   1  20  8  0  0  1  34
+23 Lautier-Ogunleye, D. g  4  8   1  4   0  0   0  0  0   4   9  0  2  1  0  25
+35 Hodgson, Jayden..... g  2  5   1  3   2  2   1  3  4   1   7  1  1  0  1  30
+02 Lundy, Luqman.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+12 Bar, Koch...........    1  2   0  0   4  4   2  2  4   1   6  0  1  1  0  19
+13 van Bree, Luuk......    0  1   0  0   1  2   0  1  1   0   1  0  0  1  1   5
+21 Stipanovich, Ryan...    0  2   0  1   0  0   0  1  1   1   0  0  0  0  0   6
+25 Kennell, Nate.......    2  6   0  2   0  0   1  2  3   3   4  4  1  0  1  28
+TM TEAM................                         1  2  3
+   Totals..............   26 58   6 19  14 16  14 25 39  18  72 15  5  4  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-25  .400    16-33  .485    26-58  .448
+3-Pt. FG%:  3-9   .333     3-10  .300     6-19  .316
+F Throw %:  6-8   .750     8-8  1.000    14-16  .875
+Deadball rebounds: 2
+Date: 01-23-18      Site: Peoria, Ill. (Carver Arena)  Attendance: 5041
+Officials: Tom O'Neill; Kelly Self; Mike O'Neill;
+Technical fouls: Missouri State-None. Bradley-None.
+Score by Periods      1  2   Total
+Missouri State...... 28 24  - 52
+Bradley............. 29 43  - 72

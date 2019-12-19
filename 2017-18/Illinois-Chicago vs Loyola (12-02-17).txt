@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Illinois-Chicago vs Loyola (12-02-17)
+VISITORS: Illinois-Chicago (2-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 DIXSON, Dikembe..... f  6 10   1  3   1  2   0  2  2   2  14  1  2  0  0  28
+13 BLOUNT, Jordan...... f  1  4   0  1   0  0   0  4  4   0   2  2  3  1  0  17
+21 ODIASE, Tai......... c  2  8   0  0   0  0   2  3  5   1   4  1  1  5  0  28
+00 MATTHEWS, Dominique. g  5 10   3  6   1  3   0  1  1   3  14  1  3  0  0  26
+15 BOAHEN, Godwin...... g  1  4   0  2   0  0   1  1  2   2   2  2  4  0  2  23
+01 OTTEY, Marcus.......    6  9   0  1   4  6   0  2  2   1  16  0  3  0  1  26
+02 DIGGINS, Michael....    0  2   0  1   2  4   0  3  3   2   2  0  2  0  0  21
+03 WILEY, Jacob........    1  1   0  0   1  2   0  2  2   1   3  0  0  0  0  11
+32 ROBINSON, Clint.....    1  1   0  0   2  2   0  6  6   2   4  0  1  1  1  20
+TM TEAM................                         1  2  3
+   Totals..............   23 49   4 14  11 19   4 26 30  14  61  7 19  7  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-23  .435    13-26  .500    23-49  .469
+3-Pt. FG%:  3-10  .300     1-4   .250     4-14  .286
+F Throw %:  1-5   .200    10-14  .714    11-19  .579
+Deadball rebounds: 3
+HOME TEAM: Loyola (8-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... f  2  8   1  3   1  2   0  6  6   0   6  5  1  0  1  29
+24 Jackson, Aundre..... f 10 11   2  2   1  1   0  5  5   1  23  1  2  0  0  21
+25 Krutwig, Cameron.... c  4  7   0  0   0  0   0  5  5   0   8  7  2  0  0  27
+05 Townes, Marques..... g  3  6   0  0   0  2   0  3  3   1   6  5  1  0  2  26
+13 Custer, Clayton..... g  4  7   1  2   1  2   0  3  3   2  10  6  1  0  1  30
+01 Williamson, Lucas...    4  5   3  4   3  3   0  0  0   2  14  1  1  0  1  20
+02 Baughman, Jake......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+04 Skokna, Bruno.......    1  4   1  3   0  0   0  0  0   1   3  3  1  0  3  15
+10 Avery, Adarius......    3  7   0  0   1  2   1  2  3   1   7  1  0  0  0  12
+12 Negron, Christian...    1  3   0  0   0  2   2  0  2   2   2  0  0  0  0   9
+23 Satterwhite, Cameron    1  2   0  0   2  2   0  2  2   2   4  0  0  0  0   5
+31 Boehm, Dylan........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+32 Shanks, Carson......    1  1   0  0   0  0   0  0  0   2   2  0  0  0  0   3
+44 DiNardi, Nick.......    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                         2  1  3
+   Totals..............   34 62   8 14   9 16   5 27 32  14  85 29  9  0  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 20-32  .625    14-30  .467    34-62  .548
+3-Pt. FG%:  8-10  .800     0-4   .000     8-14  .571
+F Throw %:  4-7   .571     5-9   .556     9-16  .563
+Deadball rebounds: 4
+Date: 12-02-17      Site: Gentile Arena - Chicago, Ill.  Attendance: 3024
+Officials: Ed Crenshaw; Jeff Campbell; James Durham;
+Technical fouls: Illinois-Chicago-None. Loyola-None.
+Score by Periods      1  2   Total
+Illinois-Chicago.... 24 37  - 61
+Loyola.............. 52 33  - 85

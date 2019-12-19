@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Norfolk State vs Loyola (12-09-17)
+VISITORS: Norfolk State (0-9)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 BUNGEI,Preston...... f  1  7   0  2   1  2   2  1  3   3   3  1  2  0  1  24
+22 LONG,Alex........... f  4 11   0  0   1  1   0  3  3   3   9  0  1  1  1  24
+00 PITT,Mastadi........ g  1  7   1  2   1  2   0  0  0   3   4  3  1  0  0  22
+24 WILLIAMS,Kyle....... g  2  9   2  6   0  0   2  1  3   2   6  1  0  0  2  35
+34 WHITLEY,Steven...... g  4  7   0  1   2  6   3  1  4   3  10  3  2  0  4  31
+05 GELLINEAU,Bryan.....    0  2   0  0   0  0   0  0  0   2   0  1  3  0  1   8
+13 ALLEN,Stavian.......    2  4   0  1   0  0   0  0  0   2   4  1  1  0  1  12
+35 JAMERSON,Derrik.....    5 11   4 10   0  0   3  0  3   2  14  1  1  0  3  33
+44 ROBINSON,Dan........    0  0   0  0   2  2   0  2  2   3   2  0  1  0  0  11
+TM Team................                         2  1  3
+   Totals..............   19 58   7 22   7 13  12  9 21  23  52 11 12  1 13 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-28  .321    10-30  .333    19-58  .328
+3-Pt. FG%:  6-12  .500     1-10  .100     7-22  .318
+F Throw %:  4-7   .571     3-6   .500     7-13  .538
+Deadball rebounds: 2
+HOME TEAM: Loyola (10-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... f  5  6   5  6   0  0   1  5  6   0  15  2  1  0  1  29
+24 Jackson, Aundre..... f  4  6   0  0   0  0   1  2  3   0   8  3  1  0  1  23
+25 Krutwig, Cameron.... c  4  4   0  0   4  5   1  7  8   1  12  3  3  1  0  24
+01 Williamson, Lucas... g  1  1   1  1   0  0   0  3  3   4   3  2  5  0  0  17
+05 Townes, Marques..... g  3  7   1  2   1  2   0  2  2   0   8  3  4  0  1  25
+02 Baughman, Jake......    0  0   0  0   2  2   0  0  0   1   2  0  0  0  0   2
+04 Skokna, Bruno.......    4  5   2  3   8  8   1  1  2   1  18  0  1  0  0  23
+10 Avery, Adarius......    3  4   0  0   4  4   1  3  4   0  10  1  2  0  0  16
+12 Negron, Christian...    0  0   0  0   1  6   0  1  1   3   1  0  2  0  0  10
+23 Satterwhite, Cameron    1  2   1  1   0  2   0  1  1   3   3  2  1  0  0  23
+31 Boehm, Dylan........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+32 Shanks, Carson......    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   5
+44 DiNardi, Nick.......    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   2
+TM TEAM................                            4  4
+   Totals..............   25 35  10 13  20 29   5 31 36  13  80 16 20  1  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-20  .750    10-15  .667    25-35  .714
+3-Pt. FG%:  6-8   .750     4-5   .800    10-13  .769
+F Throw %: 11-15  .733     9-14  .643    20-29  .690
+Deadball rebounds: 5
+Date: 12-09-17      Site: Gentile Arena - Chicago, Ill.  Attendance: 1904
+Officials: Brad Gaston; Todd Parker; Drew Bontrager;
+Technical fouls: Norfolk State-None. Loyola-None.
+Score by Periods      1  2   Total
+Norfolk State....... 28 24  - 52
+Loyola.............. 47 33  - 80

@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Evansville vs New Mexico (11-29-17)
+VISITORS: Evansville (5-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+14 Chatkevicius, Dainiu f  1  3   0  0   1  2   4  4  8   2   3  0  0  2  1  23
+50 Simmons, Blake...... f  3 12   2  6   1  2   0  3  3   1   9  1  3  0  1  35
+12 Smith, Dru.......... g  2  3   1  1   5  5   1  3  4   4  10  1  5  0  0  26
+25 Gibson, Duane....... g  3  6   0  0   0  0   0  2  2   4   6  4  7  1  3  27
+30 Frederking, Noah.... g  2  8   0  5   3  3   1  1  2   1   7  0  1  0  0  32
+01 Hill, Marty.........    2  4   0  0   0  0   2  5  7   1   4  1  2  0  0  16
+10 Kuhlman, Evan.......    1  2   0  0   0  0   1  0  1   0   2  0  0  0  0   6
+15 Traore, Dalen.......    2  4   0  0   1  1   3  1  4   1   5  0  0  0  0  13
+33 Riley, K.J..........    3  7   0  1   7 10   0  1  1   3  13  1  0  0  1  16
+35 Hall, John..........    0  3   0  0   0  0   1  1  2   0   0  0  1  0  0   6
+TM TEAM................                         2  3  5             2
+   Totals..............   19 52   3 13  18 23  15 24 39  17  59  8 21  3  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-30  .333     9-22  .409    19-52  .365
+3-Pt. FG%:  0-6   .000     3-7   .429     3-13  .231
+F Throw %:  7-9   .778    11-14  .786    18-23  .783
+Deadball rebounds: 2
+HOME TEAM: New Mexico (3-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 LOGWOOD, Sam........ f  6  9   0  0   2  2   1  4  5   3  14  1  4  0  0  22
+05 FURSTINGER, Joe..... f  1  5   0  2   0  0   0  5  5   3   2  6  1  2  1  22
+01 McNEAL, Chris....... g  5  8   2  4   1  1   0  2  2   2  13  1  1  0  2  29
+14 KUIPER, Dane........ g  2  6   2  4   0  0   1  3  4   1   6  0  1  0  2  23
+31 SIMONS, Troy........ g  4  8   4  7   2  2   0  0  0   1  14  0  0  0  3  21
+03 JACKSON, Antino.....    0  4   0  2   2  3   1  3  4   2   2 10  1  0  0  18
+10 MALUACH, Makuach....    5  6   0  1   0  1   2  1  3   3  10  3  2  1  0  17
+11 SIMMONS, Jachai.....    1  5   1  3   0  0   0  0  0   0   3  2  0  0  0  12
+15 PINCHUK, Vladimir...    2  4   0  0   0  0   0  3  3   3   4  0  0  1  1  18
+32 MATHIS, Anthony.....    4  6   2  4   0  0   0  0  0   3  10  0  0  0  0  18
+TM TEAM................                         4     4             1
+   Totals..............   30 61  11 27   7  9   9 21 30  21  78 23 11  4  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-30  .400    18-31  .581    30-61  .492
+3-Pt. FG%:  6-15  .400     5-12  .417    11-27  .407
+F Throw %:  5-5  1.000     2-4   .500     7-9   .778
+Deadball rebounds: 0
+Date: 11-29-17      Site: Dreamstyle Arena - The Pit  Attendance: 8943
+Officials: Gerry Pollard; Kipp Kissinger; Randy Heimerman;
+Technical fouls: Evansville-None. New Mexico-, TEAM.
+Score by Periods      1  2   Total
+Evansville.......... 27 32  - 59
+New Mexico.......... 35 43  - 78

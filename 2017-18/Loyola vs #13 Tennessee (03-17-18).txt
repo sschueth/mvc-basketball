@@ -1,0 +1,48 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Loyola vs #13 Tennessee (03-17-18)
+VISITORS: Loyola (30-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... f  2  8   2  6   0  2   0  3  3   1   6  2  1  0  0  25
+25 Krutwig, Cameron.... c  3  7   0  0   1  2   0  2  2   2   7  4  2  1  1  25
+05 Townes, Marques..... g  3  6   0  2   2  2   1  5  6   1   8  3  1  0  1  31
+13 Custer, Clayton..... g  4  5   2  2   0  0   0  2  2   1  10  3  2  0  0  33
+14 Richardson, Ben..... g  2  6   1  5   1  2   0  2  2   2   6  3  0  0  0  33
+01 Williamson, Lucas...    2  4   2  3   1  2   2  2  4   0   7  1  0  0  0  24
+04 Skokna, Bruno.......    1  1   1  1   0  0   0  0  0   2   3  0  0  0  0   7
+24 Jackson, Aundre.....    5  7   0  1   6  6   1  3  4   4  16  1  3  0  1  22
+TM TEAM................                         1  3  4             1
+   Totals..............   22 44   8 20  11 16   5 22 27  13  63 17 10  1  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-23  .478    11-21  .524    22-44  .500
+3-Pt. FG%:  3-11  .273     5-9   .556     8-20  .400
+F Throw %:  4-4  1.000     7-12  .583    11-16  .688
+Deadball rebounds: 4
+HOME TEAM: #13 Tennessee (26-9)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Williams, Grant..... f  5  9   0  0   2  4   2  1  3   3  12  4  1  2  0  34
+10 Fulkerson, John..... f  0  0   0  0   0  0   0  2  2   1   0  0  2  0  0   7
+00 Bone, Jordan........ g  6 11   1  3   0  0   0  1  1   2  13  5  0  0  2  31
+05 Schofield, Admiral.. g  5 10   4  8   0  0   0  3  3   4  14  0  2  0  1  26
+23 Bowden, Jordan...... g  3  7   1  3   1  2   0  4  4   2   8  3  0  0  3  33
+01 Turner, Lamonte.....    4 11   2  7   0  0   1  3  4   3  10  0  0  0  1  32
+03 Daniel, James.......    1  4   1  4   0  0   1  1  2   1   3  2  0  0  1  13
+15 Walker, Derrick.....    1  2   0  0   0  0   1  1  2   1   2  1  0  0  0  18
+35 Pons, Yves..........    0  1   0  0   0  0   1  1  2   0   0  0  1  0  0   6
+TM TEAM................                            1  1             1
+   Totals..............   25 55   9 25   3  6   6 18 24  17  62 15  7  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-26  .385    15-29  .517    25-55  .455
+3-Pt. FG%:  4-13  .308     5-12  .417     9-25  .360
+F Throw %:  1-3   .333     2-3   .667     3-6   .500
+Deadball rebounds: 5
+Date: 03-17-18      Site: Dallas, Texas (American Airlines C  Attendance: 18642
+Officials: Mike Reed; Don Daily; Larry Scirotto;
+Technical fouls: Loyola-None. #13 Tennessee-None.
+Score by Periods      1  2   Total
+Loyola.............. 29 34  - 63
+#13 Tennessee....... 25 37  - 62

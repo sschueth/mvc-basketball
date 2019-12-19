@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Southern Illinois vs Valparaiso (01-06-18)
+VISITORS: Southern Illinois (10-7 (2-2 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Pippen,Kavion....... c  7 15   0  0   0  0   1  0  1   5  14  2  1  0  0  22
+03 Bartley,Marcus...... g  2  5   1  3   2  2   0  2  2   4   7  6  2  1  2  25
+10 Cook,Aaron.......... g  1  5   1  3   0  0   1  0  1   2   3  2  4  0  2  23
+13 Lloyd,Sean.......... g  1  3   1  1   1  2   1  2  3   1   4  3  1  2  2  34
+22 Fletcher,Armon...... g 11 19   2  5   8 11   5  9 14   2  32  4  2  0  1  37
+11 Smithpeters,Tyler...    4  7   2  4   0  1   1  3  4   3  10  1  1  0  3  31
+15 Weiher,Austin.......    0  3   0  0   0  0   0  2  2   2   0  0  1  0  0   8
+24 Stradnieks,Rudy.....    0  3   0  2   2  2   0  1  1   3   2  2  1  0  0  11
+25 Gooch,Brendon.......    0  1   0  1   0  0   0  2  2   0   0  1  0  1  0   9
+TM TEAM................                         2  1  3
+   Totals..............   26 61   7 19  13 18  11 22 33  22  72 21 13  4 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-28  .357    16-33  .485    26-61  .426
+3-Pt. FG%:  3-11  .273     4-8   .500     7-19  .368
+F Throw %:  6-8   .750     7-10  .700    13-18  .722
+Deadball rebounds: 0
+HOME TEAM: Valparaiso (10-7 (1-3 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 McMillan, Mileek.... f  0  2   0  0   0  0   0  1  1   2   0  1  0  0  0  12
+21 Smits, Derrik....... c  4  7   0  0   3  6   2  3  5   1  11  1  2  2  1  26
+02 Walker, Tevonn...... g  1 10   1  4   0  0   1  7  8   4   3  2  2  0  2  27
+03 Joseph, Max......... g  6  9   3  5   2  3   0  7  7   1  17  4  5  0  1  35
+04 Evelyn, Bakari...... g  5  7   4  5   0  0   0  1  1   2  14  4  3  0  1  30
+00 Hazen, Parker.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+01 Bradford, Micah.....    2  8   2  4   2  3   1  4  5   3   8  6  1  0  0  23
+05 Golder, Markus......    4  5   0  0   5  5   1  3  4   2  13  4  2  1  2  32
+12 Linssen, Marten.....    0  1   0  0   0  0   0  0  0   1   0  0  0  0  0   3
+14 Sorolla, Jaume......    5  6   0  0   7  8   3  2  5   2  17  0  1  0  0  12
+TM TEAM................                         2  1  3
+   Totals..............   27 55  10 18  19 25  10 29 39  18  83 22 16  3  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-29  .448    14-26  .538    27-55  .491
+3-Pt. FG%:  6-11  .545     4-7   .571    10-18  .556
+F Throw %: 11-15  .733     8-10  .800    19-25  .760
+Deadball rebounds: 2
+Date: 01-06-18      Site: Valparaiso, Ind. (ARC)  Attendance: 2966
+Officials: Paul Janssen; Mike O'Neill; Jeff Campbell;
+Technical fouls: Southern Illinois-None. Valparaiso-None.
+Score by Periods      1  2   Total
+Southern Illinois... 29 43  - 72
+Valparaiso.......... 43 40  - 83

@@ -1,0 +1,57 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Auburn vs Indiana State (11-16-17)
+VISITORS: Auburn (2-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 SPENCER, Horace..... f  2  2   0  0   0  0   3  6  9   3   4  0  2  3  3  21
+13 MURRAY, Desean...... f  4  6   2  2   4  4   4  8 12   3  14  2  4  2  1  24
+01 HARPER, Jared....... g  3 10   1  3   2  4   0  1  1   1   9  7  1  0  0  30
+02 BROWN, Bryce........ g  5 14   0  7   5  6   0  2  2   1  15  2  2  1  0  30
+05 HERON, Mustapha..... g  3 12   1  3   4  6   1  5  6   3  11  1  2  0  1  25
+04 OKEKE, Chuma........    4 11   2  3   1  2   2  4  6   4  11  1  0  1  3  19
+10 MITCHELL, Davion....    0  0   0  0   3  4   0  2  2   4   3  3  2  0  0  21
+12 WILLIAMS, Devontae..    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   1
+14 DUNBAR, Malik.......    2  4   0  2   3  4   0  0  0   4   7  0  0  0  0  10
+21 KEIM, Patrick.......    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   2
+22 MACOY, Will.........    0  0   0  0   0  0   1  0  1   1   0  0  0  0  0   3
+24 MCLEMORE, Anfernee..    4  5   0  0   1  1   0  3  3   4   9  0  1  2  1  13
+41 BLACKSTOCK, Cole....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                         1  1  2
+   Totals..............   27 64   6 20  23 31  12 33 45  28  83 16 15  9  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-34  .500    10-30  .333    27-64  .422
+3-Pt. FG%:  3-11  .273     3-9   .333     6-20  .300
+F Throw %: 11-15  .733    12-16  .750    23-31  .742
+Deadball rebounds: 6
+HOME TEAM: Indiana State (1-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 Thomas, Devin....... f  0  2   0  0   2  2   0  4  4   1   2  2  6  0  0  21
+34 Murphy, Brandon..... c  1  1   0  0   0  0   0  0  0   1   2  0  1  0  0  10
+02 Barnes, Jordan...... g  5 12   4  6   5  5   1  1  2   4  19  0  4  0  0  29
+04 Scott, Brenton...... g  0  6   0  3   3  6   1  0  1   1   3  2  3  0  2  27
+25 Davis, Qiydar....... g  3  9   1  4   4  5   1  4  5   3  11  1  4  0  3  22
+01 Ojinnaka, Demonte...    1  4   1  3   0  0   0  2  2   3   3  1  0  0  0  15
+05 Kessinger, Bronson..    0  2   0  1   0  0   0  2  2   2   0  1  1  0  0  16
+11 Key, Tyreke.........    4 11   0  1   3  3   0  2  2   1  11  3  1  0  0  22
+13 Hughes, Clayton.....    0  2   0  1   4  4   0  0  0   1   4  0  1  1  2  13
+20 Huenermann, Daniel..    1  2   0  1   0  0   0  0  0   0   2  0  0  0  0   1
+24 Deady, Matt.........    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   2
+41 Rickman, Emondre....    2  5   0  0   3  5   4  7 11   4   7  2  0  3  0  22
+TM TEAM................                         3  4  7
+   Totals..............   17 56   6 20  24 30  10 27 37  21  64 12 21  4  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-26  .269    10-30  .333    17-56  .304
+3-Pt. FG%:  3-11  .273     3-9   .333     6-20  .300
+F Throw %: 10-13  .769    14-17  .824    24-30  .800
+Deadball rebounds: 2
+Date: 11-16-17      Site: Charleston, S.C. (TD Arena)  Attendance: 2136
+Officials: Joe DeRosa; Gerry Pollard; Jeb Hartness;
+Technical fouls: Auburn-DUNBAR, Malik, MURRAY, Desean, HERON, Mustapha.
+Indiana State-, Barnes, Jordan.
+Score by Periods      1  2   Total
+Auburn.............. 48 35  - 83
+Indiana State....... 27 37  - 64

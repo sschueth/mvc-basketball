@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Illinois-Chicago vs Illinois State (12-19-17)
+VISITORS: Illinois-Chicago (4-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 DIXSON, Dikembe..... f  4 16   0  3  11 16   2  5  7   1  19  0  5  1  0  39
+13 BLOUNT, Jordan...... f  2  3   1  2   0  0   0 11 11   4   5  4  4  1  0  22
+21 ODIASE, Tai......... f  4  7   0  0   1  3   5  3  8   4   9  1  1  4  0  27
+00 MATTHEWS, Dominique. g  3  8   2  5   0  0   0  2  2   3   8  0  2  1  0  36
+15 BOAHEN, Godwin...... g  0  0   0  0   0  0   0  0  0   0   0  0  0  0  1   3
+01 OTTEY, Marcus.......   10 12   0  1   3  3   0  3  3   2  23  1  6  1  2  37
+02 DIGGINS, Michael....    0  1   0  0   0  0   0  1  1   0   0  0  0  0  0   5
+03 WILEY, Jacob........    1  2   0  1   1  2   1  5  6   3   3  0  1  2  0  16
+32 ROBINSON, Clint.....    0  0   0  0   3  4   0  1  1   4   3  0  1  0  0  15
+TM TEAM................                         2  3  5
+   Totals..............   24 49   3 12  19 28  10 34 44  21  70  6 20 10  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-25  .440    13-24  .542    24-49  .490
+3-Pt. FG%:  2-6   .333     1-6   .167     3-12  .250
+F Throw %:  5-8   .625    14-20  .700    19-28  .679
+Deadball rebounds: 4
+HOME TEAM: Illinois State (6-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne, Phil......... f  7 15   0  0   2  8   3  3  6   3  16  1  0  2  1  32
+32 Bruninga, Taylor.... f  0  1   0  1   0  0   1  1  2   4   0  0  0  0  0  15
+52 Yarbrough, Milik.... f  8 15   0  2   4  9   4  3  7   4  20  5  3  2  1  27
+03 Evans, Keyshawn..... g  3 14   1  8   6  9   0  2  2   2  13  4  3  0  2  34
+25 Williams, Madison... g  3  7   0  3   0  0   1  0  1   3   6  1  0  0  2  25
+00 Gassman, Isaac......    1  2   1  1   0  0   1  1  2   0   3  2  1  0  2  11
+01 Clarance, Elijah....    0  2   0  0   0  0   0  0  0   1   0  0  0  0  0   3
+05 Hein, Matt..........    2  4   1  2   1  2   0  2  2   0   6  0  0  0  0  19
+23 Tinsley, William....    3  8   1  4   0  0   2  8 10   3   7  0  0  0  4  34
+TM TEAM................                         3     3
+   Totals..............   27 68   4 21  13 28  15 20 35  20  71 13  7  4 12 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-34  .382    14-34  .412    27-68  .397
+3-Pt. FG%:  2-11  .182     2-10  .200     4-21  .190
+F Throw %:  5-8   .625     8-20  .400    13-28  .464
+Deadball rebounds: 7
+Date: 12-19-17      Site: Doug Collins Court at Redbird Arena  Attendance: 4062
+Officials: Tom Eades; Paul Janssen; Bo Boroski;
+Technical fouls: Illinois-Chicago-None. Illinois State-None.
+Score by Periods      1  2   Total
+Illinois-Chicago.... 29 41  - 70
+Illinois State...... 33 38  - 71
+Drawn Offensive Fouls:
+Illinois State-2 (Bruninga-2).
+UI Chicago-none.

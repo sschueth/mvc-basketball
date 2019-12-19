@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Indiana State vs Indiana (11-10-17)
+VISITORS: Indiana State (1-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 Thomas, Devin....... f  3  3   2  2   2  2   1  3  4   3  10  1  1  0  0  17
+34 Murphy, Brandon..... c  3  3   0  0   6  7   2  3  5   2  12  1  1  1  1  21
+02 Barnes, Jordan...... g  5  7   5  7   3  3   0  3  3   5  18  4  1  1  2  22
+04 Scott, Brenton...... g  9 14   6  9   0  0   0  3  3   0  24  2  6  0  1  28
+25 Davis, Qiydar....... g  5  6   2  2   1  2   0  2  2   3  13  2  2  0  2  26
+01 Ojinnaka, Demonte...    1  3   0  0   0  0   0  1  1   2   2  1  1  0  0  11
+03 Knight III, Trey....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+05 Kessinger, Bronson..    2  3   2  3   0  0   1  2  3   4   6  1  1  0  1  20
+10 Claycomb, Ethan.....    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   2
+11 Key, Tyreke.........    0  5   0  1   3  4   0  2  2   1   3  1  2  0  2  28
+13 Hughes, Clayton.....    0  1   0  1   0  0   0  0  0   0   0  0  1  0  0   4
+20 Huenermann, Daniel..    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+24 Deady, Matt.........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   2
+41 Rickman, Emondre....    1  3   0  0   0  0   0  2  2   3   2  2  1  0  0  16
+TM TEAM................                         1  1  2             2
+   Totals..............   29 49  17 26  15 18   5 22 27  24  90 15 19  2  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-27  .593    13-22  .591    29-49  .592
+3-Pt. FG%: 10-15  .667     7-11  .636    17-26  .654
+F Throw %: 12-13  .923     3-5   .600    15-18  .833
+Deadball rebounds: 1
+HOME TEAM: Indiana (0-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+13 Morgan, Juwan....... f  5 10   0  2   3  4   2  0  2   2  13  2  3  1  2  31
+20 Davis, De'Ron....... f  6  7   0  0   2  4   2  1  3   4  14  1  3  1  1  21
+02 Newkirk, Josh....... g  2  7   1  4   3  4   0  1  1   1   8  1  2  0  2  17
+04 Johnson, Robert..... g  2  8   1  5   2  2   0  2  2   2   7  2  4  0  1  36
+11 Green, Devonte...... g  0  2   0  1   3  4   1  1  2   2   3  3  2  0  3  25
+00 Jones, Curtis.......    3  6   2  5   3  4   0  2  2   2  11  0  1  0  1  21
+01 Aljami Durham.......    1  3   0  1   4  5   0  2  2   1   6  2  1  0  0  19
+03 Smith, Justin.......    1  1   0  0   0  0   0  1  1   2   2  0  2  0  0  13
+15 McRoberts, Zach.....    0  0   0  0   0  0   0  2  2   0   0  1  1  0  0   2
+21 McSwain Jr., Freddie    1  1   0  0   3  6   3  5  8   2   5  0  0  1  0  15
+TM TEAM................
+   Totals..............   21 45   4 18  23 33   8 17 25  18  69 12 19  3 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-28  .393    10-17  .588    21-45  .467
+3-Pt. FG%:  1-10  .100     3-8   .375     4-18  .222
+F Throw %: 10-13  .769    13-20  .650    23-33  .697
+Deadball rebounds: 4
+Date: 11-10-17      Site: Simon Skjodt Assembly Hall  Attendance: 17222
+Officials: Terry Wymer; Terry Oglesby; Scott Siville;
+Technical fouls: Indiana State-None. Indiana-None.
+Score by Periods      1  2   Total
+Indiana State....... 54 36  - 90
+Indiana............. 33 36  - 69

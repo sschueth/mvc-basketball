@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Tulsa vs Illinois State (12-02-17)
+VISITORS: Tulsa (4-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 ETOU, Junior........ f  4  9   0  1   2  4   3  5  8   2  10  2  7  0  0  26
+02 JEFFRIES, DaQuan.... f  3  4   0  1   0  0   2  2  4   5   6  0  2  0  0  15
+04 TAPLIN, Sterling.... g  1  6   1  3   2  3   0  3  3   2   5  3  2  0  0  26
+10 SCOTT, Curran....... g  1  2   0  0   3  4   1  2  3   2   5  1  4  0  0  15
+13 WHEELER, Jaleel..... g  2  3   0  0   1  2   1  8  9   2   5  1  2  0  1  18
+01 IGBANU, Martins.....    3  7   0  0   0  0   2  4  6   2   6  0  1  1  0  24
+03 JOINER, Elijah......    1  4   1  3   2  4   0  2  2   1   5  3  2  0  1  19
+05 KORITA, Lawson......    2  6   1  4   3  4   0  2  2   0   8  0  1  0  1  21
+32 HENDERSON JR, Corey.    2  9   2  6   2  2   2  1  3   0   8  2  0  0  0  20
+35 ARTISON, Geno.......    0  3   0  2   0  0   1  3  4   1   0  1  0  1  0  15
+TM TEAM................                         3  2  5
+   Totals..............   19 53   5 20  15 23  15 34 49  17  58 13 21  2  3 199
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-21  .524     8-32  .250    19-53  .358
+3-Pt. FG%:  3-8   .375     2-12  .167     5-20  .250
+F Throw %:  7-11  .636     8-12  .667    15-23  .652
+Deadball rebounds: 3
+HOME TEAM: Illinois State (4-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne, Phil......... f  8 16   0  0   1  3   3  5  8   1  17  2  2  1  2  37
+52 Yarbrough, Milik.... f  6 13   2  6   8  8   0  6  6   3  22  4  4  1  1  31
+03 Evans, Keyshawn..... g  3 12   2  6   4  7   0  3  3   1  12  5  0  0  2  32
+23 Tinsley, William.... g  1  2   0  1   0  0   1  5  6   3   2  2  0  1  0  29
+25 Williams, Madison... g  3 10   2  6   1  1   0  4  4   3   9  1  0  0  4  27
+00 Gassman, Isaac......    1  2   1  1   0  0   0  0  0   1   3  0  1  0  0  11
+05 Hein, Matt..........    0  0   0  0   0  0   0  1  1   2   0  0  2  0  1   8
+24 Martin, Jerron......    0  1   0  1   0  0   0  0  0   0   0  0  2  0  1   7
+32 Bruninga, Taylor....    0  1   0  1   0  0   1  0  1   2   0  0  0  0  0  17
+TM TEAM................
+   Totals..............   22 57   7 22  14 19   5 24 29  16  65 14 11  3 11 199
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-30  .467     8-27  .296    22-57  .386
+3-Pt. FG%:  3-10  .300     4-12  .333     7-22  .318
+F Throw %:  5-7   .714     9-12  .750    14-19  .737
+Deadball rebounds: 1
+Date: 12-02-17      Site: Doug Collins Court at Redbird Arena  Attendance: 5803
+Officials: Zellon Steed; John Hampton; Tyler Kumpf;
+Technical fouls: Tulsa-None. Illinois State-None.
+Score by Periods      1  2   Total
+Tulsa............... 32 26  - 58
+Illinois State...... 36 29  - 65
+Drawn offensive fouls:
+Illinois State-4 (Fayne-2, Yarbrough, Hein).
+Tulsa-2 (Taplin, Korita)

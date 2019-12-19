@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                           Drexel vs Drake (11-19-17)
+VISITORS: Drexel (2-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Williams, Austin.... f  3  7   0  0   1  4   2 12 14   5   7  1  3  7  0  32
+11 Doles, Jarvis....... f  3  6   2  5   2  2   1  7  8   2  10  0  1  0  0  43
+01 Lee, Kurk........... g  8 19   2  7   3  4   1  3  4   2  21  5  2  0  0  49
+03 Harper, Troy........ g  2  6   0  2   8  8   1  1  2   2  12  0  0  0  1  20
+15 Mojica, Sammy....... g  2  4   2  4   0  0   0  3  3   1   6  2  2  0  0  46
+02 Isabell, Tramaine...   11 20   3  8   7  9   0  8  8   3  32  3  5  0  1  39
+04 Green, Sam..........    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   3
+32 Kararinas, Tadas....    0  2   0  0   0  0   0  0  0   0   0  0  0  0  0   5
+55 Myles, Tyshawn......    0  2   0  0   0  0   1  2  3   5   0  0  1  0  2  13
+TM TEAM................                         2  3  5   1
+   Totals..............   29 67   9 27  21 27   8 39 47  21  88 11 14  7  4 250
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-27  .370    14-28  .500    29-67  .433
+3-Pt. FG%:  2-11  .182     5-11  .455     9-27  .333
+F Throw %:  9-11  .818     7-8   .875    21-27  .778
+Deadball rebounds: 3
+HOME TEAM: Drake (3-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 McGlynn, Nick....... f  6 15   0  0   4  4   5  7 12   4  16  2  0  3  0  33
+00 Rivers, C.J......... g  3  6   0  2   4  4   2  7  9   1  10  2  2  0  2  30
+04 McMurray, De'Antae.. g  8 18   1  4   6 12   0  3  3   4  23  3  0  0  1  43
+12 Timmer, Reed........ g  5 16   1  4   2  3   2  3  5   2  13  3  0  0  0  44
+23 Arogundade, Ore..... g  5  7   2  3   0  0   0  4  4   2  12  0  4  0  1  36
+03 Woodward, Graham....    5 12   2  6   2  2   0  1  1   4  14  2  1  0  1  34
+14 Thomas, Noah........    0  3   0  3   0  0   0  1  1   2   0  3  0  0  1  13
+22 Schlatter, Casey....    0  1   0  0   2  2   1  6  7   2   2  2  2  1  0  14
+32 Kuenstling, Kory....    0  3   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+TM TEAM................                         3  1  4
+   Totals..............   32 81   6 22  20 27  13 33 46  21  90 17  9  4  6 250
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-33  .455    11-33  .333    32-81  .395
+3-Pt. FG%:  4-9   .444     2-11  .182     6-22  .273
+F Throw %:  6-8   .750     7-9   .778    20-27  .741
+Deadball rebounds: 4
+Date: 11-19-17      Site: Lynchburg, Va. (Vines Center)  Attendance: 577
+Officials: Justin Porterfield; Tony Crisp; Garrick Shannon;
+Technical fouls: Drexel-, TEAM. Drake-None.
+Score by Periods      1  2 OT O2   Total
+Drexel.............. 31 40  7 10  - 88
+Drake............... 40 31  7 12  - 90

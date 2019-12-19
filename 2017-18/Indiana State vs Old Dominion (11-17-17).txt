@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Indiana State vs Old Dominion (11-17-17)
+VISITORS: Indiana State (1-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 Thomas, Devin....... f  2  5   1  3   1  1   1  1  2   3   6  0  1  0  0  23
+41 Rickman, Emondre.... c  2  5   0  0   0  0   0  4  4   4   4  1  0  0  0  12
+02 Barnes, Jordan...... g  2  9   0  3   0  0   0  3  3   4   4  4  5  0  1  33
+04 Scott, Brenton...... g  1  8   1  3   0  0   0  8  8   3   3  1  3  0  0  26
+25 Davis, Qiydar....... g  3  9   1  3   0  0   2  3  5   2   7  0  0  0  0  23
+01 Ojinnaka, Demonte...    0  4   0  4   0  0   0  0  0   2   0  0  1  0  0   9
+05 Kessinger, Bronson..    0  0   0  0   1  2   2  0  2   0   1  2  0  0  0  10
+11 Key, Tyreke.........    3 10   1  4   3  3   0  3  3   1  10  0  2  0  0  25
+13 Hughes, Clayton.....    0  0   0  0   0  0   0  0  0   1   0  0  1  0  0   9
+20 Huenermann, Daniel..    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   1
+24 Deady, Matt.........    0  0   0  0   0  1   1  0  1   0   0  0  0  0  0   1
+34 Murphy, Brandon.....    4  7   0  0   1  4   3  5  8   1   9  1  2  1  0  28
+TM TEAM................                         5  2  7             2
+   Totals..............   17 57   4 20   6 11  14 30 44  21  44  9 17  1  1 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-33  .273     8-24  .333    17-57  .298
+3-Pt. FG%:  3-13  .231     1-7   .143     4-20  .200
+F Throw %:  4-5   .800     2-6   .333     6-11  .545
+Deadball rebounds: 1
+HOME TEAM: Old Dominion (3-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+15 PORTER, Trey........ f  6  9   0  0   4  7   3  3  6   2  16  0  3  2  1  22
+25 STITH, Brandan...... f  3  6   0  0   1  2   4  2  6   3   7  2  0  2  0  26
+03 STITH, B.J.......... g  5 15   1  4   2  2   1  5  6   1  13  0  0  0  2  29
+04 CAVER, Ahmad........ g  5 12   3  8   9 11   0  0  0   0  22  6  0  0  3  35
+12 HAYNES, Randy....... g  0  5   0  2   2  2   1  2  3   4   2  1  2  1  1  16
+00 GODWIN, Marquis.....    0  1   0  1   0  0   0  0  0   1   0  0  0  0  0   2
+10 GREEN, Xavier.......    0  3   0  1   0  2   1  3  4   0   0  2  0  1  0  28
+11 HUEITT JR., Michael.    0  1   0  1   0  0   0  1  1   0   0  0  0  0  0   5
+13 CARVER, Aaron.......    1  3   0  0   0  0   0 12 12   2   2  0  1  2  0  25
+21 PILAVIOS, Alfis.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+22 PINCKNEY, Keith.....    0  3   0  2   0  0   0  0  0   1   0  0  0  0  0   7
+23 VASSOR, Stephen.....    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   4
+TM TEAM................                         3  2  5
+   Totals..............   20 58   4 19  18 26  13 30 43  15  62 11  6  8  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-29  .379     9-29  .310    20-58  .345
+3-Pt. FG%:  3-11  .273     1-8   .125     4-19  .211
+F Throw %:  8-14  .571    10-12  .833    18-26  .692
+Deadball rebounds: 3
+Date: 11-17-17      Site: Charleston, S.C. (TD Arena)  Attendance: 1970
+Officials: Ted Valentine; John Gaffney; John Hampton;
+Technical fouls: Indiana State-None. Old Dominion-None.
+Score by Periods      1  2   Total
+Indiana State....... 25 19  - 44
+Old Dominion........ 33 29  - 62

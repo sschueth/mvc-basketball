@@ -1,0 +1,56 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                         Bradley vs Ole Miss (12-22-17)
+VISITORS: Bradley (10-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  1  7   0  2   4  5   1  2  3   1   6  0  2  0  2  18
+12 Bar, Koch........... c  2  5   0  0   1  2   4  2  6   4   5  0  0  0  0  19
+05 Brown, Darrell...... g  7 18   2  7   0  0   1  2  3   0  16  5  4  0  2  31
+23 Lautier-Ogunleye, D. g  2  4   1  2   1  3   0  6  6   1   6  1  2  0  0  21
+25 Kennell, Nate....... g  2  6   2  4   1  2   1  2  3   1   7  1  5  0  0  21
+02 Lundy, Luqman.......    2  2   1  1   0  2   0  1  1   1   5  2  0  0  1   8
+10 Childs, Elijah......    0  5   0  1   3  4   2  3  5   4   3  1  4  0  0  14
+13 van Bree, Luuk......    2  7   1  3   1  1   3  1  4   2   6  0  0  1  2  18
+14 Hanley, Peter.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  1   3
+21 Stipanovich, Ryan...    0  2   0  1   0  0   1  5  6   1   0  2  3  0  1  19
+30 Barker, Callum......    1  2   0  0   0  0   0  0  0   1   2  0  0  1  0   6
+35 Hodgson, Jayden.....    1  4   1  3   0  2   1  0  1   1   3  1  2  0  1  22
+TM TEAM................                         3  3  6
+   Totals..............   20 62   8 24  11 21  17 27 44  17  59 13 22  2 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-28  .250    13-34  .382    20-62  .323
+3-Pt. FG%:  1-8   .125     7-16  .438     8-24  .333
+F Throw %:  5-11  .455     6-10  .600    11-21  .524
+Deadball rebounds: 4
+HOME TEAM: Ole Miss (7-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 Furmanavicius,Justas f  1  3   1  3   1  1   1  7  8   2   4  2  2  2  1  33
+13 Olejniczak,Dominik.. c  3  6   0  0   0  0   0  2  2   1   6  1  1  2  2  16
+00 Shuler,Devontae..... g  2  8   1  5   0  0   2  4  6   2   5  1  1  0  1  16
+01 Burnett,Deandre..... g  3  4   2  2   2  2   1  2  3   0  10  2  1  0  1  26
+05 Crawford,Markel..... g  6 15   2  8   2  2   0  4  4   1  16  5  1  1  2  32
+02 Hymon,Marcanvis.....    0  1   0  0   0  0   0  4  4   3   0  1  0  0  0  15
+03 Davis,Terence.......    9 14   6  8   1  2   0  1  1   1  25  1  2  0  2  26
+04 Tyree,Breein........    2  3   0  0   1  2   0  0  0   1   5  3  5  0  0  16
+10 Morgano,Antonio.....    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   1
+11 Horn,Eric...........    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   1
+12 Stevens,Bruce.......    3  8   0  1   5  5   3  2  5   3  11  2  2  2  1  15
+24 Below,Lane..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+34 Tyrtyshnik,Ilya.....    0  1   0  0   0  0   0  1  1   0   0  0  1  0  0   2
+TM TEAM................                         2  3  5
+   Totals..............   29 63  12 27  12 14   9 31 40  14  82 18 17  7 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-33  .455    14-30  .467    29-63  .460
+3-Pt. FG%:  8-16  .500     4-11  .364    12-27  .444
+F Throw %:  2-3   .667    10-11  .909    12-14  .857
+Deadball rebounds: 0
+Date: 12-22-17      Site: Oxford, Miss. (The Pavilion)  Attendance: 7993
+Officials: Don Daily; Nathan Bemis; Wil Howard;
+Technical fouls: Bradley-None. Ole Miss-None.
+Score by Periods      1  2   Total
+Bradley............. 20 39  - 59
+Ole Miss............ 40 42  - 82

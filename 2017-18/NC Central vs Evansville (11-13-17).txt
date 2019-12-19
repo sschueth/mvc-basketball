@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      NC Central vs Evansville (11-13-17)
+VISITORS: NC Central (0-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+13 RIVAS, Pablo........ f  3  5   1  2   0  0   0  2  2   3   7  1  2  2  0  13
+32 DAVIS, Raasean...... c  5  8   0  0   2  6   2  7  9   3  12  2  3  0  0  38
+03 GOLDSMITH, Brandon.. g  1  1   0  0   0  0   0  2  2   3   2  1  4  1  1  17
+05 GARDNER JR, Reginald g  4 11   2  5   1  1   0  0  0   3  11  3  5  0  1  37
+11 JONES, Alston....... g  0  0   0  0   0  0   0  0  0   1   0  0  3  0  0   7
+00 McKNIGHT JR, Larry..    2  5   0  2   2  2   2  0  2   5   6  0  2  0  2  19
+01 WIGGINS, C.J........    2  7   2  6   1  2   0  2  2   0   7  4  1  0  2  33
+02 DOUGLAS, Zacarry....    4  6   0  0   2  3   5  4  9   2  10  0  2  0  0  27
+04 PERKINS, Jordan.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+12 MILLS, Alex.........    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   2
+22 REID, Dominique.....    0  0   0  0   0  0   0  1  1   1   0  0  2  0  0   5
+55 GUERRA, John........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+TM TEAM................                         3  2  5             2
+   Totals..............   21 44   5 16   8 14  12 20 32  21  55 11 26  3  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-19  .474    12-25  .480    21-44  .477
+3-Pt. FG%:  4-9   .444     1-7   .143     5-16  .313
+F Throw %:  4-5   .800     4-9   .444     8-14  .571
+Deadball rebounds: 1
+HOME TEAM: Evansville (2-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 Simmons, Blake...... f  4 10   3  5   0  0   0  0  0   3  11  1  2  0  0  35
+15 Traore, Dalen....... c  3  6   0  0   2  2   2  5  7   4   8  1  1  0  1  24
+00 Taylor, Ryan........ g  8 16   3  6  10 13   0  0  0   0  29  3  2  0  2  36
+12 Smith, Dru.......... g  2  3   1  2   3  5   0  4  4   1   8 11  2  1  1  38
+25 Gibson, Duane....... g  5  8   0  0   0  0   2  2  4   2  10  1  2  1  1  33
+05 Hainna, Solomon.....    0  0   0  0   0  0   0  0  0   2   0  0  0  0  0   8
+14 Chatkevicius, Dainiu    1  1   0  0   0  0   0  3  3   2   2  0  0  1  0  14
+30 Frederking, Noah....    0  1   0  1   0  0   0  0  0   0   0  0  1  0  0   2
+33 Riley, K.J..........    0  0   0  0   0  0   0  0  0   1   0  1  2  0  1   9
+35 Hall, John..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                         1  2  3
+   Totals..............   23 45   7 14  15 20   5 16 21  15  68 18 12  3  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-23  .522    11-22  .500    23-45  .511
+3-Pt. FG%:  4-8   .500     3-6   .500     7-14  .500
+F Throw %:  8-10  .800     7-10  .700    15-20  .750
+Deadball rebounds: 2
+Date: 11-13-17      Site: Ford Center, Evansville, Ind.  Attendance: 6048
+Officials: Jeb Hartness; Ford Branch Jr; Nate Green;
+Technical fouls: NC Central-None. Evansville-None.
+Score by Periods      1  2   Total
+NC Central.......... 26 29  - 55
+Evansville.......... 36 32  - 68

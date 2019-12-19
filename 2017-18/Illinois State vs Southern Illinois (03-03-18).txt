@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Illinois State vs Southern Illinois (03-03-18)
+VISITORS: Illinois State (18-14; 10-8 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne, Phil......... f  7 12   0  0  12 17   5  4  9   3  26  2  1  3  1  35
+52 Yarbrough, Milik.... f  2  8   0  1   7  8   1  7  8   3  11  3  6  1  1  34
+03 Evans, Keyshawn..... g  2 10   2  8   4  4   2  3  5   2  10  7  3  0  0  37
+23 Tinsley, William.... g  4  7   4  7   2  3   0  9  9   5  14  1  0  2  0  32
+25 Williams, Madison... g  0  5   0  4   0  0   1  0  1   2   0  0  1  1  0  27
+00 Gassman, Isaac......    1  2   1  2   0  1   0  2  2   0   3  0  0  0  1  15
+01 Clarance, Elijah....    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   3
+04 Ndiaye, Daouda......    0  2   0  0   0  0   1  1  2   0   0  0  0  2  0   9
+05 Hein, Matt..........    4  8   2  4   2  4   1  4  5   4  12  1  1  0  2  29
+32 Bruninga, Taylor....    0  1   0  1   0  0   0  0  0   1   0  0  0  0  0   4
+TM TEAM................                         3  3  6
+   Totals..............   20 55   9 27  27 37  14 33 47  21  76 14 12  9  5 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-27  .407     6-25  .240    20-55  .364
+3-Pt. FG%:  7-15  .467     2-12  .167     9-27  .333
+F Throw %:  7-11  .636     6-11  .545    27-37  .730
+Deadball rebounds: 5
+HOME TEAM: Southern Illinois (20-13; 11-7 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Pippen,Kavion....... c  3  7   0  0   1  2   4  6 10   5   7  1  2  3  0  31
+03 Bartley,Marcus...... g  4  7   2  5   0  0   0  0  0   3  10  2  1  0  0  20
+10 Cook,Aaron.......... g  3  9   0  3   2  2   0  2  2   3   8  5  1  0  0  39
+13 Lloyd,Sean.......... g  5 14   1  4   4  4   0  4  4   3  15  1  0  0  3  44
+22 Fletcher,Armon...... g  5 15   2  7   3  7   3  1  4   5  15  1  2  2  1  36
+00 Wiley,Jonathan......    1  3   0  0   0  1   2  0  2   4   2  0  1  0  0  11
+11 Smithpeters,Tyler...    3  5   2  3   2  4   0 11 11   4  10  2  2  0  1  32
+24 Stradnieks,Rudy.....    0  0   0  0   1  2   0  2  2   1   1  0  1  0  0  12
+25 Gooch,Brendon.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+TM TEAM................                                             1
+   Totals..............   24 60   7 22  13 22   9 26 35  28  68 12 11  5  5 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-27  .333    10-22  .455    24-60  .400
+3-Pt. FG%:  2-8   .250     3-9   .333     7-22  .318
+F Throw %:  9-12  .750     4-6   .667    13-22  .591
+Deadball rebounds: 3
+Date: 03-03-18      Site: Scottrade Center, St. Louis, MO  Attendance: 8415
+Officials: Mike Stuart; Gerry Pollard; Randy Heimerman;
+Technical fouls: Illinois State-Tinsley, William. Southern Illinois-,
+Smithpeters,Tyler.
+Score by Periods      1  2 OT   Total
+Illinois State...... 36 20 20  - 76
+Southern Illinois... 29 27 12  - 68

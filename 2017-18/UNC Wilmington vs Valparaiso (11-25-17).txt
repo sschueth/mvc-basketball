@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    UNC Wilmington vs Valparaiso (11-25-17)
+VISITORS: UNC Wilmington (2-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+15 Cacok, Devontae..... f  2  6   0  0   8 12   3  7 10   5  12  1  3  2  0  24
+30 Bryan, Marcus....... f  4  9   0  0   0  2   2  8 10   5   8  2  3  0  0  26
+01 Fornes, Jaylen...... g  2  6   1  4   4  7   1  1  2   3   9  2  0  0  0  27
+04 Talley, Jordon...... g  4 18   1  7   4  4   1  1  2   3  13  5  5  0  1  30
+21 Taylor, Ty.......... g  4  9   2  4   3  5   3  0  3   2  13  1  1  0  1  21
+03 Richmond, Jaquel....    2  6   0  2   0  0   0  1  1   4   4  2  2  0  1  25
+05 Gary, Jeffrey.......    0  0   0  0   0  0   0  2  2   1   0  1  0  0  0  11
+12 Estime, Jay.........    4  6   1  3   2  2   0  3  3   3  11  0  1  0  1  23
+14 Powell, Nick........    0  1   0  1   0  0   0  0  0   0   0  0  1  0  0   8
+33 Kalina, Trey........    0  4   0  0   0  0   1  1  2   0   0  0  0  1  0   5
+TM TEAM................                         2  4  6
+   Totals..............   22 65   5 21  21 32  13 28 41  26  70 14 16  3  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-28  .357    12-37  .324    22-65  .338
+3-Pt. FG%:  3-9   .333     2-12  .167     5-21  .238
+F Throw %: 12-18  .667     9-14  .643    21-32  .656
+Deadball rebounds: 4
+HOME TEAM: Valparaiso (7-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Hazen, Parker....... f  0  3   0  1   0  0   1  1  2   3   0  0  1  0  0  13
+10 Burton, Joe......... f  0  5   0  2   1  2   1  3  4   4   1  0  2  0  1  21
+14 Sorolla, Jaume...... c  4  8   0  0   0  0   2  6  8   3   8  1  1  2  0  27
+02 Walker, Tevonn...... g  3 11   0  2  10 12   2  4  6   3  16  0  2  0  1  24
+04 Evelyn, Bakari...... g  8 11   3  4  11 12   0  8  8   1  30  1  1  0  0  32
+01 Bradford, Micah.....    2  4   1  2   0  0   0  0  0   0   5  0  1  0  0  10
+03 Joseph, Max.........    2  3   0  0   0  1   0  4  4   1   4  0  1  0  2  16
+05 Golder, Markus......    1  5   1  1   2  2   1  2  3   1   5  1  1  1  0  21
+12 Linssen, Marten.....    0  0   0  0   0  2   0  1  1   1   0  0  0  0  0   3
+21 Smits, Derrik.......    2  3   0  0   1  2   0  1  1   4   5  0  2  1  0  10
+23 McMillan, Mileek....    1  2   0  0   0  0   2  0  2   1   2  0  2  0  0   4
+33 Kiser, John.........    0  0   0  0   3  4   0  4  4   2   3  0  1  0  0  19
+TM TEAM................                         1  2  3             1
+   Totals..............   23 55   5 12  28 37  10 36 46  24  79  3 16  4  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-34  .412     9-21  .429    23-55  .418
+3-Pt. FG%:  4-8   .500     1-4   .250     5-12  .417
+F Throw %:  3-6   .500    25-31  .806    28-37  .757
+Deadball rebounds: 4
+Date: 11-25-17      Site: Savannah, Ga. - Savannah Civic Cente  Attendance: 547
+Officials: Mick Fieldbinder; Shane Land; Chase Vaden;
+Technical fouls: UNC Wilmington-None. Valparaiso-None.
+Score by Periods      1  2   Total
+UNC Wilmington...... 35 35  - 70
+Valparaiso.......... 35 44  - 79

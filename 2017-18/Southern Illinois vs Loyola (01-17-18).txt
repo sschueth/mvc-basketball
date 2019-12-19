@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Southern Illinois vs Loyola (01-17-18)
+VISITORS: Southern Illinois (11-9 (3-4 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Pippen,Kavion....... c  4 10   0  0   0  0   1  3  4   4   8  3  4  1  0  22
+03 Bartley,Marcus...... g  2  5   0  1   0  1   0  1  1   5   4  1  3  1  1  30
+10 Cook,Aaron.......... g  2  4   0  1   6  8   0  1  1   2  10  4  5  0  1  30
+13 Lloyd,Sean.......... g  8 15   0  1   5  7   3  1  4   2  21  0  4  0  2  38
+22 Fletcher,Armon...... g  5  9   0  1   0  0   3  4  7   4  10  1  2  1  3  37
+11 Smithpeters,Tyler...    3  9   2  6   4  4   1  5  6   4  12  1  1  0  4  28
+24 Stradnieks,Rudy.....    0  2   0  1   0  0   1  2  3   2   0  0  1  0  0   9
+25 Gooch,Brendon.......    0  2   0  2   0  0   0  0  0   1   0  1  0  0  1   6
+TM TEAM................                         1  1  2
+   Totals..............   24 56   2 13  15 20  10 18 28  24  65 11 20  3 12 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-30  .300    15-26  .577    24-56  .429
+3-Pt. FG%:  1-9   .111     1-4   .250     2-13  .154
+F Throw %:  4-5   .800    11-15  .733    15-20  .750
+Deadball rebounds: 2
+HOME TEAM: Loyola (15-4 (5-2 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... f  7 12   5  8   6  9   0  7  7   3  25  1  2  1  3  32
+25 Krutwig, Cameron.... f  7 10   0  0   4  7   3  6  9   1  18  1  1  0  1  29
+05 Townes, Marques..... g  3  7   0  1   0  0   1  2  3   2   6  2  4  0  2  21
+13 Custer, Clayton..... g  4  6   0  1   4  4   2  1  3   4  12  4  4  0  3  32
+14 Richardson, Ben..... g  1  4   1  4   2  2   0  3  3   3   5  6  1  0  2  35
+01 Williamson, Lucas...    0  1   0  1   2  2   0  1  1   2   2  0  2  0  0  16
+04 Skokna, Bruno.......    0  0   0  0   0  0   0  0  0   0   0  0  1  0  1   6
+10 Avery, Adarius......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0  0+
+23 Satterwhite, Cameron    2  2   0  0   0  0   1  3  4   2   4  1  1  0  1  13
+24 Jackson, Aundre.....    3  6   0  0   1  3   0  1  1   1   7  0  3  0  0  16
+TM TEAM................                         1  1  2             1
+   Totals..............   27 48   6 15  19 27   8 25 33  19  79 15 20  1 13 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-27  .519    13-21  .619    27-48  .563
+3-Pt. FG%:  2-6   .333     4-9   .444     6-15  .400
+F Throw %:  5-6   .833    14-21  .667    19-27  .704
+Deadball rebounds: 3
+Date: 01-17-18      Site: Gentile Arena - Chicago, Ill.  Attendance: 2439
+Officials: Ed Crenshaw; Brad Ferrie; KB Burdett;
+Technical fouls: Southern Illinois-None. Loyola-None.
+Score by Periods      1  2   Total
+Southern Illinois... 23 42  - 65
+Loyola.............. 35 44  - 79

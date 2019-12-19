@@ -1,0 +1,56 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Midway vs Evansville (12-17-17)
+VISITORS: Midway (4-9)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Cameron Cornish..... f  0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+03 Ausar Lewis......... g  0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   5
+12 Khalil Britt........ g  0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   5
+14 Shay Owomoyela...... g  0  2   0  1   0  0   1  0  1   0   0  0  0  0  0   5
+00 Brandon Maxwell.....    6 12   0  2   2  2   0  6  6   3  14  3  0  4  2  30
+02 Krizell Mitchell....    1  6   0  1   2  2   0  2  2   2   4  0  1  0  1  16
+04 Tyler Smothers......    1  5   0  1   0  0   0  2  2   0   2  1  1  0  0  27
+05 Bryson Harris.......    3  6   2  4   2  2   1  1  2   2  10  0  3  0  1  18
+10 Gerry Milligan......    1  2   1  1   0  0   0  1  1   1   3  1  3  0  0  17
+11 David Jump..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+20 Simpson, Jay'Quise..    1  4   1  4   0  0   0  2  2   2   3  0  0  0  0  11
+22 Will Hudson.........    0  2   0  1   0  0   0  0  0   3   0  0  1  0  0   7
+30 Brandon Johnson.....    1  2   1  2   0  0   2  2  4   1   3  3  1  0  1  15
+32 Jake Logsdon........    3  6   0  2   0  0   2  0  2   3   6  1  1  0  0   7
+34 Jake Turner.........    0  1   0  1   0  0   0  1  1   1   0  1  0  0  0  10
+51 Braden Hatton.......    1  4   1  3   0  0   0  0  0   3   3  0  0  0  0   9
+52 Daniel Hardesty.....    2  3   0  0   0  0   0  1  1   2   4  0  0  0  0  11
+TM TEAM................                            3  3
+   Totals..............   20 56   6 24   6  6   6 21 27  23  52 10 11  4  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-28  .500     6-28  .214    20-56  .357
+3-Pt. FG%:  4-9   .444     2-15  .133     6-24  .250
+F Throw %:  1-1  1.000     5-5  1.000     6-6  1.000
+Deadball rebounds: 0
+HOME TEAM: Evansville (10-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Kuhlman, Evan....... f  1  5   0  1   0  0   1  2  3   1   2  2  0  0  0  21
+50 Simmons, Blake...... f  6 11   2  3   4  4   2  1  3   0  18  1  1  0  1  33
+14 Chatkevicius, Dainiu c  2  5   0  0   4  7   4  5  9   1   8  1  1  1  0  23
+30 Frederking, Noah.... g  6 12   3  4   4  5   0  3  3   0  19  1  1  0  0  28
+33 Riley, K.J.......... g  4  6   0  0   7 11   1 11 12   1  15  7  2  1  1  40
+01 Hill, Marty.........    1  4   0  0   0  0   1  1  2   1   2  1  0  0  2  15
+15 Traore, Dalen.......    2  4   0  0   3  4   3  2  5   3   7  1  0  0  0  14
+35 Hall, John..........    4  7   0  1   0  0   0  3  3   0   8  0  1  0  0  26
+TM TEAM................                         3  2  5
+   Totals..............   26 54   5  9  22 31  15 30 45   7  79 14  6  2  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-26  .538    12-28  .429    26-54  .481
+3-Pt. FG%:  2-3   .667     3-6   .500     5-9   .556
+F Throw %:  8-12  .667    14-19  .737    22-31  .710
+Deadball rebounds: 1
+Date: 12-17-17      Site: Ford Center, Evansville, Ind.  Attendance: 3010
+Officials: Nate Green; Tyler Kumpf; Shane Staggs;
+Technical fouls: Midway-None. Evansville-None.
+Score by Periods      1  2   Total
+Midway.............. 33 19  - 52
+Evansville.......... 38 41  - 79

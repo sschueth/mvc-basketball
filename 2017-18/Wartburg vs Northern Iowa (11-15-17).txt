@@ -1,0 +1,61 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Wartburg vs Northern Iowa (11-15-17)
+VISITORS: Wartburg (0-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 HERMAN,SAWYER....... *  2  8   2  8   4  4   0  3  3   4  10  0  1  0  1  18
+10 KICKBUSH,CAM........ *  2  8   2  6   0  0   2  1  3   1   6  1  3  0  2  22
+12 WOESTE,NATE......... *  2  7   1  4   0  0   1  7  8   3   5  1  3  2  1  27
+14 SABUS,JARAN......... *  5 11   0  1   2  2   0  5  5   1  12  1  2  0  0  28
+40 GEHLING,JOSH........ *  2  7   0  0   0  0   0  3  3   3   4  0  1  1  1  21
+00 MOORE,CAMRY.........    0  1   0  0   0  0   0  0  0   0   0  0  1  0  1   2
+01 LARSON,TREVOR.......    0  2   0  1   0  0   1  2  3   1   0  2  2  0  1  14
+05 BROWN,CLIFTON.......    1  5   0  0   0  0   1  2  3   4   2  0  1  0  0   7
+15 ZUMBACH,TYLER.......    1  3   0  1   0  0   2  2  4   0   2  0  1  0  1   9
+20 CONNELLY,COLTEN.....    0  0   0  0   0  0   0  0  0   0   0  0  2  0  0   5
+21 SMITH DRAHOS,MAX....    0  4   0  0   0  0   0  1  1   3   0  0  3  0  1  18
+22 STULKEN,RYAN........    0  4   0  2   2  2   2  3  5   3   2  0  0  0  0  18
+25 BADER,BO............    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+30 GOSNELL,TRENTON.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+31 SCHULT,CAMERON......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+34 WERKMAN,COLLIN......    0  2   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+44 SPRUNG,EVAN.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+50 SEEMANN,ANDREW......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                         2     2
+   Totals..............   15 62   5 23   8  8  11 29 40  23  43  5 20  3  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-30  .300     6-32  .188    15-62  .242
+3-Pt. FG%:  4-12  .333     1-11  .091     5-23  .217
+F Throw %:  4-4  1.000     4-4  1.000     8-8  1.000
+Deadball rebounds: 0
+HOME TEAM: Northern Iowa (2-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Carlson, Klint...... *  2  3   0  1   0  0   0  6  6   2   4  0  2  0  0  17
+04 Pickford, Tywhon.... *  4 10   1  6   0  0   5  8 13   3   9  1  1  1  1  27
+13 McCloud, Juwan...... *  3 15   0  6   1  1   0  4  4   0   7  1  1  0  3  29
+24 Brown, Isaiah....... *  3  9   2  8   0  2   1  3  4   2   8  2  0  1  1  34
+25 Koch, Bennett....... *  8  8   0  0   9 12   1  7  8   3  25  1  5  1  1  23
+01 McDermott, Adam.....    1  3   1  3   0  0   0  1  1   1   3  1  1  0  2  19
+03 Friedman, Ted.......    1  1   0  0   0  1   3  1  4   2   2  0  1  1  0  10
+10 Wentzien, Miles.....    0  2   0  0   0  0   0  1  1   1   0  1  1  0  1   9
+12 Conrey, Lincoln.....    2  3   0  0   0  0   1  0  1   0   4  0  0  0  0   3
+22 Lohaus, Tanner......    1  2   1  1   0  0   0  1  1   0   3  0  0  0  0   3
+30 Haldeman, Spencer...    0  5   0  5   5  7   0  3  3   0   5  0  1  0  2  20
+34 McDonnell, Luke.....    1  3   0  1   0  0   1  1  2   1   2  0  1  3  1   6
+TM TEAM................                         2     2
+   Totals..............   26 64   5 31  15 23  14 36 50  15  72  7 14  7 12 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-35  .314    15-29  .517    26-64  .406
+3-Pt. FG%:  3-22  .136     2-9   .222     5-31  .161
+F Throw %:  6-11  .545     9-12  .750    15-23  .652
+Deadball rebounds: 3
+Date: 11-15-17      Site: Cedar Falls, Iowa (McLeod Center)  Attendance: 3678
+Officials: Roland Simmons; Dave Cusick; Pat Boeh;
+Technical fouls: Wartburg-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+Wartburg............ 26 17  - 43
+Northern Iowa....... 31 41  - 72

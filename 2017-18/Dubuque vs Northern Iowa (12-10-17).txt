@@ -1,0 +1,65 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Dubuque vs Northern Iowa (12-10-17)
+VISITORS: Dubuque (5-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+15 Lake, TJ............ *  3 13   1  4   0  0   0  4  4   1   7  1  2  0  0  27
+20 Atwater, Jamaree.... *  6 21   2  8   2  2   2  6  8   1  16  1  1  0  2  30
+24 McDaniel, Marcus.... *  2  7   2  7   0  0   1  1  2   1   6  1  2  1  0  21
+33 Ragen, Peter........ *  0  4   0  2   0  0   1  2  3   4   0  1  0  0  0  18
+42 Daniels, Lucas...... *  1  5   0  0   0  0   2  1  3   1   2  0  0  1  0  21
+01 Calvert, Fred.......    1  2   1  2   0  0   0  2  2   1   3  0  1  0  0   4
+02 Squiers, Colin......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+03 Easton, Jarett......    0  0   0  0   0  0   0  2  2   1   0  0  0  0  0   4
+05 Randolph, Zach......    1  3   1  3   0  0   0  0  0   0   3  1  0  0  0  14
+10 Bentley, William....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+11 Clayton, Jayden.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   6
+12 Soenksen, Dakota....    0  2   0  2   0  0   0  0  0   0   0  2  0  0  0   4
+22 Hundley, Dylan......    0  0   0  0   0  0   1  0  1   0   0  0  0  0  0   3
+25 Wright, Wynston.....    1  1   0  0   0  0   0  0  0   0   2  0  1  0  0   1
+30 Thompson, Henry.....    1  3   1  3   0  0   1  2  3   0   3  0  0  0  1   7
+32 Newsome, Deonte.....    0  1   0  0   0  0   0  0  0   1   0  0  0  1  0   9
+40 Williams, Michael...    2  5   1  2   0  0   0  1  1   1   5  0  1  0  1   9
+45 Smith, Justin.......    0  0   0  0   0  0   0  3  3   2   0  0  3  0  0  19
+TM TEAM................                         2     2
+   Totals..............   18 67   9 33   2  2  10 24 34  14  47  7 11  3  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-38  .211    10-29  .345    18-67  .269
+3-Pt. FG%:  3-17  .176     6-16  .375     9-33  .273
+F Throw %:  0-0   .000     2-2  1.000     2-2  1.000
+Deadball rebounds: 0
+HOME TEAM: Northern Iowa (8-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Carlson, Klint...... *  2  2   0  0   0  0   0  2  2   0   4  1  2  0  0  16
+04 Pickford, Tywhon.... *  1  5   0  2   2  2   1  4  5   0   4  2  1  0  0  15
+13 McCloud, Juwan...... *  1  4   1  2   0  0   0  3  3   2   3  2  1  0  1  17
+24 Brown, Isaiah....... *  4  5   2  2   1  1   0  2  2   1  11  1  1  0  0  17
+25 Koch, Bennett....... *  3  4   0  0   6  6   0  7  7   0  12  0  1  0  0  15
+01 McDermott, Adam.....    2  2   2  2   0  0   0  0  0   0   6  0  0  0  0  10
+03 Friedman, Ted.......    0  0   0  0   1  2   0  1  1   0   1  1  0  0  0   4
+10 Wentzien, Miles.....    1  5   0  2   0  0   0  1  1   0   2  3  1  0  1  14
+12 Conrey, Lincoln.....    0  1   0  1   0  0   0  1  1   0   0  0  0  0  1   5
+15 Dahl, Justin........    0  3   0  0   0  0   1  0  1   0   0  0  2  0  0   5
+21 Rhodes, Hunter......    1  4   1  2   1  1   0  5  5   0   4  2  0  0  1  17
+22 Lohaus, Tanner......    1  3   1  1   0  0   0  1  1   1   3  0  0  0  1   9
+30 Haldeman, Spencer...    2  4   2  3   3  3   0  1  1   1   9  1  2  0  2  15
+33 Lohaus, Wyatt.......    4  8   3  4   0  0   0  3  3   1  11  3  0  0  1  17
+34 McDonnell, Luke.....    1  1   0  0   0  0   0  3  3   0   2  0  0  1  0   8
+50 Phyfe, Austin.......    4  5   0  0   0  0   2  3  5   2   8  0  2  0  0  16
+TM TEAM................                         2  2  4             1
+   Totals..............   27 56  12 21  14 15   6 39 45   8  80 16 14  1  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-28  .536    12-28  .429    27-56  .482
+3-Pt. FG%:  6-9   .667     6-12  .500    12-21  .571
+F Throw %: 11-12  .917     3-3  1.000    14-15  .933
+Deadball rebounds: 0
+Date: 12-10-17      Site: Cedar Falls, Iowa (McLeod Center)  Attendance: 3212
+Officials: Kipp Kissinger; Brooks Wells; Mike O'Neill;
+Technical fouls: Dubuque-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+Dubuque............. 19 28  - 47
+Northern Iowa....... 47 33  - 80

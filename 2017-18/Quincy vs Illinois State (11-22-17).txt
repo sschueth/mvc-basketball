@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Quincy vs Illinois State (11-22-17)
+VISITORS: Quincy (0-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Hinton, Marcus...... f  1  3   1  2   0  0   1  1  2   3   3  0  3  0  0  14
+34 Johnson, Marsalis... f  2  3   0  0   2  2   0  3  3   2   6  0  1  3  0  17
+02 Briscoe, Ryan....... g  1  6   1  3   3  4   0  1  1   2   6  3  3  0  1  26
+03 Frasco, Bobby....... g  3  9   3  8   0  0   1  7  8   3   9  0  1  0  0  25
+11 Houston, Demetrius.. g  4 12   1  4   2  5   0  3  3   1  11  1  2  0  0  29
+10 Dosier, Robby.......    1  4   0  3   0  0   1  3  4   2   2  1  2  0  0  21
+12 Liem, Joey..........    0  0   0  0   0  0   1  0  1   0   0  1  1  0  0   3
+14 DeVries, Robert.....    1  5   0  4   0  0   0  0  0   1   2  0  0  0  0  19
+15 Meny, Trevor........    1  2   0  1   0  0   0  0  0   0   2  1  0  0  0  10
+23 Alexander, De'Andre.    3  3   0  0   0  0   0  1  1   0   6  2  2  0  0  13
+24 Stuckman, Tanner....    3  9   1  2   3  3   1  6  7   2  10  0  0  0  1  22
+30 Zurcher, Lucas......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                         4  1  5
+   Totals..............   20 56   7 27  10 14   9 26 35  16  57  9 15  3  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-33  .364     8-23  .348    20-56  .357
+3-Pt. FG%:  6-16  .375     1-11  .091     7-27  .259
+F Throw %:  5-8   .625     5-6   .833    10-14  .714
+Deadball rebounds: 0,1
+HOME TEAM: Illinois State (3-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne, Phil......... f  8 12   0  0   3  8   2  5  7   2  19  1  0  0  2  25
+03 Evans, Keyshawn..... g  7 12   3  5   0  1   0  2  2   0  17  6  2  0  0  22
+05 Hein, Matt.......... g  2  3   0  1   2  2   0  3  3   3   6  2  3  0  0  20
+23 Tinsley, William.... g  3 10   3  6   0  0   3  7 10   2   9  2  2  1  2  30
+25 Williams, Madison... g  4  9   2  4   0  0   1  1  2   1  10  5  1  1  1  22
+00 Gassman, Isaac......    2  4   1  2   1  2   1  1  2   1   6  0  0  0  2  26
+24 Martin, Jerron......    0  2   0  1   0  0   0  1  1   1   0  3  0  0  0  15
+30 Litwiller, Luke.....    3  4   3  4   0  0   0  1  1   4   9  0  1  0  0  16
+32 Bruninga, Taylor....    4  8   2  6   0  0   1  8  9   4  10  1  0  0  0  24
+TM TEAM................                         1  2  3
+   Totals..............   33 64  14 29   6 13   9 31 40  18  86 20  9  2  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-35  .457    17-29  .586    33-64  .516
+3-Pt. FG%:  6-17  .353     8-12  .667    14-29  .483
+F Throw %:  5-10  .500     1-3   .333     6-13  .462
+Deadball rebounds: 2
+Date: 11-22-17      Site: Doug Collins Court at Redbird Arena  Attendance: 3733
+Officials: Randy Heimerman; Ervin Wilson; Tyler Kumpf;
+Technical fouls: Quincy-None. Illinois State-None.
+Score by Periods      1  2   Total
+Quincy.............. 35 22  - 57
+Illinois State...... 43 43  - 86

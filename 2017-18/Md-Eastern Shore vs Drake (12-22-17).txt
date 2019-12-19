@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Md-Eastern Shore vs Drake (12-22-17)
+VISITORS: Md-Eastern Shore (3-11)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 THOMAS,Miryne....... f  3  8   0  2   4  4   3  7 10   4  10  1  5  0  0  31
+15 JONES,Tyler......... f  2  4   1  1   2  3   0  1  1   3   7  0  2  0  1  14
+02 BACOTE,Cameron...... g  4  9   3  8   0  0   0  1  1   1  11  0  2  0  1  37
+03 MCINTOSH,Logan...... g  3 10   0  2   2  4   1  4  5   1   8  8  4  0  1  38
+11 FROST,Ahmad......... g  3 11   2  7   2  2   0  1  1   3  10  0  1  0  0  21
+05 THOMAS,LeAndre......    2  6   0  0   0  1   3  1  4   4   4  0  2  0  0  16
+10 OLIVER,Montraz......    1  2   1  1   0  0   1  0  1   0   3  0  0  0  0   7
+12 FITZGERALD,Najee....    0  0   0  0   0  0   0  1  1   1   0  0  0  0  0   3
+13 HOGGS,Sean..........    0  4   0  4   1  2   0  2  2   0   1  0  0  0  0  13
+23 ODIANA,Michael......    1  3   1  3   0  0   0  0  0   2   3  1  0  0  1  20
+TM TEAM................                         2  3  5             1
+   Totals..............   19 57   8 28  11 16  10 21 31  19  57 10 17  0  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-29  .345     9-28  .321    19-57  .333
+3-Pt. FG%:  4-13  .308     4-15  .267     8-28  .286
+F Throw %:  4-7   .571     7-9   .778    11-16  .688
+Deadball rebounds: 2
+HOME TEAM: Drake (6-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 McGlynn, Nick....... f  2  4   0  0   2  2   2  1  3   3   6  0  2  1  0  14
+00 Rivers, C.J......... g  3  6   0  1   0  0   1  5  6   2   6  4  2  0  3  29
+03 Woodward, Graham.... g  2  7   2  7   0  0   2  6  8   1   6  3  1  0  1  24
+04 McMurray, De'Antae.. g  5 12   4  8   2  2   1  2  3   3  16  3  2  0  3  31
+12 Timmer, Reed........ g  6 13   4  8   5  8   1  4  5   1  21  6  0  0  2  31
+02 Gibbs, Jalen........    3  4   1  2   0  0   0  4  4   0   7  1  2  0  0  16
+11 Pilipovic, Antonio..    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   2
+14 Thomas, Noah........    0  1   0  1   0  0   1  1  2   1   0  1  1  1  0  12
+22 Schlatter, Casey....    4  5   0  0   2  3   1  2  3   2  10  1  1  0  0  16
+23 Arogundade, Ore.....    3  4   0  0   3  4   0  3  3   1   9  0  1  0  1  21
+32 Kuenstling, Kory....    0  0   0  0   0  0   0  1  1   1   0  0  0  0  0   4
+TM TEAM................                         1  2  3             2
+   Totals..............   28 57  11 28  14 19  10 31 41  15  81 19 14  2 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-27  .444    16-30  .533    28-57  .491
+3-Pt. FG%:  3-12  .250     8-16  .500    11-28  .393
+F Throw %:  6-7   .857     8-12  .667    14-19  .737
+Deadball rebounds: 3
+Date: 12-22-17      Site: Des Moines, Iowa (Knapp Center)  Attendance: 2214
+Officials: Jeb Hartness; John Hendricks; Pat Boeh;
+Technical fouls: Md-Eastern Shore-None. Drake-None.
+Score by Periods      1  2   Total
+Md-Eastern Shore.... 28 29  - 57
+Drake............... 33 48  - 81

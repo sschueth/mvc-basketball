@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Valparaiso vs Northwestern (12-14-17)
+VISITORS: Valparaiso (8-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Golder, Markus...... f  3  6   2  2   2  2   1  5  6   5  10  1  3  0  1  27
+10 Burton, Joe......... f  3  6   3  5   7 10   0  1  1   2  16  2  2  1  0  30
+14 Sorolla, Jaume...... c  2  4   0  0   0  0   1  1  2   2   4  0  3  1  0  18
+04 Evelyn, Bakari...... g  1  5   0  2   0  0   0  1  1   2   2  2  4  0  1  26
+33 Kiser, John......... g  1  2   0  1   0  0   1  5  6   3   2  0  0  0  0  24
+00 Hazen, Parker.......    0  1   0  0   0  0   0  0  0   0   0  0  1  0  0   4
+01 Bradford, Micah.....    3  6   2  4   1  5   0  4  4   0   9  3  0  0  1  26
+03 Joseph, Max.........    0  2   0  1   2  2   0  2  2   0   2  0  0  0  0  16
+12 Linssen, Marten.....    0  2   0  0   0  2   1  4  5   4   0  0  1  1  1  11
+21 Smits, Derrik.......    1  2   0  0   1  2   1  1  2   2   3  0  3  1  0  10
+23 McMillan, Mileek....    1  3   0  2   0  0   0  0  0   3   2  0  4  0  0   8
+TM TEAM................
+   Totals..............   15 39   7 17  13 23   5 24 29  23  50  8 21  4  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-21  .429     6-18  .333    15-39  .385
+3-Pt. FG%:  4-10  .400     3-7   .429     7-17  .412
+F Throw %:  4-6   .667     9-17  .529    13-23  .565
+Deadball rebounds: 4
+HOME TEAM: Northwestern (7-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 Vic Law............. f  5  9   5  7   3  3   0  4  4   3  18  3  0  0  1  25
+05 Dererk Pardon....... c  2  7   0  0   5  6   2  4  6   3   9  3  1  0  0  20
+20 Scottie Lindsey..... g  5 10   2  5   1  2   0  1  1   0  13  3  0  0  1  29
+30 Bryant McIntosh..... g  4  7   0  2   0  0   0  2  2   1   8  5  1  0  2  25
+35 Aaron Falzon........ g  2  4   2  2   0  0   0  1  1   0   6  2  0  2  0  15
+10 Charlie Hall........    0  0   0  0   0  0   0  0  0   0   0  0  0  1  0   4
+11 Anthony Gaines......    2  4   0  0   2  2   0  2  2   2   6  2  1  1  2  22
+12 Isiah Brown.........    1  1   0  0   2  2   0  0  0   2   4  0  0  0  0  11
+23 Jordan Ash..........    2  5   1  2   0  0   1  0  1   1   5  0  0  0  0  11
+25 Barret Benson.......    1  3   0  0   1  2   1  1  2   5   3  0  1  0  1  11
+33 Tino Malnati........    0  0   0  0   0  0   0  2  2   0   0  0  1  0  0   3
+44 Gavin Skelly........    4 11   2  4   2  4   5  5 10   0  12  1  2  1  2  24
+TM TEAM................                         1  2  3
+   Totals..............   28 61  12 22  16 21  10 24 34  17  84 19  7  5  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-35  .457    12-26  .462    28-61  .459
+3-Pt. FG%:  7-14  .500     5-8   .625    12-22  .545
+F Throw %:  4-5   .800    12-16  .750    16-21  .762
+Deadball rebounds: 4,1
+Date: 12-14-17      Site: Rosemont, Ill. (Allstate Arena)  Attendance: 5299
+Officials: Gene Steratore; D.J. Carstensen; Rob Riley;
+Technical fouls: Valparaiso-None. Northwestern-None.
+Score by Periods      1  2   Total
+Valparaiso.......... 26 24  - 50
+Northwestern........ 43 41  - 84

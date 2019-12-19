@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Illinois State vs Boise State (11-17-17)
+VISITORS: Illinois State (1-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne, Phil......... f  5 10   0  0   3  5   3  3  6   4  13  1  0  1  2  26
+52 Yarbrough, Milik.... f  2  5   0  1   4  5   0  0  0   2   8  1  0  1  2  16
+03 Evans, Keyshawn..... g  8 13   3  6   2  2   0  5  5   1  21  4  3  0  1  28
+23 Tinsley, William.... g  0  5   0  3   0  0   0  2  2   3   0  2  0  3  0  16
+25 Williams, Madison... g  4 12   3  8   1  2   0  1  1   2  12  1  1  1  2  26
+00 Gassman, Isaac......    1  6   1  5   0  0   0  2  2   5   3  0  1  1  0  13
+05 Hein, Matt..........    1  4   0  3   0  0   1  1  2   4   2  1  3  0  2  23
+24 Martin, Jerron......    0  1   0  1   0  0   0  0  0   1   0  2  0  0  0  12
+30 Litwiller, Luke.....    1  2   0  1   0  0   1  1  2   2   2  0  0  0  0  15
+32 Bruninga, Taylor....    1  8   1  6   0  0   0  0  0   3   3  1  1  0  1  25
+TM TEAM................                         4  3  7
+   Totals..............   23 66   8 34  10 14   9 18 27  27  64 13  9  7 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-35  .200    16-31  .516    23-66  .348
+3-Pt. FG%:  2-19  .105     6-15  .400     8-34  .235
+F Throw %:  6-9   .667     4-5   .800    10-14  .714
+Deadball rebounds: 1
+HOME TEAM: Boise State (4-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 HANEY, Zach......... f  1  1   0  0   1  4   1  2  3   4   3  0  2  2  0  18
+43 SENGFELDER, Chris... f  3 10   3  7   1  2   2  1  3   3  10  0  1  0  0  18
+02 WILLIAMS, Lexus..... g  3  6   3  5   0  0   1  1  2   1   9  2  2  0  2  32
+15 HUTCHISON, Chandler. g  5 13   1  3   8 11   4 14 18   2  19  5  5  0  0  29
+34 HOBBS, Alex......... g  3  9   1  2   3  3   3  6  9   1  10  6  4  0  0  29
+00 DICKINSON, Marcus...    2  3   1  2   3  3   0  4  4   0   8  2  1  0  1  19
+01 CHRISTON, Cam.......    0  2   0  2   1  2   1  1  2   1   1  0  1  0  0  11
+03 JESSUP, Justinian...    4  5   3  4   2  2   1  6  7   2  13  0  1  0  2  18
+05 HARWELL, Malek......    0  3   0  2   0  0   0  0  0   0   0  0  1  0  0   4
+10 JORCH, Robin........    0  0   0  0   0  0   0  0  0   3   0  0  1  0  0   2
+22 JARDINE, Casdon.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   5
+33 WACKER, David.......    1  3   0  0   7  8   2  1  3   1   9  1  1  0  0  15
+TM TEAM................                         5  1  6             1
+   Totals..............   22 55  12 27  26 35  20 37 57  18  82 16 21  2  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-26  .462    10-29  .345    22-55  .400
+3-Pt. FG%:  6-11  .545     6-16  .375    12-27  .444
+F Throw %: 16-24  .667    10-11  .909    26-35  .743
+Deadball rebounds: 4
+Date: 11-17-17      Site: HTC Center (Conway, SC)  Attendance: 875
+Officials: Ron Groover; Rod Dixon; Rick O'Neill;
+Technical fouls: Illinois State-None. Boise State-None.
+Score by Periods      1  2   Total
+Illinois State...... 22 42  - 64
+Boise State......... 46 36  - 82
+Game 6 of the Puerto Rico Tip-Off at Myrtle Beach

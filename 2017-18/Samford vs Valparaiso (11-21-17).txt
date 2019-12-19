@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Samford vs Valparaiso (11-21-17)
+VISITORS: Samford (1-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+13 Eric Adams.......... f  3  6   0  0   1  1   3  1  4   4   7  0  3  0  0  21
+20 Alex Thompson....... f  3  8   2  6   2  2   0  1  1   3  10  2  0  0  0  25
+00 Christen Cunningham. g  2  4   0  1   1  2   0  0  0   1   5  1  2  0  0  27
+02 Justin Coleman...... g  7 13   4  7   0  0   1  0  1   0  18  2  0  0  2  37
+22 D. Denzel-Dyson..... g  3 13   0  5   3  6   2  3  5   1   9  0  1  0  3  33
+03 Josh Sharkey........    1  4   0  0   2  2   0  0  0   1   4  4  0  0  0  15
+04 Triston Chambers....    1  3   1  3   0  0   0  1  1   4   3  1  1  0  0  15
+15 Stefan Lakic........    5  8   1  3   0  0   1  1  2   2  11  0  1  0  0  27
+TM TEAM................                         1  3  4
+   Totals..............   25 59   8 25   9 13   8 10 18  16  67 10  8  0  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-28  .464    12-31  .387    25-59  .424
+3-Pt. FG%:  5-13  .385     3-12  .250     8-25  .320
+F Throw %:  5-7   .714     4-6   .667     9-13  .692
+Deadball rebounds: 0,2
+HOME TEAM: Valparaiso (5-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Hazen, Parker....... f  1  2   0  0   0  0   0  0  0   2   2  1  2  0  0  10
+10 Burton, Joe......... f  7  8   2  3   0  0   3  2  5   0  16  1  1  1  0  26
+14 Sorolla, Jaume...... c  1  2   0  0   0  0   2  1  3   1   2  1  1  1  0  12
+02 Walker, Tevonn...... g  9 18   3  8   5  6   3  6  9   1  26  5  1  0  3  32
+04 Evelyn, Bakari...... g  0  4   0  4   1  2   0  1  1   1   1  3  3  0  0  22
+01 Bradford, Micah.....    3 10   2  8   0  0   0  4  4   1   8  1  1  0  0  10
+03 Joseph, Max.........    2  4   0  1   2  2   0  5  5   3   6  6  1  0  0  26
+05 Golder, Markus......    5 10   0  2   1  2   5  1  6   3  11  0  1  1  1  14
+21 Smits, Derrik.......    2  2   0  0   0  0   2  4  6   0   4  0  2  0  0  19
+23 McMillan, Mileek....    3  3   1  1   0  0   0  0  0   0   7  0  0  1  0  13
+33 Kiser, John.........    1  2   0  0   3  4   3  3  6   3   5  3  0  0  0  16
+TM TEAM................                         2  3  5
+   Totals..............   34 65   8 27  12 16  20 30 50  15  88 21 13  4  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-31  .548    17-34  .500    34-65  .523
+3-Pt. FG%:  3-11  .273     5-16  .313     8-27  .296
+F Throw %:  2-4   .500    10-12  .833    12-16  .750
+Deadball rebounds: 3
+Date: 11-21-17      Site: Valparaiso, Ind. (ARC)  Attendance: 2259
+Officials: Ray Natili; David Stevens; Albert Buckles;
+Technical fouls: Samford-, Eric Adams. Valparaiso-None.
+Score by Periods      1  2   Total
+Samford............. 36 31  - 67
+Valparaiso.......... 39 49  - 88

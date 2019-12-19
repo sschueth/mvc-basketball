@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Little Rock vs Bradley (12-13-17)
+VISITORS: Little Rock (2-8)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Black, Oliver....... f  1  4   0  0   2  2   3  3  6   3   4  1  0  1  1  27
+14 Hadzic, Damir....... f  0  3   0  1   0  0   1  2  3   2   0  2  2  0  0  15
+20 Gilmore, K.J........ f  1  5   0  3   0  0   0  0  0   1   2  0  6  0  0  19
+10 Lottie, Jaizec...... g  4  7   3  5   1  2   0  1  1   2  12  3  1  0  1  27
+30 Black, Anthony...... g  2  6   1  3   0  0   1  2  3   2   5  0  1  0  0  23
+03 Corcoran, Cameron...    4  5   4  5   2  3   0  0  0   0  14  0  2  0  0  17
+13 Carson, Cezanne.....    1  5   0  3   0  0   1  2  3   0   2  1  1  0  0  12
+23 Mompremier, Wadly...    2  5   1  3   0  1   2  3  5   3   5  0  1  0  0  21
+24 Marcus, Ben.........    0  1   0  0   0  0   0  0  0   4   0  0  1  0  0   9
+25 Brady, Brandon......    0  2   0  2   0  0   0  1  1   1   0  1  0  0  0  20
+32 Bankston, Kris......    1  2   0  0   0  0   1  0  1   4   2  0  4  1  0  10
+TM TEAM................                         1     1             1
+   Totals..............   16 45   9 25   5  8  10 14 24  22  46  8 20  2  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-22  .364     8-23  .348    16-45  .356
+3-Pt. FG%:  4-12  .333     5-13  .385     9-25  .360
+F Throw %:  1-2   .500     4-6   .667     5-8   .625
+Deadball rebounds: 0
+HOME TEAM: Bradley (8-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  5  6   0  1   2  2   1  1  2   0  12  3  0  1  1  19
+10 Childs, Elijah...... f  3  5   0  0   2  2   0  2  2   0   8  0  0  0  1  16
+05 Brown, Darrell...... g  4  7   1  2   2  2   0  4  4   1  11  5  3  0  1  28
+23 Lautier-Ogunleye, D. g  3  5   2  3   1  3   1  1  2   3   9  2  1  0  1  23
+25 Kennell, Nate....... g  4  7   3  6   0  0   1  2  3   3  11  4  0  0  2  21
+02 Lundy, Luqman.......    1  2   0  1   0  0   0  0  0   0   2  0  0  0  0   5
+12 Bar, Koch...........    2  4   0  0   2  6   0  2  2   3   6  0  2  0  0  22
+13 van Bree, Luuk......    4  8   3  6   0  0   2  4  6   2  11  2  0  1  0  16
+14 Hanley, Peter.......    0  1   0  0   0  0   0  0  0   0   0  0  1  0  0   2
+21 Stipanovich, Ryan...    3  4   0  1   5  5   3  2  5   2  11  2  1  0  1  19
+30 Barker, Callum......    0  0   0  0   0  0   1  0  1   1   0  0  0  0  0   5
+35 Hodgson, Jayden.....    2  2   1  1   0  0   0  4  4   1   5  3  2  0  2  24
+TM TEAM................                         1     1
+   Totals..............   31 51  10 21  14 20  10 22 32  16  86 21 10  2  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-26  .615    15-25  .600    31-51  .608
+3-Pt. FG%:  6-11  .545     4-10  .400    10-21  .476
+F Throw %:  8-9   .889     6-11  .545    14-20  .700
+Deadball rebounds: 2
+Date: 12-13-17      Site: Peoria, Ill. (Carver Arena)  Attendance: 4670
+Officials: Gary Maxwell; Ed Crenshaw; Jeff Malham;
+Technical fouls: Little Rock-None. Bradley-None.
+Score by Periods      1  2   Total
+Little Rock......... 21 25  - 46
+Bradley............. 46 40  - 86

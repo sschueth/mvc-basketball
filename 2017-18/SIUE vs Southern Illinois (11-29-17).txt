@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      SIUE vs Southern Illinois (11-29-17)
+VISITORS: SIUE (1-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 KINCHEN, Daniel..... *  2 12   1  7   7  8   0  4  4   1  12  2  1  0  2  33
+13 ELLIS, Christian.... *  5 10   0  0   6 11   2  2  4   4  16  3  2  0  0  34
+15 MCFARLAND, David.... *  1  4   0  3   0  0   0  0  0   2   2  1  1  0  0  13
+24 HENRY, Jalen........ *  4 11   0  3   3  4   0 11 11   1  11  2  0  1  2  31
+45 SIMMONS, Keenan..... *  0  3   0  0   0  0   5  0  5   4   0  0  1  0  0  16
+01 JACKSON, D.J........    0  1   0  0   0  1   1  1  2   1   0  0  1  0  0   5
+02 Applewhite,D'quan...    0  2   0  1   1  2   1  0  1   0   1  0  0  0  0   1
+10 Awet,Bill...........    1  1   0  0   2  2   0  0  0   2   4  1  1  0  0  15
+25 MCCOY, Jaylen.......    4 10   3  9   2  2   0  3  3   1  13  0  2  0  3  28
+32 JACKSON, Brandon....    0  1   0  0   0  0   0  0  0   1   0  0  1  0  0  18
+34 TORRES, Julian......    0  3   0  1   0  0   1  0  1   0   0  0  1  0  0   6
+TM TEAM................                         5  2  7
+   Totals..............   17 58   4 24  21 30  15 23 38  17  59  9 11  1  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  6-31  .194    11-27  .407    17-58  .293
+3-Pt. FG%:  3-16  .188     1-8   .125     4-24  .167
+F Throw %:  7-8   .875    14-22  .636    21-30  .700
+Deadball rebounds: 3
+HOME TEAM: Southern Illinois (3-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Pippen,Kavion....... c  6 14   0  0   1  2   3 10 13   1  13  1  0  2  0  25
+00 Wiley,Jonathan...... g  5  7   0  0   2  2   3  7 10   2  12  1  0  2  2  21
+10 Cook,Aaron.......... g  4  6   1  1   4  5   0  1  1   2  13  4  3  0  1  25
+13 Lloyd,Sean.......... g  6 10   2  3   5  6   0  2  2   3  19  1  0  0  1  25
+22 Fletcher,Armon...... g  4  5   1  2   2  2   0  1  1   2  11  5  1  1  1  27
+04 McGill,Eric.........    2  5   2  3   0  1   0  1  1   3   6  2  0  0  1  22
+11 Smithpeters,Tyler...    2  6   2  5   2  3   2  5  7   2   8  2  3  0  0  22
+15 Weiher,Austin.......    0  0   0  0   0  0   0  1  1   1   0  0  0  0  0   7
+24 Stradnieks,Rudy.....    2  4   0  1   0  0   0  1  1   5   4  3  3  0  1  15
+25 Gooch,Brendon.......    0  1   0  0   0  0   0  1  1   1   0  1  0  1  1  11
+TM TEAM................                            2  2             1
+   Totals..............   31 58   8 15  16 21   8 32 40  22  86 20 11  6  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-31  .419    18-27  .667    31-58  .534
+3-Pt. FG%:  4-10  .400     4-5   .800     8-15  .533
+F Throw %:  5-8   .625    11-13  .846    16-21  .762
+Deadball rebounds: 1
+Date: 11-29-17      Site: Carbondale, IL  Attendance: 3333
+Officials: Paul Janssen; Bret Smith; Nate Green;
+Technical fouls: SIUE-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+SIUE................ 22 37  - 59
+Southern Illinois... 35 51  - 86

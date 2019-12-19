@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Indiana State vs Illinois State (03-02-18)
+VISITORS: Indiana State (13-18; 8-10 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+25 Davis, Qiydar....... f  4  8   2  3   5  8   2  4  6   5  15  2  2  0  1  20
+34 Murphy, Brandon..... c  4  6   0  0   2  2   4  3  7   3  10  1  1  1  0  24
+02 Barnes, Jordan...... g  8 15   5 10   4  5   0  7  7   1  25  4  0  0  1  38
+04 Scott, Brenton...... g  0 14   0 12   3  5   0  6  6   4   3  1  0  0  2  30
+11 Key, Tyreke......... g  1  5   1  2   4  5   1  2  3   2   7  1  1  0  1  36
+01 Ojinnaka, Demonte...    0  4   0  2   0  0   1  3  4   0   0  1  2  1  0  13
+05 Kessinger, Bronson..    2  5   0  2   2  4   2  2  4   3   6  0  0  0  1  13
+13 Hughes, Clayton.....    1  3   0  2   0  0   0  0  0   1   2  0  1  0  0  16
+35 Thomas, Devin.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+41 Rickman, Emondre....    1  2   0  0   0  0   0  0  0   0   2  0  0  2  0   9
+TM TEAM................                            3  3
+   Totals..............   21 62   8 33  20 29  10 30 40  19  70 10  7  4  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-32  .313    11-30  .367    21-62  .339
+3-Pt. FG%:  4-16  .250     4-17  .235     8-33  .242
+F Throw %:  7-10  .700    13-19  .684    20-29  .690
+Deadball rebounds: 3,1
+HOME TEAM: Illinois State (17-14; 10-8 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne, Phil......... f  7 11   0  0   2  7   1  9 10   0  16  1  1  2  2  33
+52 Yarbrough, Milik.... f  8 17   1  4   7  7   0  7  7   3  24  5  2  1  0  22
+03 Evans, Keyshawn..... g  4  9   3  6   6  8   0  1  1   4  17  3  2  0  0  30
+23 Tinsley, William.... g  2  7   1  6   0  0   0  8  8   3   5  1  0  0  0  33
+25 Williams, Madison... g  1  3   1  3   0  0   1  4  5   5   3  1  2  0  1  15
+00 Gassman, Isaac......    2  3   1  2   0  0   0  0  0   0   5  0  0  0  0  16
+01 Clarance, Elijah....    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+04 Ndiaye, Daouda......    2  2   0  0   0  0   1  2  3   2   4  0  1  0  0  10
+05 Hein, Matt..........    0  1   0  1   0  0   0  4  4   5   0  2  2  0  0  20
+32 Bruninga, Taylor....    1  2   1  1   0  0   0  2  2   3   3  0  0  0  0  17
+TM TEAM................
+   Totals..............   27 56   8 23  15 22   3 37 40  25  77 13 10  3  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-28  .464    14-28  .500    27-56  .482
+3-Pt. FG%:  5-13  .385     3-10  .300     8-23  .348
+F Throw %:  3-6   .500    12-16  .750    15-22  .682
+Deadball rebounds: 2
+Date: 03-02-18      Site: Scottrade Center, St. Louis, MO  Attendance: 7077
+Officials: Kelly Self; Bert Smith; Gene Grimshaw;
+Technical fouls: Indiana State-None. Illinois State-None.
+Score by Periods      1  2   Total
+Indiana State....... 31 39  - 70
+Illinois State...... 34 43  - 77

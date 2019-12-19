@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     #8 Xavier vs Northern Iowa (12-22-17)
+VISITORS: #8 Xavier (12-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 JONES, Tyrique...... *  3  5   0  0   3  5   0  1  1   3   9  0  1  0  1  16
+03 GOODIN, Quentin..... *  1  4   0  2   6  6   0  4  4   2   8  5  3  0  1  28
+05 BLUIETT, Trevon..... *  3  7   3  5   3  4   0  7  7   5  12  2  3  0  0  31
+22 GATES, Kaiser....... *  3  6   3  5   2  2   1  8  9   1  11  1  0  0  0  29
+55 MACURA, J.P......... *  6 11   3  6   0  0   0  2  2   1  15  2  4  0  3  32
+01 SCRUGGS, Paul.......    1  3   0  2   0  0   0  1  1   2   2  0  3  0  1  12
+11 KANTER, Kerem.......    4  6   2  2   0  0   1  6  7   1  10  0  0  0  0  17
+13 MARSHALL, Naji......    2  2   1  1   1  2   0  1  1   0   6  1  1  2  1  17
+54 O'MARA, Sean........    2  4   0  0   0  0   0  1  1   2   4  2  0  1  1  18
+TM TEAM................                         1     1
+   Totals..............   25 48  12 23  15 19   3 31 34  17  77 13 15  3  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-21  .524    14-27  .519    25-48  .521
+3-Pt. FG%:  5-9   .556     7-14  .500    12-23  .522
+F Throw %:  2-2  1.000    13-17  .765    15-19  .789
+Deadball rebounds: 1
+HOME TEAM: Northern Iowa (8-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Carlson, Klint...... *  3 10   2  7   0  0   1  2  3   3   8  2  5  0  0  37
+04 Pickford, Tywhon.... *  1  5   0  2   0  0   1  4  5   2   2  4  1  0  0  26
+13 McCloud, Juwan...... *  2  6   1  3   0  0   0  1  1   2   5  1  0  0  2  17
+24 Brown, Isaiah....... *  2  6   2  5   0  0   0  3  3   1   6  1  1  0  0  20
+25 Koch, Bennett....... *  8 12   0  0  10 12   0  4  4   5  26  0  1  1  1  23
+03 Friedman, Ted.......    1  1   0  0   0  0   1  2  3   0   2  0  0  0  0  10
+21 Rhodes, Hunter......    0  2   0  1   0  0   0  1  1   0   0  2  0  0  0  16
+30 Haldeman, Spencer...    3  6   3  5   0  0   0  2  2   4   9  2  2  0  1  22
+33 Lohaus, Wyatt.......    3  8   2  3   1  2   0  4  4   3   9  5  1  0  0  21
+50 Phyfe, Austin.......    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   8
+TM TEAM................                         2     2
+   Totals..............   23 57  10 26  11 14   5 23 28  20  67 17 11  1  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-30  .367    12-27  .444    23-57  .404
+3-Pt. FG%:  5-12  .417     5-14  .357    10-26  .385
+F Throw %:  2-2  1.000     9-12  .750    11-14  .786
+Deadball rebounds: 1
+Date: 12-22-17      Site: Cedar Falls, Iowa (McLeod Center)  Attendance: 6355
+Officials: Randy Heimerman; Ed Crenshaw; Roland Simmons;
+Technical fouls: #8 Xavier-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+#8 Xavier........... 29 48  - 77
+Northern Iowa....... 29 38  - 67

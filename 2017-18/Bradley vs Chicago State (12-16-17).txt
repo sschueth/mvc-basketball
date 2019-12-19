@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Bradley vs Chicago State (12-16-17)
+VISITORS: Bradley (9-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... *  4  7   0  0   5  6   1  5  6   1  13  1  0  1  2  25
+05 Brown, Darrell...... *  4 10   1  3   2  4   0  4  4   1  11 10  3  0  1  32
+12 Bar, Koch........... *  0  2   0  0   2  2   0  0  0   3   2  1  2  4  0  14
+23 Lautier-Ogunleye, D. *  4  8   3  6   0  0   0  3  3   2  11  5  2  0  2  29
+25 Kennell, Nate....... *  3  7   2  5   1  1   0  4  4   0   9  4  1  0  1  28
+02 Lundy, Luqman.......    0  1   0  0   0  0   0  0  0   0   0  0  1  0  1   3
+10 Childs, Elijah......    2  2   0  0   2  2   0  2  2   3   6  0  2  3  0  18
+13 van Bree, Luuk......    6  6   3  3   0  0   0  2  2   1  15  1  2  0  1  18
+14 Hanley, Peter.......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   1
+21 Stipanovich, Ryan...    0  0   0  0   4  4   0  0  0   1   4  0  1  0  0   8
+30 Barker, Callum......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  1   3
+35 Hodgson, Jayden.....    5  7   3  4   0  0   0  1  1   2  13  1  1  0  0  21
+TM TEAM................                         2  2  4
+   Totals..............   28 50  12 21  16 19   3 23 26  15  84 23 15  8  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-22  .727    12-28  .429    28-50  .560
+3-Pt. FG%:  8-11  .727     4-10  .400    12-21  .571
+F Throw %:  8-8  1.000     8-11  .727    16-19  .842
+Deadball rebounds: 2,1
+HOME TEAM: Chicago State (2-12)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Burns, Glen......... *  0  6   0  1   5  6   0  4  4   2   5  9  4  0  2  32
+03 Simmons, Deionte.... *  6  9   0  0   0  0   2  5  7   5  12  0  1  0  2  28
+14 Sims, Jr., Fred..... *  2 11   1  4   1  1   0  3  3   2   6  0  6  0  1  29
+21 Bowles, Cameron..... *  3  5   1  1   2  2   1  2  3   3   9  1  0  0  1  34
+32 Byrd, Montana....... *  5  9   4  7   0  0   1  2  3   1  14  0  1  1  1  33
+02 Pruitt, Jelani......    5  8   0  1   0  0   2  0  2   0  10  2  3  0  3  14
+05 Dubovitskiy, Alex...    0  1   0  1   0  0   0  1  1   1   0  0  0  0  0   5
+11 Townsen, Jr., Nathan    0  1   0  1   0  0   0  0  0   0   0  1  1  0  0   3
+23 Szpir, Patrick......    0  0   0  0   0  0   0  2  2   2   0  0  1  0  0   9
+30 Bell, Travon........    1  4   0  2   0  0   0  0  0   1   2  0  1  0  0   7
+31 Odiase, Ken.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+35 Shaw, Rob...........    0  1   0  0   0  0   0  0  0   1   0  3  1  0  0   5
+TM Team................                         3     3
+   Totals..............   22 55   6 18   8  9   9 19 28  18  58 16 19  1 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-22  .455    12-33  .364    22-55  .400
+3-Pt. FG%:  4-7   .571     2-11  .182     6-18  .333
+F Throw %:  6-7   .857     2-2  1.000     8-9   .889
+Deadball rebounds: 1,1
+Date: 12-16-17      Site: Chicago, Ill. (Jacoby Dickens Cent  Attendance: 750
+Officials: Tom O'Neill; Sr.; Tom O'Neill;
+Technical fouls: Bradley-None. Chicago State-None.
+Score by Periods      1  2   Total
+Bradley............. 48 36  - 84
+Chicago State....... 30 28  - 58

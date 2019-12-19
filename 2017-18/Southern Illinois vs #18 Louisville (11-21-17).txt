@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Southern Illinois vs #18 Louisville (11-21-17)
+VISITORS: Southern Illinois (2-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Wiley,Jonathan...... f  1  4   0  0   1  2   1  8  9   1   3  1  5  1  0  22
+33 Pippen,Kavion....... c  5 13   0  0   0  1   2  4  6   2  10  2  2  2  0  31
+10 Cook,Aaron.......... g  0  9   0  4   0  0   0  2  2   1   0  1  3  0  1  20
+13 Lloyd,Sean.......... g  2  6   1  4   0  2   1  1  2   2   5  0  2  0  0  26
+22 Fletcher,Armon...... g  4 12   2  5   4  4   3  4  7   1  14  2  2  1  1  33
+04 McGill,Eric.........    1  9   0  4   0  0   1  6  7   3   2  1  2  0  1  26
+11 Smithpeters,Tyler...    0  3   0  3   0  0   0  1  1   3   0  2  0  0  0  17
+15 Weiher,Austin.......    0  3   0  0   0  0   0  0  0   0   0  1  0  0  0   2
+24 Stradnieks,Rudy.....    4  5   0  1   0  0   1  2  3   3   8  1  0  0  1  20
+25 Gooch,Brendon.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+TM TEAM................                         2  1  3
+   Totals..............   17 64   3 21   5  9  11 29 40  16  42 11 16  4  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-31  .226    10-33  .303    17-64  .266
+3-Pt. FG%:  1-11  .091     2-10  .200     3-21  .143
+F Throw %:  3-6   .500     2-3   .667     5-9   .556
+Deadball rebounds: 1
+HOME TEAM: #18 Louisville (3-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+13 SPALDING, Ray....... f  3  7   0  1   2  2   3  3  6   3   8  1  1  0  0  16
+22 ADEL, Deng.......... f  5 11   0  3   6  7   2  5  7   2  16  1  3  1  4  27
+14 MAHMOUD, Anas....... c  1  3   0  0   0  0   2  3  5   0   2  2  1  3  1  23
+00 KING, VJ............ g  2 10   0  1   0  0   0  8  8   0   4  1  0  1  0  25
+04 SNIDER, Quentin..... g  2  8   1  4   0  0   0  2  2   0   5  3  0  0  0  26
+01 THOMAS, Lance.......    2  3   1  2   0  0   0  3  3   0   5  0  0  0  0   7
+02 PERRY, Darius.......    3  8   1  4   3  3   0  1  1   0  10  7  1  1  0  23
+05 WILLIAMS, Malik.....    1  3   0  2   0  0   0  3  3   0   2  0  0  1  0  14
+12 REDDING, Jacob......    2  2   2  2   0  0   0  0  0   0   6  0  0  0  0   3
+24 SUTTON, Dwayne......    3  4   2  3   0  0   1  5  6   2   8  1  0  2  2  16
+33 NWORA, Jordan.......    7 10   1  4   3  3   2  6  8   2  18  1  1  0  1  20
+TM TEAM................                                             1
+   Totals..............   31 69   8 26  14 15  10 39 49   9  84 17  8  9  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-35  .314    20-34  .588    31-69  .449
+3-Pt. FG%:  1-12  .083     7-14  .500     8-26  .308
+F Throw %:  6-7   .857     8-8  1.000    14-15  .933
+Deadball rebounds: 0
+Date: 11-21-17      Site: KFC Yum! Center, Louisville, KY  Attendance: 18046
+Officials: Roger Ayers; Mike Eades; Ted Valentine;
+Technical fouls: Southern Illinois-, McGill,Eric. #18 Louisville-None.
+Score by Periods      1  2   Total
+Southern Illinois... 18 24  - 42
+#18 Louisville...... 29 55  - 84

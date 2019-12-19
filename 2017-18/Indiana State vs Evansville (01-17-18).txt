@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Indiana State vs Evansville (01-17-18)
+VISITORS: Indiana State (9-10, 4-3 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+34 Murphy, Brandon..... c  4  5   0  0   1  2   4  5  9   2   9  1  5  1  0  26
+01 Ojinnaka, Demonte... g  1  2   1  2   2  3   0  2  2   3   5  1  1  0  0  17
+02 Barnes, Jordan...... g  4 11   3  8   6  7   1  3  4   4  17  4  6  0  4  35
+04 Scott, Brenton...... g  4 13   1  6   5  6   1  5  6   4  14  3  2  0  3  34
+11 Key, Tyreke......... g  3 10   1  3   3  5   0  9  9   3  10  1  0  1  0  37
+05 Kessinger, Bronson..    0  1   0  0   0  0   0  0  0   0   0  0  0  0  1   6
+10 Claycomb, Ethan.....    0  1   0  1   0  0   0  0  0   1   0  1  0  0  1   5
+24 Deady, Matt.........    0  0   0  0   1  2   0  0  0   2   1  0  0  0  1   6
+25 Davis, Qiydar.......    3  6   3  4   3  4   2  2  4   4  12  0  3  0  0  19
+35 Thomas, Devin.......    0  0   0  0   1  2   0  1  1   1   1  1  0  0  0   2
+41 Rickman, Emondre....    1  4   0  0   0  0   0  1  1   2   2  1  2  1  0  13
+TM TEAM................                         5  2  7             1
+   Totals..............   20 53   9 24  22 31  13 30 43  26  71 13 20  3 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-28  .357    10-25  .400    20-53  .377
+3-Pt. FG%:  8-16  .500     1-8   .125     9-24  .375
+F Throw %:  7-10  .700    15-21  .714    22-31  .710
+Deadball rebounds: 2
+HOME TEAM: Evansville (12-8, 2-5 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 Simmons, Blake...... f  4 11   1  4   7  9   2  3  5   5  16  0  2  1  3  38
+15 Traore, Dalen....... c  0  0   0  0   1  2   0  3  3   5   1  0  0  0  0   8
+00 Taylor, Ryan........ g  3 16   0  7   6  6   0  2  2   3  12  1  2  0  0  39
+12 Smith, Dru.......... g  7 12   2  4   7  9   1  2  3   4  23  5  3  0  1  26
+33 Riley, K.J.......... g  0  2   0  0   2  2   0  6  6   2   2  3  2  0  1  29
+10 Kuhlman, Evan.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+14 Chatkevicius, Dainiu    2  2   0  0   1  4   2  8 10   4   5  0  3  2  0  28
+25 Gibson, Duane.......    1  5   0  0   1  2   0  0  0   0   3  1  2  1  2  10
+30 Frederking, Noah....    1  3   1  2   1  2   0  1  1   0   4  2  0  0  1  10
+35 Hall, John..........    0  1   0  0   0  0   1  0  1   3   0  0  0  0  0  10
+TM TEAM................                         2  2  4             1
+   Totals..............   18 52   4 17  26 36   8 27 35  26  66 12 15  4  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  6-21  .286    12-31  .387    18-52  .346
+3-Pt. FG%:  1-6   .167     3-11  .273     4-17  .235
+F Throw %: 13-18  .722    13-18  .722    26-36  .722
+Deadball rebounds: 6
+Date: 01-17-18      Site: Ford Center, Evansville, Ind.  Attendance: 3601
+Officials: Joe DeRosa; Bret Smith; Winston Stith;
+Technical fouls: Indiana State-None. Evansville-None.
+Score by Periods      1  2   Total
+Indiana State....... 35 36  - 71
+Evansville.......... 26 40  - 66

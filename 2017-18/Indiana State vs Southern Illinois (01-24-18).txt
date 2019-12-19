@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Indiana State vs Southern Illinois (01-24-18)
+VISITORS: Indiana State (10-11, (5-4))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Barnes, Jordan...... *  8 14   4  9   3  3   0  1  1   4  23  1  1  0  2  30
+04 Scott, Brenton...... *  7 13   1  3   1  2   0  6  6   5  16  4  3  0  1  29
+11 Key, Tyreke......... *  2 11   0  3   3  4   2  3  5   2   7  2  0  1  2  35
+25 Davis, Qiydar....... *  6  9   0  1   0  1   0  4  4   5  12  1  1  1  0  32
+34 Murphy, Brandon..... *  1  2   0  0   2  2   3  5  8   3   4  1  1  0  0  20
+01 Ojinnaka, Demonte...    0  4   0  2   0  0   1  2  3   2   0  0  1  0  0  16
+05 Kessinger, Bronson..    1  1   0  0   0  0   1  0  1   0   2  0  0  0  0   2
+13 Hughes, Clayton.....    0  2   0  2   0  0   0  0  0   2   0  0  0  0  0  15
+24 Deady, Matt.........    0  0   0  0   0  0   0  1  1   1   0  0  0  0  0   1
+35 Thomas, Devin.......    5  8   0  1   1  1   2  0  2   2  11  1  0  1  0  12
+41 Rickman, Emondre....    1  2   0  0   0  0   0  1  1   1   2  0  0  1  1   8
+TM TEAM................                         4  1  5             1
+   Totals..............   31 66   5 21  10 13  13 24 37  27  77 10  8  4  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-31  .419    18-35  .514    31-66  .470
+3-Pt. FG%:  1-9   .111     4-12  .333     5-21  .238
+F Throw %:  2-4   .500     8-9   .889    10-13  .769
+Deadball rebounds: 0
+HOME TEAM: Southern Illinois (13-9, (5-4))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Pippen,Kavion....... c  4  7   0  0   1  4   1  6  7   1   9  0  3  0  0  31
+03 Bartley,Marcus...... g  2  6   0  3   4  5   0  0  0   3   8  5  2  2  0  28
+10 Cook,Aaron.......... g  8 12   3  4   6  9   0  3  3   3  25  4  1  0  2  34
+13 Lloyd,Sean.......... g  2  8   1  1   2  2   1  6  7   1   7  1  1  1  0  37
+22 Fletcher,Armon...... g  5  7   2  3   5  7   0  5  5   2  17  4  0  0  1  34
+11 Smithpeters,Tyler...    2  5   1  3   4  4   0  3  3   1   9  1  2  0  0  23
+24 Stradnieks,Rudy.....    2  2   0  0   0  0   0  1  1   2   4  0  0  0  0   4
+25 Gooch,Brendon.......    1  3   1  3   0  0   0  1  1   1   3  1  0  0  0   9
+TM TEAM................                         4     4             1
+   Totals..............   26 50   8 17  22 31   6 25 31  14  82 16 10  3  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-29  .517    11-21  .524    26-50  .520
+3-Pt. FG%:  6-12  .500     2-5   .400     8-17  .471
+F Throw %:  5-8   .625    17-23  .739    22-31  .710
+Deadball rebounds: 3
+Date: 01-24-18      Site: Carbondale, IL  Attendance: 3929
+Officials:
+Technical fouls: Indiana State-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+Indiana State....... 29 48  - 77
+Southern Illinois... 41 41  - 82

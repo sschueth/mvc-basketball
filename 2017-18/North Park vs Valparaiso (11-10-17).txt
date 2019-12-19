@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      North Park vs Valparaiso (11-10-17)
+VISITORS: North Park
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Szuba, Matt......... f  1  1   0  0   0  0   0  1  1   4   2  0  1  0  0   6
+25 Olsen, Scott........ f  0  2   0  2   0  0   0  1  1   1   0  2  0  0  0  14
+30 Woods, Dyron........ c  1  3   0  1   0  0   0  1  1   4   2  0  2  0  0   6
+04 Lake, Colin......... g  2 10   1  7   0  0   1  2  3   2   5  1  1  0  0  25
+23 Kirby, Billy........ g  2  4   1  2   0  0   0  4  4   1   5  2  4  0  1  25
+00 Marek, Toby.........    0  7   0  4   0  0   2  0  2   3   0  2  2  0  0  18
+03 Mackic, Mirsad......    0  0   0  0   0  0   0  1  1   1   0  1  0  0  0   9
+05 Reed, Aaron.........    1  5   0  3   1  2   0  5  5   2   3  0  1  0  0  18
+11 Gardner, Antonio....    2  5   0  3   2  2   1  1  2   1   6  0  1  0  0  11
+13 Hines, Jason........    4  6   3  5   2  2   0  1  1   1  13  2  1  0  0  16
+15 Mohr, Matt..........    0  4   0  1   0  0   1  2  3   4   0  1  0  0  0  18
+21 Tangen, Vegard......    1  7   0  3   0  0   1  1  2   2   2  0  0  0  0  16
+24 Jones, Raysean......    0  1   0  0   1  2   0  1  1   3   1  0  1  0  0   6
+32 Davis, Khalen.......    2  6   1  3   2  2   0  0  0   5   7  0  3  0  0  12
+TM TEAM................                         2  4  6
+   Totals..............   16 61   6 34   8 10   8 25 33  34  46 11 17  0  1 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-25  .280     9-36  .250    16-61  .262
+3-Pt. FG%:  3-17  .176     3-17  .176     6-34  .176
+F Throw %:  0-0   .000     8-10  .800     8-10  .800
+Deadball rebounds: 2
+HOME TEAM: Valparaiso (1-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Hazen, Parker....... f  0  0   0  0   2  4   0  2  2   2   2  1  1  0  0  15
+21 Smits, Derrik....... c  5  9   0  0   4  8   2  3  5   2  14  0  3  0  0  22
+02 Walker, Tevonn...... g  2  8   1  4   2  3   1  3  4   2   7  3  1  0  1  26
+03 Joseph, Max......... g  3  4   0  0   4  5   0  1  1   0  10  2  1  0  1  20
+04 Evelyn, Bakari...... g  2  7   0  3   0  0   0  7  7   0   4  2  0  0  1  24
+01 Bradford, Micah.....    8 12   2  6   2  4   0  1  1   1  20  2  1  0  1  17
+05 Golder, Markus......    3  6   2  2   4  6   1  9 10   1  12  0  1  0  2  24
+12 Linssen, Marten.....    0  2   0  0   3  4   2  3  5   5   3  0  1  1  0  12
+23 McMillan, Mileek....    2  5   0  0   4  6   3  4  7   4   8  1  2  1  0  17
+33 Kiser, John.........    2  3   0  0   4  6   3  1  4   1   8  2  0  1  1  23
+TM TEAM................                         1  3  4
+   Totals..............   27 56   5 15  29 46  13 37 50  18  88 13 11  3  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-28  .429    15-28  .536    27-56  .482
+3-Pt. FG%:  3-7   .429     2-8   .250     5-15  .333
+F Throw %: 13-20  .650    16-26  .615    29-46  .630
+Deadball rebounds: 8
+Date: 11-10-17      Site: Valparaiso, Ind. (ARC)  Attendance: 2682
+Officials: David Stevens; Ervin Wilson; Eric Lowe;
+Technical fouls: North Park-None. Valparaiso-None.
+Score by Periods      1  2   Total
+North Park.......... 17 29  - 46
+Valparaiso.......... 40 48  - 88

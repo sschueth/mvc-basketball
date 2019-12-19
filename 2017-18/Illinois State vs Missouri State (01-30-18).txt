@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  Illinois State vs Missouri State (01-30-18)
+VISITORS: Illinois State (12-11 (6-5 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne, Phil......... f  4 10   0  0   3  4   4  3  7   4  11  0  2  0  1  27
+52 Yarbrough, Milik.... f  4 13   1  3   6  8   2  6  8   3  15  6  2  1  1  24
+04 Ndiaye, Daouda...... c  3  4   0  0   0  0   3  7 10   2   6  2  0  1  1  26
+03 Evans, Keyshawn..... g  5 15   3 12   2  2   0  4  4   3  15  4  2  0  0  32
+25 Williams, Madison... g  4  7   4  7   0  0   0  3  3   2  12  0  3  0  0  27
+00 Gassman, Isaac......    1  2   0  1   0  0   0  0  0   0   2  0  0  0  0   7
+05 Hein, Matt..........    0  1   0  1   2  2   1  4  5   2   2  1  1  0  2  22
+23 Tinsley, William....    0  4   0  3   0  0   1  2  3   2   0  1  1  1  0  22
+32 Bruninga, Taylor....    5  7   3  5   0  0   2  1  3   3  13  0  0  1  0  13
+TM TEAM................                         2     2             1
+   Totals..............   26 63  11 32  13 16  15 30 45  21  76 14 12  4  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-32  .344    15-31  .484    26-63  .413
+3-Pt. FG%:  5-18  .278     6-14  .429    11-32  .344
+F Throw %:  3-4   .750    10-12  .833    13-16  .813
+Deadball rebounds: 1,2
+HOME TEAM: Missouri State (15-9 (5-6 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  3  4   0  0   3  4   3  2  5   3   9  1  1  3  0  26
+15 Rhodes,Jarrid....... f  2  5   0  3   3  4   2  1  3   1   7  1  2  0  0  27
+24 Johnson,Alize....... f  4 14   1  5   3  5   3  7 10   0  12  1  2  0  2  32
+11 Dixon,Jarred........ g  1  9   0  3   0  0   1  3  4   2   2  2  1  0  1  30
+14 Rousseau III,Ronnie. g  0  7   0  4   0  0   0  2  2   1   0  1  0  0  1  18
+01 Lawrence,Mustafa....    3  4   3  3   3  4   1  1  2   2  12  1  0  0  0   8
+20 Kreklow,Ryan........    0  5   0  4   2  2   0  2  2   0   2  2  0  0  0  16
+23 Miller, JT..........    6 14   0  1   0  1   3  3  6   3  12  1  4  0  0  30
+34 Bhullar,Tanveer.....    2  3   0  0   0  0   2  2  4   1   4  0  0  0  2  13
+TM Team................                         1     1
+   Totals..............   21 65   4 23  14 20  16 23 39  13  60 10 10  3  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-32  .281    12-33  .364    21-65  .323
+3-Pt. FG%:  1-12  .083     3-11  .273     4-23  .174
+F Throw %:  2-5   .400    12-15  .800    14-20  .700
+Deadball rebounds: 2,1
+Date: 01-30-18      Site: JQH Arena, Springfield, Mo.  Attendance: 4545
+Officials: Gary Maxwell; Bert Smith; Paul Janssen;
+Technical fouls: Illinois State-None. Missouri State-None.
+Score by Periods      1  2   Total
+Illinois State...... 30 46  - 76
+Missouri State...... 21 39  - 60

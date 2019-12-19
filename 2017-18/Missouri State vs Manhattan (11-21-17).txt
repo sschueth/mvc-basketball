@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Missouri State vs Manhattan (11-21-17)
+VISITORS: Missouri State (3-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... *  5  6   0  0   2  4   4  2  6   3  12  1  1  2  0  24
+14 Rousseau III,Ronnie. *  2  6   0  2   4  4   1  2  3   1   8  2  2  0  1  31
+15 Rhodes,Jarrid....... *  0  3   0  2   0  0   2  5  7   1   0  5  0  0  1  22
+23 Miller, JT.......... *  5 12   0  0   2  3   2  2  4   4  12  2  2  0  1  31
+24 Johnson,Alize....... *  5 10   0  2   7  7   2  3  5   4  17  1  4  0  0  32
+02 Scurry,Reggie.......    4  5   0  0   0  1   0  2  2   2   8  0  1  0  0  14
+11 Dixon,Jarred........    2  6   0  0   1  2   0  2  2   1   5  0  0  0  3  21
+20 Kreklow,Ryan........    1  6   1  5   2  2   0  1  1   1   5  3  1  0  2  18
+34 Bhullar,Tanveer.....    0  1   0  0   2  2   0  0  0   2   2  0  1  0  0   7
+TM Team................                         1  6  7
+   Totals..............   24 55   1 11  20 25  12 25 37  19  69 14 12  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-27  .407    13-28  .464    24-55  .436
+3-Pt. FG%:  1-5   .200     0-6   .000     1-11  .091
+F Throw %: 11-13  .846     9-12  .750    20-25  .800
+Deadball rebounds: 2
+HOME TEAM: Manhattan (2-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Nehemiah Mack....... *  1  1   0  0   2  3   0  0  0   3   4  3  1  0  0  17
+11 Aaron Walker Jr..... *  5 10   2  3   3  4   1  2  3   3  15  1  4  0  1  24
+14 Calvin Crawford..... *  2  4   2  3   0  0   0  5  5   1   6  4  3  1  1  33
+23 Rich Williams....... *  5 11   1  3   4  4   0  7  7   4  15  3  1  0  1  32
+33 Pauly Paulicap...... *  4  7   0  0   0  2   2  1  3   4   8  0  0  5  0  21
+02 Patrick Strzala.....    0  0   0  0   0  0   0  0  0   1   0  0  1  0  0   8
+03 Zavier Turner.......    1  2   0  0   2  2   0  1  1   1   4  1  3  0  0  21
+04 Zane Waterman.......    3 11   2  6   0  0   0  1  1   4   8  0  1  1  1  22
+22 Thomas Capuano......    2  5   1  2   0  0   1  2  3   1   5  2  0  0  0  18
+24 Ebube Ebube.........    0  2   0  2   0  0   0  0  0   1   0  0  0  0  0   4
+TM TEAM................                         3  3  6
+   Totals..............   23 53   8 19  11 15   7 22 29  23  65 14 14  7  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-29  .552     7-24  .292    23-53  .434
+3-Pt. FG%:  5-10  .500     3-9   .333     8-19  .421
+F Throw %:  2-2  1.000     9-13  .692    11-15  .733
+Deadball rebounds: 2
+Date: 11-21-17      Site: Estero, FL - Germain Arena  Attendance: 841
+Officials: Rick Crawford; Craig Murley; Tim Ebersole;
+Technical fouls: Missouri State-None. Manhattan-None.
+Score by Periods      1  2   Total
+Missouri State...... 34 35  - 69
+Manhattan........... 39 26  - 65

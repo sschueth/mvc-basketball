@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Bradley vs San Diego State (12-03-17)
+VISITORS: Bradley (7-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Thomas, Donte....... f  0  3   0  0   0  0   1  3  4   3   0  0  1  1  1  14
+12 Bar, Koch........... c  2  3   0  0   0  0   0  1  1   1   4  1  2  0  0  16
+05 Brown, Darrell...... g  4 13   0  2   4  5   0  2  2   3  12  2  4  0  2  27
+23 Lautier-Ogunleye, D. g  3  3   1  1   0  0   0  0  0   2   7  1  1  0  0  15
+25 Kennell, Nate....... g  1  6   1  4   0  0   0  2  2   3   3  0  0  0  0  19
+02 Lundy, Luqman.......    0  4   0  1   1  2   0  0  0   0   1  1  0  0  0   5
+10 Childs, Elijah......    0  4   0  1   0  0   4  3  7   1   0  2  4  2  2  18
+13 van Bree, Luuk......    3  6   2  4   0  0   0  2  2   4   8  0  1  1  0  17
+21 Stipanovich, Ryan...    2  3   2  2   0  0   1  0  1   1   6  0  1  1  3  14
+24 McGlaston, JoJo.....    3  9   0  3   2  3   0  3  3   0   8  2  1  0  4  24
+30 Barker, Callum......    0  1   0  0   0  0   2  0  2   2   0  0  0  0  0   8
+35 Hodgson, Jayden.....    1  3   1  3   0  0   0  2  2   1   3  1  1  0  1  23
+TM TEAM................
+   Totals..............   19 58   7 21   7 10   8 18 26  21  52 10 16  5 13 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-24  .333    11-34  .324    19-58  .328
+3-Pt. FG%:  2-5   .400     5-16  .313     7-21  .333
+F Throw %:  5-7   .714     2-3   .667     7-10  .700
+Deadball rebounds: 2
+HOME TEAM: San Diego State (7-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 WATSON, Devin.......    3 11   1  4   2  4   1  2  3   1   9  2  4  0  1  34
+04 SOHIKISH, Michael...    0  0   0  0   0  2   0  0  0   0   0  0  0  0  0   2
+05 MCDANIELS, Jalen....    6  8   1  2   1  2   5  7 12   1  14  2  1  0  1  26
+10 MONTANA, Max........    0  2   0  2   0  0   0  0  0   0   0  0  0  0  0   4
+11 MITCHELL, Matt......    1  4   1  2   2  2   0  6  6   0   5  1  2  0  2  25
+20 SCHAKEL, Jordan.....    0  2   0  2   2  2   0  1  1   4   2  0  0  0  0  17
+21 POPE, Malik.........    3  6   0  0   7  8   2  4  6   2  13  1  3  0  1  18
+24 NARAIN, Nolan.......    4  5   0  0   1  1   2  2  4   2   9  2  2  0  2  15
+31 GILL-CAESAR, Montaqu    3  3   0  0   0  0   1  2  3   0   6  1  1  0  0  10
+42 HEMSLEY, Jeremy.....    2  8   1  4   8  8   1  4  5   2  13  5  2  0  1  32
+45 ROOKS, Kameron......    2  5   0  0   0  0   2  3  5   0   4  0  1  2  0  17
+TM TEAM................                         1  1  2
+   Totals..............   24 54   4 16  23 29  15 32 47  12  75 14 16  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-29  .448    11-25  .440    24-54  .444
+3-Pt. FG%:  4-10  .400     0-6   .000     4-16  .250
+F Throw %:  7-9   .778    16-20  .800    23-29  .793
+Deadball rebounds: 3
+Date: 12-03-17      Site: San Diego, Calif. (Viejas Arena)  Attendance: 11102
+Officials: Gerry Pollard; Kelly Self; Randy Heimerman;
+Technical fouls: Bradley-None. San Diego State-None.
+Score by Periods      1  2   Total
+Bradley............. 23 29  - 52
+San Diego State..... 37 38  - 75

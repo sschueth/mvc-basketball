@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                           Drake vs Omaha (11-29-17)
+VISITORS: Drake (4-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 McGlynn, Nick....... f  6 10   0  0   1  1   3  4  7   5  13  0  2  2  0  24
+00 Rivers, C.J......... g  2  2   1  1   0  1   0  4  4   0   5  3  2  0  0  25
+04 McMurray, De'Antae.. g  2  6   1  2   5  6   1  3  4   1  10  2  3  0  0  26
+12 Timmer, Reed........ g  2  9   2  5   6  7   0  3  3   3  12  3  2  0  2  35
+23 Arogundade, Ore..... g  4  9   0  3   3  5   1  1  2   1  11  2  0  0  1  29
+02 Gibbs, Jalen........    0  3   0  3   0  0   0  0  0   0   0  0  1  0  0   9
+03 Woodward, Graham....    4  6   3  5   2  2   0  3  3   1  13  2  4  0  0  24
+14 Thomas, Noah........    1  4   1  2   0  0   0  2  2   1   3  2  1  0  1  13
+22 Schlatter, Casey....    3  5   0  0   0  0   1  4  5   2   6  0  1  1  0  15
+TM TEAM................                         3  1  4             1
+   Totals..............   24 54   8 21  17 22   9 25 34  14  73 14 17  3  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-25  .400    14-29  .483    24-54  .444
+3-Pt. FG%:  4-11  .364     4-10  .400     8-21  .381
+F Throw %:  7-9   .778    10-13  .769    17-22  .773
+Deadball rebounds: 5,1
+HOME TEAM: Omaha (1-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+32 Daniel Meyer........ f  0  1   0  0   0  0   0  0  0   3   0  1  0  0  0   5
+44 Mitch Hahn.......... f  2 14   0  8   0  0   0  5  5   4   4  2  0  0  0  34
+05 KJ Robinson......... g  3  5   3  3   0  0   0  1  1   3   9  3  2  0  0  22
+13 Daniel Norl......... g  6  9   4  5   0  0   0  2  2   3  16  4  1  2  2  28
+25 Zach Jackson........ g  7 10   1  2   2  4   2  2  4   2  17  0  3  0  1  33
+00 JT Gibson...........    2  6   2  5   2  2   0  3  3   2   8  0  1  0  1  23
+03 Lamar Wofford-Humph.    4  6   0  1   1  1   1  1  2   2   9  0  1  1  0  16
+10 Ayo Akinwole........    1  2   0  1   1  2   0  1  1   3   3  5  0  0  3  20
+40 Matt Pile...........    4  5   0  0   1  2   2  4  6   1   9  3  3  1  1  19
+TM TEAM................
+   Totals..............   29 58  10 25   7 11   5 19 24  23  75 18 11  4  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-31  .419    16-27  .593    29-58  .500
+3-Pt. FG%:  5-14  .357     5-11  .455    10-25  .400
+F Throw %:  3-4   .750     4-7   .571     7-11  .636
+Deadball rebounds: 2,2
+Date: 11-29-17      Site: Omaha, Neb. (Baxter Arena)  Attendance: 1525
+Officials: John Yorkovich; Jon Campbell; Mark Riggs;
+Technical fouls: Drake-None. Omaha-None.
+Score by Periods      1  2   Total
+Drake............... 31 42  - 73
+Omaha............... 34 41  - 75

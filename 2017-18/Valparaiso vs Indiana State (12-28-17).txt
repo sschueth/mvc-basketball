@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Valparaiso vs Indiana State (12-28-17)
+VISITORS: Valparaiso (9-5, 0-1 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Hazen, Parker....... *  0  1   0  1   0  0   0  0  0   1   0  0  1  0  0   9
+02 Walker, Tevonn...... *  6 17   2 10   5  8   1  4  5   3  19  1  2  0  1  25
+04 Evelyn, Bakari...... *  7  8   5  6   0  0   0  1  1   2  19  1  4  0  0  37
+05 Golder, Markus...... *  0  3   0  2   0  0   0  0  0   3   0  0  3  0  2  12
+14 Sorolla, Jaume...... *  1  1   0  0   0  0   2  0  2   2   2  0  1  0  1  12
+01 Bradford, Micah.....    1  4   1  4   0  0   0  2  2   1   3  1  2  0  0  18
+03 Joseph, Max.........    4  6   0  0   5  7   2  5  7   4  13  1  3  0  2  32
+12 Linssen, Marten.....    1  2   0  0   0  0   1  4  5   2   2  2  2  0  1  18
+21 Smits, Derrik.......    0  1   0  0   0  2   0  1  1   2   0  0  3  0  0   7
+23 McMillan, Mileek....    2  4   0  2   0  0   0  1  1   2   4  1  0  0  0  11
+33 Kiser, John.........    1  1   0  0   0  0   0  0  0   1   2  1  0  0  1  19
+TM TEAM................                            1  1             1
+   Totals..............   23 48   8 25  10 17   6 19 25  23  64  8 22  0  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-19  .579    12-29  .414    23-48  .479
+3-Pt. FG%:  4-9   .444     4-16  .250     8-25  .320
+F Throw %:  4-6   .667     6-11  .545    10-17  .588
+Deadball rebounds: 3
+HOME TEAM: Indiana State (6-7, 1-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Barnes, Jordan...... *  5  7   4  5   4  7   0  5  5   2  18  3  8  0  2  32
+04 Scott, Brenton...... *  5  7   2  3   3  4   0  4  4   3  15  0  3  0  2  29
+13 Hughes, Clayton..... *  2  6   1  5   0  2   0  1  1   3   5  1  0  0  2  27
+25 Davis, Qiydar....... *  3  3   1  1   4  4   1  4  5   3  11  3  1  0  3  29
+34 Murphy, Brandon..... *  0  2   0  0   2  4   1  2  3   2   2  0  4  0  1  20
+05 Kessinger, Bronson..    3  4   0  0   2  2   2  0  2   0   8  0  1  0  0  14
+11 Key, Tyreke.........    2  8   1  3   4  4   1  3  4   1   9  2  1  0  1  26
+24 Deady, Matt.........    0  0   0  0   0  0   0  0  0   1   0  0  1  0  0   3
+35 Thomas, Devin.......    1  2   1  1   0  0   0  0  0   4   3  1  1  0  1   8
+41 Rickman, Emondre....    1  3   0  0   0  2   1  2  3   0   2  0  0  1  0  12
+TM TEAM................                            2  2
+   Totals..............   22 42  10 18  19 29   6 23 29  19  73 10 20  1 12 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-24  .375    13-18  .722    22-42  .524
+3-Pt. FG%:  5-10  .500     5-8   .625    10-18  .556
+F Throw %:  4-9   .444    15-20  .750    19-29  .655
+Deadball rebounds: 5
+Date: 12-28-17      Site: Hulman Center (Terre Haute, Ind.)  Attendance: 3269
+Officials: Ed Crenshaw; Bret Smith; Rick O'Neill;
+Technical fouls: Valparaiso-None. Indiana State-None.
+Score by Periods      1  2   Total
+Valparaiso.......... 30 34  - 64
+Indiana State....... 27 46  - 73

@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                         Valparaiso vs SIUE (11-15-17)
+VISITORS: Valparaiso (3-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Hazen, Parker....... *  0  0   0  0   0  0   0  1  1   1   0  0  2  0  0  12
+02 Walker, Tevonn...... *  6 11   3  4   7 10   0  4  4   1  22  3  0  0  4  26
+04 Evelyn, Bakari...... *  6 10   1  2   1  2   0  3  3   3  14  7  2  0  2  22
+10 Burton, Joe......... *  2  4   1  3   2  2   0  3  3   1   7  0  1  0  0  21
+14 Sorolla, Jaume...... *  4  6   0  0   0  0   0  1  1   0   8  0  1  0  1  15
+01 Bradford, Micah.....    2  3   1  1   3  5   0  0  0   3   8  2  1  0  0  13
+03 Joseph, Max.........    2  4   0  0   1  2   2  4  6   2   5  1  2  0  2  19
+05 Golder, Markus......    3  6   1  2   3  4   0  5  5   2  10  2  1  1  0  18
+12 Linssen, Marten.....    0  3   0  0   3  4   2  1  3   2   3  0  0  0  0   5
+21 Smits, Derrik.......    1  2   0  0   5  6   0  4  4   2   7  2  3  0  0  20
+23 McMillan, Mileek....    1  3   1  2   0  0   0  0  0   5   3  1  0  1  0  11
+33 Kiser, John.........    2  3   1  2   2  2   0  1  1   2   7  2  0  0  1  18
+TM TEAM................                         2  3  5
+   Totals..............   29 55   9 16  27 37   6 30 36  24  94 20 13  2 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-28  .500    15-27  .556    29-55  .527
+3-Pt. FG%:  4-9   .444     5-7   .714     9-16  .563
+F Throw %: 10-12  .833    17-25  .680    27-37  .730
+Deadball rebounds: 3
+HOME TEAM: SIUE (0-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 KINCHEN, Daniel..... *  5 13   2  7   9 10   1  2  3   3  21  3  3  1  0  32
+13 ELLIS, Christian.... *  0  0   0  0   0  0   0  0  0   4   0  1  1  0  1   7
+15 MCFARLAND, David.... *  1  8   0  3   4  4   1  3  4   5   6  4  5  0  0  29
+34 TORRES, Julian...... *  0  5   0  3   0  0   1  3  4   2   0  1  2  1  0  20
+45 SIMMONS, Keenan..... *  2  4   1  2   2  2   1  4  5   4   7  0  3  0  0  14
+01 JACKSON, D.J........    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   6
+05 STEWART, Kevion.....    0  2   0  0   0  0   0  1  1   1   0  0  2  0  1  12
+22 BENTON, Justin......    4 10   0  1   0  2   1  3  4   4   8  5  2  0  0  31
+24 HENRY, Jalen........    8 13   0  2   5  7   1  8  9   2  21  0  2  2  0  24
+25 MCCOY, Jaylen.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+32 JACKSON, Brandon....    2  5   0  0   2  4   4  1  5   4   6  0  0  0  0  23
+TM TEAM................                         3  2  5
+   Totals..............   22 60   3 18  22 29  13 27 40  29  69 14 21  4  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-32  .344    11-28  .393    22-60  .367
+3-Pt. FG%:  2-9   .222     1-9   .111     3-18  .167
+F Throw %:  7-11  .636    15-18  .833    22-29  .759
+Deadball rebounds: 2
+Date: 11-15-17      Site: Edwardsville, Ill./Vadalabene Cent  Attendance: 1353
+Officials: Ed Crenshaw; Ford Branch Jr.; Mike O'Neil;
+Technical fouls: Valparaiso-None. SIUE-None.
+Score by Periods      1  2   Total
+Valparaiso.......... 42 52  - 94
+SIUE................ 31 38  - 69
+HOME OPENER

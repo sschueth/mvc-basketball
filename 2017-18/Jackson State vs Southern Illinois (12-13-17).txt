@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Jackson State vs Southern Illinois (12-13-17)
+VISITORS: Jackson State (3-8)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Collins,Paris....... *  5 14   3  6   2  4   3  1  4   5  15  0  2  0  4  24
+11 Jefferson,Jeremiah.. *  0 10   0  4   0  0   0  3  3   1   0  1  0  0  0  24
+12 Rivers,Maurice...... *  5 18   0  2   0  1   4  5  9   5  10  0  1  0  2  33
+23 Austin,Darius....... *  2  6   0  2   1  3   2  3  5   3   5  0  2  0  0  20
+24 Bozeman,Jeremiah.... *  1  5   0  1   7  8   4  0  4   4   9  3  2  0  0  36
+01 Taylor,Charles......    0  1   0  0   0  0   1  2  3   1   0  0  0  0  0   6
+03 Daughtry,Julian.....    1  1   1  1   0  0   0  0  0   1   3  0  0  0  0   5
+04 Wilson,Payton.......    1  1   0  0   1  2   1  2  3   1   3  0  0  2  0   8
+13 Berry,Jordan........    2  7   2  5   0  0   1  0  1   0   6  0  1  0  1  17
+22 Bolden,Treshawn.....    0  2   0  1   0  0   1  0  1   4   0  1  1  0  0   8
+25 Love,Jesse..........    0  2   0  0   0  0   0  0  0   0   0  1  0  0  1  18
+31 Howard,Lemmie.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                         2  1  3             1
+   Totals..............   17 67   6 22  11 18  19 17 36  25  51  6 10  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-34  .294     7-33  .212    17-67  .254
+3-Pt. FG%:  5-11  .455     1-11  .091     6-22  .273
+F Throw %:  4-6   .667     7-12  .583    11-18  .611
+Deadball rebounds: 3
+HOME TEAM: Southern Illinois (5-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Pippen,Kavion....... c 10 14   0  0   4  6   1  5  6   2  24  2  1  3  1  31
+03 Bartley,Marcus...... g  1  3   1  3   1  2   0  3  3   3   4  7  4  2  0  29
+10 Cook,Aaron.......... g  1  5   0  2   0  0   0  5  5   3   2  2  3  1  1  30
+13 Lloyd,Sean.......... g  1  2   0  1   7  9   2  6  8   2   9  3  2  0  0  38
+22 Fletcher,Armon...... g  7 14   1  4   9 10   2  5  7   3  24  1  4  0  1  36
+00 Wiley,Jonathan......    0  0   0  0   0  0   0  2  2   2   0  1  0  0  0  11
+04 McGill,Eric.........    1  1   1  1   0  0   0  4  4   0   3  0  2  0  0   7
+11 Smithpeters,Tyler...    1  3   0  2   1  1   0  3  3   2   3  2  3  1  0  18
+TM TEAM................                         1  2  3
+   Totals..............   22 42   3 13  22 28   6 35 41  17  69 18 19  7  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-22  .500    11-20  .550    22-42  .524
+3-Pt. FG%:  2-8   .250     1-5   .200     3-13  .231
+F Throw %:  8-10  .800    14-18  .778    22-28  .786
+Deadball rebounds: 3
+Date: 12-13-17      Site: Carbondale, IL  Attendance: 2151
+Officials: Ray Natili; Bo Boroski; Owen Shortt;
+Technical fouls: Jackson State-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+Jackson State....... 29 22  - 51
+Southern Illinois... 32 37  - 69

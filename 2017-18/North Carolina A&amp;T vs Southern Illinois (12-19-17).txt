@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+               North Carolina A&amp;T vs Southern Illinois (12-19-17)
+VISITORS: North Carolina A&amp;T (6-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 Boykins,Devonte..... *  2  6   2  4   2  2   0  2  2   3   8  1  4  0  1  30
+04 Langley,Kameron..... *  1  2   0  0   0  0   0  0  0   1   2  3  3  0  1  24
+21 Kadji,Japhet........ *  1  3   0  1   0  0   2  1  3   2   2  2  2  0  1  17
+25 Olujobi,Femi........ *  8 12   1  1   3  5   3  4  7   3  20  1  6  1  0  27
+33 Keyes,Denzel........ *  3  5   2  4   0  2   4  2  6   0   8  3  0  2  0  33
+00 McGowens,Davaris....    4  7   0  1   1  2   0  1  1   1   9  2  0  1  0  13
+01 Edmead,Aaren........    2  4   1  2   1  1   0  0  0   1   6  1  0  0  0  10
+02 Lartey,Kwei.........    1  4   1  4   0  2   0  1  1   0   3  0  1  0  0   9
+14 Pratt,Raymon........    2  3   0  0   2  6   1  1  2   5   6  0  0  0  0  15
+15 Hamilton,Amari......    0  6   0  3   0  0   0  1  1   2   0  1  0  0  0  20
+22 Gantz,Milik.........    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   2
+TM TEAM................                         1  3  4
+   Totals..............   24 52   7 20   9 20  11 16 27  18  64 14 17  4  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-23  .565    11-29  .379    24-52  .462
+3-Pt. FG%:  4-8   .500     3-12  .250     7-20  .350
+F Throw %:  7-13  .538     2-7   .286     9-20  .450
+Deadball rebounds: 4
+HOME TEAM: Southern Illinois (7-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Pippen,Kavion....... c  5  8   0  0   1  1   2  0  2   2  11  2  0  0  0  21
+03 Bartley,Marcus...... g  3  6   3  6   0  0   0  1  1   3   9  5  1  0  2  28
+10 Cook,Aaron.......... g  4  5   2  3   0  1   0  2  2   3  10  2  2  0  1  30
+13 Lloyd,Sean.......... g  6  8   2  2   2  3   2  2  4   3  16  3  1  1  3  28
+22 Fletcher,Armon...... g  7 11   3  6   3  5   1  2  3   0  20  2  0  0  0  27
+00 Wiley,Jonathan......    5  9   0  0   4  4   1  3  4   3  14  2  0  0  0  21
+11 Smithpeters,Tyler...    3  5   2  3   2  2   2  8 10   2  10  5  1  0  1  20
+15 Weiher,Austin.......    1  1   0  0   0  0   0  1  1   1   2  0  0  0  0   3
+24 Stradnieks,Rudy.....    2  4   0  1   0  0   1  0  1   3   4  3  0  0  0  11
+25 Gooch,Brendon.......    2  5   2  4   0  0   0  2  2   0   6  0  0  0  0  11
+TM TEAM................                         1  3  4             1
+   Totals..............   38 62  14 25  12 16  10 24 34  20 102 24  6  1  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 21-31  .677    17-31  .548    38-62  .613
+3-Pt. FG%:  9-15  .600     5-10  .500    14-25  .560
+F Throw %:  7-10  .700     5-6   .833    12-16  .750
+Deadball rebounds: 2
+Date: 12-19-17      Site: Carbondale, IL  Attendance: 3058
+Officials: Antinio Petty; Winston Stith; Shane Staggs;
+Technical fouls: North Carolina A&amp;T-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+North Carolina A&amp;T.. 37 27  - 64
+Southern Illinois... 58 44  -102

@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                           Loyola vs Drake (01-24-18)
+VISITORS: Loyola (17-4 (7-2 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+25 Krutwig, Cameron.... f  5  9   0  0   2  4   0  7  7   0  12  3  1  0  0  27
+00 Ingram, Donte....... g  2  5   1  3   0  0   0  3  3   1   5  0  0  1  1  27
+05 Townes, Marques..... g  8 10   1  2   0  0   0  2  2   2  17  3  0  0  0  24
+13 Custer, Clayton..... g  6  8   2  3   0  0   0  2  2   3  14  8  2  0  2  29
+14 Richardson, Ben..... g  3 11   0  4   0  0   0  4  4   2   6  4  2  0  2  32
+01 Williamson, Lucas...    4  4   2  2   0  0   1  2  3   2  10  1  0  0  2  20
+04 Skokna, Bruno.......    2  4   2  4   1  2   0  0  0   0   7  0  0  0  0  15
+12 Negron, Christian...    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+23 Satterwhite, Cameron    0  2   0  1   0  0   0  3  3   0   0  1  1  0  0   9
+24 Jackson, Aundre.....    4  7   0  0   1  2   0  5  5   4   9  1  0  0  0  16
+TM TEAM................                            1  1
+   Totals..............   34 60   8 19   4  8   1 29 30  14  80 21  6  1  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-25  .440    23-35  .657    34-60  .567
+3-Pt. FG%:  4-10  .400     4-9   .444     8-19  .421
+F Throw %:  3-6   .500     1-2   .500     4-8   .500
+Deadball rebounds: 4,1
+HOME TEAM: Drake (12-10 (6-3 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 McGlynn, Nick....... f  5  8   1  2   1  1   0  1  1   3  12  1  2  3  1  21
+00 Rivers, C.J......... g  0  1   0  0   0  0   0  4  4   0   0  0  2  0  0  27
+04 McMurray, De'Antae.. g  2  6   0  2   1  2   0  4  4   4   5  0  2  0  0  17
+12 Timmer, Reed........ g  3 11   1  5   3  4   0  5  5   3  10  3  2  0  0  31
+23 Arogundade, Ore..... g  1  3   0  1   0  0   2  2  4   0   2  1  0  0  1  29
+02 Gibbs, Jalen........    1  3   0  1   0  0   0  3  3   0   2  0  0  0  0  12
+03 Woodward, Graham....    6 11   2  6   0  1   0  0  0   0  14  2  2  0  0  28
+14 Thomas, Noah........    2  4   0  2   0  0   0  0  0   1   4  1  2  0  0  16
+22 Schlatter, Casey....    2  5   0  1   2  4   1  5  6   2   6  0  2  0  0  18
+32 Kuenstling, Kory....    1  1   0  0   0  0   0  0  0   0   2  0  0  0  0   1
+TM TEAM................                            1  1
+   Totals..............   23 53   4 20   7 12   3 25 28  13  57  8 14  3  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-26  .538     9-27  .333    23-53  .434
+3-Pt. FG%:  2-9   .222     2-11  .182     4-20  .200
+F Throw %:  1-3   .333     6-9   .667     7-12  .583
+Deadball rebounds: 2
+Date: 01-24-18      Site: Des Moines, Iowa (Knapp Center)  Attendance: 3522
+Officials: Rick Randall; Randy Heimerman; Mike O'Neill;
+Technical fouls: Loyola-None. Drake-None.
+Score by Periods      1  2   Total
+Loyola.............. 29 51  - 80
+Drake............... 31 26  - 57

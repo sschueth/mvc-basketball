@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Elon vs Indiana State (12-22-17)
+VISITORS: Elon (8-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Dawkins,Brian....... *  2  6   1  3   0  1   0  3  3   3   5  1  1  0  1  22
+02 Thompson,Dmitri..... *  7 11   3  5   2  2   2  8 10   0  19  2  1  1  0  31
+13 Swoope,Dainan....... *  4 12   3 10   6  7   0  2  2   1  17  3  0  0  2  37
+22 Santa Ana,Steven.... *  5  9   1  5   0  1   2  4  6   2  11  3  0  1  2  25
+41 Seibring,Tyler...... *  5 13   5  8   2  4   2  8 10   1  17  4  4  1  0  37
+10 Kundrotas,Karolis...    0  4   0  2   0  0   1  2  3   1   0  0  1  0  0  17
+12 Priddy,Nathan.......    0  0   0  0   0  0   0  0  0   1   0  0  1  0  0   3
+14 Anton,Jack..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+20 Eberhardt,Sheldon...    2  4   0  0   0  1   0  6  6   3   4  3  0  0  0  23
+33 Wright,Simon........    0  0   0  0   0  0   0  1  1   0   0  0  1  0  0   3
+TM TEAM................                            1  1             3
+   Totals..............   25 59  13 33  10 16   7 35 42  12  73 16 12  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-30  .400    13-29  .448    25-59  .424
+3-Pt. FG%:  8-21  .381     5-12  .417    13-33  .394
+F Throw %:  5-8   .625     5-8   .625    10-16  .625
+Deadball rebounds: 1,1
+HOME TEAM: Indiana State (5-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Barnes, Jordan...... *  7 20   4 12   0  0   1  6  7   4  18  6  0  0  0  29
+04 Scott, Brenton...... *  7 18   4 10   2  2   0  6  6   2  20  0  1  1  3  37
+05 Kessinger, Bronson.. *  1  3   0  0   0  0   0  0  0   0   2  0  0  1  0  11
+25 Davis, Qiydar....... *  2  7   0  1   4  4   2  4  6   3   8  1  1  2  0  23
+34 Murphy, Brandon..... *  3  7   0  0   0  1   6  2  8   3   6  1  1  1  0  27
+01 Ojinnaka, Demonte...    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   3
+03 Knight III, Trey....    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   4
+11 Key, Tyreke.........    2  7   2  4   1  2   0  7  7   2   7  1  1  0  2  27
+13 Hughes, Clayton.....    1  2   0  1   0  0   0  0  0   0   2  1  2  0  0   7
+24 Deady, Matt.........    1  2   0  0   1  1   0  1  1   1   3  1  0  0  1  10
+35 Thomas, Devin.......    1  2   0  0   0  1   2  2  4   1   2  2  1  0  0  13
+41 Rickman, Emondre....    0  0   0  0   0  0   0  3  3   2   0  0  2  0  0   9
+TM TEAM................
+   Totals..............   25 69  10 29   8 11  11 31 42  19  68 13  9  5  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-33  .333    14-36  .389    25-69  .362
+3-Pt. FG%:  5-17  .294     5-12  .417    10-29  .345
+F Throw %:  2-2  1.000     6-9   .667     8-11  .727
+Deadball rebounds: 0,1
+Date: 12-22-17      Site: Hulman Center (Terre Haute, Ind.)  Attendance: 2979
+Officials: Tom Eades; Kipp Kissinger; Shane Staggs;
+Technical fouls: Elon-None. Indiana State-None.
+Score by Periods      1  2   Total
+Elon................ 37 36  - 73
+Indiana State....... 29 39  - 68

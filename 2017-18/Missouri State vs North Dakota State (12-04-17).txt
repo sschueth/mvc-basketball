@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                Missouri State vs North Dakota State (12-04-17)
+VISITORS: Missouri State (8-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  2  5   0  0   1  1   2  4  6   1   5  0  3  0  0  26
+15 Rhodes,Jarrid....... f  4  7   2  5   1  2   2  3  5   2  11  0  1  1  0  31
+24 Johnson,Alize....... f  9 16   2  4   1  1   3  7 10   2  21  2  3  0  0  32
+11 Dixon,Jarred........ g  3  7   1  2   0  0   1  1  2   1   7  1  1  0  0  21
+23 Miller, JT.......... g  2  4   0  0   0  0   0  4  4   1   4  2  2  0  0  16
+00 Abdul Fofana........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+01 Lawrence,Mustafa....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+02 Scurry,Reggie.......    5  9   0  2   3  5   2  5  7   2  13  0  0  2  0  20
+14 Rousseau III,Ronnie.    3  6   2  3   0  0   0  4  4   0   8  2  1  0  0  29
+20 Kreklow,Ryan........    1  7   0  2   0  0   1  1  2   3   2  2  0  0  2  22
+34 Bhullar,Tanveer.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+TM Team................                         1  1  2             1
+   Totals..............   29 61   7 18   6  9  12 30 42  12  71  9 12  3  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-32  .469    14-29  .483    29-61  .475
+3-Pt. FG%:  4-10  .400     3-8   .375     7-18  .389
+F Throw %:  3-5   .600     3-4   .750     6-9   .667
+Deadball rebounds: 1
+HOME TEAM: North Dakota State (3-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+21 AJ Jacobson......... f  1  4   1  3   2  2   0  3  3   0   5  0  1  1  1  30
+30 Spencer Eliason..... f  2  4   0  0   2  2   3  3  6   2   6  1  0  0  0  17
+02 Paul Miller......... g  6 13   2  7   2  2   0  9  9   2  16  4  2  0  0  36
+11 Jared Samuelson..... g  1  3   1  3   0  0   0  0  0   1   3  0  0  0  1  15
+24 Tyson Ward.......... g  1  5   0  1   0  0   0  2  2   2   2  2  3  0  0  27
+13 Chris Quayle........    3  5   2  4   0  0   0  0  0   1   8  1  0  0  0  19
+22 Cameron Hunter......    2  6   1  4   1  2   0  4  4   1   6  2  1  0  0  23
+23 Deng Geu............    3  6   0  1   0  0   1  0  1   1   6  0  0  1  0  10
+34 Rocky Kreuser.......    1  4   0  2   0  1   0  1  1   0   2  0  0  0  0  10
+42 Dylan Miller........    1  3   1  2   1  2   0  0  0   3   4  0  1  1  1  13
+TM TEAM................
+   Totals..............   21 53   8 27   8 11   4 22 26  13  58 10  8  3  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-24  .458    10-29  .345    21-53  .396
+3-Pt. FG%:  7-15  .467     1-12  .083     8-27  .296
+F Throw %:  3-4   .750     5-7   .714     8-11  .727
+Deadball rebounds: 1
+Date: 12-04-17      Site: Scheels Center (Fargo, N.D.)  Attendance: 1704
+Officials: Kelly Pfeifer; Chris Beaver; Edwin Young;
+Technical fouls: Missouri State-None. North Dakota State-None.
+Score by Periods      1  2   Total
+Missouri State...... 37 34  - 71
+North Dakota State.. 32 26  - 58

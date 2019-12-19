@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Loyola vs Valparaiso (01-21-18)
+VISITORS: Loyola (16-4 (6-2 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... f  5  9   1  3   0  1   1  6  7   0  11  2  2  0  0  28
+25 Krutwig, Cameron.... c  5  9   0  0   0  0   2  5  7   2  10  0  1  0  0  19
+05 Townes, Marques..... g  3  6   0  1   2  2   0  4  4   1   8  2  1  1  1  31
+13 Custer, Clayton..... g  6 12   3  3   3  4   1  1  2   2  18  5  0  0  4  31
+14 Richardson, Ben..... g  2  3   0  0   4  5   0  1  1   2   8  2  2  0  2  35
+01 Williamson, Lucas...    1  3   1  3   0  0   0  4  4   3   3  1  0  0  0  16
+04 Skokna, Bruno.......    0  1   0  0   0  0   0  0  0   1   0  1  0  0  0   6
+23 Satterwhite, Cameron    0  1   0  1   0  0   0  1  1   0   0  2  1  0  0  15
+24 Jackson, Aundre.....    5 11   1  3   1  2   2  2  4   4  12  1  1  0  1  19
+TM TEAM................                         3  1  4
+   Totals..............   27 55   6 14  10 14   9 25 34  15  70 16  8  1  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-28  .393    16-27  .593    27-55  .491
+3-Pt. FG%:  2-7   .286     4-7   .571     6-14  .429
+F Throw %:  3-5   .600     7-9   .778    10-14  .714
+Deadball rebounds: 1
+HOME TEAM: Valparaiso (11-10 (2-6 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 McMillan, Mileek.... f  1  1   0  0   0  0   0  0  0   1   2  1  1  0  0   8
+21 Smits, Derrik....... c  4  6   0  0   6  8   2  4  6   2  14  1  2  2  1  31
+02 Walker, Tevonn...... g  6 15   2  6   0  1   1  3  4   4  14  1  2  0  0  37
+03 Joseph, Max......... g  1  4   0  1   0  0   1  0  1   2   2  0  1  0  0  26
+04 Evelyn, Bakari...... g  8 14   1  4   2  4   0  0  0   2  19  2  1  0  3  35
+01 Bradford, Micah.....    1  4   0  2   1  1   0  1  1   3   3  1  3  0  0  18
+05 Golder, Markus......    0  1   0  0   0  0   0  4  4   1   0  0  2  2  0  21
+14 Sorolla, Jaume......    0  1   0  0   0  0   1  1  2   0   0  0  0  0  0   6
+33 Kiser, John.........    0  1   0  1   0  0   0  6  6   1   0  0  1  0  0  18
+TM TEAM................                         1  2  3
+   Totals..............   21 47   3 14   9 14   6 21 27  16  54  6 13  4  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-25  .360    12-22  .545    21-47  .447
+3-Pt. FG%:  1-8   .125     2-6   .333     3-14  .214
+F Throw %:  4-4  1.000     5-10  .500     9-14  .643
+Deadball rebounds: 0,1
+Date: 01-21-18      Site: Valparaiso, Ind. (ARC)  Attendance: 4040
+Officials: Mike Stuart; Kipp Kissinger; Paul Janssen;
+Technical fouls: Loyola-None. Valparaiso-None.
+Score by Periods      1  2   Total
+Loyola.............. 27 43  - 70
+Valparaiso.......... 23 31  - 54

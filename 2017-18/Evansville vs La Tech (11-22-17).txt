@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Evansville vs La Tech (11-22-17)
+VISITORS: Evansville (5-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 Simmons, Blake...... f  6 13   3  7   0  0   1  5  6   0  15  3  3  1  0  37
+15 Traore, Dalen....... c  0  1   0  0   2  2   0  1  1   0   2  0  0  0  0  17
+00 Taylor, Ryan........ g  5 13   1  5   0  0   1  2  3   2  11  0  3  0  0  37
+12 Smith, Dru.......... g  4  6   2  2   2  3   1  2  3   3  12  4  2  0  1  23
+25 Gibson, Duane....... g  2  8   0  0   2  4   0  3  3   3   6  4  3  1  0  27
+14 Chatkevicius, Dainiu    5  7   0  0   0  0   2  6  8   3  10  0  0  2  0  24
+30 Frederking, Noah....    0  1   0  0   0  0   0  3  3   1   0  0  0  0  2  15
+33 Riley, K.J..........    1  1   0  0   1  2   1  2  3   2   3  1  3  0  0  11
+35 Hall, John..........    1  2   0  0   0  0   0  0  0   0   2  0  0  0  0   9
+TM TEAM................                         3  1  4
+   Totals..............   24 52   6 14   7 11   9 25 34  14  61 12 14  4  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-24  .458    13-28  .464    24-52  .462
+3-Pt. FG%:  4-9   .444     2-5   .400     6-14  .429
+F Throw %:  1-2   .500     6-9   .667     7-11  .636
+Deadball rebounds: 1,1
+HOME TEAM: La Tech (5-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+22 WASHINGTON, Jy'lan.. f  1  4   1  4   0  0   0  1  1   2   3  0  1  1  0  18
+05 WHITE, Joniah....... c  0  3   0  0   2  2   2  1  3   3   2  0  0  2  0  18
+00 BOYKINS, Jacobi..... g  3  9   1  6   1  3   3  9 12   1   8  3  1  0  2  33
+02 HARRIS, Jalen....... g  3 11   1  5   2  2   2  1  3   1   9  1  4  1  0  29
+04 BRACEY, Daquan...... g  5 10   1  3   6  6   2  3  5   3  17  5  0  0  3  32
+01 JEAN, Derric........    6 11   1  3   0  1   1  2  3   3  13  1  2  0  4  28
+10 DURUJI, Anthony.....    2  4   0  1   0  0   1  1  2   0   4  0  0  0  0  15
+11 PEMBERTON, Jacolby..    0  0   0  0   0  0   0  0  0   0   0  0  0  0  1   3
+21 CHRISTON, Exavian...    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+35 POWELL, Oliver......    3  9   0  1   1  2   2  3  5   1   7  0  1  1  0  22
+TM TEAM................                         1  1  2
+   Totals..............   23 61   5 23  12 16  14 22 36  14  63 10  9  5 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-30  .367    12-31  .387    23-61  .377
+3-Pt. FG%:  2-12  .167     3-11  .273     5-23  .217
+F Throw %:  7-11  .636     5-5  1.000    12-16  .750
+Deadball rebounds: 2
+Date: 11-22-17      Site: Hard Rock Hotel Riviera Maya  Attendance: 982
+Officials: Bill Ek; Steve McJunkins; Alfred Smith;
+Technical fouls: Evansville-None. La Tech-None.
+Score by Periods      1  2   Total
+Evansville.......... 27 34  - 61
+La Tech............. 31 32  - 63
+Cancun Challenge - Riviera Division: Championship Game

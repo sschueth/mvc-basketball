@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                         Valparaiso vs Drake (02-24-18)
+VISITORS: Valparaiso (15-16 (6-12 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 McMillan, Mileek.... f  0  0   0  0   0  0   0  2  2   0   0  0  1  1  0   9
+21 Smits, Derrik....... c 10 14   0  0   2  2   3  3  6   1  22  0  1  1  0  25
+02 Walker, Tevonn...... g  4 12   1  2   2  2   3  6  9   2  11  1  2  0  0  33
+03 Joseph, Max......... g  2  6   0  1   4  5   0  4  4   2   8  1  1  0  1  29
+04 Evelyn, Bakari...... g  2  9   0  4   2  2   0  1  1   2   6  4  2  0  0  34
+01 Bradford, Micah.....    2  5   1  2   0  0   0  2  2   3   5  3  2  0  2  21
+05 Golder, Markus......    6 10   1  2   0  0   2  7  9   4  13  0  2  0  1  27
+14 Sorolla, Jaume......    2  4   0  0   0  0   3  4  7   3   4  0  1  0  0  14
+33 Kiser, John.........    0  0   0  0   0  0   0  2  2   0   0  0  0  1  0   8
+TM TEAM................                            1  1
+   Totals..............   28 60   3 11  10 11  11 32 43  17  69  9 12  3  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-27  .481    15-33  .455    28-60  .467
+3-Pt. FG%:  2-6   .333     1-5   .200     3-11  .273
+F Throw %:  2-2  1.000     8-9   .889    10-11  .909
+Deadball rebounds: 0
+HOME TEAM: Drake (16-15 (10-8 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 McGlynn, Nick....... f  1 13   0  1   0  0   2  2  4   1   2  1  0  3  0  26
+00 Rivers, C.J......... g  2  4   0  0   4  4   0  5  5   0   8  2  1  0  1  33
+04 McMurray, De'Antae.. g  3  9   1  4   3  5   0  7  7   2  10  4  1  0  0  34
+12 Timmer, Reed........ g  8 12   5  7   7  9   0  2  2   2  28  1  2  0  2  36
+23 Arogundade, Ore..... g  2  5   2  4   2  2   1  2  3   4   8  2  0  0  1  33
+02 Gibbs, Jalen........    0  1   0  1   0  0   0  0  0   0   0  0  1  0  0   5
+03 Woodward, Graham....    1  5   1  4   1  2   1  0  1   1   4  0  0  0  0  14
+14 Thomas, Noah........    0  1   0  0   0  0   0  2  2   0   0  1  1  0  1   6
+22 Schlatter, Casey....    2  6   0  1   0  0   3  1  4   1   4  2  0  0  0  13
+TM TEAM................                         1  1  2             1
+   Totals..............   19 56   9 22  17 22   8 22 30  11  64 13  7  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-29  .310    10-27  .370    19-56  .339
+3-Pt. FG%:  3-9   .333     6-13  .462     9-22  .409
+F Throw %:  9-10  .900     8-12  .667    17-22  .773
+Deadball rebounds: 2
+Date: 02-24-18      Site: Des Moines, Iowa (Knapp Center)  Attendance: 4025
+Officials: K.B. Burdett; Jr.; Ervin Wilson;
+Technical fouls: Valparaiso-None. Drake-, TEAM.
+Score by Periods      1  2   Total
+Valparaiso.......... 30 39  - 69
+Drake............... 30 34  - 64

@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Loyola vs Southern Illinois (02-21-18)
+VISITORS: Loyola (24-5, 14-3 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... *  4 10   1  5   0  0   1  4  5   2   9  1  1  0  1  32
+05 Townes, Marques..... *  4  7   0  1   1  1   0  2  2   1   9  2  3  0  2  31
+13 Custer, Clayton..... *  6 10   3  6   1  2   0  1  1   1  16  5  2  0  5  36
+14 Richardson, Ben..... *  3  6   3  6   0  0   1  3  4   3   9  8  0  0  1  32
+25 Krutwig, Cameron.... *  6  7   0  0   2  2   2  4  6   1  14  2  1  0  0  24
+01 Williamson, Lucas...    0  2   0  1   0  0   0  0  0   3   0  0  0  0  0  14
+04 Skokna, Bruno.......    1  2   1  1   0  0   0  1  1   1   3  0  1  0  0  11
+12 Negron,Christian....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+23 Satterwhite, Cameron    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+24 Jackson, Aundre.....    7 10   1  2   0  0   1  6  7   2  15  0  2  1  0  16
+32 Shanks,Carson.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+TM TEAM................                         1  1  2
+   Totals..............   31 54   9 22   4  5   6 22 28  14  75 18 10  1  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 18-30  .600    13-24  .542    31-54  .574
+3-Pt. FG%:  7-13  .538     2-9   .222     9-22  .409
+F Throw %:  1-1  1.000     3-4   .750     4-5   .800
+Deadball rebounds: 0
+HOME TEAM: Southern Illinois (19-11, 11-6 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Pippen,Kavion....... c  7 10   0  0   2  2   5  3  8   2  16  1  2  0  0  29
+00 Wiley,Jonathan...... g  0  2   0  0   4  6   2  4  6   0   4  1  0  0  1  13
+10 Cook,Aaron.......... g  2  4   0  2   1  2   0  1  1   0   5  1  5  0  2  22
+11 Smithpeters,Tyler... g  0  5   0  4   0  0   0  2  2   1   0  5  3  1  0  24
+13 Lloyd,Sean.......... g  3  7   1  2   1  2   1  4  5   0   8  1  2  0  2  37
+03 Bartley,Marcus......    3  8   3  8   0  0   0  1  1   2   9  4  0  0  1  34
+05 Gardner,John........    0  0   0  0   0  2   0  0  0   0   0  0  0  0  0   1
+15 Weiher,Austin.......    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   1
+22 Fletcher,Armon......    5 11   2  3   2  4   1  3  4   3  14  0  1  0  2  36
+24 Stradnieks,Rudy.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+25 Gooch,Brendon.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+TM TEAM................
+   Totals..............   20 47   6 19  10 18   9 18 27   8  56 13 14  1  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-24  .542     7-23  .304    20-47  .426
+3-Pt. FG%:  5-11  .455     1-8   .125     6-19  .316
+F Throw %:  5-6   .833     5-12  .417    10-18  .556
+Deadball rebounds: 4
+Date: 02-21-18      Site: Carbondale, IL  Attendance: 6036
+Officials: Gary Maxwell; Bret Smith; Jeff Malham;
+Technical fouls: Loyola-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+Loyola.............. 44 31  - 75
+Southern Illinois... 36 20  - 56

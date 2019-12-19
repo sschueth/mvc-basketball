@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Valparaiso vs UC Riverside (12-20-17)
+VISITORS: Valparaiso (9-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Golder, Markus...... f  1  9   0  4   3  4   2  4  6   5   5  0  1  0  3  26
+33 Kiser, John......... f  0  3   0  0   0  0   2  2  4   3   0  0  2  0  0  15
+14 Sorolla, Jaume...... c  2  3   0  0   2  2   3  1  4   2   6  1  2  0  0  17
+03 Joseph, Max......... g  5  9   2  6   3  4   1  2  3   3  15  3  3  0  3  35
+04 Evelyn, Bakari...... g  6 17   1 10   0  0   1  1  2   4  13  3  3  0  3  32
+00 Hazen, Parker.......    0  0   0  0   1  2   0  0  0   0   1  0  0  0  0   3
+01 Bradford, Micah.....    1 11   0 10   1  2   1  3  4   5   3  1  1  1  2  26
+12 Linssen, Marten.....    1  1   0  0   2  2   2  1  3   5   4  0  2  0  1   8
+21 Smits, Derrik.......    3  5   0  0   1  1   2  5  7   4   7  2  4  0  0  23
+23 McMillan, Mileek....    2  5   1  2   1  2   1  1  2   0   6  0  0  0  1  15
+TM TEAM................                         3  1  4
+   Totals..............   21 63   4 32  14 19  18 21 39  31  60 10 18  1 13 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  6-28  .214    15-35  .429    21-63  .333
+3-Pt. FG%:  1-16  .063     3-16  .188     4-32  .125
+F Throw %:  6-10  .600     8-9   .889    14-19  .737
+Deadball rebounds: 4
+HOME TEAM: UC Riverside (4-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+14 Rosser, Brandon..... f  1  3   0  1   3  3   2  0  2   2   5  1  1  2  0  29
+21 Larsson, Alex....... f  1  5   0  0   3  4   0  1  1   3   5  0  4  0  1  14
+32 Dijkstra, Menno..... c  2  2   0  0   2  2   1  3  4   1   6  1  2  0  1  27
+03 Murray, Chance...... g  5 12   2  4   4  5   2  3  5   0  16  3  1  0  3  39
+15 Martin, Dikymbe..... g  7 12   2  4  14 16   0  6  6   3  30  4  4  0  4  40
+01 Sylvester, DJ.......    2  7   0  3   3  8   1  1  2   4   7  0  2  0  1  22
+12 Diallo, Idy.........    0  1   0  0   2  2   1  3  4   4   2  0  3  1  1  16
+25 Jackson, James......    1  2   0  0   0  2   1  3  4   0   2  0  2  0  0  13
+TM TEAM................                            3  3
+   Totals..............   19 44   4 12  31 42   8 23 31  17  73  9 19  3 11 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-25  .520     6-19  .316    19-44  .432
+3-Pt. FG%:  3-7   .429     1-5   .200     4-12  .333
+F Throw %:  8-14  .571    23-28  .821    31-42  .738
+Deadball rebounds: 7,2
+Date: 12-20-17      Site: Riverside, CA (SRC Arena)  Attendance: 454
+Officials: David Hall; Bob Staffen; Rob Rorke;
+Technical fouls: Valparaiso-None. UC Riverside-None.
+Score by Periods      1  2   Total
+Valparaiso.......... 19 41  - 60
+UC Riverside........ 37 36  - 73

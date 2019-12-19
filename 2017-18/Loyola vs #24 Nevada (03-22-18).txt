@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Loyola vs #24 Nevada (03-22-18)
+VISITORS: Loyola (31-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... f  1  3   0  1   0  0   0  2  2   3   2  1  1  0  0  26
+25 Krutwig, Cameron.... c  4  6   0  0   0  0   1  4  5   3   8  1  1  0  0  13
+05 Townes, Marques..... g  6 10   2  2   4  4   0  4  4   0  18  5  4  0  1  31
+13 Custer, Clayton..... g  7  9   1  2   0  2   0  3  3   1  15  4  4  0  3  34
+14 Richardson, Ben..... g  4  7   0  3   0  0   0  3  3   3   8  3  1  0  1  36
+01 Williamson, Lucas...    1  4   1  3   0  0   0  3  3   2   3  0  1  0  0  24
+04 Skokna, Bruno.......    0  2   0  1   0  0   0  1  1   1   0  1  2  0  1   8
+23 Satterwhite, Cameron    0  0   0  0   0  0   0  2  2   0   0  0  0  1  0   6
+24 Jackson, Aundre.....    6 11   1  1   2  2   2  2  4   0  15  0  1  0  0  22
+TM TEAM................                         3  2  5             1
+   Totals..............   29 52   5 13   6  8   6 26 32  13  69 15 16  1  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-28  .393    18-24  .750    29-52  .558
+3-Pt. FG%:  2-6   .333     3-7   .429     5-13  .385
+F Throw %:  4-6   .667     2-2  1.000     6-8   .750
+Deadball rebounds: 1,1
+HOME TEAM: #24 Nevada (29-8)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 MARTIN, Caleb....... f  8 18   5 11   0  0   1  4  5   3  21  1  4  3  2  34
+11 MARTIN, Cody........ f  6 12   0  2   4  4   2  4  6   2  16  5  3  1  4  40
+24 CAROLINE, Jordan.... f  5  9   2  3   7  8   4  2  6   4  19  1  2  1  2  37
+13 COOKE, Hallice...... g  1  3   0  2   0  0   0  2  2   1   2  1  0  0  1  25
+21 STEPHENS, Kendall... g  0  8   0  8   0  0   0  2  2   1   0  0  0  0  0  26
+01 TOOLEY, Charlie.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+12 FOSTER, Elijah......    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   3
+33 HALL, Josh..........    4  8   0  1   2  2   0  2  2   2  10  0  1  0  1  35
+TM TEAM................
+   Totals..............   24 58   7 27  13 14   7 17 24  13  68  8 10  5 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-27  .333    15-31  .484    24-58  .414
+3-Pt. FG%:  2-12  .167     5-15  .333     7-27  .259
+F Throw %:  4-4  1.000     9-10  .900    13-14  .929
+Deadball rebounds: 1,1
+Date: 03-22-18      Site: Philips Arena, Atlanta, Ga.  Attendance: 15616
+Officials: Kipp Kissinger; Michael Irving; Larry Scirotto;
+Technical fouls: Loyola-None. #24 Nevada-None.
+Score by Periods      1  2   Total
+Loyola.............. 28 41  - 69
+#24 Nevada.......... 24 44  - 68
+NCAA South Regional Semifinal No. 1

@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Southern Illinois vs Winthrop (11-10-17)
+VISITORS: Southern Illinois (1-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Wiley,Jonathan...... f  3  4   0  0   0  1   2  3  5   5   6  2  2  0  0  20
+33 Pippen,Kavion....... c  5 12   0  0   5  6   4  6 10   3  15  0  3  3  2  29
+10 Cook,Aaron.......... g  1  3   1  1   2  2   1  2  3   0   5  3  4  0  0  21
+13 Lloyd,Sean.......... g  7 15   1  3   0  0   1  6  7   4  15  4  2  0  4  34
+22 Fletcher,Armon...... g  6 11   1  5   1  1   1  4  5   3  14  2  2  0  1  29
+04 McGill,Eric.........    5  7   2  3   0  0   0  2  2   2  12  1  2  0  3  25
+11 Smithpeters,Tyler...    3  5   1  3   2  3   0  2  2   3   9  1  1  0  0  24
+15 Weiher,Austin.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+24 Stradnieks,Rudy.....    2  2   1  1   0  0   0  0  0   4   5  0  0  0  0   7
+25 Gooch,Brendon.......    0  2   0  1   0  0   1  4  5   1   0  0  0  0  1  10
+TM TEAM................                         1  2  3             2
+   Totals..............   32 61   7 17  10 13  11 31 42  25  81 13 18  3 11 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 18-34  .529    14-27  .519    32-61  .525
+3-Pt. FG%:  4-10  .400     3-7   .429     7-17  .412
+F Throw %:  7-8   .875     3-5   .600    10-13  .769
+Deadball rebounds: 2
+HOME TEAM: Winthrop (0-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+12 COOKS, Xavier....... f  4 10   0  0   6 10   2  6  8   2  14  3  7  0  1  37
+25 FERGUSON, Josh...... f  2  7   0  2   4  4   1  3  4   3   8  1  2  1  1  22
+10 BROMAN, Anders...... g  3  7   2  4   0  0   0  1  1   3   8  1  1  0  0  23
+13 BROMAN, Bjorn....... g  2  5   1  4   3  3   0  0  0   1   8  2  0  0  2  27
+21 ZUNIC, Kyle......... g  2  7   0  2   2  2   0  1  1   1   6  1  2  0  0  25
+00 SMITH, Nych.........    0  3   0  1   0  2   0  0  0   0   0  1  0  0  2  20
+02 PUPAVAC, Tom........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+11 FALDEN, Charles.....    3  5   1  3   1  2   1  1  2   0   8  0  1  0  2  14
+14 PICKETT, Adam.......    2  2   0  0   1  2   0  0  0   2   5  1  1  0  0  10
+15 UKAEGBU, Jermaine...    4  8   0  0   1  2   1  7  8   3   9  0  1  0  1  20
+TM TEAM................                         3     3
+   Totals..............   22 54   4 16  18 27   8 19 27  15  66 10 15  1  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-31  .484     7-23  .304    22-54  .407
+3-Pt. FG%:  2-8   .250     2-8   .250     4-16  .250
+F Throw %:  9-11  .818     9-16  .563    18-27  .667
+Deadball rebounds: 4
+Date: 11-10-17      Site: Rock Hill, SC -- Winthrop Coliseum  Attendance: 2675
+Officials: Brandon Heirs; Kellen Miliner; Vasili Rousseas;
+Technical fouls: Southern Illinois-, TEAM. Winthrop-None.
+Score by Periods      1  2   Total
+Southern Illinois... 47 34  - 81
+Winthrop............ 41 25  - 66

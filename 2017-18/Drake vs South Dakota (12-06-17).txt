@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Drake vs South Dakota (12-06-17)
+VISITORS: Drake (4-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 McGlynn, Nick....... f  1  2   0  0   0  0   0  1  1   2   2  2  1  0  0  14
+00 Rivers, C.J......... g  1  2   0  0   1  2   0  2  2   0   3  1  1  0  0  23
+03 Woodward, Graham.... g  2  6   1  4   0  0   1  0  1   1   5  0  2  0  1  21
+04 McMurray, De'Antae.. g  3  8   1  4   0  0   0  1  1   0   7  3  2  0  0  23
+12 Timmer, Reed........ g  6  9   2  4   0  0   2  1  3   2  14  0  4  0  1  29
+02 Gibbs, Jalen........    1  5   1  3   0  0   0  3  3   0   3  2  1  0  0  19
+14 Thomas, Noah........    3  4   0  1   2  2   0  1  1   0   8  1  3  0  1  20
+22 Schlatter, Casey....    6 10   0  0   0  0   2  4  6   2  12  2  0  0  0  21
+23 Arogundade, Ore.....    4  7   3  4   0  0   1  6  7   2  11  2  3  0  0  25
+32 Kuenstling, Kory....    0  0   0  0   0  0   0  0  0   2   0  0  1  1  1   5
+TM TEAM................
+   Totals..............   27 53   8 20   3  4   6 19 25  11  65 13 18  1  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 19-30  .633     8-23  .348    27-53  .509
+3-Pt. FG%:  5-9   .556     3-11  .273     8-20  .400
+F Throw %:  0-0   .000     3-4   .750     3-4   .750
+Deadball rebounds: 1
+HOME TEAM: South Dakota (8-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+12 Trey Burch-Manning.. f  7  9   0  0   3  4   2  7  9   2  17  2  0  0  0  25
+25 Tyler Hagedorn...... f  6 15   2  6   2  2   1  4  5   1  16  0  1  1  1  30
+02 Carlton Hurst....... g  3  4   0  0   0  2   3  2  5   1   6  0  3  0  2  19
+03 Triston Simpson..... g  7  8   4  5   0  0   0  2  2   0  18  3  1  0  1  35
+13 Matt Mooney......... g  5 12   2  5   2  2   0  1  1   2  14  6  1  0  1  32
+00 Stanley Umude.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+05 Joshua Doss.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+20 Brandon Armstrong...    1  2   0  1   0  0   1  3  4   1   2  1  0  0  0  15
+22 Tyler Peterson......    4  8   1  3   0  0   0  0  0   3   9  6  1  0  2  27
+34 Nick Fuller.........    3  5   2  2   1  1   0  1  1   0   9  0  0  0  0  11
+45 Austin Sparks.......    1  2   0  0   0  0   0  0  0   0   2  0  0  0  0   2
+TM Team................                         4     4
+   Totals..............   37 65  11 22   8 11  11 20 31  10  93 18  7  1  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 19-34  .559    18-31  .581    37-65  .569
+3-Pt. FG%:  6-13  .462     5-9   .556    11-22  .500
+F Throw %:  3-3  1.000     5-8   .625     8-11  .727
+Deadball rebounds: 1
+Date: 12-06-17      Site: Vermillion, S.D. (Sports Center)  Attendance: 2101
+Officials: Brain McAnally; Chris Beaver; Edwin Young;
+Technical fouls: Drake-None. South Dakota-None.
+Score by Periods      1  2   Total
+Drake............... 43 22  - 65
+South Dakota........ 47 46  - 93

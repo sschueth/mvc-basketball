@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                           Loyola vs UMKC (11-16-17)
+VISITORS: Loyola (3-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... f  3 11   1  6   1  2   0  8  8   3   8  3  1  1  0  33
+24 Jackson, Aundre..... f  6  8   2  2   4  6   2  1  3   2  18  1  2  1  0  29
+05 Townes, Marques..... g  4 10   0  2   4  4   2  7  9   3  12  3  5  0  2  34
+13 Custer, Clayton..... g  7 11   2  4   4  4   0  2  2   3  20  3  2  0  1  35
+14 Richardson, Ben..... g  0  2   0  2   2  4   0  2  2   2   2  2  2  2  1  35
+01 Williamson, Lucas...    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+04 Skokna, Bruno.......    0  1   0  1   0  0   0  1  1   0   0  0  0  0  0  10
+23 Satterwhite, Cameron    1  1   0  0   1  1   0  1  1   3   3  0  1  0  0   7
+25 Krutwig, Cameron....    1  1   0  0   1  2   2  4  6   1   3  0  3  0  0  16
+TM TEAM................                            1  1             2
+   Totals..............   22 45   5 17  17 23   6 27 33  17  66 12 18  4  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-22  .364    14-23  .609    22-45  .489
+3-Pt. FG%:  1-7   .143     4-10  .400     5-17  .294
+F Throw %:  3-4   .750    14-19  .737    17-23  .739
+Deadball rebounds: 1,2
+HOME TEAM: UMKC (1-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Giles, Jordan....... f  3  8   1  2   5  7   2  3  5   5  12  0  4  0  1  25
+30 Leek, Aleer......... f  0  5   0  1   0  0   1  4  5   2   0  0  4  3  0  32
+02 Ross, Isaiah........ g  3 12   3 11   2  2   0  6  6   0  11  1  1  0  1  34
+03 McKissic, Brandon... g  0  1   0  0   0  0   1  0  1   5   0  3  1  0  0  16
+10 Robinson, Broderick. g  5 11   3  7   3  4   4  3  7   4  16  1  2  0  4  36
+00 Bishop, Xavier......    3 13   0  4   3  4   1  2  3   2   9  0  1  0  0  31
+01 Smith, Marco........    1  3   1  3   2  2   0  0  0   1   5  1  0  0  0   8
+11 Jackson, Tony.......    1  2   1  2   0  0   0  3  3   0   3  0  1  0  1  11
+14 Ahmed, Mo...........    0  0   0  0   0  0   0  0  0   1   0  0  0  1  0   4
+25 Dulley, Steve.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+33 Nesbitt Jr., Marvin.    0  0   0  0   0  0   1  0  1   0   0  0  0  0  0   2
+TM TEAM................                         1  1  2             1
+   Totals..............   16 55   9 30  15 19  11 22 33  20  56  6 15  4  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-29  .310     7-26  .269    16-55  .291
+3-Pt. FG%:  4-13  .308     5-17  .294     9-30  .300
+F Throw %:  4-6   .667    11-13  .846    15-19  .789
+Deadball rebounds: 3
+Date: 11-16-17      Site: Municipal Auditorium (Kansas City, Mo.)  Attendance: 1482
+Officials: Brad Fowler; Jim Schipper; Ryan McDaniel;
+Technical fouls: Loyola-None. UMKC-None.
+Score by Periods      1  2   Total
+Loyola.............. 20 46  - 66
+UMKC................ 26 30  - 56
+FO: UMKC #5 (1:05), #3 (0:46.6)

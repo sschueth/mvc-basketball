@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Illinois State vs Nevada (11-29-17)
+VISITORS: Illinois State (3-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne, Phil......... f  6 11   0  0   3  5   2  0  2   5  15  1  3  0  0  26
+52 Yarbrough, Milik.... f  5  6   4  5   0  1   0  1  1   0  14  1  1  0  0  10
+03 Evans, Keyshawn..... g  4 10   3  7   2  4   0  2  2   1  13  4  3  0  0  26
+23 Tinsley, William.... g  1  4   1  4   0  0   0  7  7   2   3  2  2  1  1  31
+25 Williams, Madison... g  1  4   1  2   2  2   0  2  2   3   5  1  4  0  0  25
+00 Gassman, Isaac......    2  3   1  2   0  0   0  0  0   2   5  1  1  0  1  14
+05 Hein, Matt..........    1  4   1  3   0  2   0  0  0   2   3  1  4  0  0  19
+24 Martin, Jerron......    3  8   0  5   1  1   0  2  2   0   7  3  0  0  1  19
+30 Litwiller, Luke.....    0  0   0  0   0  0   0  0  0   1   0  0  0  0  1   5
+32 Bruninga, Taylor....    1  6   1  5   0  0   1  5  6   4   3  0  2  0  1  25
+TM TEAM................                         1  1  2
+   Totals..............   24 56  12 33   8 15   4 20 24  20  68 14 20  1  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-26  .500    11-30  .367    24-56  .429
+3-Pt. FG%:  9-19  .474     3-14  .214    12-33  .364
+F Throw %:  1-4   .250     7-11  .636     8-15  .533
+Deadball rebounds: 4
+HOME TEAM: Nevada (7-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 WILLIAMS, Darien.... f  2  4   0  1   0  0   1  6  7   2   4  1  2  0  0  12
+10 MARTIN, Caleb....... f  7 10   6  8   1  1   0  7  7   3  21  4  4  0  1  25
+11 MARTIN, Cody........ f  3  6   0  0   5  8   2  4  6   1  11  7  2  3  3  37
+14 DREW, Lindsey....... g  2  5   0  1   1  3   1  2  3   0   5  5  2  0  1  20
+21 STEPHENS, Kendall... g  6 11   5 10   2  2   1  3  4   3  19  1  1  0  1  30
+01 TOOLEY, Charlie.....    1  1   1  1   0  0   0  0  0   0   3  0  0  0  1   3
+12 FOSTER, Elijah......    0  1   0  0   3  4   0  1  1   0   3  0  0  0  1   6
+13 COOKE, Hallice......    2  4   2  4   0  0   0  0  0   2   6  3  1  0  0  18
+24 CAROLINE, Jordan....    9 14   0  2   2  3   2  3  5   2  20  1  1  0  0  24
+33 HALL, Josh..........    3  6   0  2   0  0   3  4  7   1   6  3  3  0  0  25
+TM TEAM................                         1  1  2
+   Totals..............   35 62  14 29  14 21  11 31 42  14  98 25 16  3  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 19-35  .543    16-27  .593    35-62  .565
+3-Pt. FG%:  9-20  .450     5-9   .556    14-29  .483
+F Throw %:  4-6   .667    10-15  .667    14-21  .667
+Deadball rebounds: 3
+Date: 11-29-17      Site: Reno, Nevada (Lawlor Events Center)  Attendance: 8293
+Officials: Kelly Self; Brad Ferrie; Winston Stith;
+Technical fouls: Illinois State-None. Nevada-, MARTIN, Cody.
+Score by Periods      1  2   Total
+Illinois State...... 36 32  - 68
+Nevada.............. 51 47  - 98
+Mountain West-Missouri Valley Conferenc Challenge

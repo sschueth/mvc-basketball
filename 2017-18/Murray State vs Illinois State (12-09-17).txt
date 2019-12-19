@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Murray State vs Illinois State (12-09-17)
+VISITORS: Murray State (6-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 MILLER, JR., Terrell f  9 16   2  5   5  5   0  8  8   2  25  3  1  2  0  38
+04 SANCHIOUS, Brion.... f  0  1   0  0   0  0   2  2  4   1   0  0  1  0  0  17
+02 STARK, Jonathan..... g  5 12   3  8   0  0   0  2  2   3  13  6  2  0  0  39
+11 BUCHANAN, Shaq...... g  6  8   3  5   1  1   0  4  4   2  16  2  1  1  2  35
+12 MORANT, Ja.......... g  6 11   0  3   3  4   2  7  9   3  15  6  2  0  0  33
+23 TAYLOR, Jachai......    0  1   0  1   0  0   0  0  0   0   0  0  0  1  0   5
+24 SMITH, Anthony......    0  0   0  0   0  0   0  0  0   4   0  0  2  0  0   3
+25 HAWKINS, Byron......    0  3   0  2   0  0   0  0  0   2   0  0  1  0  0   8
+40 DUPREE, Jalen.......    2  4   0  0   5  6   4  2  6   3   9  0  0  0  0  22
+TM TEAM................                            3  3             1
+   Totals..............   28 56   8 24  14 16   8 28 36  20  78 17 11  4  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-29  .517    13-27  .481    28-56  .500
+3-Pt. FG%:  5-13  .385     3-11  .273     8-24  .333
+F Throw %:  1-2   .500    13-14  .929    14-16  .875
+Deadball rebounds: 1
+HOME TEAM: Illinois State (4-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+32 Bruninga, Taylor.... f  3  7   3  7   2  2   1  5  6   2  11  1  0  0  0  33
+52 Yarbrough, Milik.... f 10 19   2  3   8 11   2  5  7   2  30  3  2  0  0  34
+03 Evans, Keyshawn..... g  2  8   1  3   4  4   1  2  3   2   9  3  3  0  0  36
+05 Hein, Matt.......... g  1  3   0  1   0  0   1  0  1   2   2  1  1  0  0  14
+25 Williams, Madison... g  2  5   2  5   2  3   0  4  4   5   8  2  1  0  0  27
+00 Gassman, Isaac......    1  3   1  3   0  0   0  2  2   2   3  1  1  0  0  14
+23 Tinsley, William....    3  7   3  7   0  0   1  3  4   2   9  2  1  1  0  33
+24 Martin, Jerron......    0  2   0  2   0  0   0  0  0   0   0  0  0  0  1   9
+TM TEAM................                         1     1
+   Totals..............   22 54  12 31  16 20   7 21 28  17  72 13  9  1  1 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-29  .345    12-25  .480    22-54  .407
+3-Pt. FG%:  6-18  .333     6-13  .462    12-31  .387
+F Throw %:  1-2   .500    15-18  .833    16-20  .800
+Deadball rebounds: 1
+Date: 12-09-17      Site: Doug Collins Court at Redbird Arena  Attendance: 5150
+Officials: Gerry Pollard; Gene Grimshaw; Roland Simmons;
+Technical fouls: Murray State-None. Illinois State-None.
+Score by Periods      1  2   Total
+Murray State........ 36 42  - 78
+Illinois State...... 27 45  - 72
+Drawn Offensive Fouls:
+Illinois State-4 (Williams, Tinsley, Bruninga, Yarbrough)
+Murray State-4 (Buchanan-3, Morant)
+Fouled out: Home #25 (Williams) 2nd 0:20.

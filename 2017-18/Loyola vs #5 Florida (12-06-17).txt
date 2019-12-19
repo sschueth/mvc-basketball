@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Loyola vs #5 Florida (12-06-17)
+VISITORS: Loyola (9-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... f  4 10   3  7   0  0   1  7  8   1  11  0  2  0  0  38
+24 Jackson, Aundre..... f 10 12   3  3   0  0   0  2  2   3  23  2  3  1  1  30
+25 Krutwig, Cameron.... c  6 10   0  0   2  2   2  6  8   2  14  3  3  1  3  36
+05 Townes, Marques..... g  1  4   0  0   0  0   0  1  1   2   2  2  2  1  0  21
+13 Custer, Clayton..... g  2  5   0  1   0  0   0  0  0   1   4  3  1  0  0  14
+01 Williamson, Lucas...    1  3   0  0   0  0   0  2  2   1   2  0  1  0  1  16
+04 Skokna, Bruno.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+10 Avery, Adarius......    2  5   0  1   1  3   2  2  4   2   5  1  1  0  1  22
+23 Satterwhite, Cameron    0  1   0  0   4  4   0  4  4   0   4  3  0  1  0  20
+TM TEAM................                         2  1  3             2
+   Totals..............   26 50   6 12   7  9   7 25 32  12  65 14 15  4  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-28  .500    12-22  .545    26-50  .520
+3-Pt. FG%:  5-8   .625     1-4   .250     6-12  .500
+F Throw %:  1-1  1.000     6-8   .750     7-9   .778
+Deadball rebounds: 1
+HOME TEAM: #5 Florida (5-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+24 Ballard, Deaundrae.. f  3  6   0  2   1  2   2  0  2   1   7  0  0  0  1  20
+25 Stone, Keith........ f  4  7   0  1   0  0   3  2  5   1   8  0  2  0  0  18
+13 Hayes, Kevarrius.... c  2  6   0  0   1  2   4  1  5   2   5  0  3  3  1  26
+04 Koulechov, Egor..... g  3 13   0  3   1  1   4  5  9   3   7  0  0  0  0  27
+11 Chiozza, Chris...... g  3  7   1  3   2  2   1  4  5   2   9  4  1  0  3  35
+00 Okauru, Mike........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   4
+03 Hudson, Jalen.......    3 11   0  5   3  5   1  3  4   2   9  1  0  0  1  22
+05 Allen, KeVaughn.....    3 11   1  5   1  2   0  0  0   2   8  2  2  0  3  34
+12 Gak, Gorjok.........    3  4   0  0   0  0   1  1  2   0   6  0  0  0  0  14
+TM TEAM................                         2  2  4
+   Totals..............   24 65   2 19   9 14  18 18 36  14  59  7  8  3  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-33  .394    11-32  .344    24-65  .369
+3-Pt. FG%:  1-9   .111     1-10  .100     2-19  .105
+F Throw %:  4-6   .667     5-8   .625     9-14  .643
+Deadball rebounds: 3
+Date: 12-06-17      Site: Exactech Arena - Gainesville, Fla.  Attendance: 9012
+Officials: Joe Lindsay; Ron Groover; Robert Felder;
+Technical fouls: Loyola-None. #5 Florida-None.
+Score by Periods      1  2   Total
+Loyola.............. 34 31  - 65
+#5 Florida.......... 31 28  - 59

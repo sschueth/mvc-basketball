@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                         Drake vs Valparaiso (01-10-18)
+VISITORS: Drake (10-8 (4-1 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 McGlynn, Nick....... f  4  9   0  2   3  4   0  1  1   4  11  3  2  1  1  17
+00 Rivers, C.J......... g  2  4   0  0   1  2   1  2  3   0   5  4  2  0  2  26
+04 McMurray, De'Antae.. g  3 10   1  5   1  1   0  2  2   1   8  2  4  0  1  30
+12 Timmer, Reed........ g  3  7   1  4   0  0   0  2  2   1   7  1  2  0  2  28
+23 Arogundade, Ore..... g  1  4   1  3   0  1   0  2  2   2   3  2  1  0  1  25
+01 Jones, Samm.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+02 Gibbs, Jalen........    1  1   0  0   0  0   0  0  0   0   2  0  0  0  1   7
+03 Woodward, Graham....    5 10   2  3   3  3   0  3  3   1  15  2  1  0  0  28
+14 Thomas, Noah........    2  2   1  1   0  0   0  0  0   0   5  2  3  0  0  15
+22 Schlatter, Casey....    0  1   0  1   0  0   0  3  3   1   0  2  1  0  0   9
+32 Kuenstling, Kory....    2  3   0  0   0  0   1  1  2   1   4  2  0  1  0  14
+TM TEAM................                         2  1  3
+   Totals..............   23 51   6 19   8 11   4 17 21  11  60 20 16  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-25  .520    10-26  .385    23-51  .451
+3-Pt. FG%:  4-9   .444     2-10  .200     6-19  .316
+F Throw %:  5-5  1.000     3-6   .500     8-11  .727
+Deadball rebounds: 2,1
+HOME TEAM: Valparaiso (11-7 (2-3 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 McMillan, Mileek.... f  1  3   1  3   0  0   0  1  1   1   3  0  0  0  3  15
+21 Smits, Derrik....... c  4  7   0  0   2  2   1  3  4   3  10  2  4  0  0  22
+02 Walker, Tevonn...... g 10 16   5  8   1  1   2  4  6   1  26  3  5  0  2  35
+03 Joseph, Max......... g  6  7   3  3   1  2   0  4  4   3  16  8  1  0  1  36
+04 Evelyn, Bakari...... g  3  5   3  5   0  0   0  4  4   3   9  2  2  1  1  34
+00 Hazen, Parker.......    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   1
+01 Bradford, Micah.....    1  6   0  4   0  0   0  2  2   0   2  7  2  0  2  21
+05 Golder, Markus......    1  3   0  1   0  0   0  4  4   3   2  2  1  0  0  18
+12 Linssen, Marten.....    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   1
+14 Sorolla, Jaume......    3  5   0  0   3  4   1  1  2   1   9  1  0  1  1  17
+TM TEAM................                         1  1  2             1
+   Totals..............   29 52  12 24   7  9   5 25 30  15  77 25 17  2 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 18-28  .643    11-24  .458    29-52  .558
+3-Pt. FG%:  8-15  .533     4-9   .444    12-24  .500
+F Throw %:  2-3   .667     5-6   .833     7-9   .778
+Deadball rebounds: 2
+Date: 01-10-18      Site: Valparaiso, Ind. (ARC)  Attendance: 2710
+Officials: Joe DeRosa; Antinio Petty; Rick Randall;
+Technical fouls: Drake-None. Valparaiso-None.
+Score by Periods      1  2   Total
+Drake............... 35 25  - 60
+Valparaiso.......... 46 31  - 77

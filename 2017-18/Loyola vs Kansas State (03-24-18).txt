@@ -1,0 +1,58 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Loyola vs Kansas State (03-24-18)
+VISITORS: Loyola (32-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Ingram, Donte....... f  4  6   2  4   2  2   0  8  8   2  12  1  3  1  0  32
+25 Krutwig, Cameron.... c  4  8   0  0   1  1   1  6  7   0   9  2  1  0  1  22
+05 Townes, Marques..... g  4  6   0  0   5  5   0  4  4   2  13  3  4  0  0  30
+13 Custer, Clayton..... g  2  8   1  4   2  2   1  1  2   2   7  5  3  0  1  36
+14 Richardson, Ben..... g  7 10   6  7   3  3   0  6  6   2  23  4  1  0  0  36
+01 Williamson, Lucas...    3  6   0  3   2  3   1  4  5   4   8  2  1  1  0  21
+04 Skokna, Bruno.......    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   3
+12 Negron, Christian...    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+23 Satterwhite, Cameron    0  0   0  0   0  2   0  0  0   1   0  0  1  0  0   4
+24 Jackson, Aundre.....    3  3   0  0   0  0   0  2  2   2   6  0  1  0  0  13
+32 Shanks, Carson......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+44 Dinardi, Nick.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                         1     1
+   Totals..............   27 47   9 18  15 18   4 32 36  15  78 17 15  2  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-27  .556    12-20  .600    27-47  .574
+3-Pt. FG%:  4-9   .444     5-9   .556     9-18  .500
+F Throw %:  2-2  1.000    13-16  .813    15-18  .833
+Deadball rebounds: 2,2
+HOME TEAM: Kansas State (25-12)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+14 Mawien, Makol....... f  2  8   0  1   0  0   1  2  3   2   4  0  0  0  2  19
+20 Sneed, Xavier....... f  6 10   4  6   0  0   3  3  6   2  16  1  2  1  0  36
+02 Diarra, Cartier..... g  2  8   1  3   2  2   1  4  5   4   7  0  0  0  0  25
+03 Stokes, Kamau....... g  4 12   1  6   4  4   1  2  3   2  13  4  1  1  0  28
+05 Brown, Barry........ g  6 16   0  4   2  3   1  2  3   3  14  2  2  0  3  38
+00 McGuirl, Mike.......    2  9   0  5   1  1   1  0  1   1   5  1  0  0  0  29
+01 Sallah, Mawdo.......    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+11 Patrick, Brian......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+12 Schoen, Mason.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+21 Love III, James.....    0  0   0  0   0  0   1  0  1   0   0  0  0  0  0   2
+23 Wainright, Amaad....    1  2   0  1   0  0   1  3  4   3   2  1  0  0  2  11
+24 Mcatee, Pierson.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+34 Stockard III, Levi..    0  0   0  0   1  2   0  1  1   2   1  0  1  0  0   7
+40 Kinnamon, Kade......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                         1     1
+   Totals..............   23 66   6 26  10 12  11 17 28  19  62  9  6  2  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-27  .370    13-39  .333    23-66  .348
+3-Pt. FG%:  2-10  .200     4-16  .250     6-26  .231
+F Throw %:  2-3   .667     8-9   .889    10-12  .833
+Deadball rebounds: 0
+Date: 03-24-18      Site: Philips Arena, Atlanta, Ga.  Attendance: 15477
+Officials: Terry Wymer; Bert Smith; Gerry Pollard;
+Technical fouls: Loyola-None. Kansas State-None.
+Score by Periods      1  2   Total
+Loyola.............. 36 42  - 78
+Kansas State........ 24 38  - 62
+NCAA South Regional Final

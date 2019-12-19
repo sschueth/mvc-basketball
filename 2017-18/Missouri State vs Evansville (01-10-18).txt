@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Missouri State vs Evansville (01-10-18)
+VISITORS: Missouri State (13-5, 3-2 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Scurry,Reggie....... f  5 11   0  1   0  0   1  1  2   4  10  0  1  2  0  26
+15 Rhodes,Jarrid....... f  3  6   3  4   1  1   1  4  5   3  10  1  2  0  1  25
+24 Johnson,Alize....... f  6 16   2  8   2  2   4 10 14   0  16  0  2  0  1  33
+11 Dixon,Jarred........ g  2 10   1  4   1  2   1  1  2   2   6  5  0  0  3  34
+20 Kreklow,Ryan........ g  0  2   0  1   0  0   0  1  1   3   0  4  0  1  1  25
+00 Abdul Fofana........    1  2   0  0   0  0   0  1  1   4   2  0  1  0  1  11
+01 Lawrence,Mustafa....    0  1   0  1   0  0   0  0  0   1   0  0  0  0  0   4
+14 Rousseau III,Ronnie.    3  5   1  2   2  2   0  1  1   0   9  0  3  0  0  15
+23 Miller, JT..........    0  3   0  1   0  0   0  3  3   3   0  3  4  0  0  24
+34 Bhullar,Tanveer.....    1  2   0  0   0  0   0  0  0   1   2  0  0  0  0   3
+TM Team................                         2     2
+   Totals..............   21 58   7 22   6  7   9 22 31  21  55 13 13  3  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-28  .321    12-30  .400    21-58  .362
+3-Pt. FG%:  2-7   .286     5-15  .333     7-22  .318
+F Throw %:  4-5   .800     2-2  1.000     6-7   .857
+Deadball rebounds: 0
+HOME TEAM: Evansville (12-6, 2-3 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+15 Traore, Dalen....... c  1  1   0  0   3  4   1  2  3   1   5  0  0  0  0   9
+00 Taylor, Ryan........ g  5 19   3  8   0  0   2  3  5   2  13  3  1  0  0  40
+12 Smith, Dru.......... g  3  7   1  2   8  8   0  5  5   1  15  4  3  0  4  39
+30 Frederking, Noah.... g  1  2   0  0   0  0   0  2  2   3   2  0  4  0  0  24
+33 Riley, K.J.......... g  4  6   0  1   3  6   1  2  3   3  11  3  5  1  1  29
+10 Kuhlman, Evan.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+14 Chatkevicius, Dainiu    5  9   0  0   0  1   4  7 11   1  10  0  1  2  0  28
+35 Hall, John..........    3  4   0  0   2  4   1  5  6   1   8  0  0  0  1  28
+TM TEAM................                            3  3
+   Totals..............   22 48   4 11  16 23   9 29 38  12  64 10 14  3  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-28  .464     9-20  .450    22-48  .458
+3-Pt. FG%:  3-8   .375     1-3   .333     4-11  .364
+F Throw %:  2-3   .667    14-20  .700    16-23  .696
+Deadball rebounds: 2
+Date: 01-10-18      Site: Ford Center, Evansville, Ind.  Attendance: 3237
+Officials: Tom Eades; Paul Janssen; Jeb Hartness;
+Technical fouls: Missouri State-None. Evansville-None.
+Score by Periods      1  2   Total
+Missouri State...... 24 31  - 55
+Evansville.......... 31 33  - 64

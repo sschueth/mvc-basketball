@@ -1,0 +1,48 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Missouri State vs Southern Illinois (03-02-18)
+VISITORS: Missouri State (18-15; 7-11 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  3  4   0  0   0  0   4  2  6   1   6  0  3  0  2  33
+15 Rhodes,Jarrid....... f  6 13   3  7   6  6   1  2  3   1  21  1  0  0  1  38
+24 Johnson,Alize....... f  3  6   0  2   0  0   2  9 11   2   6  4  4  1  0  37
+01 Lawrence,Mustafa.... g  1  4   0  1   1  3   0  1  1   1   3  1  1  0  1  14
+11 Dixon,Jarred........ g  6 12   2  5   2  2   1  1  2   3  16  0  0  0  0  32
+14 Rousseau III,Ronnie.    0  1   0  1   0  0   0  0  0   0   0  1  0  0  0   5
+20 Kreklow,Ryan........    3  7   2  5   1  2   0  4  4   1   9  3  2  1  1  26
+23 Miller, JT..........    0  1   0  1   0  0   0  1  1   0   0  1  0  0  0   8
+34 Bhullar,Tanveer.....    1  3   0  0   0  0   0  1  1   0   2  1  0  0  0   7
+TM Team................                         1     1
+   Totals..............   23 51   7 22  10 13   9 21 30   9  63 12 10  2  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-26  .385    13-25  .520    23-51  .451
+3-Pt. FG%:  4-11  .364     3-11  .273     7-22  .318
+F Throw %:  4-7   .571     6-6  1.000    10-13  .769
+Deadball rebounds: 2
+HOME TEAM: Southern Illinois (20-12; 11-7 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Pippen,Kavion....... c  5 11   0  0   1  1   2  4  6   1  11  0  1  3  0  30
+03 Bartley,Marcus...... g  2  8   0  4   0  0   0  3  3   1   4  2  2  0  0  28
+10 Cook,Aaron.......... g  4  9   2  4   0  0   0  2  2   3  10  7  2  1  2  33
+13 Lloyd,Sean.......... g  5 10   2  4   1  2   2  3  5   1  13  2  1  0  2  36
+22 Fletcher,Armon...... g  4  7   2  2   0  0   2  2  4   3  10  1  1  0  1  21
+00 Wiley,Jonathan......    1  2   0  0   0  0   1  2  3   0   2  1  0  0  0  13
+11 Smithpeters,Tyler...    4  9   2  6   0  0   2  3  5   2  10  3  0  0  1  29
+24 Stradnieks,Rudy.....    3  4   1  1   0  0   1  0  1   0   7  2  0  0  0  10
+TM TEAM................                         1  1  2
+   Totals..............   28 60   9 21   2  3  11 20 31  11  67 18  7  4  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-31  .387    16-29  .552    28-60  .467
+3-Pt. FG%:  5-14  .357     4-7   .571     9-21  .429
+F Throw %:  0-0   .000     2-3   .667     2-3   .667
+Deadball rebounds: 1
+Date: 03-02-18      Site: Scottrade Center, St. Louis, MO  Attendance: 7077
+Officials: John Higgins; Ed Crenshaw; Brad Ferrie;
+Technical fouls: Missouri State-None. Southern Illinois-, Fletcher,Armon.
+Score by Periods      1  2   Total
+Missouri State...... 28 35  - 63
+Southern Illinois... 29 38  - 67

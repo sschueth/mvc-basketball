@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Drake vs Northern Iowa (01-16-18)
+VISITORS: Drake (11-9, 5-2 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Rivers, C.J......... *  2  2   0  0   0  0   0  8  8   1   4  4  0  0  2  28
+04 McMurray, De'Antae.. *  1 12   1  6   0  0   0  3  3   1   3  2  1  0  2  32
+12 Timmer, Reed........ *  6 12   3  7   4  5   1  3  4   1  19  4  1  0  0  33
+23 Arogundade, Ore..... *  0  2   0  2   0  0   0  1  1   3   0  4  0  0  0  20
+35 McGlynn, Nick....... *  6 10   1  1   0  0   0  3  3   4  13  0  3  1  0  26
+02 Gibbs, Jalen........    0  2   0  2   0  0   0  1  1   0   0  1  0  0  0  11
+03 Woodward, Graham....    2  7   2  4   0  0   0  1  1   3   6  0  1  0  1  26
+14 Thomas, Noah........    1  1   1  1   0  0   0  0  0   0   3  1  1  0  0   9
+22 Schlatter, Casey....    3  4   0  0   0  0   1  1  2   2   6  0  1  0  0  12
+32 Kuenstling, Kory....    0  0   0  0   0  0   0  0  0   3   0  0  1  0  0   3
+TM TEAM................                                             2
+   Totals..............   21 52   8 23   4  5   2 21 23  18  54 16 11  1  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-29  .414     9-23  .391    21-52  .404
+3-Pt. FG%:  5-13  .385     3-10  .300     8-23  .348
+F Throw %:  0-0   .000     4-5   .800     4-5   .800
+Deadball rebounds: 1
+HOME TEAM: Northern Iowa (10-9, 2-5 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Carlson, Klint...... *  4  9   0  1   2  3   1  7  8   1  10  1  0  0  0  40
+04 Pickford, Tywhon.... *  6  9   3  4   1  1   1  9 10   0  16  2  2  0  1  39
+13 McCloud, Juwan...... *  0  2   0  1   0  0   0  1  1   0   0  1  0  0  0  10
+24 Brown, Isaiah....... *  2  7   1  4   2  2   0  2  2   3   7  2  2  0  2  37
+50 Phyfe, Austin....... *  1  1   0  0   0  0   0  1  1   2   2  1  2  0  0   4
+25 Koch, Bennett.......    7 11   0  0   5  6   2  3  5   3  19  2  4  1  0  30
+30 Haldeman, Spencer...    4  9   2  4   2  2   0  4  4   1  12  1  0  0  0  30
+33 Lohaus, Wyatt.......    1  3   0  1   0  0   0  1  1   0   2  0  1  0  0  10
+TM TEAM................                         1  1  2             1
+   Totals..............   25 51   6 15  12 14   5 29 34  10  68 10 12  1  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-26  .462    13-25  .520    25-51  .490
+3-Pt. FG%:  2-6   .333     4-9   .444     6-15  .400
+F Throw %:  0-0   .000    12-14  .857    12-14  .857
+Deadball rebounds: 2
+Date: 01-16-18      Site: Cedar Falls, Iowa (McLeod Center)  Attendance: 3880
+Officials: Kelly Self; Kipp Kissinger; Paul Janssen;
+Technical fouls: Drake-, Arogundade, Ore. Northern Iowa-, Carlson, Klint,
+TEAM.
+Score by Periods      1  2   Total
+Drake............... 29 25  - 54
+Northern Iowa....... 26 42  - 68
