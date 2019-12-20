@@ -21,6 +21,4 @@ Outputs:
 * Moneyline (Confidence 0 to 1 the Home team wins)
 * O/U (Total Points in Game)
 
-
-
-https://www.tutorialspoint.com/artificial_neural_network/images/supervised_learning.jpg
+![alt text](https://www.tutorialspoint.com/artificial_neural_network/images/supervised_learning.jpg "NN with Supervised Learning")
