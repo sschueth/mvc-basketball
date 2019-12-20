@@ -20,3 +20,5 @@ Outputs:
 * Spread (Home team perspective)
 * Moneyline (Confidence 0 to 1 the Home team wins)
 * O/U (Total Points in Game)
+
+(supervise_learning.jpg)
