@@ -71,13 +71,13 @@ def get_game_data(year,game):
 
 def main_get_games():
     links_list = []
-    with open('mvc_game_links_3.txt','r') as links_file:
+    with open('mvc_game_links_2.txt','r') as links_file:
         for link in links_file:
             link = link.replace('\n','')
             links_list.append(link)
     for link_idx in tqdm(range(0,len(links_list))):
         tic = time.time()
-        file_name, box_score = get_game_data('2015-16',links_list[link_idx])
+        file_name, box_score = get_game_data('2014-15',links_list[link_idx])
         with open(file_name, 'w') as file:
             for b in box_score:
                 file.writelines('%s\n' % b)
