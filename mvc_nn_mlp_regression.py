@@ -98,7 +98,7 @@ def nn_input_format_to_train(years):
     return nn_data_inputs, nn_data_outputs, nn_data_games_info
 
 def create_nn(x_data,y_data):
-    nn = MLPRegressor(hidden_layer_sizes=(40,40,),activation='logistic',learning_rate='constant',tol=1e-10,solver='adam',max_iter=10000,verbose=True)
+    nn = MLPRegressor(hidden_layer_sizes=(40,20,),activation='logistic',learning_rate='constant',tol=1e-20,solver='adam',max_iter=10000,verbose=True)
     n = nn.fit(x_data,y_data)
     return n
     
@@ -145,16 +145,20 @@ def nn_normalize_data(x_train,x_test):
     #print(y_spread_norm)
     #print(y_data)
     #print(y_norm)
-    return x_train_norm, x_test_norm
+    return x_train_norm, x_test_norm, scaler
 
 def main():
     years = ['2015-16','2016-17','2017-18']
     x,y,info = nn_input_format_to_train(years)
     x_train,y_train,x_test,y_test = split_data_train_and_test(x,y,split_pct=0.9)
-    x_train_norm, x_test_norm = nn_normalize_data(x_train,x_test)
+    x_train_norm, x_test_norm, scaler = nn_normalize_data(x_train,x_test)
     nn_model = create_nn(x_train_norm,y_train)
     y_predict = run_nn(nn_model, x_test_norm)
 
+    p_file_name = 'databases/neural-net-model-win-loss.p' 
+    with open(p_file_name,'wb') as pickle_file:
+        pickle.dump([nn_model, scaler],pickle_file)
+    
     #print(len(x))
     #print(len(y))
     print('Actual vs Predicted')
@@ -166,7 +170,7 @@ def main():
         #print('+/-: ',y_test[i][0],' vs ',y_predict[i][0])
         #print('W/L: ',y_test[i][1],' vs ',y_predict[i][1])
         #print('O/U: ',y_test[i][2],' vs ',y_predict[i][2])
-        print('W/L: ',y_test[i],' vs ',y_predict[i])
+        print('+/-: ',y_test[i],' vs ',y_predict[i])
         if y_test[i] == 1:
             if y_predict[i] >= 0.5:
                 num_right = num_right + 1
@@ -189,7 +193,7 @@ def main():
 
     print('Prediction record: ',num_right,'-',num_wrong)
     print('Confident Pred rec: ',conf_num_right,'-',conf_num_wrong)        
-    
+    print('Saved: '+p_file_name)
 
 if __name__ == '__main__':
     main()
