@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   SIU Edwardsville vs Valparaiso (11-21-18)
+VISITORS: SIU Edwardsville (0-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+30 Anselm Uzuegbunem... f  2  4   0  1   2  4   4  2  6   4   6  2  0  0  0  23
+32 Brandon Jackson..... f  3  5   0  0   3  4   3  4  7   5   9  0  4  0  0  31
+05 Tyrese Williford.... g 10 17   1  4   3  5   3  1  4   2  24  4  7  0  1  40
+15 David McFarland..... g  1  5   0  2   0  0   0  4  4   4   2  0  0  0  0  19
+24 Cameron Williams.... g 10 18   2  8   0  2   0  2  2   2  22  0  2  0  4  39
+00 Treavon Martin......    0  1   0  0   0  0   0  3  3   5   0  1  1  1  1  15
+01 D.J. Jackson........    0  1   0  0   0  0   0  1  1   0   0  0  0  0  0   4
+03 Daniel Kinchen......    1  4   1  3   0  0   0  1  1   0   3  1  1  0  0  19
+10 Bill Awet...........    1  1   0  0   0  0   0  0  0   1   2  0  0  0  0   1
+13 Christian Ellis.....    1  3   0  0   0  0   0  7  7   2   2  1  0  0  0  17
+23 Elochukwu Eze.......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   3
+25 Jaylen McCoy........    0  4   0  3   0  0   1  1  2   1   0  1  0  0  1  13
+TM TEAM................                         2     2
+   Totals..............   29 63   4 21   8 15  13 26 39  27  70 10 15  1  7 224
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-28  .500    14-29  .483    29-63  .460
+3-Pt. FG%:  1-9   .111     3-10  .300     4-21  .190
+F Throw %:  4-6   .667     4-9   .444     8-15  .533
+Deadball rebounds: 4
+HOME TEAM: Valparaiso (3-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+21 Smits,Derrik........ c  5  8   0  0   0  3   3  5  8   3  10  1  0  1  0  33
+00 Freeman,Javon....... g  4 11   0  3   3  6   3  3  6   2  11  4  4  0  2  37
+02 Lavender,Deion...... g  3  7   2  4   2  4   1  8  9   1  10  2  2  0  0  41
+04 Evelyn,Bakari....... g  5  8   1  3   5  6   0  0  0   3  16  3  1  0  1  33
+35 Fazekas,Ryan........ g  2  5   2  3   4  4   1  4  5   5  10  1  1  0  0  21
+03 Sackey,Daniel.......    1  5   1  2   0  0   0  1  1   0   3  0  0  0  0   8
+05 Golder,Markus.......    3  6   0  1   2  2   3  2  5   1   8  3  3  1  2  33
+23 McMillan,Mileek.....    1  2   0  1   4  6   0  0  0   1   6  0  1  0  0  11
+33 Kiser,John..........    0  1   0  0   1  2   0  0  0   1   1  0  1  1  0   8
+TM TEAM................                         1  1  2
+   Totals..............   24 53   6 17  21 33  12 24 36  17  75 14 13  3  5 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-22  .455    12-25  .480    24-53  .453
+3-Pt. FG%:  3-8   .375     3-9   .333     6-17  .353
+F Throw %:  8-14  .571    10-15  .667    21-33  .636
+Deadball rebounds: 3
+Date: 11-21-18      Site: Valparaiso, IN ARC  Attendance: 1940
+Officials: Owen Shortt; John Hendricks; Gerry Pollard;
+Technical fouls: SIU Edwardsville-None. Valparaiso-None.
+Score by Periods      1  2 OT   Total
+SIU Edwardsville.... 33 35  2  - 70
+Valparaiso.......... 31 37  7  - 75
+2018-19 Men's Basketball. Round: 0. SIUE vs Valparaiso. Played at .

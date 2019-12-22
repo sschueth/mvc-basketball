@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                          Bradley vs IUPUI (11-28-18)
+VISITORS: Bradley (6-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Childs,Elijah....... f  4  9   0  2   1  3   1  5  6   4   9  0  0  0  0  21
+12 Bar,Koch............ c  1  3   0  0   0  1   0  0  0   3   2  0  1  1  0  13
+05 Brown,Darrell....... g  5 12   2  5   3  3   0  0  0   1  15  3  0  0  1  37
+23 Lautier-Ogunleye,Dwa g  2  6   0  2   3  4   1  3  4   2   7  2  4  0  1  32
+25 Kennell,Nate........ g  3  5   2  4   4  4   0  4  4   4  12  4  2  0  1  30
+03 Pittman,Antoine.....    3  5   1  1   1  2   2  4  6   5   8  1  0  0  0  16
+04 Brummett,Armon......    0  2   0  2   0  0   0  0  0   2   0  0  0  0  2   4
+13 van Bree,Luuk.......    7 14   3  7   1  2   1  2  3   3  18  0  0  0  0  26
+22 Henry,Ja'Shon.......    0  0   0  0   0  0   0  1  1   3   0  0  3  0  0   8
+35 Hodgson,Jayden......    1  2   0  0   0  0   1  1  2   1   2  2  0  0  1  13
+TM TEAM................                         2  2  4
+   Totals..............   26 58   8 23  13 19   8 22 30  28  73 12 10  1  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-28  .464    13-30  .433    26-58  .448
+3-Pt. FG%:  5-12  .417     3-11  .273     8-23  .348
+F Throw %:  7-10  .700     6-9   .667    13-19  .684
+Deadball rebounds: 2,3
+HOME TEAM: IUPUI (5-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+24 Evan Hall........... f  4  6   0  0   1  5   1  3  4   4   9  0  0  2  0  17
+32 Elyjah Goss......... f  6  7   0  0   0  0   3  3  6   3  12  2  0  0  1  26
+05 Camron Justice...... g  4  9   4  7  15 15   0  5  5   1  27  2  2  0  0  36
+22 D.J. McCall......... g  1  3   0  0   3  4   2  4  6   4   5  3  3  0  0  26
+23 Grant Weatherford... g  2  4   0  1   4  7   0  2  2   3   8  2  1  0  2  33
+00 Jaylen Minnett......    2  8   1  5   0  0   0  0  0   1   5  4  1  0  0  17
+04 Jack Hansen.........    0  1   0  0   3  3   0  1  1   1   3  0  1  0  0   6
+10 Nick Rogers.........    1  4   1  4   0  0   0  1  1   1   3  1  3  0  0  17
+15 Ahmed Ismail........    5  7   0  0   3  5   0  5  5   3  13  1  0  2  1  22
+TM TEAM................                         1  1  2             2
+   Totals..............   25 49   6 17  29 39   7 25 32  21  85 15 13  4  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-27  .444    13-22  .591    25-49  .510
+3-Pt. FG%:  4-11  .364     2-6   .333     6-17  .353
+F Throw %: 16-18  .889    13-21  .619    29-39  .744
+Deadball rebounds: 2,3
+Date: 11-28-18      Site: Indianapolis, Ind.  Attendance: 1383
+Officials: Jerry Scherzinger; Edwin Young; Chris Beaver;
+Technical fouls: Bradley-, Childs,Elijah, Henry,Ja'Shon. IUPUI-None.
+Score by Periods      1  2   Total
+Bradley............. 38 35  - 73
+IUPUI............... 44 41  - 85

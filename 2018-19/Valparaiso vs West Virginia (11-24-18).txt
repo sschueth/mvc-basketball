@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Valparaiso vs West Virginia (11-24-18)
+VISITORS: Valparaiso (3-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 Fazekas,Ryan........ f  5  6   3  4   2  3   0  0  0   3  15  2  0  0  0  29
+21 Smits,Derrik........ c  9 12   0  0   2  3   1  6  7   2  20  0  6  5  0  34
+00 Freeman,Javon....... g  3  9   1  3   2  3   2  0  2   4   9  1  2  0  2  24
+02 Lavender,Deion...... g  2  5   1  2   0  0   0  6  6   2   5 10  0  0  1  33
+04 Evelyn,Bakari....... g  4 11   2  6   0  0   1  3  4   2  10  4  2  1  0  32
+03 Sackey,Daniel.......    1  2   0  0   0  0   0  0  0   0   2  2  0  0  0  12
+05 Golder,Markus.......    5  8   2  4   1  1   1  4  5   3  13  0  3  0  0  26
+23 McMillan,Mileek.....    1  3   0  1   0  0   1  2  3   3   2  0  1  0  0   6
+33 Kiser,John..........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   4
+TM TEAM................                            1  1
+   Totals..............   30 56   9 20   7 10   6 22 28  20  76 19 14  6  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-29  .483    16-27  .593    30-56  .536
+3-Pt. FG%:  3-9   .333     6-11  .545     9-20  .450
+F Throw %:  5-7   .714     2-3   .667     7-10  .700
+Deadball rebounds: 2
+HOME TEAM: West Virginia (3-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+15 West, Lamont........ f  4  7   1  3   2  3   3  3  6   1  11  3  2  0  0  28
+23 Ahmad, Esa.......... f 12 15   1  1   5  6   4  0  4   2  30  2  1  0  2  29
+50 Konate, Sagaba...... f  9 15   5  8   3  3   2  8 10   2  26  2  0  0  1  23
+02 Knapper, Brandon.... g  1  4   0  0   0  0   0  3  3   0   2  7  2  0  0  27
+14 Harler, Chase....... g  1  3   0  1   1  1   0  0  0   3   3  0  0  0  1  20
+05 McCabe, Jordan......    0  5   0  2   1  2   0  0  0   1   1  2  0  0  0  18
+10 Haley, Jermaine.....    2  4   0  0   0  0   2  4  6   1   4  1  0  0  2  17
+11 Matthews Jr., Emmitt    1  5   0  2   3  4   2  3  5   1   5  0  1  1  0  21
+12 Gordon, Andrew......    2  4   0  0   2  3   0  0  0   0   6  0  1  0  0   8
+31 Routt, Logan........    0  3   0  0   0  0   0  0  0   0   0  0  0  1  0   9
+TM TEAM................                         1     1
+   Totals..............   32 65   7 17  17 22  14 21 35  11  88 17  7  2  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-30  .433    19-35  .543    32-65  .492
+3-Pt. FG%:  1-5   .200     6-12  .500     7-17  .412
+F Throw %: 12-15  .800     5-7   .714    17-22  .773
+Deadball rebounds: 2
+Date: 11-24-18      Site: WVU Coliseum, Morgantown, W.Va.  Attendance: 9188
+Officials: Bert Smith; Pat Driscoll; Craig Murley;
+Technical fouls: Valparaiso-None. West Virginia-None.
+Score by Periods      1  2   Total
+Valparaiso.......... 36 40  - 76
+West Virginia....... 39 49  - 88

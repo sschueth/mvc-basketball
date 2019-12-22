@@ -1,0 +1,48 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                         Drake vs Valparaiso (01-26-19)
+VISITORS: Drake (16-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Murphy,Tremell...... f  3  5   0  0   5  8   3  5  8   1  11  0  3  1  0  26
+35 McGlynn,Nick........ f  5 12   0  2   1  2   0  7  7   2  11  1  1  3  1  32
+00 Wilkins,D.J......... g  7 12   4  8   2  3   1  5  6   2  20  4  5  0  1  33
+14 Thomas,Noah......... g  0  3   0  2   0  0   0  1  1   3   0  2  3  0  1  21
+22 Ellingson,Brady..... g  3  6   1  4   3  5   0  1  1   1  10  2  2  0  0  29
+03 Sturtz,Garrett......    1  2   1  1   0  0   0  2  2   1   3  1  3  0  0  21
+04 Murphy,Anthony......    4  8   1  3   3  3   2  7  9   3  12  4  0  1  0  30
+21 Robbins,Liam........    1  3   0  2   1  2   1  1  2   3   3  1  0  2  0   8
+TM TEAM................                            3  3
+   Totals..............   24 51   7 22  15 23   7 32 39  16  70 15 17  7  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-23  .478    13-28  .464    24-51  .471
+3-Pt. FG%:  4-11  .364     3-11  .273     7-22  .318
+F Throw %:  3-3  1.000    12-20  .600    15-23  .652
+Deadball rebounds: 3
+HOME TEAM: Valparaiso (12-9)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Golder,Markus....... f  1  4   0  0   1  2   3  1  4   0   3  0  0  0  0   5
+33 Kiser,John.......... f  2  5   0  1   0  0   0  2  2   4   4  1  2  0  0  15
+14 Sorolla,Jaume....... c  6  7   0  0   1  1   1  3  4   2  13  1  2  5  0  28
+00 Freeman,Javon....... g  3 10   0  2   3  4   0  4  4   3   9  4  0  0  2  40
+03 Sackey,Daniel....... g  4 10   0  2   5 10   2  0  2   4  13  4  2  0  4  37
+02 Lavender,Deion......    1  4   0  1   0  0   1  8  9   1   2  3  3  1  0  32
+04 Evelyn,Bakari.......    3 14   2  8   0  0   0  6  6   4   8  1  2  0  1  32
+23 McMillan,Mileek.....    2  4   0  2   3  3   0  1  1   3   7  0  2  0  1  11
+TM TEAM................                         2     2
+   Totals..............   22 58   2 16  13 20   9 25 34  21  59 14 13  6  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-31  .323    12-27  .444    22-58  .379
+3-Pt. FG%:  1-8   .125     1-8   .125     2-16  .125
+F Throw %:  5-7   .714     8-13  .615    13-20  .650
+Deadball rebounds: 2
+Date: 01-26-19      Site: Valparaiso, Ind. ARC  Attendance: 4160
+Officials: Roger Schmitz; Nathan Bemis; David Stevens;
+Technical fouls: Drake-None. Valparaiso-None.
+Score by Periods      1  2   Total
+Drake............... 29 41  - 70
+Valparaiso.......... 26 33  - 59
+2018-19 Men's Basketball. Round: 0. Drake vs Valparaiso. Played at .

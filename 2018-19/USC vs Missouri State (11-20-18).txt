@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        USC vs Missouri State (11-20-18)
+VISITORS: USC (3-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+31 Nick Rakocevic...... f  4  7   0  0   2  2   3  4  7   2  10  4  1  3  0  27
+00 Shaqquan Aaron...... g  4  6   1  2   0  0   0  3  3   4   9  2  2  1  0  21
+02 Jonah Mathews....... g  8 13   5  9   0  0   1  1  2   1  21  3  0  0  1  30
+04 Kevin Porter Jr..... g  6 10   2  4   0  0   0  4  4   0  14  1  1  0  3  23
+05 Derryck Thornton.... g  4  8   4  5   0  0   0  6  6   3  12  6  3  0  0  27
+01 Jordan Usher........    0  2   0  1   0  0   0  2  2   2   0  2  0  0  0  17
+03 Elijah Weaver.......    2  6   1  5   0  0   0  2  2   1   5  2  2  0  0  16
+12 Devin Fleming.......    0  0   0  0   1  2   0  0  0   2   1  0  0  0  0   3
+25 Bennie Boatwright...    7  9   4  6   4  5   3  4  7   2  22  2  1  0  2  27
+33 J'Raan Brooks.......    2  3   0  1   0  0   0  1  1   1   4  0  0  0  0   4
+34 Victor Uyaelunmo....    0  1   0  0   1  2   0  0  0   1   1  1  0  0  0   5
+TM TEAM................                         1  1  2
+   Totals..............   37 65  17 33   8 11   8 28 36  19  99 23 10  4  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-32  .531    20-33  .606    37-65  .569
+3-Pt. FG%:  8-15  .533     9-18  .500    17-33  .515
+F Throw %:  2-2  1.000     6-9   .667     8-11  .727
+Deadball rebounds: 1
+HOME TEAM: Missouri State (3-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  2  4   0  0   0  0   3  2  5   1   4  1  2  1  0  26
+10 Wojcik,Szymon....... f  1  5   1  4   0  0   1  3  4   1   3  2  0  1  0  17
+00 Webster,Josh........ g  1  2   0  1   1  2   1  2  3   0   3  3  1  1  0  21
+01 Cook,Keandre........ g  7 17   2  6   5  6   1  4  5   0  21  3  1  0  0  32
+11 Dixon,Jarred........ g  5 12   5  9   2  2   0  3  3   3  17  1  2  0  0  34
+15 Wojcik,Jan..........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   2
+20 Kreklow,Ryan........    6 12   6 11   5  6   1  3  4   2  23  1  3  0  0  30
+21 Owens,Ross..........    0  0   0  0   0  0   0  0  0   0   0  1  0  0  0   2
+23 Mohammed,Kabir......    3  7   0  1   3  5   1  1  2   1   9  1  2  0  1  18
+25 Scott,Darian........    0  3   0  0   0  0   2  2  4   1   0  0  1  0  1  18
+TM TEAM................                            1  1
+   Totals..............   25 62  14 32  16 21  10 21 31  10  80 13 12  3  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-29  .310    16-33  .485    25-62  .403
+3-Pt. FG%:  4-14  .286    10-18  .556    14-32  .438
+F Throw %:  5-8   .625    11-13  .846    16-21  .762
+Deadball rebounds: 4,1
+Date: 11-20-18      Site: Kansas City, Mo. (Sprint Center)  Attendance: 6521
+Officials: Gerry Pollard; Mike Roberts; Rick Crawford;
+Technical fouls: USC-None. Missouri State-None.
+Score by Periods      1  2   Total
+USC................. 44 55  - 99
+Missouri State...... 27 53  - 80
+Consolation game of Hall of Fame Classic.

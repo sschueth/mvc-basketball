@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                Arkansas-Pine Bluff vs Missouri State (12-22-18)
+VISITORS: Arkansas-Pine Bluff (3-9)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+12 Banyard,Terrance.... f  2  4   0  0   3  5   2  6  8   3   7  1  1  1  0  25
+13 Banks,Trevor........ f  2  4   0  0   1  5   2  1  3   1   5  0  2  1  0  19
+21 Doss,Shaun.......... f  9 12   3  4   2  2   1  1  2   4  23  2  2  0  1  33
+01 Jackson,Charles..... g  2  6   1  4   1  1   0  4  4   3   6  2  4  0  0  22
+23 McKnight,Martaveous. g  6 16   2  7   2  3   0  5  5   1  16  0  5  0  0  32
+02 Carter,Marquell.....    4  7   2  3   0  0   0  2  2   4  10  2  0  0  0  19
+05 Davis Jr.,Anthony...    1  2   1  2   0  0   0  1  1   2   3  0  1  0  0  14
+11 Hardy,Quamauri......    0  0   0  0   0  0   0  0  0   0   0  2  2  0  0   9
+14 Wallace,Marcus......    0  0   0  0   0  0   0  1  1   0   0  1  1  0  0   6
+24 McDyess, Artavious..    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0  0+
+30 Posey,Cameron.......    0  0   0  0   0  0   0  1  1   3   0  0  1  0  1  12
+34 Smith,Chris.........    1  1   0  0   0  0   0  1  1   3   2  0  0  0  0   9
+TM TEAM................                         1     1
+   Totals..............   27 52   9 20   9 16   6 23 29  24  72 10 20  2  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-23  .565    14-29  .483    27-52  .519
+3-Pt. FG%:  5-9   .556     4-11  .364     9-20  .450
+F Throw %:  1-3   .333     8-13  .615     9-16  .563
+Deadball rebounds: 3,1
+HOME TEAM: Missouri State (5-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Wojcik,Szymon....... f  0  3   0  2   3  4   0  2  2   2   3  0  1  1  1  13
+30 Da Silva,Tulio...... f  8  9   1  2   5 10   1  7  8   2  22  0  0  2  2  30
+34 Ridder,Jared........ f  3  9   1  7   0  0   1  1  2   0   7  1  0  0  0  27
+00 Webster,Josh........ g  0  3   0  0   5  6   0  3  3   2   5 15  0  1  2  28
+20 Kreklow,Ryan........ g  5  8   5  8   3  3   0  2  2   4  18  0  2  0  0  16
+01 Cook,Keandre........    7  9   2  2   1  2   1  1  2   1  17  1  1  0  3  26
+11 Dixon,Jarred........    3  9   0  4   4  4   0  0  0   3  10  0  2  0  3  24
+15 Wojcik,Jan..........    1  1   1  1   3  4   0  5  5   3   6  0  0  1  1  18
+21 Owens,Ross..........    0  0   0  0   0  0   1  0  1   1   0  0  0  0  0   3
+23 Mohammed,Kabir......    1  2   0  1   3  3   0  0  0   1   5  0  1  0  0  11
+25 Scott,Darian........    0  0   0  0   0  0   0  1  1   2   0  0  1  0  0   4
+TM TEAM................                         1     1
+   Totals..............   28 53  10 27  27 36   5 22 27  21  93 17  8  5 12 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 18-28  .643    10-25  .400    28-53  .528
+3-Pt. FG%:  8-13  .615     2-14  .143    10-27  .370
+F Throw %: 10-15  .667    17-21  .810    27-36  .750
+Deadball rebounds: 5,1
+Date: 12-22-18      Site: JQH Arena, Springfield, Mo.  Attendance: 3826
+Officials: Tim Fitzgerald; Roger Schmitz; John Hendricks;
+Technical fouls: Arkansas-Pine Bluff-None. Missouri State-None.
+Score by Periods      1  2   Total
+Arkansas-Pine Bluff. 32 40  - 72
+Missouri State...... 54 39  - 93

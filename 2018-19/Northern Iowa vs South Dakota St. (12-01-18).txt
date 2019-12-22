@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  Northern Iowa vs South Dakota St. (12-01-18)
+VISITORS: Northern Iowa (2-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+34 McDonnell,Luke...... f  0  0   0  0   0  0   0  2  2   2   0  3  1  0  0  14
+04 Green,AJ............ g  2  7   1  4   0  0   0  2  2   4   5  0  2  0  1  25
+11 Berhow,Trae......... g  7 13   3  8   2  2   1  6  7   4  19  2  2  1  1  29
+22 Lohaus,Wyatt........ g  2  8   2  6   0  0   0  1  1   3   6  1  2  0  2  28
+24 Brown,Isaiah........ g  2  8   1  4   0  0   0  4  4   4   5  2  1  0  1  28
+03 Pickford,Tywhon.....    3  8   0  2   0  0   3  2  5   0   6  0  3  0  1  18
+10 Wentzien,Miles......    0  1   0  1   4  4   0  3  3   1   4  2  0  0  0  14
+12 Conrey,Lincoln......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+15 Dahl,Justin.........    1  1   0  0   0  0   1  1  2   0   2  0  1  0  0   2
+20 Goldman,Shandon.....    1  3   1  2   0  1   2  0  2   2   3  2  1  2  0  20
+30 Haldeman,Spencer....    0  9   0  8   0  0   0  1  1   1   0  1  1  1  0  18
+50 Phyfe,Austin........    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   2
+TM TEAM................                         2  1  3
+   Totals..............   18 58   8 35   6  7   9 23 32  21  50 13 15  4  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-31  .290     9-27  .333    18-58  .310
+3-Pt. FG%:  5-18  .278     3-17  .176     8-35  .229
+F Throw %:  2-2  1.000     4-5   .800     6-7   .857
+Deadball rebounds: 0
+HOME TEAM: South Dakota St. (7-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+24 Mike Daum........... f  6  8   1  1  11 12   0 11 11   2  24  1  2  0  1  33
+01 Skyler Flatten...... g  4  8   2  5   7  9   0  1  1   1  17  5  2  1  3  36
+02 Tevin King.......... g  1  6   0  3   2  2   0  8  8   2   4  7  1  0  1  30
+05 David Jenkins....... g  5 12   2  6   4  4   1  3  4   3  16  2  3  0  0  31
+34 Alex Arians......... g  4  6   1  2   2  4   1  5  6   2  11  1  0  0  1  34
+04 Ryan Krueger........    0  2   0  2   0  0   0  0  0   2   0  1  0  0  1   8
+10 Alou Dillon.........    1  1   0  0   0  0   0  2  2   0   2  0  0  0  1   4
+23 Owen King...........    3  5   0  0   0  0   0  2  2   1   6  2  0  0  1  17
+32 Matt Dentlinger.....    1  1   0  0   0  0   0  0  0   0   2  0  0  0  0   7
+TM TEAM................                         2     2             2
+   Totals..............   25 49   6 19  26 31   4 32 36  13  82 19 10  1  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-24  .542    12-25  .480    25-49  .510
+3-Pt. FG%:  2-10  .200     4-9   .444     6-19  .316
+F Throw %: 12-14  .857    14-17  .824    26-31  .839
+Deadball rebounds: 2
+Date: 12-01-18      Site: Minneapolis, Minn.  Attendance: 3184
+Officials: Tim Stewart; Bryan Anslinger; Chris Beaver;
+Technical fouls: Northern Iowa-None. South Dakota St.-None.
+Score by Periods      1  2   Total
+Northern Iowa....... 25 25  - 50
+South Dakota St..... 40 42  - 82
+2018-19 Men's Basketball. Round: 0. South Dakota St. vs UNI. Played at .

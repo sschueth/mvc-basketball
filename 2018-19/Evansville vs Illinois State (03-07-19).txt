@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Evansville vs Illinois State (03-07-19)
+VISITORS: Evansville (11-21; 5-13  MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 Hall,John........... f  2 11   1  5   5  6   3  4  7   3  10  0  0  2  1  31
+14 Chatkevicius,Dainius c  1  7   0  0   0  0   4  2  6   4   2  1  1  0  0  14
+01 Hill,Marty.......... g  6 14   3  6   1  1   1  3  4   2  16  1  1  0  0  38
+30 Frederking,Noah..... g  2  7   1  5   0  0   1  3  4   0   5  0  2  0  0  26
+33 Riley,K.J........... g  4 10   1  3   6  9   1  5  6   3  15  3  4  1  1  34
+03 Newton,Jawaun.......    0  3   0  1   2  2   0  2  2   4   2  3  1  0  1  15
+05 Givance,Shamar......    0  4   0  2   0  0   2  5  7   1   0  1  1  0  0  15
+10 Kuhlman,Evan........    3  5   1  3   3  4   1  2  3   5  10  2  0  1  3  27
+TM TEAM................                            3  3
+   Totals..............   18 61   7 25  17 22  13 29 42  22  60 11 10  4  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-35  .257     9-26  .346    18-61  .295
+3-Pt. FG%:  3-12  .250     4-13  .308     7-25  .280
+F Throw %:  7-9   .778    10-13  .769    17-22  .773
+Deadball rebounds: 3,1
+HOME TEAM: Illinois State (17-15; 9-9 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne,Phil.......... f  7 17   0  0   3  7   2  8 10   2  17  0  2  3  0  27
+02 Copeland,Zach....... g  0  5   0  2   2  2   0  1  1   0   2  2  0  0  1  21
+03 Evans,Keyshawn...... g  1  6   0  1   4  4   0  3  3   3   6  2  3  0  0  31
+23 Tinsley,William..... g  0  0   0  0   0  1   0  3  3   2   0  1  0  0  0  21
+52 Yarbrough,Milik..... g  5 13   0  1   8 10   0  5  5   4  18  1  3  1  0  19
+00 Gassman,Isaac.......    2  4   2  2   0  0   0  1  1   0   6  1  0  0  0  17
+05 Hein,Matt...........    0  0   0  0   0  1   1  3  4   3   0  0  0  0  2  15
+11 Jefferson,Josh......    1  2   1  1   2  3   0  0  0   0   5  0  0  0  0  12
+13 Idowu,Rey...........    2  5   0  0   0  0   1  0  1   3   4  0  0  0  0  11
+22 Chastain,Matt.......    3  6   0  2   1  2   3  5  8   2   7  0  1  1  0  26
+TM TEAM................                         5  2  7             1
+   Totals..............   21 58   3  9  20 30  12 31 43  19  65  7 10  5  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-28  .321    12-30  .400    21-58  .362
+3-Pt. FG%:  3-6   .500     0-3   .000     3-9   .333
+F Throw %:  6-9   .667    14-21  .667    20-30  .667
+Deadball rebounds: 5,1
+Date: 03-07-19      Site: Enterprise Center, St. Louis, Missouri  Attendance: 5004
+Officials: John Higgins; Bert Smith; Kelly Self;
+Technical fouls: Evansville-None. Illinois State-None.
+Score by Periods      1  2   Total
+Evansville.......... 28 32  - 60
+Illinois State...... 27 38  - 65

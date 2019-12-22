@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Jacksonville State vs Bradley (11-14-18)
+VISITORS: Jacksonville State (0-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+14 BURNELL, Jason...... f  1  2   1  1   2  2   0  4  4   4   5  4  1  0  0  27
+31 CUNNINGHAM,Christian f  5 10   0  0   0  0   5  4  9   2  10  5  0  1  0  34
+02 MOSTELLA, Detrick... g  5 12   3  8   0  0   0  1  1   2  13  3  3  0  2  32
+04 HUDSON, Ty.......... g  1  3   1  1   0  0   0  1  1   1   3  2  4  0  1  18
+23 HUNTER, Marlon...... g  6 13   0  1   0  2   2  2  4   3  12  0  2  0  0  26
+00 GREGORY, Jamall.....    3  5   0  1   1  1   0  3  3   5   7  0  3  1  1  18
+03 ZELIZNAK, Maros.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+10 DUNLAP, Maurice.....    3  6   3  6   0  0   0  1  1   1   9  5  0  0  1  20
+11 CROSS, Jacara.......    1  1   0  0   0  0   0  1  1   1   2  0  0  0  0   5
+15 ST. HILAIRE, Derek..    0  3   0  1   2  4   0  0  0   3   2  3  1  0  1  12
+33 WARE, De'Torrion....    1  2   0  0   0  0   0  0  0   1   2  0  0  0  1   4
+TM TEAM................                         1  1  2
+   Totals..............   26 57   8 19   5  9   8 18 26  23  65 22 14  2  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-32  .344    15-25  .600    26-57  .456
+3-Pt. FG%:  1-8   .125     7-11  .636     8-19  .421
+F Throw %:  0-1   .000     5-8   .625     5-9   .556
+Deadball rebounds: 2
+HOME TEAM: Bradley (3-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Childs,Elijah....... f  6 12   0  3   3  4   1  8  9   3  15  1  3  1  0  32
+12 Bar,Koch............ c  7  8   0  0   6  8   1  6  7   2  20  1  3  2  1  33
+05 Brown,Darrell....... g  4 11   2  4   1  2   0  4  4   1  11  6  2  1  1  33
+23 Lautier-Ogunleye,Dwa g  2  5   0  1   6  8   0  3  3   3  10  3  1  0  2  33
+25 Kennell,Nate........ g  4  7   2  4   0  0   0  0  0   1  10  3  2  0  2  29
+03 Pittman,Antoine.....    1  2   0  1   2  2   2  0  2   2   4  3  1  0  1  15
+13 van Bree,Luuk.......    1  1   0  0   0  0   0  2  2   1   2  0  0  0  0  10
+35 Hodgson,Jayden......    1  1   0  0   0  0   0  1  1   3   2  1  2  0  1  15
+TM TEAM................                         2  1  3             1
+   Totals..............   26 47   4 13  18 24   6 25 31  16  74 18 15  4  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-25  .560    12-22  .545    26-47  .553
+3-Pt. FG%:  2-8   .250     2-5   .400     4-13  .308
+F Throw %:  4-5   .800    14-19  .737    18-24  .750
+Deadball rebounds: 3
+Date: 11-14-18      Site: Peoria, Ill. - Carver Arena  Attendance: 4706
+Officials: Kipp Kissinger; Rodrick Dixon; Ed Crenshaw;
+Technical fouls: Jacksonville State-None. Bradley-None.
+Score by Periods      1  2   Total
+Jacksonville State.. 23 42  - 65
+Bradley............. 34 40  - 74
+JSU #00 Gregory fouls out at 3:22

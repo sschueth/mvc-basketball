@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  #25 Buffalo vs Southern Illinois (11-12-18)
+VISITORS: #25 Buffalo (2-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 McRae,Montell....... *  4  4   2  2   1  2   1  1  2   3  11  0  0  0  0  13
+02 Harris,Jeremy....... *  5 14   1  6   0  0   3  2  5   0  11  0  1  0  0  29
+03 Graves,Jayvon....... *  1  6   1  4   2  2   1  2  3   1   5  1  1  1  2  28
+04 Jordan,Davonta...... *  3  5   3  4   0  0   0  2  2   1   9  5  1  1  1  26
+05 Massinburg,Cj....... *  3  9   1  6   0  0   3  3  6   1   7  2  2  0  1  34
+10 Segu,Ronaldo........    1  2   0  0   0  0   1  0  1   1   2  1  1  0  0   6
+11 Williams,Jeenathan..    1  4   0  2   4  4   0  1  1   1   6  0  0  1  0  12
+22 Caruthers,Dontay....    2  7   0  2   0  0   2  2  4   3   4  2  0  0  0  21
+24 Fagan,Tra'von.......    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   2
+33 Perkins,Nick........    2 11   0  2   3  4   5  6 11   4   7  1  7  1  2  29
+TM TEAM................                         1  4  5
+   Totals..............   22 62   8 28  10 12  17 24 41  15  62 12 13  4  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-29  .345    12-33  .364    22-62  .355
+3-Pt. FG%:  3-15  .200     5-13  .385     8-28  .286
+F Throw %:  8-10  .800     2-2  1.000    10-12  .833
+Deadball rebounds: 1
+HOME TEAM: Southern Illinois (0-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Pippen,Kavion....... c  8 12   0  0   2  3   3  2  5   3  18  0  3  2  2  23
+03 Bartley,Marcus...... g  1  5   1  3   0  0   0  7  7   2   3  3  1  1  1  35
+04 McGill,Eric......... g  3  7   1  4   0  0   1  5  6   3   7  3  3  0  1  30
+10 Cook,Aaron.......... g  5 15   0  2   1  1   1  1  2   5  11  0  4  2  0  36
+13 Lloyd,Sean.......... g  2  7   1  3   5  8   1  3  4   0  10  0  2  0  2  40
+05 Beane,Darius........    1  2   0  1   0  0   0  2  2   0   2  0  1  0  0  14
+24 Stradnieks,Rudy.....    0  0   0  0   0  0   0  0  0   0   0  0  2  0  0   4
+25 Gooch,Brendon.......    0  0   0  0   0  0   0  2  2   0   0  0  0  0  0   6
+40 Bol,Thik............    1  4   0  0   0  0   0  1  1   2   2  0  1  2  0  12
+TM TEAM................                         3  1  4             2
+   Totals..............   21 52   3 13   8 12   9 24 33  15  53  6 19  7  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-25  .440    10-27  .370    21-52  .404
+3-Pt. FG%:  3-6   .500     0-7   .000     3-13  .231
+F Throw %:  2-2  1.000     6-10  .600     8-12  .667
+Deadball rebounds: 1
+Date: 11-12-18      Site: Carbondale, Ill. SIU Arena  Attendance: 4373
+Officials:
+Technical fouls: #25 Buffalo-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+#25 Buffalo......... 31 31  - 62
+Southern Illinois... 27 26  - 53

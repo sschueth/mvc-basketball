@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    SE Missouri State vs Bradley (11-10-18)
+VISITORS: SE Missouri State (0-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+13 GABLE, Isaiah....... f  0  4   0  2   0  2   1  3  4   3   0  0  2  0  0  16
+23 TOLBERT, Sage....... f  5  8   0  0   3  6   5  3  8   4  13  0  3  1  0  28
+03 HOGAN, Skyler....... g  2 10   1  6   1  1   1  3  4   3   6  0  1  0  0  28
+05 DALTON, Jonathan.... g  2  3   1  2   4  4   0  1  1   3   9  3  2  0  0  24
+25 BREWER, Ledarrius... g  3 15   1  8   4  6   1  7  8   2  11  3  2  0  0  33
+00 CALDWELL, Alex......    3  7   0  1   0  0   1  2  3   2   6  1  2  0  1  18
+11 RUSSELL, Nygal......    2  6   1  2   2  2   1  3  4   2   7  1  2  0  0  21
+15 LEWIS, Donnie.......    0  0   0  0   0  0   0  0  0   2   0  0  0  0  0   5
+30 MCGLOTHAN, Gabe.....    0  1   0  1   3  4   0  3  3   4   3  1  1  1  1  16
+42 LAROS, Mark.........    1  3   0  1   0  0   1  1  2   3   2  0  0  0  1  11
+TM TEAM................                         3     3
+   Totals..............   18 57   4 23  17 25  14 26 40  28  57  9 15  2  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-28  .286    10-29  .345    18-57  .316
+3-Pt. FG%:  2-12  .167     2-11  .182     4-23  .174
+F Throw %:  5-8   .625    12-17  .706    17-25  .680
+Deadball rebounds: 5
+HOME TEAM: Bradley (2-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Childs,Elijah....... f  3 12   0  2   2  2   2  9 11   3   8  1  3  5  2  35
+12 Bar,Koch............ c  2  4   0  0   0  0   1  2  3   4   4  0  3  1  0  13
+05 Brown,Darrell....... g  3  9   2  5   7 12   0  1  1   1  15  6  1  0  3  33
+23 Lautier-Ogunleye,Dwa g  4  6   1  2  13 15   2  3  5   2  22  2  2  0  1  31
+25 Kennell,Nate........ g  1  6   1  6   0  0   1  3  4   3   3  2  0  0  0  21
+03 Pittman,Antoine.....    2  4   1  3   0  2   0  4  4   1   5  1  0  0  1  25
+13 van Bree,Luuk.......    3  3   3  3   0  0   0  2  2   3   9  0  0  0  1  17
+22 Henry,Ja'Shon.......    1  4   0  1   0  1   2  1  3   1   2  0  1  0  1   8
+35 Hodgson,Jayden......    0  1   0  1   0  0   0  0  0   5   0  2  2  0  0  17
+TM TEAM................                         1  3  4             1
+   Totals..............   19 49   8 23  22 32   9 28 37  23  68 14 13  6  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-29  .345     9-20  .450    19-49  .388
+3-Pt. FG%:  4-13  .308     4-10  .400     8-23  .348
+F Throw %:  7-13  .538    15-19  .789    22-32  .688
+Deadball rebounds: 5
+Date: 11-10-18      Site: Peoria, Ill. - Carver Arena  Attendance: 5181
+Officials: Rick Crawford; Roland Simmons; Tommy Short;
+Technical fouls: SE Missouri State-None. Bradley-None.
+Score by Periods      1  2   Total
+SE Missouri State... 23 34  - 57
+Bradley............. 31 37  - 68
+BU #35 Hodgson fouls out at 2:06

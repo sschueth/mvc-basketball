@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Indiana State vs TCU (12-16-18)
+VISITORS: Indiana State (6-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+41 Rickman,Emondre..... c  3  5   0  0   0  2   1  1  2   4   6  1  3  1  0  14
+02 Barnes,Jordan....... g  3  8   2  5   9  9   0  4  4   2  17  7  5  0  0  32
+10 Williams,Christian.. g  5 11   0  2   3  3   2  9 11   2  13  3  3  1  0  22
+11 Key,Tyreke.......... g  1  6   0  1   1  2   1  3  4   0   3  1  1  0  1  30
+13 Hughes,Clayton...... g  3  8   0  2   0  0   0  1  1   1   6  2  2  0  2  24
+01 Holston,Allante.....    1  1   0  0   0  0   2  1  3   1   2  1  2  0  0  16
+04 Neese,Cooper........    1  7   1  4   0  0   1  0  1   2   3  1  3  1  1  26
+05 Kessinger,Bronson...    6  9   0  0   2  4   2  2  4   3  14  0  0  0  0  20
+20 Huenermann,Daniel...    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+23 Washington,De'Avion.    1  3   0  2   0  0   0  0  0   1   2  1  0  0  0   7
+35 Thomas,Devin........    2  2   0  0   0  0   1  2  3   1   4  1  0  0  0   8
+TM TEAM................                         3     3             1
+   Totals..............   26 60   3 16  15 20  13 23 36  17  70 18 20  3  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-29  .379    15-31  .484    26-60  .433
+3-Pt. FG%:  2-11  .182     1-5   .200     3-16  .188
+F Throw %:  2-4   .500    13-16  .813    15-20  .750
+Deadball rebounds: 2
+HOME TEAM: TCU (8-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+15 MILLER, JD.......... f  2  7   0  0   3  4   2  6  8   2   7  1  1  0  1  26
+21 SAMUEL, Kevin....... c  2  3   0  0   0  3   3  1  4   4   4  0  2  0  0  16
+01 BANE, Desmond....... g  7  9   1  3   2  3   1  4  5   1  17  3  1  2  1  31
+10 FISHER, Jaylen...... g  5 12   4  9   0  0   0  2  2   3  14  5  1  0  1  24
+25 ROBINSON, Alex...... g  7 11   0  1   6  6   1  1  2   1  20  5  2  0  1  28
+00 ARCHIE, Kaden.......    1  4   1  3   3  4   1  2  3   1   6  0  0  0  2  14
+05 DAVIS, Kendric......    3  6   0  0   0  0   0  0  0   0   6  1  2  0  0  12
+12 NOI, Kouat..........    3  9   2  3   2  2   5  3  8   0  10  1  0  0  0  20
+22 NEMBHARD, RJ........    1  3   0  0   0  0   1  2  3   1   2  4  0  0  2  11
+31 ASCHIERIS, Owen.....    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   2
+35 ALOK, Yuat..........    2  3   0  0   0  0   0  2  2   3   4  0  1  0  0  16
+TM TEAM................                            2  2
+   Totals..............   33 68   8 20  16 22  14 25 39  16  90 20 10  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-34  .441    18-34  .529    33-68  .485
+3-Pt. FG%:  4-10  .400     4-10  .400     8-20  .400
+F Throw %:  4-6   .667    12-16  .750    16-22  .727
+Deadball rebounds: 3
+Date: 12-16-18      Site: Fort Worth, Texas (Schollmaier Arena)  Attendance: 6431
+Officials: Joe DeRosa; Michael Stephens; Rick Crawford;
+Technical fouls: Indiana State-None. TCU-None.
+Score by Periods      1  2   Total
+Indiana State....... 26 44  - 70
+TCU................. 38 52  - 90

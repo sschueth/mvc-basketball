@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+              Arkansas-Pine Bluff vs Southern Illinois (11-17-18)
+VISITORS: Arkansas-Pine Bluff (0-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Jackson,Charles..... *  2  8   2  7   2  2   1  5  6   2   8  1  0  0  1  32
+12 Banyard,Terrance.... *  1  2   0  1   0  0   1  1  2   0   2  0  2  2  0  14
+13 Banks,Trevor........ *  2  4   0  0   1  3   3  4  7   3   5  0  2  1  1  29
+23 McKnight,Martaveous. *  4 17   1  6   2  4   0  4  4   0  11  2  2  0  1  33
+25 Robertson,Christian. *  1  5   0  1   0  2   0  1  1   0   2  0  2  0  1  14
+02 Carter,Marquell.....    3 10   0  5   4  5   5  2  7   3  10  1  2  0  0  35
+05 Davis Jr.,Anthony...    2  3   0  1   0  0   0  0  0   0   4  0  0  0  2   9
+10 Hardi,Quamauri......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+14 Wallace,Marcus......    0  2   0  2   0  0   1  0  1   1   0  0  0  0  0   4
+21 Doss,Shaun..........    2  4   0  2   0  0   0  1  1   3   4  1  2  0  2  13
+30 Posey,Cameron.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+33 Bassey,Isaac........    1  3   0  0   0  0   0  1  1   1   2  1  2  0  0   8
+34 Smith,Chris.........    0  0   0  0   0  0   1  0  1   2   0  0  1  0  0   3
+TM TEAM................                            1  1
+   Totals..............   18 58   3 25   9 16  12 20 32  15  48  6 15  3  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-26  .308    10-32  .313    18-58  .310
+3-Pt. FG%:  1-11  .091     2-14  .143     3-25  .120
+F Throw %:  6-13  .462     3-3  1.000     9-16  .563
+Deadball rebounds: 0,2
+HOME TEAM: Southern Illinois (1-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+40 Bol,Thik............ f  3  9   0  0   0  1   1  3  4   1   6  0  0  2  0  23
+03 Bartley,Marcus...... g  6  9   6  9   2  2   0  4  4   3  20  5  2  0  2  29
+10 Cook,Aaron.......... g  7 12   2  3   0  0   0  2  2   2  16  4  3  0  0  34
+13 Lloyd,Sean.......... g  3  8   0  3   6  7   1  5  6   2  12  3  2  0  2  25
+25 Gooch,Brendon....... g  1  6   1  6   1  2   2  7  9   1   4  4  2  1  1  32
+05 Beane,Darius........    1  3   0  0   0  0   4  4  8   0   2  4  2  0  1  29
+24 Stradnieks,Rudy.....    5  8   0  1   2  3   2  0  2   2  12  1  2  0  0  14
+33 Pippen,Kavion.......    2  2   0  0   2  2   0  5  5   3   6  0  3  0  1  14
+TM TEAM................                         1  2  3
+   Totals..............   28 57   9 22  13 17  11 32 43  14  78 21 16  3  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-31  .484    13-26  .500    28-57  .491
+3-Pt. FG%:  4-12  .333     5-10  .500     9-22  .409
+F Throw %:  6-8   .750     7-9   .778    13-17  .765
+Deadball rebounds: 0,3
+Date: 11-17-18      Site: Carbondale, IL  Attendance: 4003
+Officials: Tim Gattis; Kevin Driver; Albert Buckles;
+Technical fouls: Arkansas-Pine Bluff-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+Arkansas-Pine Bluff. 23 25  - 48
+Southern Illinois... 40 38  - 78

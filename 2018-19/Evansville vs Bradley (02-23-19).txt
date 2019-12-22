@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Evansville vs Bradley (02-23-19)
+VISITORS: Evansville (10-19, 4-12 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Kuhlman,Evan........ f  3  7   3  7   0  0   0  3  3   4   9  0  2  0  1  31
+14 Chatkevicius,Dainius f  3  5   0  0   2  2   2  2  4   3   8  2  0  1  0  20
+35 Hall,John........... f  2  7   1  5   0  0   1  3  4   1   5  0  0  1  0  29
+01 Hill,Marty.......... g  1  5   1  4   0  0   0  2  2   1   3  2  2  0  2  15
+33 Riley,K.J........... g  5 11   0  2   3  7   1  8  9   3  13  4  5  0  2  36
+03 Newton,Jawaun.......    0  1   0  1   0  0   1  2  3   1   0  0  1  0  0   6
+05 Givance,Shamar......    2  3   0  1   0  0   1  3  4   4   4  1  0  0  0  11
+21 Feehan,Shea.........    3 10   2  6   3  3   1  1  2   1  11  0  1  0  0  26
+30 Frederking,Noah.....    3  8   2  6   0  0   1  2  3   3   8  0  1  0  1  26
+TM TEAM................                            1  1
+   Totals..............   22 57   9 32   8 12   8 27 35  21  61  9 12  2  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-32  .313    12-25  .480    22-57  .386
+3-Pt. FG%:  5-21  .238     4-11  .364     9-32  .281
+F Throw %:  0-0   .000     8-12  .667     8-12  .667
+Deadball rebounds: 1
+HOME TEAM: Bradley (16-13, 8-8 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Childs,Elijah....... f  5 12   0  0   3  4   3 10 13   4  13  2  1  1  1  26
+13 van Bree,Luuk....... f  2  6   1  3   0  0   0  4  4   2   5  0  0  0  0  24
+02 Lundy,Luqman........ g  1  3   1  3   2  2   1  2  3   1   5  4  2  0  3  29
+05 Brown,Darrell....... g  4 10   2  3   9 11   0  2  2   0  19  2  3  1  1  38
+23 Lautier-Ogunleye,Dwa g  3  7   2  4   2  4   0  2  2   4  10  0  0  0  0  26
+04 Brummett,Armon......    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   2
+12 Bar,Koch............    1  4   0  0   4  5   4  4  8   0   6  0  2  0  0  12
+22 Henry,Ja'Shon.......    1  4   0  0   1  2   2  2  4   3   3  0  1  1  0  18
+25 Kennell,Nate........    0  5   0  3   2  2   0  1  1   0   2  1  0  0  0  25
+TM TEAM................                         1  3  4             1
+   Totals..............   17 52   6 17  23 30  11 30 41  14  63  9 10  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-25  .320     9-27  .333    17-52  .327
+3-Pt. FG%:  2-6   .333     4-11  .364     6-17  .353
+F Throw %: 12-15  .800    11-15  .733    23-30  .767
+Deadball rebounds: 4
+Date: 02-23-19      Site: Peoria, Ill. - Carver Arena  Attendance: 6571
+Officials: Roland Simmons; Pat Boeh; James Durham;
+Technical fouls: Evansville-, Chatkevicius,Dainius. Bradley-, Childs,Elijah.
+Score by Periods      1  2   Total
+Evansville.......... 25 36  - 61
+Bradley............. 30 33  - 63

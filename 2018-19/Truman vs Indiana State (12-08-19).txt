@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Truman vs Indiana State (12-08-19)
+VISITORS: Truman (5-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+40 Cade McKnight....... f  4 10   0  3   2  3   2  5  7   1  10  1  3  0  0  31
+03 Brodric Thomas...... g  3 12   1  5   2  2   0  5  5   2   9  4  6  0  2  30
+04 Taurin Hughes....... g  2  5   2  5   0  1   1  1  2   2   6  2  0  0  3  27
+10 Turner Scott........ g  4  8   2  4   4  4   0  2  2   3  14  5  0  0  1  31
+33 Nathan Messer....... g  1  6   1  5   0  0   1  2  3   2   3  1  1  1  0  24
+01 Nikola Pesic........    1  2   1  1   2  3   0  0  0   3   5  0  2  0  0  15
+02 Jacob Socha.........    3  4   3  4   1  1   0  0  0   0  10  1  1  0  0  14
+12 Hunter Strait.......    3  4   2  3   3  3   1  1  2   1  11  1  1  0  0  16
+23 Mark Rogers.........    0  0   0  0   1  2   0  2  2   1   1  0  0  0  1   9
+24 Caleb Socha.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+25 T.J. Schilling......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+30 Tanner Zeil.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+32 Olawale Odofin......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+TM TEAM................                         1  1  2
+   Totals..............   21 51  12 30  15 19   6 19 25  15  69 15 14  1  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-21  .381    13-30  .433    21-51  .412
+3-Pt. FG%:  5-12  .417     7-18  .389    12-30  .400
+F Throw %:  9-12  .750     6-7   .857    15-19  .789
+Deadball rebounds: 1
+HOME TEAM: Indiana State (6-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 Thomas,Devin........ f  0  3   0  1   0  0   1  5  6   2   0  2  0  1  0  15
+41 Rickman,Emondre..... c  5  7   0  0   2  3   1  4  5   1  12  1  2  3  0  15
+01 Holston,Allante..... g  5  8   0  0   0  0   0  3  3   3  10  4  1  0  0  33
+02 Barnes,Jordan....... g  7 16   6 11   0  0   1  3  4   2  20  9  5  0  2  36
+11 Key,Tyreke.......... g 11 15   2  3   2  2   1  3  4   2  26  4  2  0  1  37
+05 Kessinger,Bronson...    2  5   0  0   1  2   1  2  3   3   5  1  0  0  0  18
+12 Martin,Tyeshon......    0  0   0  0   0  0   0  2  2   2   0  0  1  0  1  14
+23 Washington,De'Avion.    1  1   0  0   2  2   2  4  6   2   4  1  3  1  2  29
+40 Brinkmeyer,Blake....    0  0   0  0   0  0   0  0  0   1   0  0  0  0  1   3
+TM TEAM................                                             2
+   Totals..............   31 55   8 15   7  9   7 26 33  18  77 22 16  5  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-24  .583    17-31  .548    31-55  .564
+3-Pt. FG%:  3-6   .500     5-9   .556     8-15  .533
+F Throw %:  5-6   .833     2-3   .667     7-9   .778
+Deadball rebounds: 0,1
+Date: 12-08-19      Site: Hulman Center (Terre Haute, Ind.)  Attendance: 3466
+Officials: Drew Bontrager; Shane Staggs; Paul Janssen;
+Technical fouls: Truman-None. Indiana State-None.
+Score by Periods      1  2   Total
+Truman.............. 30 39  - 69
+Indiana State....... 36 41  - 77
+2018-19 Men's Basketball. Round: 0. Indiana St. vs Truman. Played at .

@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Missouri State vs Air Force (11-28-18)
+VISITORS: Missouri State (3-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  1  1   0  0   2  2   0  3  3   1   4  2  1  3  1  28
+30 Da Silva,Tulio...... f  9 12   1  1   3  5   1  2  3   3  22  1  1  1  1  32
+00 Webster,Josh........ g  2  6   0  2   2  3   0  2  2   0   6  7  2  0  2  35
+11 Dixon,Jarred........ g  2  7   1  5   0  0   0  0  0   3   5  1  1  0  1  23
+20 Kreklow,Ryan........ g  4  6   3  5   0  0   0  3  3   1  11  1  3  0  1  29
+01 Cook,Keandre........    3  7   0  1   7  7   1  3  4   5  13  0  4  0  0  25
+10 Wojcik,Szymon.......    0  1   0  1   0  0   0  1  1   2   0  0  3  0  0  10
+21 Owens,Ross..........    0  1   0  1   1  2   1  0  1   0   1  0  0  0  0   3
+23 Mohammed,Kabir......    1  4   0  1   3  4   2  1  3   2   5  0  0  0  0   9
+25 Scott,Darian........    1  3   0  0   0  0   1  1  2   0   2  0  0  0  1   6
+TM TEAM................                            1  1
+   Totals..............   23 48   5 17  18 23   6 17 23  17  69 12 15  4  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-19  .579    12-29  .414    23-48  .479
+3-Pt. FG%:  3-8   .375     2-9   .222     5-17  .294
+F Throw %: 13-14  .929     5-9   .556    18-23  .783
+Deadball rebounds: 2
+HOME TEAM: Air Force (3-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 AKAYA, Ameka........ f  5  6   2  2   2  3   0  3  3   0  14  2  1  0  0  18
+02 WALKER, AJ.......... g  7 12   6  8   0  0   0  3  3   3  20  3  2  0  0  35
+03 TOMES, Sid.......... g  1  4   1  3   0  0   1  3  4   4   3  5  1  0  0  21
+05 JOYCE, Chris........ g  4 10   2  6   2  2   0  1  1   3  12  4  1  0  1  30
+44 VAN SOELEN, Keaton.. g  1  3   0  0   1  2   4  4  8   3   3  3  0  0  1  22
+00 MORRIS, Caleb.......    3  3   3  3   0  0   0  1  1   3   9  0  0  0  0   8
+01 COUPER, Zach........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+12 SCOTTIE, Lavelle....    4  6   1  2   2  2   1  2  3   1  11  2  5  0  0  21
+15 KINRADE, Abe........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+20 MONSON, Isaac.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+22 LOUDER, Pervis......    2  4   0  1   0  0   0  1  1   2   4  3  2  0  1  20
+23 RENE, Nick..........    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   1
+34 SWAN, Ryan..........    4  5   2  3   2  2   0  3  3   0  12  1  1  0  2  21
+TM TEAM................                            1  1             1
+   Totals..............   31 53  17 28   9 11   6 22 28  19  88 23 15  0  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-30  .567    14-23  .609    31-53  .585
+3-Pt. FG%: 11-17  .647     6-11  .545    17-28  .607
+F Throw %:  2-2  1.000     7-9   .778     9-11  .818
+Deadball rebounds: 1
+Date: 11-28-18      Site: Clune Arena - USAF Academy, Colo.  Attendance: 1629
+Officials: Kelly Self; Randy Heimerman; Winston Stith;
+Technical fouls: Missouri State-None. Air Force-None.
+Score by Periods      1  2   Total
+Missouri State...... 38 31  - 69
+Air Force........... 47 41  - 88
+Mountain West/Missouri Valley Challenge Game

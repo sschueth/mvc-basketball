@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Stetson vs Missouri State (11-11-18)
+VISITORS: Stetson (1-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Keith Matthews...... f  2  7   1  3   0  0   1  1  2   2   5  1  1  0  0  15
+21 Ricky Gouety........ f  0  3   0  0   0  0   0  3  3   4   0  0  3  2  1   9
+23 Abayomi Iyiola...... c  5  8   0  0   4  6   3  8 11   3  14  1  0  3  0  24
+02 Raine Mckeython..... g  1  1   0  0   0  0   0  0  0   2   2  2  1  0  0   6
+04 Jahlil Rawley....... g  3  5   0  0   0  0   0  2  2   1   6  3  4  0  4  28
+00 Christiaan Jones....    5 12   1  4   1  2   5  3  8   2  12  0  3  0  2  28
+05 Marques Sumner......    3 13   3  9   0  0   0  0  0   3   9  1  1  0  1  27
+10 Kenny Aninye........    0  1   0  1   0  0   0  2  2   4   0  2  1  0  1  12
+13 Ricardo Lynch.......    5 15   1 10   5  5   1  1  2   3  16  1  1  0  2  22
+15 Clay Verk...........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+32 Adam Webb...........    0  2   0  0   0  0   1  0  1   4   0  0  1  0  0   7
+35 Leo Goodman.........    2  7   2  4   0  0   2  2  4   2   6  1  2  0  1  18
+TM TEAM................                         5  2  7
+   Totals..............   26 74   8 31  10 13  18 24 42  30  70 12 18  5 12 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-30  .367    15-44  .341    26-74  .351
+3-Pt. FG%:  3-12  .250     5-19  .263     8-31  .258
+F Throw %:  7-8   .875     3-5   .600    10-13  .769
+Deadball rebounds: 5
+HOME TEAM: Missouri State (3-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  4  6   0  1   3  9   2  2  4   4  11  2  5  2  1  32
+10 Wojcik,Szymon....... f  3  7   2  4   2  2   1  2  3   2  10  0  3  0  1  20
+00 Webster,Josh........ g  0  3   0  1   1  2   1  2  3   1   1  4  0  1  2  34
+01 Cook,Keandre........ g  7 14   1  3   5  9   3  5  8   0  20  2  3  1  2  35
+11 Dixon,Jarred........ g  6 11   1  3   5  6   0  5  5   3  18  3  1  1  0  28
+15 Wojcik,Jan..........    0  1   0  1   0  0   0  0  0   1   0  0  0  0  1  10
+20 Kreklow,Ryan........    2  5   1  2   3  3   1  2  3   1   8  0  2  1  2  21
+21 Owens,Ross..........    1  1   1  1   0  0   0  0  0   0   3  0  0  0  0   3
+23 Mohammed,Kabir......    4  6   0  0   4  7   3  6  9   4  12  2  3  1  1  16
+25 Scott,Darian........    0  2   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                         4  3  7
+   Totals..............   27 56   6 16  23 38  15 27 42  16  83 13 17  7 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-31  .452    13-25  .520    27-56  .482
+3-Pt. FG%:  3-10  .300     3-6   .500     6-16  .375
+F Throw %: 12-21  .571    11-17  .647    23-38  .605
+Deadball rebounds: 5,1
+Date: 11-11-18      Site: JQH Arena, Springfield, Mo.  Attendance: 3879
+Officials: Gerry Pollard; Rick Crawford; Pat Boeh;
+Technical fouls: Stetson-None. Missouri State-None.
+Score by Periods      1  2   Total
+Stetson............. 32 38  - 70
+Missouri State...... 43 40  - 83

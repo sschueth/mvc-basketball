@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  Western Kentucky vs Indiana State (11-24-18)
+VISITORS: Western Kentucky (3-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Jared Savage........ f  4 17   2  8   1  1   1  8  9   4  11  2  2  0  0  40
+13 Desean Murray....... f  5 12   1  4   0  0   1  0  1   0  11  1  1  0  0  23
+23 Charles Bassey...... c  6  7   1  1   3  3   4  4  8   1  16  0  3  4  1  33
+04 Josh Anderson....... g  1  3   0  1   0  0   0  2  2   3   2  0  5  2  0  27
+11 Taveion Hollingswort g  3  9   0  2   3  5   2  4  6   2   9  2  1  0  3  34
+00 Tolu Smith..........    0  1   0  0   0  0   0  1  1   2   0  0  1  0  0   7
+14 Marek Nelson........    0  3   0  0   0  0   1  1  2   2   0  0  1  0  1  13
+20 Dalano Banton.......    2  4   0  2   1  3   3  3  6   1   5  3  1  0  0  20
+21 Jake Ohmer..........    0  1   0  0   0  0   0  0  0   1   0  0  0  0  1   3
+TM TEAM................                         2  1  3
+   Totals..............   21 57   4 18   8 12  14 24 38  16  54  8 15  6  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-29  .448     8-28  .286    21-57  .368
+3-Pt. FG%:  4-10  .400     0-8   .000     4-18  .222
+F Throw %:  0-2   .000     8-10  .800     8-12  .667
+Deadball rebounds: 2
+HOME TEAM: Indiana State (3-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 Thomas,Devin........ f  1  6   1  4   0  0   0  2  2   1   3  0  2  1  0  17
+41 Rickman,Emondre..... c  4  9   0  0   0  1   2  2  4   3   8  0  2  2  0  23
+01 Holston,Allante..... g  0  2   0  0   1  2   2  3  5   1   1  3  2  1  1  28
+02 Barnes,Jordan....... g  6 14   3  6   2  2   2  5  7   1  17  3  3  0  0  34
+11 Key,Tyreke.......... g  5  7   3  3   3  5   1  5  6   1  16  2  1  0  2  32
+05 Kessinger,Bronson...    3  6   0  0   0  0   1  1  2   4   6  1  0  0  1  17
+13 Hughes,Clayton......    3  7   1  2   0  1   1  2  3   4   7  3  2  0  0  27
+23 Washington,De'Avion.    1  5   1  3   2  2   0  2  2   3   5  1  1  0  1  22
+TM TEAM................                         3  2  5
+   Totals..............   23 56   9 18   8 13  12 24 36  18  63 13 13  4  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-27  .444    11-29  .379    23-56  .411
+3-Pt. FG%:  5-7   .714     4-11  .364     9-18  .500
+F Throw %:  3-4   .750     5-9   .556     8-13  .615
+Deadball rebounds: 2
+Date: 11-24-18      Site: Terre Haute, Ind. Hulman Center  Attendance: 3032
+Officials: Steve Divine; James Durham; Jeff Malham;
+Technical fouls: Western Kentucky-None. Indiana State-None.
+Score by Periods      1  2   Total
+Western Kentucky.... 30 24  - 54
+Indiana State....... 32 31  - 63
+2018-19 Men's Basketball. Round: 0. Indiana St. vs Western Ky.. Played at .

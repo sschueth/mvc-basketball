@@ -1,0 +1,56 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Richmond vs Loyola Chicago (11-19-18)
+VISITORS: Richmond (2-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Gilyard,Jacob....... *  8 12   2  5   1  2   0  2  2   3  19  5  3  0  4  34
+04 Cayo,Nathan......... *  1  2   0  0   1  1   1  0  1   4   3  0  4  0  1  12
+05 Sherod,Nick......... *  4  9   2  7   2  2   0  4  4   2  12  3  3  0  0  33
+11 Wojcik,Jake......... *  2  5   2  4   2  3   0  1  1   2   8  1  2  0  1  34
+33 Golden,Grant........ *  6 13   0  1   1  1   0  4  4   3  13  1  2  1  0  31
+02 Koureissi,Souleymane    0  0   0  0   0  1   0  1  1   0   0  0  1  0  0   4
+03 Schneider,Bryce.....    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   2
+15 Grace,Matt..........    2  2   1  1   0  0   0  0  0   1   5  0  0  0  0   5
+22 Gustavson,Andre.....    0  0   0  0   0  0   0  0  0   2   0  0  0  0  0   5
+24 Yates,Noah..........    1  1   0  0   1  2   0  3  3   1   3  0  0  0  2  18
+32 Johnson,Julius......    1  4   1  4   0  0   0  0  0   1   3  1  0  0  0  22
+TM TEAM................                            3  3   1
+   Totals..............   25 48   8 22   8 12   1 19 20  20  66 11 15  1  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-27  .519    11-21  .524    25-48  .521
+3-Pt. FG%:  5-12  .417     3-10  .300     8-22  .364
+F Throw %:  3-5   .600     5-7   .714     8-12  .667
+Deadball rebounds: 1
+HOME TEAM: Loyola Chicago (4-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Williamson,Lucas.... *  9 11   3  4   2  4   3  2  5   0  23  2  0  0  1  31
+05 Townes,Marques...... *  6  8   1  3   2  4   1  3  4   3  15  1  3  0  1  27
+13 Custer,Clayton...... *  4 10   2  6   3  4   1  1  2   3  13  4  0  0  0  27
+25 Krutwig,Cameron..... *  4  7   0  0   1  4   2  6  8   1   9  1  3  0  2  25
+30 Uguak,Aher.......... *  0  2   0  0   1  2   0  1  1   3   1  0  3  0  1  10
+02 Baughman,Jake.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+04 Skokna,Bruno........    2  6   1  5   0  0   0  4  4   1   5  0  3  0  1  24
+12 Negron,Christian....    1  1   0  0   0  0   1  3  4   0   2  0  0  0  0   7
+22 Bujdoso,Isaiah......    4  4   0  0   3  7   1  1  2   1  11  1  1  0  1  25
+23 Kaifes,Cooper.......    1  1   1  1   0  0   0  0  0   3   3  1  1  0  0  14
+33 Agunanne,Frank......    0  0   0  0   0  0   0  2  2   3   0  0  3  0  0   8
+45 Alcock,Will.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                            2  2
+   Totals..............   31 50   8 19  12 25   9 25 34  18  82 10 17  0  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-22  .500    20-28  .714    31-50  .620
+3-Pt. FG%:  6-12  .500     2-7   .286     8-19  .421
+F Throw %:  5-10  .500     7-15  .467    12-25  .480
+Deadball rebounds: 4
+Date: 11-19-18      Site: Fort Myers, Fla., Sun Coast Arena  Attendance: 1550
+Officials: R Mike Scyphers; U1 Greg Nixon; U2 Rick Batsell;
+Technical fouls: Richmond-None. Loyola Chicago-, TEAM.
+Score by Periods      1  2   Total
+Richmond............ 36 30  - 66
+Loyola Chicago...... 33 49  - 82
+1912 Flagrant Richmond 4
+507 Richmond Coach Technical

@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                Florida Gulf Coast vs Illinois State (11-06-18)
+VISITORS: Florida Gulf Coast (0-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 CARLYLE, Christian.. *  1  3   0  1   3  4   2  7  9   3   5  2  4  0  0  33
+11 CASIMIR, Schadrac... *  6  9   6  7   0  0   0  0  0   1  18  2  3  0  1  33
+15 DOYLE, Ricky........ *  3  5   0  0   0  0   2  3  5   2   6  0  2  0  0  15
+22 CHEATHAM, Haanif.... *  4 11   1  4   1  4   0  5  5   0  10  2  3  0  1  29
+31 MERCURIUS, Dinero... *  4  8   3  6   0  0   0  1  1   4  11  1  2  0  2  23
+00 DAY, Decardo........    2  9   1  5   0  0   0  1  1   2   5  2  4  0  0  22
+01 BAXTER Jr, Troy.....    3  6   1  4   0  0   2  2  4   4   7  2  2  0  0  16
+02 CATTO, Caleb........    0  2   0  2   0  0   2  2  4   1   0  1  1  0  0  10
+04 SCOTT, Zach.........    1  1   0  0   0  0   0  0  0   0   2  0  0  0  0   6
+21 ERNST, Brady........    0  0   0  0   2  4   1  0  1   3   2  3  0  0  1  13
+TM TEAM................                         1  4  5             1
+   Totals..............   24 54  12 29   6 12  10 25 35  20  66 15 22  0  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-22  .455    14-32  .438    24-54  .444
+3-Pt. FG%:  5-12  .417     7-17  .412    12-29  .414
+F Throw %:  3-7   .429     3-5   .600     6-12  .500
+Deadball rebounds: 3
+HOME TEAM: Illinois State (1-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Gassman,Isaac....... *  1  5   0  1   0  0   0  0  0   2   2  1  0  0  3  18
+02 Copeland,Zach....... *  3  7   1  5   2  2   0  0  0   2   9  5  1  0  0  23
+03 Evans,Keyshawn...... *  2  7   1  5   2  2   2  1  3   2   7  3  2  0  1  30
+10 Fayne,Phil.......... *  5 10   0  0   7 13   4  7 11   2  17  0  0  1  1  30
+23 Tinsley,William..... *  1  7   0  4   0  0   0  6  6   3   2  0  2  0  0  22
+05 Hein,Matt...........    0  2   0  2   3  4   0  1  1   1   3  3  0  0  1  20
+11 Jefferson,Josh......    6  7   5  6   0  0   2  0  2   2  17  1  2  1  0  26
+13 Idowu,Rey...........    0  2   0  0   0  0   0  0  0   1   0  0  0  0  1   4
+22 Chastain,Matt.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+52 Yarbrough,Milik.....    7 10   0  1   3  3   1  8  9   3  17  2  5  0  1  26
+TM TEAM................                         1     1
+   Totals..............   25 57   7 24  17 24  10 23 33  18  74 15 12  2  8 201
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-27  .481    12-30  .400    25-57  .439
+3-Pt. FG%:  4-13  .308     3-11  .273     7-24  .292
+F Throw %:  7-12  .583    10-12  .833    17-24  .708
+Deadball rebounds: 4
+Date: 11-06-18      Site: Doug Collins Court at Redbird Arena  Attendance: 4764
+Officials: Mike O'Neill; Roland Simmons; Greg Rennegarbe;
+Technical fouls: Florida Gulf Coast-None. Illinois State-None.
+Score by Periods      1  2   Total
+Florida Gulf Coast.. 28 38  - 66
+Illinois State...... 37 37  - 74

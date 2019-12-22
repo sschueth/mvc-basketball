@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Evansville vs Miami (OH) (12-30-18)
+VISITORS: Evansville (6-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Kuhlman,Evan........ f  0  3   0  3   0  0   0  3  3   2   0  3  0  0  0  24
+35 Hall,John........... f  4  9   0  2   0  0   1  8  9   2   8  1  0  0  1  29
+01 Hill,Marty.......... g  1  6   1  2   0  0   1  0  1   4   3  0  2  1  1  24
+21 Feehan,Shea......... g  4  8   3  5   5  6   0  0  0   1  16  1  1  1  0  31
+33 Riley,K.J........... g  6 12   0  1   8 13   0  4  4   2  20  0  3  1  1  39
+03 Newton,Jawaun.......    3  3   0  0   2  2   0  4  4   3   8  0  2  0  1  18
+05 Givance,Shamar......    2  3   0  1   0  0   0  1  1   0   4  1  1  0  0  11
+14 Chatkevicius,Dainius    3  5   0  0   2  4   1  3  4   1   8  2  3  2  0  18
+30 Frederking,Noah.....    0  0   0  0   0  0   0  0  0   3   0  0  1  0  0   6
+TM TEAM................                            4  4
+   Totals..............   23 49   4 14  17 25   3 27 30  18  67  8 13  5  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-27  .481    10-22  .455    23-49  .469
+3-Pt. FG%:  2-8   .250     2-6   .333     4-14  .286
+F Throw %:  7-11  .636    10-14  .714    17-25  .680
+Deadball rebounds: 4
+HOME TEAM: Miami (OH) (8-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+22 Elijah McNamara..... f  2  4   0  0   0  0   0  2  2   0   4  1  0  0  0  12
+14 Bam Bowman.......... c  3  7   0  1   2  2   7  6 13   2   8  1  1  2  0  31
+01 Nike Sibande........ g  2 13   2  7   0  0   0  2  2   3   6  1  1  2  1  25
+02 Mekhi Lairy......... g  5 11   0  3   4  4   2  2  4   2  14  4  2  0  1  37
+03 Jalen Adaway........ g  3  5   1  2   0  1   0  4  4   3   7  0  0  0  0  22
+12 Darrian Ringo.......    2  4   0  1   3  5   1  3  4   1   7  1  2  0  4  20
+13 Dalonte Brown.......    5 15   2  8   4  6   1  3  4   3  16  0  3  0  0  30
+15 Milos Jovic.........    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   4
+21 Aleks Abrams........    0  2   0  0   0  0   2  3  5   1   0  1  0  1  1   7
+30 Abdoulaye Harouna...    2  2   1  1   3  4   0  1  1   4   8  1  3  0  0  12
+TM TEAM................                         4  1  5
+   Totals..............   24 63   6 23  16 22  17 27 44  19  70 10 13  5  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-32  .344    13-31  .419    24-63  .381
+3-Pt. FG%:  5-15  .333     1-8   .125     6-23  .261
+F Throw %:  4-5   .800    12-17  .706    16-22  .727
+Deadball rebounds: 1
+Date: 12-30-18      Site: Miami, Ohio  Attendance: 1456
+Officials: Steve  Honacki; Kelly Pfeifer; Brian McAnally;
+Technical fouls: Evansville-None. Miami (OH)-None.
+Score by Periods      1  2   Total
+Evansville.......... 35 32  - 67
+Miami (OH).......... 31 39  - 70
+2018-19 Men's Basketball. Round: 0. Evansville vs Miami (OH). Played at .

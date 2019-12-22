@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     UC Riverside vs Valparaiso (12-02-18)
+VISITORS: UC Riverside (2-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 Zac Watson.......... f  2  4   0  1   3  3   1  2  3   2   7  0  3  0  0  22
+32 Menno Dijkstra...... c  3  9   1  6   2  2   0  2  2   2   9  2  1  1  0  20
+00 Dragan Elkaz........ g  4  5   4  5   0  0   0  2  2   2  12  1  0  0  0  35
+02 Jordan Gilliam...... g  3 11   0  1   0  0   2  3  5   2   6  3  2  1  4  33
+15 Dikymbe Martin...... g  8 15   3  6   2  2   0  3  3   1  21  3  1  0  1  35
+10 Ajani Kennedy.......    2  4   1  1   0  0   1  0  1   2   5  0  0  0  1  20
+22 Dominick Pickett....    2  5   1  3   0  0   5  1  6   1   5  1  0  0  0  20
+25 Callum McRae........    2  6   0  0   4  6   0  1  1   1   8  1  1  0  0  15
+TM TEAM................                            1  1
+   Totals..............   26 59  10 23  11 13   9 15 24  13  73 11  8  2  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-29  .414    14-30  .467    26-59  .441
+3-Pt. FG%:  3-7   .429     7-16  .438    10-23  .435
+F Throw %:  8-9   .889     3-4   .750    11-13  .846
+Deadball rebounds: 2
+HOME TEAM: Valparaiso (5-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+21 Smits,Derrik........ c  8 13   0  0   2  4   4  2  6   2  18  0  3  1  0  27
+00 Freeman,Javon....... g  4  6   0  1   0  0   0  1  1   1   8  3  1  0  1  31
+02 Lavender,Deion...... g  6  8   0  2   0  0   1  6  7   0  12  7  1  0  0  31
+04 Evelyn,Bakari....... g  3  6   2  4   2  2   0  4  4   1  10  2  3  0  0  34
+35 Fazekas,Ryan........ g  5  9   4  6   0  0   1  1  2   3  14  0  0  0  0  28
+03 Sackey,Daniel.......    0  4   0  1   0  1   0  4  4   1   0  4  1  0  1  17
+05 Golder,Markus.......    6  8   3  4   1  1   1  1  2   1  16  1  0  0  0  19
+14 Sorolla,Jaume.......    1  1   0  0   0  0   0  0  0   2   2  0  1  0  0  11
+33 Kiser,John..........    0  0   0  0   2  2   0  1  1   0   2  0  0  0  0   2
+TM TEAM................                         1  4  5
+   Totals..............   33 55   9 18   7 10   8 24 32  11  82 17 10  1  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 18-30  .600    15-25  .600    33-55  .600
+3-Pt. FG%:  6-11  .545     3-7   .429     9-18  .500
+F Throw %:  2-4   .500     5-6   .833     7-10  .700
+Deadball rebounds: 2
+Date: 12-02-18      Site: Valparaiso, Ind. ARC  Attendance: 2112
+Officials: Jeb Hartness; Ray Natili; Gary Maxwell;
+Technical fouls: UC Riverside-None. Valparaiso-Fazekas,Ryan.
+Score by Periods      1  2   Total
+UC Riverside........ 35 38  - 73
+Valparaiso.......... 44 38  - 82
+2018-19 Men's Basketball. Round: 0. UC Riverside vs Valparaiso. Played at .

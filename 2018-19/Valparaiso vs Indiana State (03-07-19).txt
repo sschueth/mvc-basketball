@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Valparaiso vs Indiana State (03-07-19)
+VISITORS: Valparaiso (15-17; 7-11  MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Kiser,John.......... f  1  2   1  1   0  0   0  3  3   1   3  0  3  0  1  15
+14 Sorolla,Jaume....... c  1  2   0  0   2  2   0  3  3   1   4  1  1  0  1  21
+00 Freeman,Javon....... g  6 10   2  5   3  4   1  6  7   2  17  2  0  0  3  33
+02 Lavender,Deion...... g  4  9   0  1   0  0   1  4  5   0   8  1  0  0  1  31
+05 Golder,Markus....... g  5 11   0  1   8  8   2  4  6   1  18  1  0  0  2  34
+03 Sackey,Daniel.......    1  4   0  1   2  2   0  2  2   0   4  1  1  0  0  10
+04 Evelyn,Bakari.......    4 12   0  5   5  6   0  2  2   1  13  2  1  0  0  34
+12 Stalling,Langston...    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+21 Smits,Derrik........    4  8   0  0   1  3   3  4  7   3   9  1  0  1  0  18
+23 McMillan,Mileek.....    0  0   0  0   1  2   0  1  1   1   1  0  0  0  0   3
+TM TEAM................                         2  1  3             1
+   Totals..............   26 58   3 14  22 27   9 30 39  10  77  9  7  1  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-29  .483    12-29  .414    26-58  .448
+3-Pt. FG%:  0-6   .000     3-8   .375     3-14  .214
+F Throw %:  8-10  .800    14-17  .824    22-27  .815
+Deadball rebounds: 1,1
+HOME TEAM: Indiana State (15-16; 7-11  MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+41 Rickman,Emondre..... c  2  7   0  0   3  3   0  3  3   4   7  0  2  0  0  16
+02 Barnes,Jordan....... g  4 14   1  7   1  1   1  3  4   4  10  2  4  0  1  30
+04 Neese,Cooper........ g  2  7   1  5   0  0   0  3  3   3   5  1  3  0  0  33
+10 Williams,Christian.. g  2  6   0  2   0  0   0  8  8   0   4  4  2  1  2  34
+11 Key,Tyreke.......... g  7 14   4  8   2  2   1  2  3   3  20  0  2  0  0  37
+01 Holston,Allante.....    2  4   0  1   1  2   3  1  4   4   5  0  0  0  0  17
+05 Kessinger,Bronson...    2  2   0  0   0  0   1  1  2   4   4  0  0  0  0  13
+12 Martin,Tyeshon......    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+13 Hughes,Clayton......    0  2   0  1   0  0   0  2  2   0   0  0  0  1  0   6
+20 Huenermann,Daniel...    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   1
+23 Washington,De'Avion.    0  1   0  1   0  0   0  1  1   1   0  0  0  0  0  12
+TM TEAM................                            1  1
+   Totals..............   21 58   6 25   7  8   6 25 31  24  55  7 13  2  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-28  .393    10-30  .333    21-58  .362
+3-Pt. FG%:  3-12  .250     3-13  .231     6-25  .240
+F Throw %:  4-4  1.000     3-4   .750     7-8   .875
+Deadball rebounds: 1,2
+Date: 03-07-19      Site: Enterprise Center, St. Louis, Missouri  Attendance: 5004
+Officials: Gerry Pollard; Kipp Kissinger; Randy Heimerman;
+Technical fouls: Valparaiso-None. Indiana State-None.
+Score by Periods      1  2   Total
+Valparaiso.......... 36 41  - 77
+Indiana State....... 29 26  - 55

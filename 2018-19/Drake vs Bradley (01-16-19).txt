@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                          Drake vs Bradley (01-16-19)
+VISITORS: Drake (13-5, 2-3 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Murphy,Tremell...... f  5 10   0  1   1  2   4  7 11   2  11  1  3  0  2  33
+35 McGlynn,Nick........ f  8 11   0  1   3  5   1 10 11   1  19  1  3  1  1  27
+00 Wilkins,D.J......... g  3  9   2  6   2  2   0  3  3   3  10  2  2  0  1  30
+14 Thomas,Noah......... g  1  2   0  1   0  0   0  2  2   2   2  6  8  0  2  29
+22 Ellingson,Brady..... g  5  9   5  9   0  0   0  2  2   0  15  2  1  0  0  36
+03 Sturtz,Garrett......    2  3   1  1   0  0   0  2  2   4   5  2  1  0  1  11
+04 Murphy,Anthony......    1  4   1  3   2  2   1  3  4   3   5  2  0  0  0  21
+21 Robbins,Liam........    1  2   0  0   0  1   1  2  3   2   2  0  0  1  0  13
+TM TEAM................                         3  1  4             1
+   Totals..............   26 50   9 22   8 12  10 32 42  17  69 16 19  2  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-26  .462    14-24  .583    26-50  .520
+3-Pt. FG%:  5-15  .333     4-7   .571     9-22  .409
+F Throw %:  4-6   .667     4-6   .667     8-12  .667
+Deadball rebounds: 1
+HOME TEAM: Bradley (8-10,0-5 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Childs,Elijah....... f  7 16   0  2   1  2   4  9 13   1  15  0  0  2  0  38
+12 Bar,Koch............ c  1  4   0  0   0  0   2  2  4   0   2  0  1  0  3  14
+02 Lundy,Luqman........ g  3  6   2  3   2  2   0  0  0   1  10  0  0  0  3  22
+05 Brown,Darrell....... g  2 15   1  6   1  2   0  0  0   4   6  4  4  0  1  38
+23 Lautier-Ogunleye,Dwa g  4  7   0  0   5  6   1  3  4   3  13  2  2  2  2  35
+01 Boya,Ari............    0  0   0  0   0  0   0  0  0   1   0  0  0  0  1   5
+13 van Bree,Luuk.......    1  6   0  2   2  3   5  1  6   3   4  0  1  0  2  15
+22 Henry,Ja'Shon.......    1  2   0  0   0  0   1  0  1   0   2  0  1  0  1   4
+25 Kennell,Nate........    0  4   0  2   0  2   0  0  0   1   0  2  0  0  1  22
+35 Hodgson,Jayden......    0  1   0  0   0  0   0  0  0   0   0  0  2  0  0   7
+TM TEAM................                            2  2
+   Totals..............   19 61   3 15  11 17  13 17 30  14  52  8 11  4 14 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  5-33  .152    14-28  .500    19-61  .311
+3-Pt. FG%:  1-9   .111     2-6   .333     3-15  .200
+F Throw %:  4-7   .571     7-10  .700    11-17  .647
+Deadball rebounds: 3
+Date: 01-16-19      Site: Peoria, Ill. - Carver Arena  Attendance: 4654
+Officials: Gary Maxwell; Ervin Wilson; Tyler Kumpf;
+Technical fouls: Drake-, Thomas,Noah. Bradley-None.
+Score by Periods      1  2   Total
+Drake............... 33 36  - 69
+Bradley............. 15 37  - 52

@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Missouri State vs Muuray State (11-24-18)
+VISITORS: Missouri State (3-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  6 10   0  1   3  5   2  7  9   2  15  0  3  1  1  37
+10 Wojcik,Szymon....... f  0  2   0  1   0  0   0  0  0   3   0  0  2  2  0   7
+00 Webster,Josh........ g  4  8   0  1   2  3   1  3  4   3  10  7  1  0  3  36
+01 Cook,Keandre........ g  2  6   0  3   1  2   0  2  2   1   5  1  2  0  0  20
+11 Dixon,Jarred........ g  5 14   1  6   7 10   1  0  1   2  18  2  3  0  0  38
+20 Kreklow,Ryan........    0  2   0  2   0  0   0  2  2   0   0  0  2  0  0  16
+23 Mohammed,Kabir......    4  7   0  0   3  4   3  0  3   4  11  0  1  1  0  14
+25 Scott,Darian........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   2
+30 Da Silva,Tulio......    3  7   0  2   1  4   4  7 11   3   7  1  2  1  1  30
+TM TEAM................                         1  1  2
+   Totals..............   24 56   1 16  17 28  12 22 34  19  66 11 16  5  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-24  .333    16-32  .500    24-56  .429
+3-Pt. FG%:  0-8   .000     1-8   .125     1-16  .063
+F Throw %:  9-15  .600     8-13  .615    17-28  .607
+Deadball rebounds: 4
+HOME TEAM: Muuray State (3-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 Brion Sanchious..... f  1  2   0  0   0  0   2  6  8   2   2  1  0  1  0  22
+24 Anthony Smith....... f  3  3   0  0   2  2   2  2  4   4   8  0  1  1  0  23
+10 Tevin Brown......... g  2  9   2  8   0  0   0  1  1   5   6  0  0  1  2  29
+11 Shaq Buchanan....... g  7 13   0  3   6  6   0  1  1   0  20  3  3  1  1  34
+12 Ja Morant........... g  9 18   6 12   5  6   1 12 13   3  29 12  7  1  1  40
+00 Mike Davis..........    0  3   0  2   3  4   1  2  3   4   3  0  0  0  1  17
+14 Jaiveon Eaves.......    1  1   1  1   0  0   0  0  0   0   3  0  0  0  1   4
+22 Brion Whitley.......    1  2   0  1   0  0   0  0  0   2   2  0  0  0  1  13
+32 Darnell Cowart......    1  4   0  0   2  4   2  1  3   1   4  2  3  0  1  18
+TM TEAM................                         1  2  3             1
+   Totals..............   25 55   9 27  18 22   9 27 36  21  77 18 15  5  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-32  .406    12-23  .522    25-55  .455
+3-Pt. FG%:  3-14  .214     6-13  .462     9-27  .333
+F Throw %:  6-8   .750    12-14  .857    18-22  .818
+Deadball rebounds: 3
+Date: 11-24-18      Site: Murray, Ky.  Attendance: 2701
+Officials: James Hicks; Andrew Walton; Gene Grimshaw;
+Technical fouls: Missouri State-None. Muuray State-None.
+Score by Periods      1  2   Total
+Missouri State...... 25 41  - 66
+Muuray State........ 35 42  - 77
+2018-19 Men's Basketball. Round: 0. Missouri St. vs Murray St.. Played at .

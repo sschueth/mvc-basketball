@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Bradley vs Indiana State (01-05-19)
+VISITORS: Bradley (8-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Childs,Elijah....... f  2 11   0  2   1  1   3  3  6   4   5  1  5  4  0  25
+12 Bar,Koch............ c  2  6   0  0   0  0   3  8 11   3   4  0  1  1  0  23
+03 Pittman,Antoine..... g  0  0   0  0   0  0   0  0  0   4   0  0  1  0  0   8
+05 Brown,Darrell....... g  8 17   3  9  13 16   1  3  4   1  32  1  3  0  1  38
+23 Lautier-Ogunleye,Dwa g  3  7   0  1   2  4   0  9  9   4   8  0  3  0  1  35
+01 Boya,Ari............    1  4   0  0   0  0   0  1  1   2   2  0  0  0  1   7
+02 Lundy,Luqman........    0  1   0  1   0  0   0  0  0   0   0  2  0  0  0   5
+04 Brummett,Armon......    0  1   0  1   0  0   0  1  1   2   0  0  1  0  0   9
+13 van Bree,Luuk.......    2  5   0  2   0  0   4  6 10   4   4  1  1  0  1  22
+25 Kennell,Nate........    2  8   0  4   1  2   0  3  3   5   5  0  1  0  2  28
+TM TEAM................                         2  1  3             1
+   Totals..............   20 60   3 20  17 23  13 35 48  29  60  5 17  5  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-24  .417    10-36  .278    20-60  .333
+3-Pt. FG%:  1-5   .200     2-15  .133     3-20  .150
+F Throw %:  4-5   .800    13-18  .722    17-23  .739
+Deadball rebounds: 1
+HOME TEAM: Indiana State (9-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+41 Rickman,Emondre..... c  3  6   0  0   2  5   1  4  5   4   8  0  2  0  0  17
+01 Holston,Allante..... g  0  2   0  0   1  2   1  1  2   1   1  0  0  1  0  15
+02 Barnes,Jordan....... g  3  6   1  2   9 12   2  6  8   4  16  2  1  0  2  30
+10 Williams,Christian.. g  3 12   1  3  11 14   0 11 11   3  18  0  1  0  0  34
+11 Key,Tyreke.......... g  0  3   0  1   3  6   0  1  1   3   3  2  1  0  0  35
+04 Neese,Cooper........    2  9   1  7   1  2   0  5  5   1   6  1  3  0  0  25
+05 Kessinger,Bronson...    2  6   0  0   0  2   4  1  5   2   4  0  3  0  0  21
+13 Hughes,Clayton......    3  6   0  3   3  4   1  2  3   3   9  0  1  1  0  22
+35 Thomas,Devin........    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                         1  1  2
+   Totals..............   16 51   3 17  30 47  10 32 42  21  65  5 12  2  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-23  .348     8-28  .286    16-51  .314
+3-Pt. FG%:  1-7   .143     2-10  .200     3-17  .176
+F Throw %:  8-15  .533    22-32  .688    30-47  .638
+Deadball rebounds: 7
+Date: 01-05-19      Site: Terre Haute, IN Hulman Center  Attendance: 4117
+Officials: Ford Branch; Jr.; Tim  Fitzgerald;
+Technical fouls: Bradley-, TEAM. Indiana State-None.
+Score by Periods      1  2   Total
+Bradley............. 25 35  - 60
+Indiana State....... 25 40  - 65
+2018-19 Men's Basketball. Round: 0. Bradley vs Indiana St.. Played at .

@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                         Iowa State vs Drake (12-15-18)
+VISITORS: Iowa State (9-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Weiler-Babb, Nick... *  4 12   2  4   3  3   0  2  2   0  13  6  1  1  0  34
+03 Shayok, Marial...... *  7 16   2  5   2  2   2  4  6   3  18  2  1  0  0  35
+11 Horton-Tucker, Talen *  6 14   1  5   2  5   2  7  9   3  15  4  1  0  1  33
+12 Jacobson, Michael... *  9 12   3  4   1  2   2  2  4   1  22  1  3  0  1  31
+22 Haliburton, Tyrese.. *  2  6   1  4   0  0   1  3  4   1   5  2  1  1  1  37
+02 Lard, Cameron.......    0  0   0  0   0  0   0  0  0   3   0  0  0  2  0   3
+04 Conditt IV, George..    0  2   0  0   0  0   2  1  3   0   0  0  0  1  1   6
+23 Talley Jr., Zoran...    1  2   0  0   0  0   1  2  3   0   2  2  0  0  0  15
+24 Lewis, Terrence.....    1  3   0  1   0  0   0  0  0   0   2  0  0  0  0   6
+TM TEAM................                         1  1  2
+   Totals..............   30 67   9 23   8 12  11 22 33  11  77 17  7  5  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-38  .421    14-29  .483    30-67  .448
+3-Pt. FG%:  4-14  .286     5-9   .556     9-23  .391
+F Throw %:  0-0   .000     8-12  .667     8-12  .667
+Deadball rebounds: 4,2
+HOME TEAM: Drake (6-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Wilkins,D.J......... *  1  7   1  5   0  0   0  4  4   4   3  2  0  0  0  26
+02 Murphy,Tremell...... *  1  5   0  1   1  2   0  1  1   3   3  1  2  0  0  18
+20 Norton,Nick......... *  4 10   3  7   0  0   0  6  6   1  11 10  0  0  1  38
+22 Ellingson,Brady..... *  4  7   2  5   0  0   1  0  1   0  10  1  0  0  0  20
+35 McGlynn,Nick........ *  9 13   1  3   0  0   1  2  3   1  19  2  3  1  0  30
+03 Sturtz,Garrett......    1  3   0  1   0  0   0  2  2   2   2  1  0  0  1  21
+04 Murphy,Anthony......    5  8   2  4   0  0   0  8  8   2  12  2  3  0  0  22
+14 Thomas,Noah.........    2  4   0  1   0  0   0  2  2   3   4  3  2  0  1  14
+21 Robbins,Liam........    2  2   0  0   0  0   0  0  0   0   4  0  0  1  0  11
+TM TEAM................                         4  1  5             2
+   Totals..............   29 59   9 27   1  2   6 26 32  16  68 22 12  2  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-29  .448    16-30  .533    29-59  .492
+3-Pt. FG%:  5-16  .313     4-11  .364     9-27  .333
+F Throw %:  1-2   .500     0-0   .000     1-2   .500
+Deadball rebounds: 1
+Date: 12-15-18      Site: Wells Fargo Arena - Des Moines, Iowa  Attendance: 12236
+Officials: Gary Maxwell; Bret Smith; Chance Moore;
+Technical fouls: Iowa State-None. Drake-None.
+Score by Periods      1  2   Total
+Iowa State.......... 36 41  - 77
+Drake............... 32 36  - 68
+2018 Hy-Vee Classic
+Fouled Out: none

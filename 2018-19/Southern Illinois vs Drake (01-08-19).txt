@@ -1,0 +1,47 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Southern Illinois vs Drake (01-08-19)
+VISITORS: Southern Illinois (9-7 (2-1 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 Bartley,Marcus...... *  0  3   0  2   0  0   0  0  0   2   0  3  1  0  0  25
+04 McGill,Eric......... *  6 11   2  4   3  4   3  3  6   2  17  0  2  0  2  28
+10 Cook,Aaron.......... *  2 10   2  6   1  4   1  1  2   0   7  3  2  0  3  31
+13 Lloyd,Sean.......... *  3  9   0  2   0  0   2  1  3   0   6  1  1  1  1  31
+33 Pippen,Kavion....... *  6 10   0  0   0  0   3  2  5   2  12  3  3  4  0  30
+05 Beane,Darius........    3  7   0  2   1  2   3  3  6   2   7  0  1  0  2  23
+22 Fletcher,Armon......    9 13   2  3   1  2   2  1  3   4  21  2  2  0  1  28
+24 Stradnieks,Rudy.....    0  0   0  0   0  0   1  0  1   0   0  0  1  0  0   4
+TM TEAM................                         3  1  4
+   Totals..............   29 63   6 19   6 12  18 12 30  12  70 12 13  5  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-30  .333    19-33  .576    29-63  .460
+3-Pt. FG%:  2-8   .250     4-11  .364     6-19  .316
+F Throw %:  0-0   .000     6-12  .500     6-12  .500
+Deadball rebounds: 3,1
+HOME TEAM: Drake (12-4 (1-2 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Wilkins,D.J......... *  5 10   3  6   2  2   0  1  1   1  15  5  2  0  1  36
+02 Murphy,Tremell...... *  1  2   1  2   1  2   1  4  5   2   4  2  3  0  1  30
+14 Thomas,Noah......... *  8 15   4  9   4  5   0  1  1   0  24  4  4  0  1  37
+22 Ellingson,Brady..... *  5 10   4  6   0  0   0  2  2   2  14  2  1  0  1  30
+35 McGlynn,Nick........ *  7 12   1  2   4  5   4  7 11   0  19  4  3  2  0  33
+03 Sturtz,Garrett......    2  2   0  0   0  0   0  1  1   1   4  0  1  0  0  17
+04 Murphy,Anthony......    0  0   0  0   0  0   0  2  2   1   0  3  1  0  0  10
+21 Robbins,Liam........    1  2   0  0   0  0   1  1  2   3   2  0  0  0  0   7
+TM TEAM................                         7     7             2
+   Totals..............   29 53  13 25  11 14  13 19 32  10  82 20 17  2  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-29  .586    12-24  .500    29-53  .547
+3-Pt. FG%:  8-16  .500     5-9   .556    13-25  .520
+F Throw %:  1-2   .500    10-12  .833    11-14  .786
+Deadball rebounds: 1
+Date: 01-08-19      Site: Des Moines, Iowa (Knapp Center)  Attendance: 2638
+Officials: Rick Randall; Rick Crawford; Chance Moore;
+Technical fouls: Southern Illinois-None. Drake-None.
+Score by Periods      1  2   Total
+Southern Illinois... 22 48  - 70
+Drake............... 43 39  - 82

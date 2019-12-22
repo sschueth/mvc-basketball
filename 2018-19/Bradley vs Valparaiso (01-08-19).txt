@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Bradley vs Valparaiso (01-08-19)
+VISITORS: Bradley (8-8)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Childs,Elijah....... f  3 12   0  1   1  2   3  2  5   4   7  1  2  2  2  31
+12 Bar,Koch............ c  0  1   0  0   0  0   1  1  2   0   0  0  0  1  0  15
+02 Lundy,Luqman........ g  2  4   0  0   0  1   0  0  0   1   4  2  1  0  1  16
+05 Brown,Darrell....... g  6 18   1  5   1  1   1  2  3   4  14  1  5  0  2  34
+23 Lautier-Ogunleye,Dwa g  1  4   1  2   8  8   0  9  9   1  11  3  1  0  3  38
+01 Boya,Ari............    1  2   0  0   0  1   1  1  2   1   2  0  1  0  0   8
+04 Brummett,Armon......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+13 van Bree,Luuk.......    4  6   3  5   1  1   0  1  1   3  12  0  1  0  0  24
+25 Kennell,Nate........    0  6   0  3   0  0   0  4  4   2   0  0  1  0  1  24
+35 Hodgson,Jayden......    0  2   0  2   0  0   0  0  0   0   0  0  1  0  0   9
+TM TEAM................                         3     3             1
+   Totals..............   17 55   5 18  11 14   9 20 29  16  50  7 14  3  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  6-27  .222    11-28  .393    17-55  .309
+3-Pt. FG%:  2-9   .222     3-9   .333     5-18  .278
+F Throw %:  4-6   .667     7-8   .875    11-14  .786
+Deadball rebounds: 1,1
+HOME TEAM: Valparaiso (10-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Golder,Markus....... f  3  8   1  4   2  3   1  7  8   3   9  1  4  0  0  30
+21 Smits,Derrik........ c  3  5   0  0   0  1   0  1  1   4   6  1  2  1  1  15
+00 Freeman,Javon....... g  7 10   1  3   2  2   0  2  2   1  17  0  1  1  3  26
+03 Sackey,Daniel....... g  1  3   1  1   0  0   0  3  3   2   3  6  2  0  1  21
+35 Fazekas,Ryan........ g  1  2   1  1   0  0   1  1  2   0   3  0  0  0  0   7
+02 Lavender,Deion......    4  8   0  3   0  1   0  5  5   1   8  5  1  0  2  28
+04 Evelyn,Bakari.......    2  6   2  5   0  0   0  4  4   1   6  3  2  1  0  27
+14 Sorolla,Jaume.......    2  3   1  1   1  2   0  3  3   3   6  2  1  0  0  22
+23 McMillan,Mileek.....    1  2   1  2   0  0   2  2  4   2   3  0  0  0  0  10
+33 Kiser,John..........    0  2   0  2   0  0   0  0  0   1   0  0  1  0  1  14
+TM TEAM................                         3  3  6             4
+   Totals..............   24 49   8 22   5  9   7 31 38  18  61 18 18  3  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-26  .500    11-23  .478    24-49  .490
+3-Pt. FG%:  4-11  .364     4-11  .364     8-22  .364
+F Throw %:  1-3   .333     4-6   .667     5-9   .556
+Deadball rebounds: 1
+Date: 01-08-19      Site: Valparaiso, Ind. ARC  Attendance: 2535
+Officials: Jeb Hartness; Ed Crenshaw; Joe DeRosa;
+Technical fouls: Bradley-None. Valparaiso-None.
+Score by Periods      1  2   Total
+Bradley............. 18 32  - 50
+Valparaiso.......... 31 30  - 61
+2018-19 Men's Basketball. Round: 0. Bradley vs Valparaiso. Played at .

@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Boise State vs Drake (11-27-18)
+VISITORS: Boise State (2-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 HANEY, Zach......... f  4  7   0  2   0  1   2  4  6   4   8  2  0  1  0  18
+23 WILLIAMS, RJ........ f  3 10   0  0   2  4   2  7  9   5   8  2  2  2  1  23
+00 DICKINSON, Marcus... g  4  7   3  5   3  4   0  3  3   3  14  0  2  0  1  30
+03 JESSUP, Justinian... g  7 15   4  8   3  4   0  3  3   4  21  3  1  1  1  38
+21 ALSTON, Derrick..... g  3  6   1  4   2  2   0  1  1   2   9  0  2  0  2  29
+05 HARWELL, Malek......    0  2   0  0   0  0   0  0  0   0   0  0  1  0  0  10
+13 DEMBLEY, Pat........    5 16   0  5   0  0   1  5  6   4  10  2  4  0  1  34
+33 WACKER, David.......    2  2   0  0   0  0   3  2  5   5   4  2  1  0  0  18
+TM TEAM................                         3     3
+   Totals..............   28 65   8 24  10 15  11 25 36  27  74 11 13  4  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-34  .382    15-31  .484    28-65  .431
+3-Pt. FG%:  3-10  .300     5-14  .357     8-24  .333
+F Throw %:  3-5   .600     7-10  .700    10-15  .667
+Deadball rebounds: 0
+HOME TEAM: Drake (4-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Murphy,Tremell...... f  5 10   0  2   3  5   3  5  8   3  13  1  0  2  2  27
+35 McGlynn,Nick........ f  8 14   0  3   7  9   4  9 13   1  23  0  0  4  1  31
+00 Wilkins,D.J......... g  4  9   1  3   1  2   0  4  4   2  10  2  2  0  3  29
+20 Norton,Nick......... g  4 13   2  8   8  8   0  5  5   0  18  4  1  0  1  37
+22 Ellingson,Brady..... g  1  5   1  5   3  4   0  2  2   2   6  1  1  2  0  30
+03 Sturtz,Garrett......    1  3   0  0   2  2   0  0  0   3   4  1  0  0  0  12
+04 Murphy,Anthony......    0  1   0  1   0  0   0  1  1   2   0  3  2  2  0  17
+14 Thomas,Noah.........    2  3   1  1   2  2   0  3  3   1   7  2  2  0  1   8
+21 Robbins,Liam........    0  0   0  0   2  2   0  0  0   3   2  0  0  0  1   9
+TM TEAM................                         3  1  4             1
+   Totals..............   25 58   5 23  28 34  10 30 40  17  83 14  9 10  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-29  .448    12-29  .414    25-58  .431
+3-Pt. FG%:  4-11  .364     1-12  .083     5-23  .217
+F Throw %: 12-13  .923    16-21  .762    28-34  .824
+Deadball rebounds: 4,1
+Date: 11-27-18      Site: Des Moines, Iowa (Knapp Center)  Attendance: 2543
+Officials: John Higgins; Dave Hall; Tony Padilla;
+Technical fouls: Boise State-None. Drake-None.
+Score by Periods      1  2   Total
+Boise State......... 32 42  - 74
+Drake............... 42 41  - 83
+BSU No. 33 fouled out at 2:29
+BSU No. 23 fouled out at 00:13

@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Kentucky Wesleyan vs Evansville (11-15-18)
+VISITORS: Kentucky Wesleyan (1-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Abu Arisha, Mohamed. f  6 12   3  7   1  2   2  8 10   2  16  1  2  0  2  31
+03 Bezold, Tyler....... f  2  4   1  2   2  2   1  2  3   2   7  0  1  0  0  24
+43 Mayot, Deng......... f  2  4   0  2   0  0   1  6  7   2   4  1  3  0  0  16
+04 Bell, Erik.......... g  1  7   1  3   0  0   1  3  4   2   3  4  3  0  0  24
+05 Goetz, Adam......... g  6 12   1  5   0  0   0  2  2   2  13  6  3  0  0  29
+01 Fort, Nick..........    2  3   0  1   1  2   2  2  4   0   5  3  2  0  0  14
+02 Boyle, Nathan.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+11 Cartwright, Cameron.    1  4   1  3   0  0   0  1  1   0   3  0  0  0  0   6
+12 Noffsinger, Hunter..    1  3   0  0   2  2   1  0  1   2   4  0  1  0  0  13
+15 Urkis, Amandas......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+20 Godwin, Zavon.......    6  7   1  1   1  3   0  4  4   2  14  0  0  0  0  18
+21 Dixon, Tarik........    1  2   1  2   0  0   0  1  1   0   3  2  2  0  0  13
+33 Hopewell, Zach......    0  1   0  1   0  0   0  0  0   1   0  0  0  0  0   9
+44 Seaton, Cameron.....    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................
+   Totals..............   28 60   9 28   7 11   8 29 37  15  72 17 17  0  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-31  .516    12-29  .414    28-60  .467
+3-Pt. FG%:  5-16  .313     4-12  .333     9-28  .321
+F Throw %:  2-3   .667     5-8   .625     7-11  .636
+Deadball rebounds: 0
+HOME TEAM: Evansville (1-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Kuhlman,Evan........ f  3  7   2  6   0  0   0  2  2   3   8  1  1  0  1  24
+35 Hall,John........... f  4  9   2  5   3  4   0  2  2   2  13  4  1  1  1  27
+01 Hill,Marty.......... g  4  9   1  3   0  0   1  1  2   2   9  0  2  1  2  19
+21 Feehan,Shea......... g  2  8   2  5   2  3   1  8  9   0   8  1  0  1  0  32
+33 Riley,K.J........... g  6 10   1  3   3  5   2  5  7   2  16  2  1  1  3  33
+03 Newton,Jawaun.......    3  4   0  1   0  0   1  3  4   1   6  0  0  1  1  15
+05 Givance,Shamar......    3  7   0  2   0  0   3  3  6   2   6  5  1  0  0  22
+12 Chestnut,Jared......    0  1   0  1   0  0   0  1  1   0   0  0  0  0  0   3
+30 Frederking,Noah.....    9 14   3  6   5  6   1  2  3   0  26  4  1  0  0  25
+TM TEAM................                            1  1
+   Totals..............   34 69  11 32  13 18   9 28 37  12  92 17  7  5  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 18-31  .581    16-38  .421    34-69  .493
+3-Pt. FG%: 10-19  .526     1-13  .077    11-32  .344
+F Throw %: 11-16  .688     2-2  1.000    13-18  .722
+Deadball rebounds: 2
+Date: 11-15-18      Site: Ford Center, Evansville, Ind.  Attendance: 4497
+Officials: Bert Smith; John Dillon; Shane Staggs;
+Technical fouls: Kentucky Wesleyan-, TEAM. Evansville-None.
+Score by Periods      1  2   Total
+Kentucky Wesleyan... 39 33  - 72
+Evansville.......... 57 35  - 92

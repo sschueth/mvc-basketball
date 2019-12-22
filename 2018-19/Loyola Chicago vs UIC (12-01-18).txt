@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Loyola Chicago vs UIC (12-01-18)
+VISITORS: Loyola Chicago (5-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+25 Krutwig,Cameron..... c  6  9   0  1   4  6   0  7  7   1  16  3  1  3  0  30
+05 Townes,Marques...... g  6 14   0  3   4  4   0  5  5   1  16  6  2  0  1  37
+13 Custer,Clayton...... g  7 13   1  3   1  2   1  5  6   0  16  5  2  0  1  36
+22 Bujdoso,Isaiah...... g  2  2   0  0   0  0   0  1  1   4   4  1  1  0  1  23
+23 Kaifes,Cooper....... g  4  5   3  4   1  3   0  2  2   3  12  3  1  0  0  34
+04 Skokna,Bruno........    3  6   1  2   0  2   0  3  3   1   7  2  1  0  1  24
+12 Negron,Christian....    1  1   0  0   0  0   0  2  2   1   2  0  0  0  0   8
+30 Uguak,Aher..........    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   6
+33 Agunanne,Frank......    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   2
+TM TEAM................                         1  1  2             1
+   Totals..............   29 51   5 13  10 17   2 26 28  11  73 20 10  3  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-29  .586    12-22  .545    29-51  .569
+3-Pt. FG%:  3-7   .429     2-6   .333     5-13  .385
+F Throw %:  0-0   .000    10-17  .588    10-17  .588
+Deadball rebounds: 3,3
+HOME TEAM: UIC (3-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+13 Jordan Blount....... f  4  9   0  1   1  3   2  9 11   3   9  5  1  0  2  32
+35 Travell Washington.. f  0  1   0  1   0  0   0  1  1   2   0  0  2  0  0  11
+01 Marcus Ottey........ g 10 12   0  0   0  1   0  2  2   3  20  3  3  2  1  35
+04 Tarkus Ferguson..... g  3 12   2  8   1  1   0  3  3   1   9  4  2  1  1  35
+25 Godwin Boahen....... g  6 17   2  9   2  2   1  3  4   4  16  3  1  0  1  37
+02 Michael Diggins.....    1  4   0  0   0  0   2  1  3   0   2  0  0  1  0   9
+03 Jacob Wiley.........    1  2   0  0   1  1   5  1  6   2   3  2  2  1  0  14
+20 Jamie Ahale.........    0  4   0  3   0  0   1  1  2   0   0  0  0  0  0  10
+22 Rob Howard..........    2  6   1  1   0  0   1  2  3   3   5  0  2  0  0  17
+TM TEAM................                         1  1  2
+   Totals..............   27 67   5 23   5  8  13 24 37  18  64 17 13  5  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-33  .394    14-34  .412    27-67  .403
+3-Pt. FG%:  1-12  .083     4-11  .364     5-23  .217
+F Throw %:  1-1  1.000     4-7   .571     5-8   .625
+Deadball rebounds: 1
+Date: 12-01-18      Site: Chicago, Ill.  Attendance: 3539
+Officials: Bill Ek; Steve  McJunkins; D.J. Carstensen;
+Technical fouls: Loyola Chicago-None. UIC-None.
+Score by Periods      1  2   Total
+Loyola Chicago...... 37 36  - 73
+UIC................. 28 36  - 64
+2018-19 Men's Basketball. Round: 0. Loyola Chicago vs UIC. Played at .

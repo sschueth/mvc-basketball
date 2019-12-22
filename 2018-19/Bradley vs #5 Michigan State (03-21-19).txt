@@ -1,0 +1,56 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Bradley vs #5 Michigan State (03-21-19)
+VISITORS: Bradley (20-15)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Childs,Elijah....... f  9 14   1  2   0  2   1  5  6   3  19  1  1  3  0  34
+13 van Bree,Luuk....... f  1  5   1  2   0  0   0  3  3   2   3  0  1  0  0  14
+02 Lundy,Luqman........ g  1  1   0  0   2  2   0  2  2   3   4  0  0  0  1  27
+05 Brown,Darrell....... g  6 14   4  7   1  2   0  0  0   3  17  7  2  0  1  38
+23 Lautier-Ogunleye,Dwa g  2  6   2  6   8 10   1  7  8   4  14  2  2  0  0  33
+01 Boya,Ari............    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+03 Pittman,Antoine.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+04 Brummett,Armon......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+12 Bar,Koch............    0  2   0  0   1  2   0  1  1   2   1  0  1  0  0  16
+14 Hanley,Peter........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+22 Henry,Ja'Shon.......    1  3   0  0   0  0   0  0  0   0   2  0  0  0  0  12
+25 Kennell,Nate........    2  6   1  3   0  0   0  2  2   5   5  2  2  0  1  22
+35 Hodgson,Jayden......    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0  0+
+TM TEAM................                         1  3  4             1
+   Totals..............   22 52   9 21  12 18   3 23 26  22  65 12 10  3  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-24  .458    11-28  .393    22-52  .423
+3-Pt. FG%:  6-9   .667     3-12  .250     9-21  .429
+F Throw %:  7-10  .700     5-8   .625    12-18  .667
+Deadball rebounds: 5
+HOME TEAM: #5 Michigan State (29-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 Aaron Henry......... f  3  7   0  2   2  2   1  2  3   3   8  1  5  1  0  29
+23 Xavier Tillman...... f  5  8   0  0   6  6   2  9 11   4  16  1  1  2  1  31
+25 Kenny Goins......... f  1 10   0  7   1  2   3  6  9   0   3  1  0  2  1  38
+05 Cassius Winston..... g  8 17   2  5   8  8   0  3  3   2  26  4  1  0  0  39
+20 Matt McQuaid........ g  4  6   2  4   0  0   0  2  2   3  10  1  0  0  0  39
+03 Foster Loyer........    0  0   0  0   0  0   0  0  0   0   0  1  0  0  1   2
+10 Jack Hoiberg........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+13 Gabe Brown..........    1  2   1  1   0  0   1  1  2   2   3  0  0  0  0   7
+15 Thomas Kithier......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+30 Marcus Bingham Jr...    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+41 Conner George.......    0  0   0  0   2  2   0  1  1   2   2  0  0  0  0   5
+44 Nick Ward...........    1  4   0  0   6  6   1  4  5   2   8  0  2  0  0  10
+TM TEAM................
+   Totals..............   23 54   5 19  25 26   8 28 36  18  76  9  9  5  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-30  .367    12-24  .500    23-54  .426
+3-Pt. FG%:  2-10  .200     3-9   .333     5-19  .263
+F Throw %: 10-10 1.000    15-16  .938    25-26  .962
+Deadball rebounds: 1
+Date: 03-21-19      Site: Des Moines, Iowa - Wells Fargo Arena  Attendance: 16512
+Officials: Nate Harris; Eric Curry; MIchael Stephens;
+Technical fouls: Bradley-None. #5 Michigan State-None.
+Score by Periods      1  2   Total
+Bradley............. 35 30  - 65
+#5 Michigan State... 34 42  - 76

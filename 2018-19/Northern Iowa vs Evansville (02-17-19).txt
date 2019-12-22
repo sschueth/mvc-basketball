@@ -1,0 +1,48 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Northern Iowa vs Evansville (02-17-19)
+VISITORS: Northern Iowa (12-15, 7-7 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+34 McDonnell,Luke...... f  4  6   0  1   1  1   1  1  2   4   9  2  1  0  0  22
+04 Green,AJ............ g  8 15   3  5   2  2   0  3  3   2  21  0  2  0  1  35
+11 Berhow,Trae......... g  4 10   2  7   4  6   1 10 11   0  14  2  0  1  1  36
+22 Lohaus,Wyatt........ g  4  9   0  2   3  3   2  6  8   0  11  0  2  0  0  31
+24 Brown,Isaiah........ g  0  2   0  1   0  0   0  4  4   1   0  5  1  0  3  32
+15 Dahl,Justin.........    1  1   0  0   0  0   0  1  1   2   2  0  0  0  0   2
+20 Goldman,Shandon.....    1  3   0  2   0  0   1  1  2   3   2  0  0  0  0  13
+30 Haldeman,Spencer....    4 10   2  8   4  4   1  3  4   2  14  1  1  0  1  29
+TM TEAM................                         1  1  2
+   Totals..............   26 56   7 26  14 16   7 30 37  14  73 10  7  1  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-33  .455    11-23  .478    26-56  .464
+3-Pt. FG%:  6-18  .333     1-8   .125     7-26  .269
+F Throw %:  0-0   .000    14-16  .875    14-16  .875
+Deadball rebounds: 1
+HOME TEAM: Evansville (10-17, 4-10 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+14 Chatkevicius,Dainius f  3  5   0  0   1  3   0  4  4   3   7  0  2  0  0  20
+01 Hill,Marty.......... g  1  5   0  1   0  0   0  0  0   1   2  0  2  0  1  22
+03 Newton,Jawaun....... g  0  2   0  1   0  0   0  0  0   1   0  0  0  0  0  18
+05 Givance,Shamar...... g  3  7   1  1   3  3   0  4  4   2  10  4  1  0  0  27
+33 Riley,K.J........... g  4  8   0  2   4  5   0  6  6   4  12  3  5  0  1  31
+04 Straub,Devan........    1  5   0  4   0  0   0  0  0   0   2  0  0  0  0   8
+10 Kuhlman,Evan........    2  4   0  1   0  0   0  4  4   0   4  4  1  0  0  17
+21 Feehan,Shea.........    3  5   3  5   5  5   1  1  2   4  14  1  0  0  0  21
+30 Frederking,Noah.....    1  2   1  2   0  0   0  2  2   0   3  0  0  1  1  20
+35 Hall,John...........    1  3   1  2   1  2   0  3  3   0   4  0  0  0  0  16
+   Totals..............   19 46   6 19  14 18   1 24 25  15  58 12 11  1  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-22  .318    12-24  .500    19-46  .413
+3-Pt. FG%:  2-11  .182     4-8   .500     6-19  .316
+F Throw %:  6-8   .750     8-10  .800    14-18  .778
+Deadball rebounds: 0
+Date: 02-17-19      Site: Ford Center, Evansville, Ind.  Attendance: 6148
+Officials: Gary Maxwell; Bert Smith; Jeb Hartness;
+Technical fouls: Northern Iowa-None. Evansville-None.
+Score by Periods      1  2   Total
+Northern Iowa....... 36 37  - 73
+Evansville.......... 22 36  - 58

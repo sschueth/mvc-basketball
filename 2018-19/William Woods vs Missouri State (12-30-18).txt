@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   William Woods vs Missouri State (12-30-18)
+VISITORS: William Woods (6-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 David Johnson....... f  5 12   1  2   8 12   3  1  4   3  19  0  1  1  0  14
+42 Makenzie Fessler.... f  0  2   0  0   1  2   1  1  2   2   1  1  1  0  0  24
+01 Treshawn Gause...... g  1  5   0  0   2  4   1  5  6   2   4  2  3  0  1  21
+05 Brian Enriquez...... g  2  7   0  3   0  0   0  3  3   2   4  1  1  0  0  20
+20 Shad Kimble......... g  0  6   0  5   0  0   2  4  6   1   0  0  0  0  1  18
+02 Keyaire Marshall....    0  0   0  0   0  0   0  0  0   0   0  0  1  0  1  10
+03 Jason Walker........    0  2   0  0   0  0   1  0  1   2   0  0  0  0  2  16
+04 Miguel Hudson.......    0  3   0  2   0  0   0  0  0   0   0  0  0  0  1   5
+10 Matt Burgess........    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   8
+11 Jessie Frost-Dixon..    2  7   0  1   3  4   3  3  6   3   7  0  3  0  0  17
+15 Aaron Brookins......    5 14   3  9   4  4   0  2  2   2  17  0  0  0  0  19
+21 Tanner Riddle.......    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   5
+33 Codi Whitlock.......    1  4   0  0   2  2   1  1  2   2   4  0  0  0  0  23
+TM TEAM................                         1  1  2
+   Totals..............   16 64   4 24  20 28  13 21 34  19  56  4 10  1  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-30  .267     8-34  .235    16-64  .250
+3-Pt. FG%:  3-14  .214     1-10  .100     4-24  .167
+F Throw %:  6-7   .857    14-21  .667    20-28  .714
+Deadball rebounds: 4
+HOME TEAM: Missouri State (6-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Wojcik,Szymon....... f  6 10   3  7   1  1   1  7  8   3  16  0  1  2  1  19
+30 Da Silva,Tulio...... f  3  4   0  0   7  8   1  4  5   0  13  2  2  1  0  18
+34 Ridder,Jared........ f  4 10   2  7   0  0   1  2  3   1  10  2  0  1  0  18
+00 Webster,Josh........ g  3  4   2  2   0  0   0  4  4   3   8  8  0  1  0  25
+20 Kreklow,Ryan........ g  4  8   3  7   2  2   0  3  3   2  13  0  2  0  1  19
+01 Cook,Keandre........    1  1   0  0   0  0   1  0  1   0   2  0  1  0  1   8
+11 Dixon,Jarred........    4 11   3  6   0  2   2  5  7   2  11  4  0  0  0  26
+15 Wojcik,Jan..........    3  4   0  1   1  1   0  2  2   2   7  1  2  0  1  15
+21 Owens,Ross..........    5  8   3  6   2  2   3  3  6   1  15  3  0  0  1  21
+23 Mohammed,Kabir......    4  7   1  2   4  4   4  3  7   3  13  1  0  0  1  14
+25 Scott,Darian........    1  6   0  0   0  1   3  3  6   1   2  1  2  0  0  17
+TM TEAM................                         2  2  4
+   Totals..............   38 73  17 38  17 21  18 38 56  18 110 22 10  5  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 18-32  .563    20-41  .488    38-73  .521
+3-Pt. FG%: 11-18  .611     6-20  .300    17-38  .447
+F Throw %: 12-14  .857     5-7   .714    17-21  .810
+Deadball rebounds: 0,1
+Date: 12-30-18      Site: JQH Arena, Springfield, Mo.  Attendance: 3174
+Officials: Brad Gaston; Albert Buckles; Kindle Holderby;
+Technical fouls: William Woods-None. Missouri State-, Wojcik,Jan.
+Score by Periods      1  2   Total
+William Woods....... 25 31  - 56
+Missouri State...... 59 51  -110

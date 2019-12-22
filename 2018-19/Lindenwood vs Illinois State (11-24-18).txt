@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Lindenwood vs Illinois State (11-24-18)
+VISITORS: Lindenwood (6-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Newman,Brad......... *  2 12   0  5   1  2   0  0  0   1   5  0  3  0  3  25
+05 Moore,Drew.......... *  0  4   0  2   2  2   0  3  3   2   2  0  1  0  0  16
+10 Diekvoss,Chandler... *  4 10   0  3   3  4   0  9  9   1  11  0  0  0  1  31
+11 Pohlman,Adam........ *  2  6   1  4   0  0   0  1  1   3   5  9  0  0  1  34
+23 Womack,Diego........ *  4  9   0  0   3  4   3  5  8   3  11  2  2  0  3  27
+00 Radosevic,Luka......    2  3   2  3   1  2   2  2  4   3   7  0  0  0  0  19
+01 Crockett,TJ.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+14 Jonsson,Nicklas.....    2  5   2  5   1  2   0  2  2   0   7  0  1  0  0  13
+22 King,Chris..........    5 11   4  7   0  0   0  1  1   2  14  1  1  0  0  21
+31 Larson-Gulsvig,Breno    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+32 Dobbs,Dominique.....    0  0   0  0   0  2   0  2  2   0   0  1  0  0  1  12
+TM TEAM................                         1  2  3             2
+   Totals..............   21 60   9 29  11 18   6 27 33  15  62 13 10  0  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-32  .250    13-28  .464    21-60  .350
+3-Pt. FG%:  3-16  .188     6-13  .462     9-29  .310
+F Throw %:  3-7   .429     8-11  .727    11-18  .611
+Deadball rebounds: 4
+HOME TEAM: Illinois State (5-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Copeland,Zach....... *  6  9   3  5   0  0   0  4  4   1  15  3  3  0  2  29
+03 Evans,Keyshawn...... *  3  6   2  4   1  4   0  0  0   0   9  6  1  0  1  27
+10 Fayne,Phil.......... *  5  8   0  0   3  4   1  6  7   3  13  0  3  0  0  28
+23 Tinsley,William..... *  3  5   3  5   0  0   0  9  9   4   9  2  0  0  0  25
+52 Yarbrough,Milik..... *  3  6   1  2   2  2   0  4  4   2   9  6  5  1  0  22
+00 Gassman,Isaac.......    0  5   0  5   0  0   0  1  1   2   0  1  0  0  0  13
+11 Jefferson,Josh......    5  8   4  6   0  0   0  4  4   2  14  2  2  2  0  23
+13 Idowu,Rey...........    3  4   0  0   2  5   1  6  7   0   8  0  0  0  0  18
+22 Chastain,Matt.......    1  3   0  1   0  0   1  2  3   3   2  1  1  1  1  15
+TM TEAM................
+   Totals..............   29 54  13 28   8 15   3 36 39  17  79 21 15  4  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-29  .517    14-25  .560    29-54  .537
+3-Pt. FG%:  5-13  .385     8-15  .533    13-28  .464
+F Throw %:  1-1  1.000     7-14  .500     8-15  .533
+Deadball rebounds: 2
+Date: 11-24-18      Site: Doug Collins Court at Redbird Arena  Attendance: 3737
+Officials: John Hampton; KB Burdett; Jr.;
+Technical fouls: Lindenwood-None. Illinois State-None.
+Score by Periods      1  2   Total
+Lindenwood.......... 22 40  - 62
+Illinois State...... 36 43  - 79

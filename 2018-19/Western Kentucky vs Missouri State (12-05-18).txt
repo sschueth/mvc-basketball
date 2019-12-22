@@ -1,0 +1,48 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Western Kentucky vs Missouri State (12-05-18)
+VISITORS: Western Kentucky (4-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Jared Savage........ f  1  9   1  4   0  0   0  2  2   2   3  1  1  0  2  38
+13 Desean Murray....... f  3  7   2  2   2  2   1  4  5   0  10  3  1  1  1  24
+23 Charles Bassey...... c  6  9   0  1   5  6   3  7 10   2  17  1  3  2  2  36
+04 Josh Anderson....... g  6 10   0  0   0  1   0  2  2   4  12  0  1  0  2  32
+11 Taveion Hollingswort g  9 15   4  7   2  2   1  0  1   0  24  4  4  0  1  37
+00 Tolu Smith..........    0  2   0  0   2  4   0  0  0   3   2  0  2  0  0  14
+14 Marek Nelson........    1  2   0  0   0  0   1  3  4   0   2  0  0  0  0  10
+20 Dalano Banton.......    3  3   1  1   1  1   0  1  1   2   8  1  0  0  0   9
+TM TEAM................
+   Totals..............   29 57   8 15  12 16   6 19 25  13  78 10 12  3  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-26  .385    19-31  .613    29-57  .509
+3-Pt. FG%:  2-5   .400     6-10  .600     8-15  .533
+F Throw %:  7-9   .778     5-7   .714    12-16  .750
+Deadball rebounds: 2
+HOME TEAM: Missouri State (4-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  3  6   1  1   0  0   0  2  2   1   7  1  3  2  1  25
+30 Da Silva,Tulio...... f  8 12   2  4   0  0   3  3  6   1  18  1  2  0  0  29
+00 Webster,Josh........ g  3  4   0  1   1  2   0  1  1   2   7  4  2  1  1  31
+11 Dixon,Jarred........ g  4  7   2  4   1  2   1  2  3   2  11  5  1  0  1  27
+20 Kreklow,Ryan........ g  5 10   3  8   2  2   0  7  7   0  15  3  1  0  0  31
+01 Cook,Keandre........    5 12   2  6   3  3   1  2  3   1  15  1  4  0  2  24
+10 Wojcik,Szymon.......    3  5   1  3   0  0   0  1  1   2   7  0  0  1  0  12
+23 Mohammed,Kabir......    2  4   0  0   0  0   3  3  6   1   4  0  0  0  0  20
+25 Scott,Darian........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   1
+TM TEAM................                         1  2  3
+   Totals..............   33 60  11 27   7  9   9 23 32  11  84 15 13  4  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-32  .375    21-28  .750    33-60  .550
+3-Pt. FG%:  3-15  .200     8-12  .667    11-27  .407
+F Throw %:  1-2   .500     6-7   .857     7-9   .778
+Deadball rebounds: 1,1
+Date: 12-05-18      Site: JQH Arena, Springfield, Mo.  Attendance: 4893
+Officials: Antinio Petty; Gene Grimshaw; James Durham;
+Technical fouls: Western Kentucky-None. Missouri State-, Da Silva,Tulio.
+Score by Periods      1  2   Total
+Western Kentucky.... 29 49  - 78
+Missouri State...... 28 56  - 84

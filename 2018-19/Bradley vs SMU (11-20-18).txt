@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                           Bradley vs SMU (11-20-18)
+VISITORS: Bradley (4-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Childs,Elijah....... f  9 13   2  4   1  4   3  9 12   0  21  0  2  2  1  34
+12 Bar,Koch............ c  4  4   0  0   7  9   5  1  6   2  15  1  1  2  2  29
+05 Brown,Darrell....... g  5 12   3  5   1  2   0  2  2   2  14  0  5  0  0  34
+23 Lautier-Ogunleye,Dwa g  2  6   0  2   4  5   1  5  6   2   8  1  1  0  1  27
+25 Kennell,Nate........ g  4  9   0  4   4  4   0  1  1   2  12  3  1  1  0  30
+03 Pittman,Antoine.....    0  2   0  1   0  0   0  0  0   1   0  1  1  0  0  12
+04 Brummett,Armon......    0  0   0  0   0  0   0  0  0   1   0  1  0  0  0   6
+13 van Bree,Luuk.......    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   3
+22 Henry,Ja'Shon.......    2  4   0  1   1  2   0  2  2   2   5  0  1  0  1  14
+35 Hodgson,Jayden......    0  0   0  0   0  0   0  1  1   3   0  2  0  0  0  11
+TM TEAM................                            3  3   1
+   Totals..............   26 51   5 18  18 26   9 24 33  16  75  9 12  5  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-27  .481    13-24  .542    26-51  .510
+3-Pt. FG%:  2-9   .222     3-9   .333     5-18  .278
+F Throw %:  2-3   .667    16-23  .696    18-26  .692
+Deadball rebounds: 5,1
+HOME TEAM: SMU (2-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+15 MIKE, Isiaha........ f  4  5   1  1   2  2   0  1  1   4  11  2  2  0  2  30
+25 CHARGOIS, Ethan..... f  3  8   0  3   3  4   2  1  3   4   9  0  4  1  0  20
+00 McMURRAY, Jahmal.... g  5 13   4 10   5  6   0  1  1   4  19  1  2  0  0  30
+05 DIXON, Nat.......... g  2  6   2  5   0  0   0  2  2   0   6  0  1  0  0  32
+33 WHITT JR., Jimmy.... g  4 11   0  1   4  6   6  7 13   4  12  1  2  0  2  35
+01 HUNT, Feron.........    1  5   0  0   3  4   2  3  5   4   5  0  1  0  0  23
+03 DOUGLAS, William....    0  2   0  2   0  0   0  1  1   1   0  1  1  0  0  13
+13 WHITE, CJ...........    0  2   0  2   0  0   0  0  0   1   0  1  1  0  0  12
+21 YOUNG JR., Jahmar...    0  0   0  0   0  0   0  1  1   1   0  0  0  0  0   5
+TM TEAM................                         1  1  2
+   Totals..............   19 52   7 24  17 22  11 18 29  23  62  6 14  1  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-26  .346    10-26  .385    19-52  .365
+3-Pt. FG%:  2-9   .222     5-15  .333     7-24  .292
+F Throw %:  8-12  .667     9-10  .900    17-22  .773
+Deadball rebounds: 2,1
+Date: 11-20-18      Site: Cancun, Mexico - Hard Rock Riviera Ma  Attendance: 400
+Officials: Bill Ek; Rob Kueneman; Steve McJunkins;
+Technical fouls: Bradley-, TEAM. SMU-McMURRAY, Jahmal.
+Score by Periods      1  2   Total
+Bradley............. 30 45  - 75
+SMU................. 28 34  - 62

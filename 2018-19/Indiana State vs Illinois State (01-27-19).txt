@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Indiana State vs Illinois State (01-27-19)
+VISITORS: Indiana State (11-9, 3-5 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+41 Rickman,Emondre..... c  2  5   0  0   1  2   0  1  1   3   5  0  1  0  0  14
+01 Holston,Allante..... g  0  2   0  0   3  4   1  2  3   2   3  0  2  0  1  25
+02 Barnes,Jordan....... g  5 12   1  5   3  3   0  2  2   2  14  1  2  0  1  35
+10 Williams,Christian.. g  2  3   2  2   3  4   0  4  4   0   9  2  2  0  1  30
+11 Key,Tyreke.......... g  6  9   1  2   5  6   0  2  2   1  18  0  4  0  0  38
+04 Neese,Cooper........    1  4   1  2   0  0   0  3  3   0   3  0  1  0  0  17
+05 Kessinger,Bronson...    2  5   0  0   0  0   3  6  9   3   4  1  0  2  0  25
+12 Martin,Tyeshon......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+13 Hughes,Clayton......    3  4   0  1   0  0   1  1  2   4   6  2  2  0  0  13
+23 Washington,De'Avion.    0  1   0  1   0  0   0  0  0   0   0  1  0  0  0   2
+TM TEAM................                         1     1             1
+   Totals..............   21 45   5 13  15 19   6 21 27  15  62  7 15  2  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-19  .474    12-26  .462    21-45  .467
+3-Pt. FG%:  4-8   .500     1-5   .200     5-13  .385
+F Throw %:  9-10  .900     6-9   .667    15-19  .789
+Deadball rebounds: 2
+HOME TEAM: Illinois State (12-9, 5-3 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne,Phil.......... f  9 15   0  0   8 12   3  2  5   3  26  0  1  0  2  31
+02 Copeland,Zach....... g  2  6   1  5   1  2   0  1  1   4   6  1  2  0  0  31
+03 Evans,Keyshawn...... g  6 12   5  9   0  0   0  1  1   2  17  3  1  1  1  33
+22 Chastain,Matt....... g  1  2   1  2   2  2   2  4  6   3   5  4  1  1  0  27
+52 Yarbrough,Milik..... g  3 10   1  3   2  2   1  3  4   2   9  5  2  0  1  30
+00 Gassman,Isaac.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+05 Hein,Matt...........    1  3   0  2   0  0   0  2  2   3   2  2  0  0  1  19
+13 Idowu,Rey...........    2  2   0  0   0  0   0  0  0   0   4  0  1  0  0   9
+23 Tinsley,William.....    3  4   1  2   0  0   1  2  3   1   7  0  0  0  1  18
+TM TEAM................                         2  5  7             1
+   Totals..............   27 54   9 23  13 18   9 20 29  18  76 15  9  2  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-28  .500    13-26  .500    27-54  .500
+3-Pt. FG%:  7-15  .467     2-8   .250     9-23  .391
+F Throw %:  2-2  1.000    11-16  .688    13-18  .722
+Deadball rebounds: 2
+Date: 01-27-19      Site: Doug Collins Court at Redbird Arena  Attendance: 5141
+Officials: Bert Smith; Rick Randall; James Durham;
+Technical fouls: Indiana State-None. Illinois State-None.
+Score by Periods      1  2   Total
+Indiana State....... 31 31  - 62
+Illinois State...... 37 39  - 76

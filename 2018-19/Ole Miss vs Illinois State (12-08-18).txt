@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Ole Miss vs Illinois State (12-08-18)
+VISITORS: Ole Miss (6-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Hinson,Blake........ f  2  3   1  2   0  0   0  3  3   1   5  1  1  1  0  28
+12 Stevens, Bruce...... f  5  7   1  1   0  0   2  2  4   3  11  0  0  0  1  15
+02 Shuler,Devontae..... g  3  6   0  2   2  2   2  3  5   2   8  2  3  0  4  31
+03 Davis,Terence....... g  8 13   2  4   2  3   1  3  4   3  20  4  5  0  2  35
+04 Tyree,Breein........ g  6 17   3 10   7  7   0  7  7   1  22  6  1  0  0  39
+13 Olejniczak, Dominik.    4  6   0  0   1  1   3  4  7   4   9  1  3  1  0  25
+14 Buffen, KJ..........    1  4   0  0   2  2   0  7  7   3   4  1  3  0  0  23
+15 Rodriguez, Luis.....    1  1   0  0   0  0   1  0  1   0   2  0  0  0  0   1
+20 Davis, D.C..........    0  0   0  0   0  0   0  1  1   1   0  1  0  0  0   3
+   Totals..............   30 57   7 19  14 15   9 30 39  18  81 16 16  2  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 18-30  .600    12-27  .444    30-57  .526
+3-Pt. FG%:  5-9   .556     2-10  .200     7-19  .368
+F Throw %:  0-1   .000    14-14 1.000    14-15  .933
+Deadball rebounds: 0
+HOME TEAM: Illinois State (6-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne,Phil.......... f  4 10   0  0   5  8   7  4 11   4  13  0  2  1  2  37
+03 Evans,Keyshawn...... g  1  8   1  6   0  0   0  1  1   0   3  0  2  0  0  25
+11 Jefferson,Josh...... g  4  8   3  7   3  5   0  2  2   2  14  3  1  0  3  30
+23 Tinsley,William..... g  2  5   0  3   0  2   0  2  2   2   4  3  0  1  0  21
+52 Yarbrough,Milik..... g  7 13   3  3   2  2   1  7  8   0  19  6  3  1  0  35
+00 Gassman,Isaac.......    4  9   2  2   0  0   2  0  2   0  10  2  0  0  1  20
+02 Copeland,Zach.......    4  9   1  4   2  2   0  1  1   4  11  1  1  0  1  26
+13 Idowu,Rey...........    0  1   0  0   0  0   0  0  0   3   0  0  0  0  0   3
+22 Chastain,Matt.......    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   3
+TM TEAM................                         2  2  4
+   Totals..............   26 63  10 25  12 19  12 19 31  15  74 15 10  3  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-30  .433    13-33  .394    26-63  .413
+3-Pt. FG%:  3-9   .333     7-16  .438    10-25  .400
+F Throw %:  7-10  .700     5-9   .556    12-19  .632
+Deadball rebounds: 2
+Date: 12-08-18      Site: Doug Collins Court at Redbird Arena  Attendance: 6598
+Officials: Kelly Self; Antinio Petty; Bret Smith;
+Technical fouls: Ole Miss-Olejniczak, Dominik. Illinois State-None.
+Score by Periods      1  2   Total
+Ole Miss............ 41 40  - 81
+Illinois State...... 36 38  - 74
+4:08 (2nd) - Technical foul on Ole Miss #13 (Olejniczak)

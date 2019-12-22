@@ -1,0 +1,56 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Bemidji State vs Northern Iowa (11-06-18)
+VISITORS: Bemidji State (0-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Hoffman, Jacob...... *  1 11   0  7   4  4   0  1  1   0   6  0  3  0  0  23
+03 Morgan, Ja.......... *  6  9   1  1   1  3   2  1  3   3  14  1  2  0  0  26
+05 Thompson, Derek..... *  3  8   0  2   1  2   1  5  6   4   7  2  1  1  0  23
+10 McNallan, Jacob..... *  0  3   0  1   0  0   0  4  4   1   0  1  3  0  1  27
+24 Bader, Logan........ *  2  6   0  2   0  1   1  3  4   1   4  0  1  3  0  25
+02 Hart, Kaden.........    1  3   1  3   0  0   0  1  1   1   3  0  0  0  0   4
+04 Senske, Steele......    1  3   0  1   0  0   0  0  0   0   2  1  0  0  0   4
+11 Bjorklund, Max......    2  2   0  0   3  3   0  1  1   0   7  0  1  0  0   6
+12 Anderson, Allen.....    0  3   0  2   0  0   0  0  0   0   0  0  0  0  0   9
+15 Landwehr, Cody......    0  2   0  0   1  2   0  3  3   5   1  1  2  0  0  11
+20 Longo, Logan........    2  4   1  3   0  0   0  2  2   2   5  1  1  0  0  21
+23 Baumgartner, Zach...    1  3   0  0   0  1   0  3  3   1   2  0  1  1  1  11
+25 Chase, Griffin......    0  1   0  0   0  0   0  0  0   1   0  0  0  0  0   9
+TM TEAM................                            3  3
+   Totals..............   19 58   3 22  10 16   4 27 31  19  51  7 15  5  2 199
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-32  .344     8-26  .308    19-58  .328
+3-Pt. FG%:  0-10  .000     3-12  .250     3-22  .136
+F Throw %:  2-3   .667     8-13  .615    10-16  .625
+Deadball rebounds: 3
+HOME TEAM: Northern Iowa (1-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 Green,AJ............ *  5 10   2  6   4  4   0  2  2   2  16  3  0  0  1  21
+11 Berhow,Trae......... *  3  8   2  4   0  0   2  9 11   3   8  2  0  0  1  27
+22 Lohaus,Wyatt........ *  7 15   2  6   3  3   1  0  1   0  19  2  0  0  2  24
+24 Brown,Isaiah........ *  6  8   4  5   0  0   0  3  3   3  16  1  1  0  0  17
+34 McDonnell,Luke...... *  3  3   0  0   3  4   2  2  4   2   9  3  0  1  0  13
+02 Holterhaus, Donovan.    0  3   0  2   0  0   3  1  4   0   0  1  0  0  1   7
+05 Croft,Tray..........    0  3   0  1   0  0   1  0  1   2   0  0  0  0  0   4
+10 Wentzien,Miles......    3  5   1  2   4  4   1  3  4   0  11  1  1  0  1  21
+12 Conrey,Lincoln......    3  6   1  3   3  4   1  0  1   1  10  1  1  0  0  12
+15 Dahl,Justin.........    1  3   0  0   2  2   1  4  5   1   4  2  0  1  0  12
+20 Goldman,Shandon.....    1  6   0  2   0  2   3  9 12   3   2  1  1  2  0  23
+30 Haldeman,Spencer....    1  4   0  2   0  0   0  1  1   0   2  2  1  0  1  19
+TM TEAM................                            4  4
+   Totals..............   33 74  12 33  19 23  15 38 53  17  97 19  5  4  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-36  .472    16-38  .421    33-74  .446
+3-Pt. FG%:  7-18  .389     5-15  .333    12-33  .364
+F Throw %:  8-10  .800    11-13  .846    19-23  .826
+Deadball rebounds: 3
+Date: 11-06-18      Site: Cedar Falls, Iowa  Attendance: 3233
+Officials:
+Technical fouls: Bemidji State-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+Bemidji State....... 24 27  - 51
+Northern Iowa....... 49 48  - 97

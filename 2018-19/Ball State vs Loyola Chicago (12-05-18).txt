@@ -1,0 +1,47 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Ball State vs Loyola Chicago (12-05-18)
+VISITORS: Ball State (6-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+14 Kyle Mallers........ f  1  3   1  3   0  0   1  3  4   4   3  2  2  0  1  26
+25 Tahjai Teague....... f  4  6   0  1   6  7   1  8  9   4  14  1  2  1  1  28
+24 Trey Moses.......... c  3  7   0  1   3  6   0  5  5   1   9  5  7  1  1  35
+01 K.J. Walton......... g 11 14   0  0   0  0   1  4  5   2  22  0  2  0  2  36
+02 Tayler Persons...... g  4 11   2  4   2  2   0  5  5   3  12  5  3  1  1  33
+03 Josh Thompson.......    0  1   0  1   0  0   0  0  0   0   0  1  0  1  0   7
+05 Ishmael El-Amin.....    1  1   1  1   0  0   0  1  1   0   3  1  1  0  2  21
+15 Zach Gunn...........    4  6   4  6   0  0   0  0  0   4  12  0  0  0  0  14
+TM TEAM................                            1  1             1
+   Totals..............   28 49   8 17  11 15   3 27 30  18  75 15 18  4  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-26  .615    12-23  .522    28-49  .571
+3-Pt. FG%:  5-9   .556     3-8   .375     8-17  .471
+F Throw %:  0-0   .000    11-15  .733    11-15  .733
+Deadball rebounds: 3
+HOME TEAM: Loyola Chicago (5-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+25 Krutwig,Cameron..... c  9 12   0  0   1  2   4  4  8   1  19  1  3  0  2  32
+05 Townes,Marques...... g  4 10   0  3   6  9   1  9 10   0  14  6  2  0  1  39
+13 Custer,Clayton...... g  4 12   3  6   0  1   1  1  2   2  11  2  4  0  1  38
+22 Bujdoso,Isaiah...... g  3  6   2  5   4  4   0  0  0   2  12  1  1  0  1  23
+23 Kaifes,Cooper....... g  1  7   1  6   0  0   0  1  1   3   3  4  1  0  1  38
+12 Negron,Christian....    0  1   0  0   2  2   0  0  0   0   2  0  0  0  0   7
+30 Uguak,Aher..........    2  5   0  2   4  5   1  2  3   3   8  0  2  0  1  19
+33 Agunanne,Frank......    0  1   0  0   0  0   0  0  0   3   0  0  0  0  0   4
+TM TEAM................                            2  2
+   Totals..............   23 54   6 22  17 23   7 19 26  14  69 14 13  0  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-24  .458    12-30  .400    23-54  .426
+3-Pt. FG%:  3-11  .273     3-11  .273     6-22  .273
+F Throw %:  5-6   .833    12-17  .706    17-23  .739
+Deadball rebounds: 3
+Date: 12-05-18      Site: Gentile Arena - Chicago, Ill.  Attendance: 2831
+Officials: John Hampton; Jeff Campbell; Brad Gaston;
+Technical fouls: Ball State-None. Loyola Chicago-None.
+Score by Periods      1  2   Total
+Ball State.......... 37 38  - 75
+Loyola Chicago...... 30 39  - 69

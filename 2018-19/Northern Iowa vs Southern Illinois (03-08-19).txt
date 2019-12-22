@@ -1,0 +1,47 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Northern Iowa vs Southern Illinois (03-08-19)
+VISITORS: Northern Iowa (15-17; 9-9 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+34 McDonnell,Luke...... f  4  9   1  2   0  0   3  4  7   2   9  1  3  1  2  20
+04 Green,AJ............ g  3  8   0  2   0  0   0  1  1   4   6  2  3  0  0  20
+11 Berhow,Trae......... g  4  8   3  4   0  0   1  4  5   3  11  0  0  0  0  34
+22 Lohaus,Wyatt........ g  8 18   1  4   4  4   0  5  5   1  21  2  0  0  1  38
+24 Brown,Isaiah........ g  1  3   0  1   0  0   0  4  4   4   2  2  2  0  1  29
+03 Pickford,Tywhon.....    0  1   0  0   0  0   1  2  3   2   0  2  1  0  0  18
+15 Dahl,Justin.........    3  6   0  0   2  3   2  5  7   1   8  0  0  2  0  20
+30 Haldeman,Spencer....    1  8   0  4   2  2   1  2  3   0   4  2  0  0  1  21
+TM TEAM................                         2     2
+   Totals..............   24 61   5 17   8  9  10 27 37  17  61 11  9  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-28  .464    11-33  .333    24-61  .393
+3-Pt. FG%:  4-10  .400     1-7   .143     5-17  .294
+F Throw %:  4-5   .800     4-4  1.000     8-9   .889
+Deadball rebounds: 1
+HOME TEAM: Southern Illinois (17-15; 10-8 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Pippen,Kavion....... c 10 21   0  0   2  2   3  8 11   2  22  0  2  3  0  32
+04 McGill,Eric......... g  3  6   0  1   1  1   1  3  4   5   7  2  1  0  1  28
+10 Cook,Aaron.......... g  2  6   1  3   0  0   0  1  1   1   5  3  3  0  0  29
+13 Lloyd,Sean.......... g  2  6   1  4   0  2   1  4  5   2   5  1  2  0  1  35
+22 Fletcher,Armon...... g  4 14   1  4   5  5   3  3  6   0  14  3  1  0  3  39
+03 Bartley,Marcus......    0  2   0  2   0  0   0  1  1   2   0  0  0  0  0  12
+05 Beane,Darius........    1  5   1  2   0  0   3  2  5   0   3  0  0  1  0  17
+40 Bol,Thik............    1  2   0  0   0  0   0  2  2   0   2  0  0  0  0   8
+TM TEAM................                            2  2             1
+   Totals..............   23 62   4 16   8 10  11 26 37  12  58  9 10  4  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-29  .345    13-33  .394    23-62  .371
+3-Pt. FG%:  1-6   .167     3-10  .300     4-16  .250
+F Throw %:  5-5  1.000     3-5   .600     8-10  .800
+Deadball rebounds: 3,1
+Date: 03-08-19      Site: Enterprise Center, St. Louis, Missouri  Attendance: 7936
+Officials: John Higgins; Gerry Pollard; Randy Heimerman;
+Technical fouls: Northern Iowa-None. Southern Illinois-McGill,Eric.
+Score by Periods      1  2   Total
+Northern Iowa....... 34 27  - 61
+Southern Illinois... 26 32  - 58

@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Missouri State vs Drake (01-20-19)
+VISITORS: Missouri State (8-11 (2-4 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+30 Da Silva,Tulio...... f  5  8   1  1   1  2   3  5  8   3  12  1  6  0  0  33
+00 Webster,Josh........ g  2  6   0  1   0  0   2  6  8   0   4  3  2  3  2  33
+01 Cook,Keandre........ g  5 10   1  2   0  1   0  1  1   2  11  0  4  0  2  16
+11 Dixon,Jarred........ g  5 10   0  2   5  5   0  1  1   5  15  0  3  0  1  24
+20 Kreklow,Ryan........ g  2  6   1  3   0  1   0  6  6   2   5  0  2  0  3  33
+21 Owens,Ross..........    0  1   0  1   0  0   0  0  0   1   0  0  0  0  0   5
+23 Mohammed,Kabir......    3  5   0  0   3  6   3  3  6   3   9  0  0  1  1  21
+25 Scott,Darian........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   5
+34 Ridder,Jared........    2  6   1  5   2  5   1  1  2   0   7  1  0  2  1  30
+TM TEAM................
+   Totals..............   24 52   4 15  11 20   9 23 32  16  63  5 17  6 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-28  .357    14-24  .583    24-52  .462
+3-Pt. FG%:  1-10  .100     3-5   .600     4-15  .267
+F Throw %:  3-7   .429     8-13  .615    11-20  .550
+Deadball rebounds: 3,1
+HOME TEAM: Drake (14-5 (3-3 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 McGlynn,Nick........ f  3  7   0  0   1  1   3  6  9   4   7  1  2  1  1  23
+00 Wilkins,D.J......... g  4 13   2  9   3  3   0  2  2   2  13  2  5  0  3  36
+02 Murphy,Tremell...... g  4  7   1  2   2  2   2  5  7   2  11  3  3  0  0  25
+14 Thomas,Noah......... g  4 12   1  3   0  0   0  5  5   4   9  6  5  0  1  33
+22 Ellingson,Brady..... g  9 10   7  8   0  0   1  2  3   2  25  3  1  0  1  32
+01 Jones,Samm..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+03 Sturtz,Garrett......    0  3   0  1   0  0   0  0  0   0   0  0  0  1  3  15
+04 Murphy,Anthony......    3  4   0  1   0  0   1  2  3   0   6  1  0  0  0  17
+11 Pilipovic,Antonio...    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+21 Robbins,Liam........    1  4   0  0   1  2   1  1  2   4   3  0  0  2  1  17
+TM TEAM................                            2  2             1
+   Totals..............   28 60  11 24   7  8   8 25 33  18  74 16 17  4 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-32  .406    15-28  .536    28-60  .467
+3-Pt. FG%:  8-15  .533     3-9   .333    11-24  .458
+F Throw %:  3-3  1.000     4-5   .800     7-8   .875
+Deadball rebounds: 1
+Date: 01-20-19      Site: Des Moines, Iowa (Knapp Center)  Attendance: 3124
+Officials: John Higgins; Kelly Self; Kipp Kissinger;
+Technical fouls: Missouri State-, Da Silva,Tulio. Drake-, Murphy,Tremell.
+Score by Periods      1  2   Total
+Missouri State...... 24 39  - 63
+Drake............... 37 37  - 74
+Fouled Out: MSU: #11 Dixon @ 1:14 (2nd)

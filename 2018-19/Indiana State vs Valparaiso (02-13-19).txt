@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Indiana State vs Valparaiso (02-13-19)
+VISITORS: Indiana State (13-12)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Kessinger,Bronson... f  5  9   1  3   1  2   2  1  3   4  12  1  4  0  1  28
+02 Barnes,Jordan....... g  4  9   2  2   1  1   0  1  1   5  11  3  1  2  0  24
+04 Neese,Cooper........ g  2  7   1  3   8  8   1  3  4   1  13  1  0  0  0  41
+10 Williams,Christian.. g  4 12   1  3   0  0   2  7  9   1   9  4  1  0  2  38
+11 Key,Tyreke.......... g  8 16   1  4  15 17   0  3  3   4  32  4  1  0  6  42
+01 Holston,Allante.....    0  0   0  0   0  0   0  0  0   1   0  0  1  0  0  12
+13 Hughes,Clayton......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+23 Washington,De'Avion.    3  5   2  4   0  0   2  0  2   3   8  0  1  0  2  21
+41 Rickman,Emondre.....    1  5   0  0   0  0   1  1  2   5   2  0  1  1  1  15
+TM TEAM................                         4  1  5             2
+   Totals..............   27 63   8 19  25 28  12 17 29  24  87 13 12  3 12 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-29  .517     9-28  .321    27-63  .429
+3-Pt. FG%:  6-11  .545     0-5   .000     8-19  .421
+F Throw %:  3-4   .750    14-14 1.000    25-28  .893
+Deadball rebounds: 2
+HOME TEAM: Valparaiso (13-13)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Golder,Markus....... f  0  1   0  1   3  4   0  1  1   1   3  1  1  1  1  23
+21 Smits,Derrik........ c  7  7   0  0   9 14   4  7 11   2  23  1  4  1  0  29
+00 Freeman,Javon....... g  1  5   0  2   2  2   1  4  5   5   4  1  4  0  2  17
+03 Sackey,Daniel....... g  2  7   1  2   5  9   0  1  1   2  10  3  4  0  4  33
+35 Fazekas,Ryan........ g  2  6   1  3   2  2   1  2  3   3   7  0  0  1  0  34
+02 Lavender,Deion......    5  6   1  2   5  7   1  3  4   1  16  4  4  0  0  30
+04 Evelyn,Bakari.......    4  9   2  4   1  2   1  3  4   5  11  1  2  0  0  30
+14 Sorolla,Jaume.......    1  2   0  0   0  0   0  2  2   2   2  0  1  0  0  14
+23 McMillan,Mileek.....    2  3   2  2   0  0   1  2  3   1   6  1  1  0  0   8
+33 Kiser,John..........    0  2   0  2   0  0   1  0  1   0   0  1  0  0  0   7
+TM TEAM................                         2     2
+   Totals..............   24 48   7 18  27 40  12 25 37  22  82 13 21  3  7 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-24  .625     6-16  .375    24-48  .500
+3-Pt. FG%:  3-9   .333     3-6   .500     7-18  .389
+F Throw %:  3-5   .600    20-29  .690    27-40  .675
+Deadball rebounds: 8
+Date: 02-13-19      Site: Valparaiso, Ind. The ARC  Attendance: 3014
+Officials: Jeff Malham; Ray Natili; Paul Janssen;
+Technical fouls: Indiana State-None. Valparaiso-None.
+Score by Periods      1  2 OT   Total
+Indiana State....... 39 32 16  - 87
+Valparaiso.......... 36 35 11  - 82
+2018-19 Men's Basketball. Round: 0. Indiana St. vs Valparaiso. Played at .

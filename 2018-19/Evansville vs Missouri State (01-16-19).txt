@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Evansville vs Missouri State (01-16-19)
+VISITORS: Evansville (9-9 (3-2 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 Hall,John........... f  4  4   3  3   0  0   1  3  4   1  11  1  1  1  0  26
+01 Hill,Marty.......... g  2  7   2  5   3  4   0  5  5   5   9  1  3  0  1  22
+21 Feehan,Shea......... g  3  8   2  6   2  2   0  0  0   3  10  2  1  0  0  28
+30 Frederking,Noah..... g  2  3   2  3   0  0   0  2  2   3   6  1  2  0  0  28
+33 Riley,K.J........... g  5 10   1  3   5  8   0  8  8   4  16  3  5  0  2  35
+03 Newton,Jawaun.......    0  1   0  1   0  0   0  1  1   0   0  0  0  0  0  10
+04 Straub,Devan........    1  3   1  3   0  0   0  0  0   0   3  2  0  0  1  10
+05 Givance,Shamar......    0  1   0  0   4  4   0  1  1   1   4  1  1  0  0   6
+10 Kuhlman,Evan........    2  4   1  3   0  0   0  3  3   3   5  0  1  2  1  17
+14 Chatkevicius,Dainius    1  4   0  1   4  5   3  2  5   2   6  0  3  0  0  18
+TM TEAM................                         1  3  4
+   Totals..............   20 45  12 28  18 23   5 28 33  22  70 11 17  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-26  .423     9-19  .474    20-45  .444
+3-Pt. FG%:  6-16  .375     6-12  .500    12-28  .429
+F Throw %:  2-2  1.000    16-21  .762    18-23  .783
+Deadball rebounds: 3
+HOME TEAM: Missouri State (8-10 (2-3 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+30 Da Silva,Tulio...... f  6 15   0  1   2  5   8  5 13   0  14  0  3  1  0  34
+00 Webster,Josh........ g  5  9   0  0   1  2   1  3  4   5  11  5  3  0  3  33
+01 Cook,Keandre........ g  4  7   0  0   6  8   1  2  3   4  14  1  1  0  0  27
+11 Dixon,Jarred........ g  3 12   0  4   1  2   1  3  4   4   7  0  0  0  0  33
+20 Kreklow,Ryan........ g  2  8   1  5   0  1   1  2  3   2   5  1  0  1  1  34
+15 Wojcik,Jan..........    0  2   0  1   0  0   0  1  1   0   0  0  0  0  0   2
+21 Owens,Ross..........    1  1   1  1   0  2   0  0  0   0   3  0  0  0  1   2
+23 Mohammed,Kabir......    3  4   0  0   1  2   2  2  4   1   7  0  0  0  1  22
+34 Ridder,Jared........    1  5   1  4   0  0   0  0  0   2   3  0  1  0  1  13
+TM TEAM................                         2  3  5
+   Totals..............   25 63   3 16  11 22  16 21 37  18  64  7  8  2  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-31  .419    12-32  .375    25-63  .397
+3-Pt. FG%:  1-7   .143     2-9   .222     3-16  .188
+F Throw %:  2-6   .333     9-16  .563    11-22  .500
+Deadball rebounds: 5,1
+Date: 01-16-19      Site: JQH Arena, Springfield, Mo.  Attendance: 4923
+Officials: Jeb Hartness; Randy Heimerman; John Hampton;
+Technical fouls: Evansville-, Kuhlman,Evan. Missouri State-None.
+Score by Periods      1  2   Total
+Evansville.......... 30 40  - 70
+Missouri State...... 29 35  - 64
+Hill (UE) fouls out at 1:39 of 2nd half. Webster (MSU) fouls out at 0:17 of
+2nd half.

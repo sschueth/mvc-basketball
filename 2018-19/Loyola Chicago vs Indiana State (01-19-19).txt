@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Loyola Chicago vs Indiana State (01-19-19)
+VISITORS: Loyola Chicago (12-7, 5-1 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+30 Uguak,Aher.......... f  4  8   1  1   1  1   0  1  1   4  10  1  1  0  2  27
+25 Krutwig,Cameron..... c  7 11   0  1   2  5   4  6 10   2  16  2  2  1  0  29
+01 Williamson,Lucas.... g  4  9   3  6   3  3   0  8  8   4  14  0  2  0  3  30
+05 Townes,Marques...... g  3  7   1  1   9 11   1  3  4   4  16  3  1  0  1  36
+13 Custer,Clayton...... g  1  4   1  2   0  0   0  1  1   2   3  4  3  0  0  38
+04 Skokna,Bruno........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   1
+12 Negron,Christian....    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   1
+22 Bujdoso,Isaiah......    2  2   1  1   1  1   0  0  0   2   6  3  1  0  0  14
+23 Kaifes,Cooper.......    2  3   2  3   0  0   0  0  0   0   6  2  0  0  0  15
+33 Agunanne,Frank......    2  3   0  0   0  0   0  2  2   3   4  0  1  0  0   9
+TM TEAM................
+   Totals..............   25 47   9 15  16 21   5 21 26  23  75 15 11  1  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-24  .542    12-23  .522    25-47  .532
+3-Pt. FG%:  4-8   .500     5-7   .714     9-15  .600
+F Throw %:  6-8   .750    10-13  .769    16-21  .762
+Deadball rebounds: 3
+HOME TEAM: Indiana State (10-8, 2-4 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+41 Rickman,Emondre..... c  1  2   0  0   0  0   1  3  4   4   2  0  1  1  0  17
+01 Holston,Allante..... g  4  6   0  0   0  1   1  1  2   3   8  1  2  2  1  28
+02 Barnes,Jordan....... g  3  9   2  6   7  9   0  6  6   1  15  2  4  0  0  35
+10 Williams,Christian.. g  3  8   1  1   4  4   1  2  3   2  11  1  3  0  2  33
+11 Key,Tyreke.......... g  7 12   0  3   5  5   0  1  1   4  19  2  1  0  1  38
+04 Neese,Cooper........    1  2   0  0   0  0   0  2  2   4   2  1  0  0  1  17
+05 Kessinger,Bronson...    2  3   0  0   2  2   0  2  2   3   6  1  0  1  0  23
+13 Hughes,Clayton......    2  4   0  2   0  0   0  1  1   0   4  0  0  0  0   9
+TM TEAM................                         2  1  3             1
+   Totals..............   23 46   3 12  18 21   5 19 24  21  67  8 12  4  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-24  .417    13-22  .591    23-46  .500
+3-Pt. FG%:  3-9   .333     0-3   .000     3-12  .250
+F Throw %:  7-7  1.000    11-14  .786    18-21  .857
+Deadball rebounds: 0
+Date: 01-19-19      Site: Terre Haute, Ind. (Hulman Center)  Attendance: 10200
+Officials: Brad Ferrie; David S;
+Technical fouls: Loyola Chicago-None. Indiana State-None.
+Score by Periods      1  2   Total
+Loyola Chicago...... 36 39  - 75
+Indiana State....... 30 37  - 67

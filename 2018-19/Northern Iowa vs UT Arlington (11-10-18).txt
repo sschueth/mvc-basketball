@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Northern Iowa vs UT Arlington (11-10-18)
+VISITORS: Northern Iowa (0-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+34 McDonnell,Luke...... f  2  3   0  0   0  0   2  2  4   3   4  1  0  0  0  16
+04 Green,AJ............ g  6 17   1  8   4  4   0  5  5   4  17  1  5  2  1  34
+11 Berhow,Trae......... g  1  5   0  3   5  7   0  6  6   3   7  0  2  0  0  28
+22 Lohaus,Wyatt........ g  1  4   0  2   2  2   0  2  2   3   4  1  1  0  0  27
+24 Brown,Isaiah........ g  6 14   0  5   3  5   0  5  5   1  15  2  2  2  1  39
+03 Pickford,Tywhon.....    3  6   0  0   1  2   1  2  3   1   7  3  0  1  0  24
+10 Wentzien,Miles......    0  1   0  1   0  0   0  0  0   1   0  1  0  0  0   5
+15 Dahl,Justin.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+20 Goldman,Shandon.....    0  0   0  0   0  2   0  0  0   0   0  0  0  1  0   2
+30 Haldeman,Spencer....    2  4   2  3   3  5   1  2  3   5   9  0  0  0  2  16
+50 Phyfe,Austin........    1  2   0  0   0  0   1  0  1   3   2  0  0  0  1   7
+TM TEAM................
+   Totals..............   22 56   3 22  18 27   5 24 29  24  65  9 10  6  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-26  .423    11-30  .367    22-56  .393
+3-Pt. FG%:  2-10  .200     1-12  .083     3-22  .136
+F Throw %:  9-15  .600     9-12  .750    18-27  .667
+Deadball rebounds: 5,1
+HOME TEAM: UT Arlington (2-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 Patrick Mwamba...... f  3  3   0  0   0  0   0  1  1   4   6  2  2  0  1  18
+00 Brian Warren........ g  8 12   0  2   3  5   0  1  1   3  19  4  1  0  0  30
+04 David Azore......... g  4 11   0  2   8  8   0  3  3   3  16  3  3  0  2  34
+05 Edric Dennis........ g  3 11   2  6   3  4   1 10 11   1  11  3  2  0  3  36
+10 Radshad Davis....... g  1  3   1  1   6  8   1 10 11   3   9  0  2  1  0  25
+02 DJ Bryant...........    1  3   1  3   2  2   0  2  2   4   5  0  0  0  2  20
+03 Ayoub Nouhi.........    0  1   0  1   0  0   0  0  0   0   0  0  1  0  0   5
+13 Jabari Narcis.......    0  1   0  1   1  2   1  0  1   1   1  0  0  0  0   3
+21 Pedro Castro........    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   4
+22 TiAndre Jackson-Youn    3  5   1  2   0  2   4  3  7   2   7  1  2  0  0  24
+TM TEAM................                                             1
+   Totals..............   23 51   5 19  23 31   7 30 37  21  74 13 14  1  8 199
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-22  .409    14-29  .483    23-51  .451
+3-Pt. FG%:  0-7   .000     5-12  .417     5-19  .263
+F Throw %: 14-18  .778     9-13  .692    23-31  .742
+Deadball rebounds: 4,3
+Date: 11-10-18      Site: Unknown  Attendance: 3789
+Officials:
+Technical fouls: Northern Iowa-None. UT Arlington-None.
+Score by Periods      1  2   Total
+Northern Iowa....... 33 32  - 65
+UT Arlington........ 32 42  - 74
+2018-19 Men's Basketball. Round: 0. UNI vs UT Arlington. Played at .

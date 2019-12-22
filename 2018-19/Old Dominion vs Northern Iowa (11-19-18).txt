@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Old Dominion vs Northern Iowa (11-19-18)
+VISITORS: Old Dominion (2-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+13 CARVER, Aaron....... f  1  4   1  2   0  1   7  4 11   0   3  4  0  0  2  27
+23 DICKENS, Dajour..... f  0  0   0  0   0  0   0  2  2   3   0  0  0  0  0  12
+03 STITH, B.J.......... g  3 16   0  5   0  0   3  8 11   0   6  2  2  1  2  33
+04 CAVER, Ahmad........ g  7 16   4  7   6  6   1  2  3   2  24  3  2  0  2  36
+10 GREEN, Xavier....... g  3 11   1  4   0  0   0  5  5   2   7  0  3  0  1  33
+00 GODWIN, Marquis.....    0  2   0  2   0  0   0  1  1   0   0  0  0  0  0  10
+01 WADE, Jason.........    2  3   0  0   0  1   1  0  1   1   4  0  1  1  0  21
+02 KITHCART, Justice...    1  5   1  4   0  0   0  0  0   0   3  0  2  0  0  12
+22 EZIKPE, Kalu........    3  4   0  0   0  1   0  1  1   4   6  0  0  0  0  16
+TM TEAM................                         1  3  4
+   Totals..............   20 61   7 24   6  9  13 26 39  12  53  9 10  2  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-29  .310    11-32  .344    20-61  .328
+3-Pt. FG%:  1-8   .125     6-16  .375     7-24  .292
+F Throw %:  2-5   .400     4-4  1.000     6-9   .667
+Deadball rebounds: 0
+HOME TEAM: Northern Iowa (3-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+34 McDonnell,Luke...... f  1  5   1  2   2  4   2  1  3   1   5  1  1  0  1  26
+04 Green,AJ............ g  5 11   3  5   2  2   0  1  1   2  15  0  5  0  0  21
+11 Berhow,Trae......... g  2  5   1  2   1  1   0  3  3   2   6  2  2  0  0  25
+22 Lohaus,Wyatt........ g  1  3   1  3   0  0   0  4  4   0   3  2  1  0  0  27
+24 Brown,Isaiah........ g  0  5   0  2   2  2   1  5  6   1   2  5  2  0  1  26
+03 Pickford,Tywhon.....    2  6   1  3   0  0   0  4  4   1   5  1  1  0  1  22
+10 Wentzien,Miles......    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   3
+20 Goldman,Shandon.....    2  3   1  1   0  0   0  2  2   0   5  1  0  0  0  15
+30 Haldeman,Spencer....    3  8   3  6   0  0   0  4  4   1   9  0  0  0  0  21
+50 Phyfe,Austin........    2  3   0  1   0  0   0  3  3   2   4  0  0  0  1  14
+TM TEAM................                         3  1  4             1
+   Totals..............   18 49  11 25   7  9   6 29 35  10  54 12 13  0  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-25  .360     9-24  .375    18-49  .367
+3-Pt. FG%:  6-13  .462     5-12  .417    11-25  .440
+F Throw %:  2-4   .500     5-5  1.000     7-9   .778
+Deadball rebounds: 1,2
+Date: 11-19-18      Site: St. Thomas, U.S. Virgin Islands  Attendance: 886
+Officials: Tony Crisp; Greg Evans; Garrick Shannon;
+Technical fouls: Old Dominion-None. Northern Iowa-, Haldeman,Spencer.
+Score by Periods      1  2   Total
+Old Dominion........ 21 32  - 53
+Northern Iowa....... 26 28  - 54
+2018 U.S. Virgin Islands Paradise Jam Basketball Tournament
+Presented by Basketball Travelers

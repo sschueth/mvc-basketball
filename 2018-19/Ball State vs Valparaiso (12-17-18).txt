@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Ball State vs Valparaiso (12-17-18)
+VISITORS: Ball State (7-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+14 Kyle Mallers........ f  1  4   0  3   0  0   0  0  0   5   2  0  0  0  2  26
+25 Tahjai Teague....... f  6 14   0  2   7  9   6  6 12   3  19  0  4  0  2  30
+24 Trey Moses.......... c  5  9   0  0   2  6   0  5  5   4  12  4  1  0  1  22
+01 K.J. Walton......... g  8 10   0  0   1  2   2  3  5   0  17  2  0  0  1  33
+02 Tayler Persons...... g  4  8   2  3   4  4   0  5  5   2  14  7  4  0  4  33
+03 Josh Thompson.......    1  5   0  3   0  0   1  0  1   2   2  3  0  0  0  20
+05 Ishmael El-Amin.....    3  5   1  2   1  2   0  3  3   1   8  1  0  0  0  18
+15 Zach Gunn...........    1  2   1  2   0  0   0  3  3   5   3  1  1  0  0  18
+TM TEAM................                            1  1
+   Totals..............   29 57   4 15  15 23   9 26 35  22  77 18 10  0 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-31  .516    13-26  .500    29-57  .509
+3-Pt. FG%:  1-10  .100     3-5   .600     4-15  .267
+F Throw %:  2-3   .667    13-20  .650    15-23  .652
+Deadball rebounds: 5
+HOME TEAM: Valparaiso (6-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+21 Smits,Derrik........ c  1  2   0  0   0  0   0  1  1   4   2  0  3  0  0   9
+00 Freeman,Javon....... g  1  6   0  2   5  7   1  3  4   3   7  1  2  0  2  36
+02 Lavender,Deion...... g  3  5   0  0   2  2   0  1  1   0   8  2  3  0  0  20
+04 Evelyn,Bakari....... g  2  7   0  3   0  0   0  3  3   1   4  1  1  0  0  23
+35 Fazekas,Ryan........ g  5 14   1  9   8  9   1  4  5   3  19  1  2  0  0  37
+03 Sackey,Daniel.......    2  4   0  0   0  1   0  1  1   0   4  3  5  0  0  15
+05 Golder,Markus.......    5  7   2  2   2  3   2  2  4   3  14  0  1  1  1  29
+14 Sorolla,Jaume.......    1  5   0  0   1  1   2  4  6   5   3  1  0  1  1  25
+23 McMillan,Mileek.....    0  0   0  0   0  0   0  1  1   1   0  0  0  0  0   4
+33 Kiser,John..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+TM TEAM................                         1     1
+   Totals..............   20 50   3 16  18 23   7 20 27  20  61  9 17  2  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-29  .379     9-21  .429    20-50  .400
+3-Pt. FG%:  2-10  .200     1-6   .167     3-16  .188
+F Throw %:  1-2   .500    17-21  .810    18-23  .783
+Deadball rebounds: 2,2
+Date: 12-17-18      Site: Valparaiso, Ind. ARC  Attendance: 3636
+Officials: Bert Smith; Kelly Self; Tyler Kumpf;
+Technical fouls: Ball State-None. Valparaiso-None.
+Score by Periods      1  2   Total
+Ball State.......... 35 42  - 77
+Valparaiso.......... 25 36  - 61
+2018-19 Men's Basketball. Round: 0. Ball St. vs Valparaiso. Played at .

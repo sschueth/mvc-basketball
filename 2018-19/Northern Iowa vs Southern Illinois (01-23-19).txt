@@ -1,0 +1,47 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Northern Iowa vs Southern Illinois (01-23-19)
+VISITORS: Northern Iowa (8-12, 3-4 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 Green,AJ............ *  8 14   6  7   0  1   0  2  2   4  22  1  6  0  1  23
+11 Berhow,Trae......... *  3  8   0  3   0  0   1  2  3   3   6  0  3  0  0  32
+22 Lohaus,Wyatt........ *  3  8   1  3   0  0   2  1  3   2   7  1  2  0  0  34
+24 Brown,Isaiah........ *  4  8   0  3   2  2   1  8  9   5  10  5  2  0  5  37
+34 McDonnell,Luke...... *  2  6   1  2   0  0   3  4  7   0   5  1  3  0  0  25
+03 Pickford,Tywhon.....    1  2   0  0   2  2   1  1  2   1   4  0  0  0  0  16
+15 Dahl,Justin.........    2  3   0  0   0  1   0  1  1   1   4  0  2  1  1   7
+30 Haldeman,Spencer....    1  6   0  3   2  2   0  0  0   3   4  1  1  0  2  26
+TM TEAM................                         1  2  3             1
+   Totals..............   24 55   8 21   6  8   9 21 30  19  62  9 20  1  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-30  .500     9-25  .360    24-55  .436
+3-Pt. FG%:  5-10  .500     3-11  .273     8-21  .381
+F Throw %:  0-1   .000     6-7   .857     6-8   .750
+Deadball rebounds: 0
+HOME TEAM: Southern Illinois (10-10, 3-4 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Pippen,Kavion....... c  1  5   0  0   0  0   1  2  3   0   2  2  3  2  1  15
+04 McGill,Eric......... g  6 11   0  3   1  2   0  3  3   3  13  5  0  0  2  34
+10 Cook,Aaron.......... g  6 10   2  5   3  4   0  0  0   1  17  4  3  0  3  30
+13 Lloyd,Sean.......... g  6  9   3  4   1  2   1  5  6   1  16  1  1  0  1  31
+22 Fletcher,Armon...... g  1  6   0  3   2  4   2  4  6   1   4  0  3  1  1  34
+03 Bartley,Marcus......    1  3   0  2   0  0   0  1  1   3   2  1  2  0  1  16
+05 Beane,Darius........    5  7   2  3   4  4   1  4  5   2  16  1  1  0  2  27
+40 Bol,Thik............    0  1   0  0   0  0   1  2  3   2   0  0  3  2  0  13
+TM TEAM................                         2  3  5             1
+   Totals..............   26 52   7 20  11 16   8 24 32  13  70 14 17  5 11 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-22  .318    19-30  .633    26-52  .500
+3-Pt. FG%:  3-13  .231     4-7   .571     7-20  .350
+F Throw %:  2-2  1.000     9-14  .643    11-16  .688
+Deadball rebounds: 2
+Date: 01-23-19      Site: Carbondale, IL SIU Arena  Attendance: 4419
+Officials: Kelly Self; Antinio Petty; Tyler Kumpf;
+Technical fouls: Northern Iowa-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+Northern Iowa....... 35 27  - 62
+Southern Illinois... 19 51  - 70

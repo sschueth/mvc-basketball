@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Penn State vs Bradley (11-21-18)
+VISITORS: Penn State (3-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 Stevens, Lamar...... f  7 20   1  4  12 14   3  5  8   3  27  3  1  0  2  40
+21 Harrar, John........ f  3  5   0  0   1  2   2  5  7   2   7  2  0  2  0  22
+02 Dread, Myles........ g  1  7   1  7   0  0   2  2  4   2   3  0  3  0  2  32
+05 Wheeler, Jamari..... g  0  4   0  1   0  0   3  4  7   3   0  0  1  0  1  31
+23 Reaves, Josh........ g  0  6   0  5   4  4   6  3  9   2   4  0  5  0  1  32
+00 Jones, Myreon.......    2  5   0  2   0  0   1  1  2   2   4  0  1  0  1  11
+13 Bolton, Rasir.......    4 12   2  8   0  0   2  4  6   4  10  1  1  0  0  23
+35 Buttrick, Trent.....    0  0   0  0   1  2   0  0  0   1   1  0  0  1  0   9
+TM TEAM................                            2  2
+   Totals..............   17 59   4 27  18 22  19 26 45  19  56  6 12  3  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-27  .407     6-32  .188    17-59  .288
+3-Pt. FG%:  2-11  .182     2-16  .125     4-27  .148
+F Throw %:  9-12  .750     9-10  .900    18-22  .818
+Deadball rebounds: 2,1
+HOME TEAM: Bradley (5-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Childs,Elijah....... f  8 13   2  4   0  1   2  1  3   1  18  2  3  1  2  36
+12 Bar,Koch............ c  2  2   0  0   4  6   2  6  8   3   8  0  0  2  0  30
+05 Brown,Darrell....... g  5 13   3  6   3  4   1  2  3   1  16  5  2  0  1  35
+23 Lautier-Ogunleye,Dwa g  3  5   2  3   0  1   0  3  3   4   8  3  3  0  0  19
+25 Kennell,Nate........ g  2  9   1  6   1  3   0  4  4   2   6  1  1  0  1  32
+03 Pittman,Antoine.....    1  5   0  3   0  0   0  1  1   3   2  1  0  0  0  15
+04 Brummett,Armon......    0  1   0  1   0  0   0  1  1   0   0  0  1  0  0   4
+13 van Bree,Luuk.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+22 Henry,Ja'Shon.......    0  0   0  0   1  2   0  1  1   3   1  0  2  0  1  13
+35 Hodgson,Jayden......    0  1   0  1   0  0   0  1  1   1   0  1  0  0  0  15
+TM TEAM................                         1  2  3
+   Totals..............   21 49   8 24   9 17   6 22 28  18  59 13 12  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-27  .370    11-22  .500    21-49  .429
+3-Pt. FG%:  5-12  .417     3-12  .250     8-24  .333
+F Throw %:  7-11  .636     2-6   .333     9-17  .529
+Deadball rebounds: 3,3
+Date: 11-21-18      Site: Cancun, Mexico - Hard Rock Riviera Ma  Attendance: 1473
+Officials: Bill Elk; Darryl Smith; Steve McJunkins;
+Technical fouls: Penn State-None. Bradley-None.
+Score by Periods      1  2   Total
+Penn State.......... 33 23  - 56
+Bradley............. 32 27  - 59
+2018 Cancun Challenge - Championship Game - Riviera Division

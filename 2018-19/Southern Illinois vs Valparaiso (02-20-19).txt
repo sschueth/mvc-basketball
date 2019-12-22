@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Southern Illinois vs Valparaiso (02-20-19)
+VISITORS: Southern Illinois (14-14)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+22 Fletcher,Armon...... f  7 13   0  1   4  5   2  6  8   2  18  1  2  0  3  39
+33 Pippen,Kavion....... c  3  9   0  1   1  2   1  3  4   0   7  1  7  5  1  26
+04 McGill,Eric......... g  1  5   0  2   0  0   2  2  4   3   2  1  4  0  1  25
+10 Cook,Aaron.......... g  1  9   1  6   4  6   2  4  6   1   7  2  2  0  3  36
+13 Lloyd,Sean.......... g  1  2   1  1   1  2   0  7  7   3   4  2  3  0  0  34
+03 Bartley,Marcus......    4  5   2  3   0  0   0  1  1   4  10  2  1  0  1  20
+05 Beane,Darius........    0  1   0  1   0  0   1  1  2   0   0  1  0  0  0   6
+40 Bol,Thik............    2  5   0  0   0  3   0  1  1   1   4  1  0  1  0  14
+TM TEAM................                         1  2  3
+   Totals..............   19 49   4 15  10 18   9 27 36  14  52 11 19  6  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-26  .462     7-23  .304    19-49  .388
+3-Pt. FG%:  1-5   .200     3-10  .300     4-15  .267
+F Throw %:  3-4   .750     7-14  .500    10-18  .556
+Deadball rebounds: 3
+HOME TEAM: Valparaiso (14-14)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+14 Sorolla,Jaume....... c  3  5   0  0   2  2   1  1  2   3   8  2  1  3  0  24
+00 Freeman,Javon....... g  3  8   0  1   2  6   0  3  3   2   8  0  2  1  2  32
+02 Lavender,Deion...... g  5  9   0  1   0  0   1  6  7   1  10  3  3  1  3  33
+03 Sackey,Daniel....... g  2  4   1  2   0  0   0  3  3   1   5  2  5  0  2  24
+35 Fazekas,Ryan........ g  2  5   1  2   1  2   0  2  2   3   6  0  1  1  0  26
+04 Evelyn,Bakari.......    1  7   1  5   0  0   0  0  0   1   3  1  1  0  0  23
+21 Smits,Derrik........    4 10   0  0   3  4   2  2  4   3  11  0  1  0  0  16
+23 McMillan,Mileek.....    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   4
+33 Kiser,John..........    2  3   0  0   0  0   0  4  4   1   4  0  1  0  0  18
+TM TEAM................                         2  5  7
+   Totals..............   22 51   3 11   8 14   6 26 32  16  55  8 15  6  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-29  .345    12-22  .545    22-51  .431
+3-Pt. FG%:  2-7   .286     1-4   .250     3-11  .273
+F Throw %:  2-2  1.000     6-12  .500     8-14  .571
+Deadball rebounds: 2
+Date: 02-20-19      Site: Valparaiso, Ind. The ARC  Attendance: 2371
+Officials: Brad Gaston; Jeb Hartness; Joe DeRosa;
+Technical fouls: Southern Illinois-None. Valparaiso-None.
+Score by Periods      1  2   Total
+Southern Illinois... 28 24  - 52
+Valparaiso.......... 24 31  - 55
+2018-19 Men's Basketball. Round: 0. Southern Ill. vs Valparaiso. Played at .

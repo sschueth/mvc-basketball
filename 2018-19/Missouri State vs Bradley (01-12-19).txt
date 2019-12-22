@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Missouri State vs Bradley (01-12-19)
+VISITORS: Missouri State (8-9, 2-2 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+30 Da Silva,Tulio...... f  9 12   0  0   6  9   5  8 13   3  24  0  2  1  4  38
+00 Webster,Josh........ g  3  8   0  1   2  2   1  0  1   1   8  7  2  0  2  38
+01 Cook,Keandre........ g  3  5   1  3   0  0   1  2  3   4   7  0  2  0  0  23
+11 Dixon,Jarred........ g  6 12   0  3   3  3   0  1  1   3  15  1  1  0  2  38
+20 Kreklow,Ryan........ g  2  5   1  4   1  2   0  2  2   5   6  1  2  0  3  31
+15 Wojcik,Jan..........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   1
+21 Owens,Ross..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  1   8
+23 Mohammed,Kabir......    4  7   0  0   1  3   0  0  0   3   9  0  1  0  0  19
+34 Ridder,Jared........    0  2   0  2   0  0   0  1  1   0   0  0  0  0  0   4
+TM TEAM................                         1  2  3             1
+   Totals..............   27 51   2 13  13 19   8 16 24  20  69  9 11  1 12 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-24  .542    14-27  .519    27-51  .529
+3-Pt. FG%:  1-7   .143     1-6   .167     2-13  .154
+F Throw %:  1-5   .200    12-14  .857    13-19  .684
+Deadball rebounds: 3
+HOME TEAM: Bradley (8-9, 0-4 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Childs,Elijah....... f  3  4   1  2   2  2   1  4  5   4   9  0  5  1  0  25
+12 Bar,Koch............ c  2  7   0  0   4  6   5  4  9   2   8  0  2  4  0  32
+02 Lundy,Luqman........ g  2  2   1  1   0  2   0  0  0   0   5  0  1  0  0  16
+05 Brown,Darrell....... g  4  8   3  5   1  2   0  2  2   2  12  4  5  0  3  34
+23 Lautier-Ogunleye,Dwa g  1  4   0  1   4  4   3  3  6   5   6  1  3  1  0  20
+01 Boya,Ari............    1  2   0  0   0  1   0  0  0   2   2  1  1  1  0   2
+03 Pittman,Antoine.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+13 van Bree,Luuk.......    1  5   1  2   5  6   2  2  4   0   8  0  0  0  1  18
+25 Kennell,Nate........    2  6   2  4   0  0   0  1  1   2   6  2  1  0  0  26
+35 Hodgson,Jayden......    2  4   2  4   2  2   1  2  3   1   8  1  2  0  0  25
+TM TEAM................                                             1
+   Totals..............   18 42  10 19  18 25  12 18 30  18  64  9 21  7  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-23  .435     8-19  .421    18-42  .429
+3-Pt. FG%:  5-9   .556     5-10  .500    10-19  .526
+F Throw %:  5-8   .625    13-17  .765    18-25  .720
+Deadball rebounds: 3,1
+Date: 01-12-19      Site: Peoria, Ill. - Carver Arena  Attendance: 5009
+Officials: Tom Eades; Roland Simmons; Mike O'Neill;
+Technical fouls: Missouri State-None. Bradley-, TEAM.
+Score by Periods      1  2   Total
+Missouri State...... 28 41  - 69
+Bradley............. 30 34  - 64
+#23 Dwayne Lautier-Ogunleye fouled out with 4:01 remaining.
+#20 Ryan Kreklow fouled out with 1:48 remaining.

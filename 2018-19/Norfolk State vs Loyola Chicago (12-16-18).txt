@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Norfolk State vs Loyola Chicago (12-16-18)
+VISITORS: Norfolk State (4-8)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+22 LONG,Alex........... f  1  6   0  1   0  0   1  3  4   1   2  4  1  0  2  28
+45 BUTLER,Jordan....... f  4 10   0  0   1  2   1  3  4   1   9  1  0  1  1  31
+14 THOMAS,Nic.......... g  6 14   4  9   2  2   0  0  0   4  18  1  6  0  4  35
+34 WHITLEY,Steven...... g  1  6   0  1   1  2   0  2  2   3   3  4  2  0  1  19
+35 JAMERSON,Derrik..... g  2  5   2  4   0  0   0  0  0   3   6  0  0  0  1  24
+00 PITT,Mastadi........    1  7   0  1   0  0   0  1  1   0   2  3  0  0  1  27
+01 FITZGERALD,BJ.......    0  1   0  1   0  0   0  0  0   0   0  0  1  0  0   5
+05 BRANCH,Armani.......    2  3   1  2   0  0   0  0  0   2   5  1  2  0  1  11
+15 KELLY,C.J...........    0  0   0  0   0  0   0  1  1   1   0  0  2  0  0   4
+32 FORD,Chris..........    1  2   0  0   0  0   2  0  2   1   2  0  0  0  1  10
+55 CHAVIS,Kyonze.......    1  1   0  0   0  0   2  1  3   0   2  0  0  0  0   6
+TM Team................                         3     3
+   Totals..............   19 55   7 19   4  6   9 11 20  16  49 14 14  1 12 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  6-27  .222    13-28  .464    19-55  .345
+3-Pt. FG%:  3-10  .300     4-9   .444     7-19  .368
+F Throw %:  0-0   .000     4-6   .667     4-6   .667
+Deadball rebounds: 0
+HOME TEAM: Loyola Chicago (6-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+12 Negron,Christian.... f  3  4   0  0   2  2   0  4  4   0   8  2  0  1  0  16
+25 Krutwig,Cameron..... c  4  6   0  0   3  6   2  7  9   3  11  5  2  1  0  20
+05 Townes,Marques...... g  2  4   0  2   2  2   0  4  4   1   6  9  3  1  0  32
+13 Custer,Clayton...... g  7  9   7  9   0  0   0  1  1   2  21  3  2  0  1  30
+23 Kaifes,Cooper....... g  4  6   4  6   0  0   0  1  1   0  12  2  4  0  0  26
+02 Baughman,Jake.......    0  0   0  0   0  0   0  0  0   0   0  1  0  0  0   2
+04 Skokna,Bruno........    4  7   2  5   3  4   1  5  6   0  13  1  3  0  2  27
+22 Bujdoso,Isaiah......    0  0   0  0   0  0   0  1  1   0   0  1  0  0  0  17
+30 Uguak,Aher..........    2  2   0  0   1  2   0  2  2   1   5  0  1  0  0  16
+33 Agunanne,Frank......    2  3   0  0   0  0   1  3  4   2   4  0  1  3  0  13
+45 Alcock,Will.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                            1  1             1
+   Totals..............   28 41  13 22  11 16   4 29 33   9  80 24 17  6  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-23  .652    13-18  .722    28-41  .683
+3-Pt. FG%:  8-14  .571     5-8   .625    13-22  .591
+F Throw %:  8-13  .615     3-3  1.000    11-16  .688
+Deadball rebounds: 3
+Date: 12-16-18      Site: Gentile Arena - Chicago, Ill.  Attendance: 3412
+Officials: Kelly Self; Bert Smith; Rick O'Neill;
+Technical fouls: Norfolk State-None. Loyola Chicago-None.
+Score by Periods      1  2   Total
+Norfolk State....... 15 34  - 49
+Loyola Chicago...... 46 34  - 80

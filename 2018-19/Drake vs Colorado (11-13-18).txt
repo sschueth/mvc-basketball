@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                          Drake vs Colorado (11-13-18)
+VISITORS: Drake (1-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Murphy,Tremell...... f  2  4   0  0   0  1   0  2  2   5   4  2  3  0  1  16
+35 McGlynn,Nick........ f  3 10   0  4   7  9   2  5  7   0  13  1  3  1  1  30
+00 Wilkins,D.J......... g  5 10   4  7   2  5   0  2  2   3  16  2  0  0  0  29
+20 Norton,Nick......... g  6 10   4  7   2  2   1  2  3   3  18  4  3  0  2  32
+22 Ellingson,Brady..... g  1  9   1  8   0  1   0  1  1   4   3  1  2  0  0  30
+01 Jones,Samm..........    0  0   0  0   0  0   0  0  0   0   0  1  0  0  1   2
+04 Murphy,Anthony......    3  7   0  3   1  2   2  4  6   4   7  1  1  1  0  26
+11 Pilipovic,Antonio...    0  3   0  3   0  0   0  1  1   1   0  1  0  0  0  10
+14 Thomas,Noah.........    4  9   2  5   0  1   0  0  0   1  10  1  1  0  0  19
+21 Robbins,Liam........    0  0   0  0   0  0   0  2  2   5   0  0  0  0  0   5
+TM TEAM................                         3  2  5
+   Totals..............   24 62  11 37  12 21   8 21 29  26  71 14 13  2  5 199
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-28  .429    12-34  .353    24-62  .387
+3-Pt. FG%:  7-18  .389     4-19  .211    11-37  .297
+F Throw %:  3-6   .500     9-15  .600    12-21  .571
+Deadball rebounds: 3
+HOME TEAM: Colorado (1-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+21 Evan Battey......... f  3  6   0  1   2  2   0  1  1   4   8  1  0  1  1  21
+23 Lucas Siewert....... f  4  4   2  2   1  3   0  3  3   3  11  1  0  0  0  22
+00 Shane Gatling....... g  3  7   1  3   5  8   0  4  4   0  12  2  0  1  1  22
+01 Tyler Bey........... g  3  7   0  2   3  5   3 11 14   3   9  1  3  1  0  21
+25 McKinley Wright..... g  6  9   0  2   5  6   0  2  2   2  17  6  2  0  2  25
+02 Daylen Kountz.......    3  4   1  2   2  4   0  3  3   0   9  4  1  1  0  18
+10 Alexander Strating..    1  2   0  0   2  4   2  1  3   2   4  0  1  1  0  18
+12 AJ Martinka.........    0  0   0  0   0  0   0  2  2   1   0  0  1  0  0   2
+13 Namon Wright........    8 12   5  8   4  5   2  6  8   1  25  0  1  0  1  29
+24 Eli Parquet.........    2  4   1  1   0  0   1  2  3   0   5  0  2  0  0  17
+33 Aidan McQuade.......    0  1   0  1   0  0   0  0  0   1   0  0  0  0  0   2
+34 Benan Ersek.........    0  0   0  0   0  0   0  1  1   0   0  0  1  0  0   2
+TM TEAM................
+   Totals..............   33 56  10 22  24 37   8 36 44  17 100 15 12  5  5 199
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-28  .571    17-28  .607    33-56  .589
+3-Pt. FG%:  3-10  .300     7-12  .583    10-22  .455
+F Throw %: 10-17  .588    14-20  .700    24-37  .649
+Deadball rebounds: 7
+Date: 11-13-18      Site: Boulder, Colo.  Attendance: 5695
+Officials:
+Technical fouls: Drake-None. Colorado-None.
+Score by Periods      1  2   Total
+Drake............... 34 37  - 71
+Colorado............ 45 55  -100
+2018-19 Men's Basketball. Round: 0. Colorado vs Drake. Played at .

@@ -1,0 +1,47 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Drake vs Southern Utah (03-22-19)
+VISITORS: Drake (24-10 (12-6))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Murphy,Tremell...... *  4 17   0  1   2  2   1 10 11   2  10  3  4  1  0  40
+04 Murphy,Anthony...... *  4  7   2  4   3  3   1  9 10   4  13  0  2  0  3  37
+14 Thomas,Noah......... *  6 15   3  7   4  4   2  2  4   2  19  2  3  0  0  36
+21 Robbins,Liam........ *  7 15   0  0   0  0   2  4  6   5  14  2  1  2  1  21
+22 Ellingson,Brady..... *  4 12   1  6   2  2   1  1  2   2  11  2  1  1  0  44
+03 Sturtz,Garrett......    2  3   0  0   0  0   0  3  3   2   4  0  1  0  0  23
+11 Pilipovic,Antonio...    1  6   0  5   0  0   1  1  2   2   2  1  1  0  2  24
+TM TEAM................                            2  2
+   Totals..............   28 75   6 23  11 11   8 32 40  19  73 10 13  4  6 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-35  .286    16-32  .500    28-75  .373
+3-Pt. FG%:  3-10  .300     3-8   .375     6-23  .261
+F Throw %:  0-0   .000    11-11 1.000    11-11 1.000
+Deadball rebounds: 0
+HOME TEAM: Southern Utah (17-16 (9-11))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Calloway,Jacob...... f  2  8   0  5   0  0   1  5  6   1   4  0  1  0  1  35
+04 Marin,Dre........... g  4  8   4  7   2  2   0  4  4   1  14  6  2  1  2  40
+15 Butler,Harrison..... g  8 15   0  2   5 10   2  9 11   4  21  2  2  1  1  34
+01 Eskridge,Kenton.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+02 Better,Brandon......    5 11   2  7   0  0   1  0  1   0  12  1  0  0  0  20
+12 Fausett,Maizen......    3  5   0  0   2  2   3  5  8   4   8  0  2  3  1  25
+22 Madunic,Ivan........    0  0   0  0   0  1   1  2  3   1   0  2  0  0  0   8
+23 Oluyitan,Cameron....    3 16   2  8   7  8   2  7  9   0  15  5  4  0  1  43
+32 Adams,Andre.........    3  5   0  1   0  0   0  5  5   5   6  1  5  1  0  18
+TM TEAM................                         2  2  4
+   Totals..............   28 68   8 30  16 23  12 39 51  16  80 17 16  6  6 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-28  .429    14-34  .412    28-68  .412
+3-Pt. FG%:  2-14  .143     6-14  .429     8-30  .267
+F Throw %:  1-5   .200     8-10  .800    16-23  .696
+Deadball rebounds: 3
+Date: 03-22-19      Site: Cedar City, UT  Attendance: 2714
+Officials: Levon Zakarian; Steve Honacki; Bobby Daw;
+Technical fouls: Drake-None. Southern Utah-None.
+Score by Periods      1  2 OT   Total
+Drake............... 23 46  4  - 73
+Southern Utah....... 27 42 11  - 80

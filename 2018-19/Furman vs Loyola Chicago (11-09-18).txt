@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Furman vs Loyola Chicago (11-09-18)
+VISITORS: Furman (2-0)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+32 Matt Rafferty....... f  7 16   0  3   4  5   0  7  7   4  18  4  0  2  2  37
+45 Clay Mounce......... f  3  6   0  2   2  2   3  4  7   1   8  0  4  3  0  21
+05 Andrew Brown........ g  2  3   1  1   3  3   0  1  1   1   8  1  2  0  2  16
+10 Alex Hunter......... g  0  4   0  2   0  0   0  5  5   5   0  1  2  0  1  31
+23 Jordan Lyons........ g  4 16   4 12   3  3   0  1  1   4  15  1  6  0  3  37
+00 Tre Clark...........    0  1   0  0   0  0   1  1  2   1   0  0  0  1  1  18
+03 Mike Bothwell.......    0  1   0  0   0  2   0  2  2   0   0  1  1  1  0  11
+04 Noah Gurley.........    5  8   1  2   0  2   0  6  6   4  11  1  1  0  0  29
+TM TEAM................                         4  1  5             1
+   Totals..............   21 55   6 22  12 17   8 28 36  20  60  9 17  7  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-30  .367    10-25  .400    21-55  .382
+3-Pt. FG%:  2-11  .182     4-11  .364     6-22  .273
+F Throw %:  3-5   .600     9-12  .750    12-17  .706
+Deadball rebounds: 2
+HOME TEAM: Loyola Chicago (1-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+30 Uguak,Aher.......... f  1 10   0  2   3  4   2  3  5   2   5  0  1  0  0  29
+25 Krutwig,Cameron..... c  3  3   0  0   3  6   0  7  7   4   9  2  3  2  2  31
+01 Williamson,Lucas.... g  3 10   1  6   5  9   3  8 11   2  12  1  1  2  2  36
+05 Townes,Marques...... g  4 10   0  2   2  2   1  2  3   1  10  3  3  0  3  31
+13 Custer,Clayton...... g  8 14   2  6   1  2   0  2  2   0  19  1  3  0  2  39
+04 Skokna,Bruno........    1  3   0  2   0  0   0  1  1   0   2  1  0  0  1  15
+12 Negron,Christian....    0  0   0  0   1  2   0  2  2   0   1  0  0  1  0   3
+22 Bujdoso,Isaiah......    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   1
+23 Kaifes,Cooper.......    0  2   0  1   0  0   0  2  2   1   0  2  2  0  0  10
+33 Agunanne,Frank......    0  1   0  0   0  0   0  2  2   3   0  0  0  0  0   5
+TM TEAM................                         2     2             1
+   Totals..............   20 54   3 20  15 25   8 29 37  13  58 10 14  5 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-32  .375     8-22  .364    20-54  .370
+3-Pt. FG%:  2-12  .167     1-8   .125     3-20  .150
+F Throw %:  2-4   .500    13-21  .619    15-25  .600
+Deadball rebounds: 8
+Date: 11-09-18      Site: Gentile Arena - Chicago, Ill.  Attendance: 4963
+Officials: Ray Natili; Ed Crenshaw; Tommy Short;
+Technical fouls: Furman-None. Loyola Chicago-None.
+Score by Periods      1  2   Total
+Furman.............. 27 33  - 60
+Loyola Chicago...... 28 30  - 58

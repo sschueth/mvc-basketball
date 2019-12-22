@@ -1,0 +1,48 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Bradley vs Northern Iowa (02-06-19)
+VISITORS: Bradley (12-12, 4-7 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Lundy,Luqman........ *  1  2   1  2   0  0   0  3  3   2   3  2  2  0  0  21
+05 Brown,Darrell....... * 11 18   5  6   2  3   0  2  2   3  29  0  2  0  1  37
+10 Childs,Elijah....... *  5 11   0  3   1  2   1 10 11   0  11  2  0  0  1  33
+13 van Bree,Luuk....... *  2  3   0  1   0  0   1  1  2   0   4  0  1  1  1  19
+23 Lautier-Ogunleye,Dwa *  4  9   3  5   4  4   1  4  5   1  15  4  2  0  1  38
+04 Brummett,Armon......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   1
+12 Bar,Koch............    0  1   0  0   0  0   1  4  5   2   0  1  1  0  0  13
+22 Henry,Ja'Shon.......    1  2   0  0   3  4   0  1  1   1   5  0  0  1  0  14
+25 Kennell,Nate........    4  5   2  3   2  3   0  1  1   1  12  0  0  1  1  24
+TM TEAM................                                             2
+   Totals..............   28 51  11 20  12 16   4 26 30  11  79  9 10  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-25  .600    13-26  .500    28-51  .549
+3-Pt. FG%:  5-10  .500     6-10  .600    11-20  .550
+F Throw %:  1-2   .500    11-14  .786    12-16  .750
+Deadball rebounds: 1
+HOME TEAM: Northern Iowa (10-14, 5-6 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 Green,AJ............ *  9 19   4  9   2  2   0  3  3   4  24  1  1  0  0  35
+11 Berhow,Trae......... *  2  6   2  2   2  2   2  7  9   2   8  0  1  0  1  30
+22 Lohaus,Wyatt........ *  4  9   2  3   2  2   0  1  1   1  12  1  0  0  0  29
+24 Brown,Isaiah........ *  4 11   1  3   0  0   1  5  6   2   9  2  1  0  0  36
+34 McDonnell,Luke...... *  3  7   0  2   1  2   1  1  2   2   7  1  1  1  2  36
+03 Pickford,Tywhon.....    1  1   0  0   2  2   0  3  3   2   4  0  1  0  0  12
+15 Dahl,Justin.........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   4
+30 Haldeman,Spencer....    2  3   1  2   2  2   0  1  1   2   7  2  3  0  0  18
+TM TEAM................                         1  1  2             1
+   Totals..............   25 56  10 21  11 12   5 22 27  16  71  7  9  1  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-29  .448    12-27  .444    25-56  .446
+3-Pt. FG%:  4-10  .400     6-11  .545    10-21  .476
+F Throw %:  4-4  1.000     7-8   .875    11-12  .917
+Deadball rebounds: 1
+Date: 02-06-19      Site: McLeod Center  Attendance: 3345
+Officials: Randy Heimerman; Rick Randall; Ervin Wilson;
+Technical fouls: Bradley-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+Bradley............. 36 43  - 79
+Northern Iowa....... 34 37  - 71

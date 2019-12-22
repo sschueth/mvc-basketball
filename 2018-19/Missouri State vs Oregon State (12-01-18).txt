@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Missouri State vs Oregon State (12-01-18)
+VISITORS: Missouri State (3-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Church,Obediah...... f  1  2   0  0   0  0   0  4  4   1   2  2  2  2  1  25
+30 Da Silva,Tulio...... f  8 15   2  4   3  4   4  3  7   2  21  4  3  0  0  34
+00 Webster,Josh........ g  2  6   0  1   2  2   0  2  2   2   6  3  1  0  1  31
+11 Dixon,Jarred........ g 12 17   6  9   1  2   0  3  3   2  31  1  2  0  1  39
+20 Kreklow,Ryan........ g  2  7   2  5   0  0   0  1  1   1   6  3  3  0  0  32
+01 Cook,Keandre........    2  6   0  2   1  2   1  3  4   2   5  1  1  0  0  17
+10 Wojcik,Szymon.......    2  4   2  3   0  0   1  3  4   2   6  1  0  0  0  15
+15 Wojcik,Jan..........    0  1   0  1   0  0   0  0  0   1   0  0  0  0  0   5
+21 Owens,Ross..........    0  1   0  1   0  0   0  0  0   0   0  2  1  0  0   2
+TM TEAM................                            2  2
+   Totals..............   29 59  12 26   7 10   6 21 27  13  77 17 13  2  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-30  .433    16-29  .552    29-59  .492
+3-Pt. FG%:  8-13  .615     4-13  .308    12-26  .462
+F Throw %:  1-2   .500     6-8   .750     7-10  .700
+Deadball rebounds: 3
+HOME TEAM: Oregon State (6-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 Tres Tinkle......... f 10 17   1  4   3  5   3  3  6   1  24  5  1  0  2  29
+04 Alfred Hollins...... f  2  8   1  5   3  6   0  2  2   2   8  7  2  1  0  28
+24 Kylor Kelley........ f  1  5   0  0   0  0   2  2  4   1   2  2  2  4  0  26
+01 Stephen Thompson Jr. g 10 14   5  9   0  0   0  2  2   1  25  3  1  0  1  28
+05 Ethan Thompson...... g  8  9   5  5   1  1   1  8  9   3  22  5  2  2  3  34
+00 Jordan Campbell.....    4  4   1  1   0  0   1  0  1   0   9  0  1  0  1   8
+11 Zach Reichle........    1  2   1  2   0  0   0  2  2   0   3  5  0  0  0  17
+13 Antoine Vernon......    2  3   2  2   0  0   1  0  1   1   6  1  0  0  1  14
+14 Jack Wilson.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+22 Warren Washington...    1  2   0  0   0  0   0  2  2   3   2  1  0  0  0  12
+TM TEAM................                            3  3
+   Totals..............   39 64  16 28   7 12   8 24 32  12 101 29  9  7  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 18-30  .600    21-34  .618    39-64  .609
+3-Pt. FG%: 10-16  .625     6-12  .500    16-28  .571
+F Throw %:  4-7   .571     3-5   .600     7-12  .583
+Deadball rebounds: 1
+Date: 12-01-18      Site: Corvallis, Ore.  Attendance: 4369
+Officials: SirAllen Conner; Tom Spitznagel; Chris Rastatter;
+Technical fouls: Missouri State-None. Oregon State-None.
+Score by Periods      1  2   Total
+Missouri State...... 35 42  - 77
+Oregon State........ 50 51  -101
+2018-19 Men's Basketball. Round: 0. Missouri St. vs Oregon St.. Played at .

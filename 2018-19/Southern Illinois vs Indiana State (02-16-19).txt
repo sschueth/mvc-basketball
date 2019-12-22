@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Southern Illinois vs Indiana State (02-16-19)
+VISITORS: Southern Illinois (14-13)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+22 Fletcher,Armon...... f  7 14   2  3   4  4   1  8  9   3  20  0  1  0  0  33
+33 Pippen,Kavion....... c 10 12   0  0   1  1   0  4  4   3  21  4  1  4  0  28
+04 McGill,Eric......... g  1  2   0  0   0  0   0  6  6   0   2  5  0  0  2  35
+10 Cook,Aaron.......... g  1  5   0  2   2  2   0  2  2   1   4  7  2  0  2  34
+13 Lloyd,Sean.......... g  5  8   3  5   8  9   0  7  7   2  21  0  5  0  0  34
+03 Bartley,Marcus......    1  3   1  2   0  0   1  0  1   2   3  0  2  0  1  10
+05 Beane,Darius........    1  2   1  1   0  0   0  1  1   0   3  2  1  0  0  11
+24 Stradnieks,Rudy.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+25 Gooch,Brendon.......    1  1   1  1   0  0   0  0  0   0   3  0  0  0  0   1
+40 Bol,Thik............    1  4   0  0   0  0   1  6  7   3   2  0  1  1  0  13
+TM TEAM................                         1  2  3             1
+   Totals..............   28 51   8 14  15 16   4 36 40  14  79 18 14  5  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-22  .682    13-29  .448    28-51  .549
+3-Pt. FG%:  3-5   .600     5-9   .556     8-14  .571
+F Throw %:  7-7  1.000     8-9   .889    15-16  .938
+Deadball rebounds: 0
+HOME TEAM: Indiana State (13-13)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Kessinger,Bronson... f  2 10   0  0   0  0   1  1  2   4   4  0  0  0  1  16
+02 Barnes,Jordan....... g  4 10   2  5   1  2   1  2  3   0  11  3  4  0  1  35
+04 Neese,Cooper........ g  5 11   2  3   2  4   1  4  5   1  14  4  0  0  1  32
+10 Williams,Christian.. g  0  1   0  0   0  0   0  3  3   1   0  3  2  0  3  27
+11 Key,Tyreke.......... g  3 13   0  3   2  3   1  0  1   2   8  0  0  0  0  32
+01 Holston,Allante.....    1  5   1  1   0  0   2  1  3   0   3  0  1  0  2  14
+12 Martin,Tyeshon......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+23 Washington,De'Avion.    2  4   1  3   0  0   2  3  5   3   5  0  0  0  0  22
+41 Rickman,Emondre.....    4  9   0  0   4  7   0  1  1   3  12  0  1  0  1  21
+TM TEAM................                         2  5  7
+   Totals..............   21 63   6 15   9 16  10 20 30  14  57 10  8  0  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-34  .324    10-29  .345    21-63  .333
+3-Pt. FG%:  4-9   .444     2-6   .333     6-15  .400
+F Throw %:  2-2  1.000     7-14  .500     9-16  .563
+Deadball rebounds: 3
+Date: 02-16-19      Site: Terre Haute, Ind. Hulman Center  Attendance: 3997
+Officials: Randy Heimermann; Gary Maxwell; James Durham;
+Technical fouls: Southern Illinois-None. Indiana State-None.
+Score by Periods      1  2   Total
+Southern Illinois... 40 39  - 79
+Indiana State....... 28 29  - 57
+2018-19 Men's Basketball. Round: 0. Indiana St. vs Southern Ill.. Played at .

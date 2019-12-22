@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Illinois State vs UCF (12-21-18)
+VISITORS: Illinois State (7-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Fayne,Phil.......... f  4  7   0  0   2  4   4  2  6   4  10  1  2  0  0  31
+52 Yarbrough,Milik..... f  0  3   0  1   2  2   1  2  3   2   2  2  6  1  0  11
+02 Copeland,Zach....... g  3 11   1  8   1  1   0  3  3   4   8  3  5  0  0  31
+03 Evans,Keyshawn...... g  3  8   3  6   1  2   0  1  1   0  10  2  0  0  0  27
+23 Tinsley,William..... g  1  5   1  4   0  0   0  4  4   1   3  1  0  0  0  22
+00 Gassman,Isaac.......    1  2   1  1   2  2   0  4  4   1   5  0  0  0  0  15
+05 Hein,Matt...........    3  6   1  2   0  0   0  0  0   0   7  2  1  0  0  19
+11 Jefferson,Josh......    1  5   1  5   0  0   0  0  0   1   3  1  1  0  0  17
+13 Idowu,Rey...........    3  4   0  0   0  0   1  0  1   3   6  1  0  0  0  13
+22 Chastain,Matt.......    0  2   0  1   2  2   3  2  5   3   2  1  1  0  0  14
+TM TEAM................                         2  4  6
+   Totals..............   19 53   8 28  10 13  11 22 33  19  56 14 16  1  0 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-24  .292    12-29  .414    19-53  .358
+3-Pt. FG%:  2-12  .167     6-16  .375     8-28  .286
+F Throw %:  2-2  1.000     8-11  .727    10-13  .769
+Deadball rebounds: 2
+HOME TEAM: UCF (10-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+21 Brown,Chad.......... f  2  4   0  0   2  2   1  3  4   0   6  2  2  2  2  26
+24 Fall,Tacko.......... c  5  5   0  0   1  4   5  7 12   2  11  0  1  1  1  27
+01 Taylor,B.J.......... g  6 13   1  6   2  2   0  3  3   0  15  5  0  0  2  32
+02 Allen,Terrell....... g  1  6   0  2   2  2   0  4  4   4   4  2  1  0  1  23
+15 Dawkins,Aubrey...... g  6 10   5  7   1  2   1  4  5   3  18  3  0  1  0  33
+04 DeJesus,Ceasar......    4  9   1  2   0  0   0  0  0   1   9  2  1  0  0  17
+12 Grant,Xavier........    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   2
+13 Renaud,Levy.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+20 Bertz,Frank.........    1  1   0  0   0  0   1  0  1   1   2  0  0  0  2  13
+25 Anders,Ryan.........    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+35 Smith,Collin........    5 10   0  1   2  3   2  2  4   3  12  0  3  1  1  23
+TM TEAM................                         1     1
+   Totals..............   30 59   7 18  10 15  11 24 35  14  77 14  8  5  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-34  .471    14-25  .560    30-59  .508
+3-Pt. FG%:  3-11  .273     4-7   .571     7-18  .389
+F Throw %:  8-10  .800     2-5   .400    10-15  .667
+Deadball rebounds: 1
+Date: 12-21-18      Site: Orlando, Fla. (CFE Arena)  Attendance: 3885
+Officials: Robert Felder; K.B. Burdett Jr.; Kelly Self;
+Technical fouls: Illinois State-None. UCF-None.
+Score by Periods      1  2   Total
+Illinois State...... 18 38  - 56
+UCF................. 43 34  - 77

@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       SE Louisiana vs Bradley (12-22-18)
+VISITORS: SE Louisiana (4-8)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+13 Greenwood, Moses.... f  3  8   1  1   1  4   1  2  3   4   8  0  3  0  0  20
+20 Gonzalez, Brandon... f  3  7   3  7   0  0   0  4  4   4   9  0  0  0  0  29
+00 Veal, Marlain....... g  5  9   4  6   0  0   2  2  4   5  14  7  4  1  0  32
+10 Julien, Von......... g  0  3   0  1   0  0   0  2  2   1   0  3  2  0  0  31
+24 Charleston, Keith... g  4  7   0  0   1  2   1  3  4   5   9  2  1  0  0  15
+02 Diop, Pape..........    3  6   1  2   2  2   5  5 10   5   9  1  4  0  1  27
+05 Brown, Kajon........    2  4   2  4   5  6   1  3  4   1  11  1  1  0  0  26
+15 Starwood, Maxwell...    0  2   0  1   0  0   0  0  0   4   0  0  0  1  0   9
+23 Thomas, Quinton.....    0  1   0  1   0  0   0  2  2   1   0  1  1  0  0   8
+25 Brewer, Ty..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+TM TEAM................                         2  4  6             4
+   Totals..............   20 47  11 23   9 14  12 27 39  30  60 15 20  2  1 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-24  .375    11-23  .478    20-47  .426
+3-Pt. FG%:  8-16  .500     3-7   .429    11-23  .478
+F Throw %:  2-2  1.000     7-12  .583     9-14  .643
+Deadball rebounds: 1
+HOME TEAM: Bradley (8-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Childs,Elijah....... f  6 12   0  1   3  5   2  6  8   3  15  0  2  1  0  31
+12 Bar,Koch............ c  2  5   0  0  11 13   5  1  6   5  15  2  1  1  1  21
+05 Brown,Darrell....... g  4 12   3  7   8 11   0  2  2   2  19  0  0  1  0  33
+23 Lautier-Ogunleye,Dwa g  1  4   1  3   1  4   2  2  4   2   4  3  0  0  0  32
+35 Hodgson,Jayden...... g  0  2   0  2   0  0   0  1  1   1   0  2  3  0  1  20
+01 Boya,Ari............    0  2   0  0   3  6   2  2  4   3   3  1  0  2  0  16
+03 Pittman,Antoine.....    1  2   0  0   0  0   0  1  1   0   2  0  0  0  1  14
+22 Henry,Ja'Shon.......    0  1   0  0   0  0   0  2  2   1   0  0  2  0  1   9
+25 Kennell,Nate........    2  7   1  2   0  0   0  0  0   1   5  0  1  1  0  24
+TM TEAM................                         2  2  4
+   Totals..............   16 47   5 15  26 39  13 19 32  18  63  8  9  6  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  6-24  .250    10-23  .435    16-47  .340
+3-Pt. FG%:  3-8   .375     2-7   .286     5-15  .333
+F Throw %: 12-13  .923    14-26  .538    26-39  .667
+Deadball rebounds: 4
+Date: 12-22-18      Site: Peoria, Ill. - Carver Arena  Attendance: 5004
+Officials: Brad Gaston; Jeff Campbell; Shane Staggs;
+Technical fouls: SE Louisiana-None. Bradley-None.
+Score by Periods      1  2   Total
+SE Louisiana........ 28 32  - 60
+Bradley............. 27 36  - 63
+SLU #24 Charleston fouls out at 8:31
+BU #12 Bar fouls out at 3:20
+SLU #02 Diop fouls out at 2:38
+SLU #00 Veal fouls out at 1:40

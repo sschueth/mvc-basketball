@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Indiana State vs San Jose St. (11-28-18)
+VISITORS: Indiana State (4-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 Thomas,Devin........ f  3  5   0  0   4  5   0  6  6   4  10  2  2  1  0  14
+41 Rickman,Emondre..... c  1  6   0  0   2  3   1  7  8   1   4  2  0  2  1  23
+01 Holston,Allante..... g  3  3   0  0   0  0   1  1  2   2   6  3  2  0  0  24
+11 Key,Tyreke.......... g  8 11   0  1   1  2   0  4  4   2  17  1  3  0  0  27
+13 Hughes,Clayton...... g  9 10   4  5   1  2   0  3  3   3  23  2  3  0  0  33
+05 Kessinger,Bronson...    3  5   0  0   0  0   1  0  1   4   6  2  0  1  1  16
+12 Martin,Tyeshon......    2  3   1  2   0  0   0  2  2   0   5  2  0  0  0  17
+20 Huenermann,Daniel...    2  2   0  0   0  0   0  1  1   2   4  0  2  0  0   8
+23 Washington,De'Avion.    1  4   0  1   0  0   0  2  2   3   2  3  2  0  1  21
+40 Brinkmeyer,Blake....    2  4   0  0   5  7   2  4  6   3   9  0  1  1  0  17
+TM TEAM................                         1  3  4             1
+   Totals..............   34 53   5  9  13 19   6 33 39  24  86 17 16  5  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 19-25  .760    15-28  .536    34-53  .642
+3-Pt. FG%:  4-6   .667     1-3   .333     5-9   .556
+F Throw %:  2-4   .500    11-15  .733    13-19  .684
+Deadball rebounds: 3,2
+HOME TEAM: San Jose St. (1-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Michael Steadman.... f  5 12   1  2   2  4   0  3  3   3  13  0  0  0  0  31
+25 Craig LeCesne....... f  0  3   0  2   2  2   1  0  1   2   2  0  1  1  0  15
+13 Oumar Barry......... c  3 10   0  4   5  6   2  2  4   3  11  2  1  0  0  20
+02 Brae Ivey........... g  4  7   2  4   2  2   0  1  1   2  12  0  3  0  1  20
+20 Noah Baumann........ g  2  8   2  4   0  0   0  1  1   1   6  0  2  0  0  17
+04 Zach Chappell.......    0  2   0  2   3  4   0  2  2   2   3  0  0  0  0  12
+10 Isaiah Nichols......    0  2   0  1   0  0   0  2  2   2   0  0  2  0  0  10
+11 Christian Anigwe....    1  5   0  2   1  5   3  1  4   2   3  0  2  1  0  16
+21 Kaison Hammonds.....    0  1   0  1   0  0   0  0  0   0   0  1  0  0  0   5
+23 Seneca  Knight......    2  4   0  1   3  5   1  0  1   0   7  2  1  0  3  15
+33 Brian Rodriguez-Flor    0  1   0  0   0  0   0  0  0   2   0  2  1  0  1  13
+41 Ashtin Chastain.....    0  0   0  0   0  0   0  0  0   1   0  3  0  0  0  13
+44 Trey Smith..........    0  1   0  0   0  0   0  0  0   1   0  0  0  0  0  13
+TM TEAM................                         3  1  4
+   Totals..............   17 56   5 23  18 28  10 13 23  21  57 10 13  2  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-30  .233    10-26  .385    17-56  .304
+3-Pt. FG%:  2-14  .143     3-9   .333     5-23  .217
+F Throw %:  4-10  .400    14-18  .778    18-28  .643
+Deadball rebounds: 3,3
+Date: 11-28-18      Site: San Jose, Calif.  Attendance: 1523
+Officials: Jon Stigliano; Brad Gaston; Rick Randall;
+Technical fouls: Indiana State-None. San Jose St.-None.
+Score by Periods      1  2   Total
+Indiana State....... 44 42  - 86
+San Jose St......... 20 37  - 57
+2018-19 Men's Basketball. Round: 0. Indiana St. vs San Jose St.. Played at .

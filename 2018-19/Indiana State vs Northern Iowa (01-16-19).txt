@@ -1,0 +1,48 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Indiana State vs Northern Iowa (01-16-19)
+VISITORS: Indiana State (10-7, 2-3 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Holston,Allante..... *  3  3   0  0   2  2   0  1  1   1   8  1  2  0  2  27
+02 Barnes,Jordan....... *  4 14   1  8   6  8   1 10 11   2  15  1  4  1  0  35
+10 Williams,Christian.. *  2  4   1  2   4  4   0  4  4   5   9  0  1  0  0  36
+11 Key,Tyreke.......... *  2  5   0  0   3  3   0  1  1   4   7  0  0  0  0  32
+41 Rickman,Emondre..... *  1  2   0  0   0  0   0  0  0   5   2  1  1  0  0   8
+04 Neese,Cooper........    3  9   3  6   4  4   2  3  5   1  13  0  1  0  0  23
+05 Kessinger,Bronson...    4  8   0  0   0  1   0  4  4   3   8  0  1  0  1  22
+13 Hughes,Clayton......    0  2   0  0   2  2   0  1  1   4   2  1  1  0  0  14
+23 Washington,De'Avion.    0  1   0  1   0  0   0  0  0   1   0  1  0  0  0   3
+TM TEAM................                            3  3
+   Totals..............   19 48   5 17  21 24   3 27 30  26  64  5 11  1  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-22  .409    10-26  .385    19-48  .396
+3-Pt. FG%:  3-8   .375     2-9   .222     5-17  .294
+F Throw %: 12-12 1.000     9-12  .750    21-24  .875
+Deadball rebounds: 1
+HOME TEAM: Northern Iowa (8-10, 3-2 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 Green,AJ............ *  3  8   1  3   0  0   0  0  0   3   7  1  2  0  0  16
+11 Berhow,Trae......... *  1  5   1  4   3  4   1  4  5   2   6  0  0  1  1  32
+22 Lohaus,Wyatt........ *  3 11   0  6   4  5   0  2  2   2  10  2  1  0  1  33
+24 Brown,Isaiah........ *  2  5   0  1   0  0   1  1  2   3   4  1  0  0  0  17
+34 McDonnell,Luke...... *  1  3   0  1   3  8   4  4  8   4   5  5  3  0  0  32
+03 Pickford,Tywhon.....    1  2   0  0  10 10   2  6  8   3  12  2  0  0  0  32
+15 Dahl,Justin.........    2  3   0  0   0  2   0  2  2   2   4  0  2  1  0   8
+30 Haldeman,Spencer....    7 13   4  8   3  5   0  6  6   3  21  1  0  0  1  30
+TM TEAM................                            3  3
+   Totals..............   20 50   6 23  23 34   8 28 36  22  69 12  8  2  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-24  .375    11-26  .423    20-50  .400
+3-Pt. FG%:  5-16  .313     1-7   .143     6-23  .261
+F Throw %: 11-15  .733    12-19  .632    23-34  .676
+Deadball rebounds: 6
+Date: 01-16-19      Site: McLeod Center  Attendance: 3457
+Officials: Rick Randall; Rodrick Dixon; James Durham;
+Technical fouls: Indiana State-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+Indiana State....... 33 31  - 64
+Northern Iowa....... 34 35  - 69

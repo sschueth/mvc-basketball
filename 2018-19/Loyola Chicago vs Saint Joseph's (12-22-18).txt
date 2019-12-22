@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  Loyola Chicago vs Saint Joseph's (12-22-18)
+VISITORS: Loyola Chicago (7-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+25 Krutwig,Cameron..... c  4  9   0  0   1  2   0 12 12   1   9  2  6  0  1  35
+04 Skokna,Bruno........ g  0  5   0  3   0  0   0  4  4   0   0  2  2  1  1  24
+05 Townes,Marques...... g  3  8   2  3   2  2   0  4  4   1  10  1  2  1  0  32
+13 Custer,Clayton...... g  5 11   2  7   0  0   0  1  1   0  12  2  2  0  2  35
+23 Kaifes,Cooper....... g  2  7   1  6   0  0   0  1  1   1   5  1  2  0  1  30
+12 Negron,Christian....    2  3   0  0   0  0   0  2  2   1   4  0  1  0  0   8
+22 Bujdoso,Isaiah......    0  2   0  0   0  0   0  1  1   2   0  0  0  0  2  13
+30 Uguak,Aher..........    0  1   0  0   2  2   0  4  4   2   2  1  0  0  1  21
+33 Agunanne,Frank......    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+TM TEAM................                         1  1  2
+   Totals..............   16 47   5 19   5  6   1 30 31   8  42  9 15  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-25  .280     9-22  .409    16-47  .340
+3-Pt. FG%:  0-9   .000     5-10  .500     5-19  .263
+F Throw %:  2-2  1.000     3-4   .750     5-6   .833
+Deadball rebounds: 1,2
+HOME TEAM: Saint Joseph's (6-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Charlie Brown....... f  4 19   1  6   2  2   3  2  5   3  11  1  1  2  2  37
+12 Anthony Longpre..... f  0  2   0  1   0  0   0  3  3   0   0  0  0  0  0  16
+33 Taylor Funk......... f  2  7   1  3   0  0   0  5  5   3   5  0  2  0  0  22
+00 Lamarr Kimble....... g  7 13   1  3   0  0   1  4  5   1  15  1  4  0  2  38
+03 Jared Bynum......... g  2  7   1  4   0  0   0  1  1   1   5  1  2  1  1  30
+10 Troy Holston........    0  1   0  1   0  0   0  1  1   0   0  0  0  0  0   2
+15 Chris Clover........    2  4   1  3   0  0   0  4  4   0   5  0  0  0  0  13
+21 Lorenzo Edwards.....    1  2   0  1   0  0   0  0  0   0   2  0  0  0  0   6
+23 Markell Lodge.......    1  1   0  0   0  0   2  4  6   1   2  0  0  3  0  19
+24 Pierfrancesco Oliva.    0  2   0  2   0  0   0  5  5   2   0  2  4  0  0  17
+TM TEAM................                         1  1  2
+   Totals..............   19 58   5 24   2  2   7 30 37  11  45  5 13  6  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-32  .281    10-26  .385    19-58  .328
+3-Pt. FG%:  2-14  .143     3-10  .300     5-24  .208
+F Throw %:  0-0   .000     2-2  1.000     2-2  1.000
+Deadball rebounds: 0
+Date: 12-22-18      Site: The Palestra, Philadelphia, Pa.  Attendance: 5736
+Officials: Jeb Hartness; Brent Hampton; Rick Crawford;
+Technical fouls: Loyola Chicago-None. Saint Joseph's-None.
+Score by Periods      1  2   Total
+Loyola Chicago...... 16 26  - 42
+Saint Joseph's...... 20 25  - 45
