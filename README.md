@@ -22,3 +22,13 @@ Outputs:
 * O/U (Total Points in Game)
 
 ![alt text](https://www.tutorialspoint.com/artificial_neural_network/images/supervised_learning.jpg "NN with Supervised Learning")
+
+
+Steps to Update:
+1. Get the latest box scores from this year.
+	* Run money_valley_conference_scraper.py
+	* Run money_valley_conference_parser.py
+2. Create NN inputs/outputs from latest box scores.
+	* Run mvc_create_nn_data.py
+3. Re-train the NN with latest data set.
+	* Run mvc_nn_mlp_regression.py
