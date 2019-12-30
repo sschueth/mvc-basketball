@@ -10,6 +10,7 @@
 # Import Modules
 import numpy as np
 from sklearn.neural_network import MLPRegressor
+from sklearn.neural_network import MLPClassifier
 from sklearn.preprocessing import StandardScaler
 import pickle
 import datetime
@@ -45,9 +46,9 @@ def nn_input_format_to_train(years):
             if home_team == 'SE Missouri State':
                 home_team = 'Missouri State'
 
-            if visitor_team == 'Loyola Chicago' and year == '2016-17':
+            if visitor_team == 'Loyola Chicago' and (year == '2016-17' or year == '2018-19'):
                 visitor_team = 'Loyola'
-            if home_team == 'Loyola Chicago' and year == '2016-17':
+            if home_team == 'Loyola Chicago' and (year == '2016-17' or year == '2018-19'):
                 home_team = 'Loyola'
 
             home_nn_data = nn_data[home_team]
@@ -98,12 +99,14 @@ def nn_input_format_to_train(years):
     return nn_data_inputs, nn_data_outputs, nn_data_games_info
 
 def create_nn(x_data,y_data):
-    nn = MLPRegressor(hidden_layer_sizes=(40,20,),activation='logistic',learning_rate='constant',tol=1e-20,solver='adam',max_iter=10000,verbose=True)
+    #nn = MLPRegressor(hidden_layer_sizes=(20,20,),activation='logistic',learning_rate='adaptive',tol=1e-20,solver='adam',max_iter=50000,verbose=True)
+    nn = MLPClassifier(hidden_layer_sizes=(20,20,),activation='logistic',learning_rate='adaptive',tol=1e-20,solver='adam',max_iter=50000,verbose=True)
     n = nn.fit(x_data,y_data)
     return n
     
 def run_nn(n,x_data):
-    y_predict = n.predict(x_data)
+    #y_predict = n.predict(x_data)
+    y_predict = n.predict_log_proba(x_data)
     return y_predict
 
 def split_data_train_and_test(x_data,y_data,split_pct):
@@ -148,14 +151,17 @@ def nn_normalize_data(x_train,x_test):
     return x_train_norm, x_test_norm, scaler
 
 def main():
-    years = ['2015-16','2016-17','2017-18']
+    years = ['2015-16','2016-17','2017-18','2018-19']
+    #years = ['2016-17','2017-18','2018-19']
+    #years = ['2017-18']
+    split_pct = 0.8
     x,y,info = nn_input_format_to_train(years)
-    x_train,y_train,x_test,y_test = split_data_train_and_test(x,y,split_pct=0.9)
+    x_train,y_train,x_test,y_test = split_data_train_and_test(x,y,split_pct)
     x_train_norm, x_test_norm, scaler = nn_normalize_data(x_train,x_test)
     nn_model = create_nn(x_train_norm,y_train)
     y_predict = run_nn(nn_model, x_test_norm)
 
-    p_file_name = 'databases/neural-net-model-win-loss.p' 
+    p_file_name = 'databases/neural-net-model-win-loss-classifier.p' 
     with open(p_file_name,'wb') as pickle_file:
         pickle.dump([nn_model, scaler],pickle_file)
     
@@ -166,30 +172,44 @@ def main():
     num_wrong = 0
     conf_num_right = 0
     conf_num_wrong = 0
+    conf_lim = 0.999 - 1
     for i in range(0,len(y_test)):
         #print('+/-: ',y_test[i][0],' vs ',y_predict[i][0])
         #print('W/L: ',y_test[i][1],' vs ',y_predict[i][1])
         #print('O/U: ',y_test[i][2],' vs ',y_predict[i][2])
-        print('+/-: ',y_test[i],' vs ',y_predict[i])
+        
+        if (y_predict[i][0] > y_predict[i][1]):
+            y_predict_val = 0
+        else:
+            y_predict_val = 1
+        #y_predict_val = y_predict[i][1]
+        #
+        
         if y_test[i] == 1:
-            if y_predict[i] >= 0.5:
+            if y_predict_val >= 0.5:
+                y_predict_prob = y_predict[i][1]
                 num_right = num_right + 1
-                if y_predict[i] >= 0.75:
+                if y_predict_prob >= conf_lim:
                     conf_num_right = conf_num_right + 1
             else:
+                y_predict_prob = y_predict[i][0]
                 num_wrong = num_wrong + 1
-                if y_predict[i] <= 0.25:
+                if y_predict_prob >= conf_lim:
                     conf_num_wrong = conf_num_wrong + 1
         else:
-            if y_predict[i] < 0.5:
+            
+            if y_predict_val < 0.5:
+                y_predict_prob = y_predict[i][0]
                 num_right = num_right + 1
-                if y_predict[i] <= 0.25:
+                if y_predict_prob >= conf_lim:
                     conf_num_right = conf_num_right + 1
 
             else:
+                y_predict_prob = y_predict[i][1]
                 num_wrong = num_wrong + 1
-                if y_predict[i] >= 0.75:
+                if y_predict_prob >= conf_lim:
                     conf_num_wrong = conf_num_wrong + 1
+        print('+/-: ',y_test[i],' vs ',y_predict_val,' (',y_predict_prob,')')
 
     print('Prediction record: ',num_right,'-',num_wrong)
     print('Confident Pred rec: ',conf_num_right,'-',conf_num_wrong)        

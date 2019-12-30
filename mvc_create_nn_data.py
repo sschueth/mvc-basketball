@@ -2,7 +2,7 @@ import numpy as np
 import pickle
 import datetime
 
-year = '2017-18'
+year = '2018-19'
 
 # Load pickle database with box scores
 pickle_db = 'databases/box-score-dict-'+year+'.p'
