@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Missouri State vs LSU (11-29-19)
+VISITORS: Missouri State (3-5,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+15 West,Lamont......... f  2  5   1  4   0  0   4  1  5   0   5  0  2  0  0  19
+23 Mohammed,Kabir...... f  0  0   0  0   0  0   0  0  0   2   0  0  0  0  0   5
+30 Da Silva,Tulio...... f  7 15   1  3   1  4   3  5  8   3  16  2  2  0  1  32
+00 Dixon,Tyrik......... g  0  5   0  2   1  2   0  1  1   3   1  1  1  0  1  28
+01 Cook,Keandre........ g  6 13   3  5   2  3   0  3  3   1  17  0  2  1  1  38
+03 Brown,Spencer.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+04 Black,Ja'Monta......    0  2   0  1   0  0   0  1  1   0   0  1  1  0  1  13
+11 Mosley,Isiaih.......    1  1   0  0   0  0   0  0  0   1   2  0  2  0  0  10
+21 Owens,Ross..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+24 Ford Cooper,Jr......    1  3   1  2   1  2   0  0  0   3   4  1  0  0  0  17
+25 Scott,Darian........    1  4   0  0   0  0   2  0  2   1   2  0  0  1  0  12
+33 Hall,Josh...........    5  9   0  0   1  2   4  7 11   0  11  1  3  0  0  24
+TM TEAM................                         2  2  4             1
+   Totals..............   23 57   6 17   6 13  15 20 35  14  58  6 14  2  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-29  .379    12-28  .429    23-57  .404
+3-Pt. FG%:  4-9   .444     2-8   .250     6-17  .353
+F Throw %:  1-3   .333     5-10  .500     6-13  .462
+Deadball rebounds: 2
+HOME TEAM: LSU (5-2,0-0 SEC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Darius Days......... f  7 13   2  8   4  4   3  7 10   4  20  0  0  0  0  30
+02 Trendon Watford..... f  5  7   0  0   2  6   0  5  5   0  12  1  1  0  1  26
+05 Emmitt  Williams.... f  6  8   0  0   2  2   3  3  6   2  14  1  2  2  1  38
+01 Javonte  Smart...... g  3  9   0  5   0  0   0  1  1   0   6  9  1  0  2  36
+04 Skylar Mays......... g  5 10   2  5   0  0   0  4  4   1  12  1  0  0  1  39
+10 James  Bishop.......    1  1   0  0   0  0   0  0  0   0   2  0  1  1  0   5
+11 Charles Manning, Jr.    2  5   1  1   2  2   0  1  1   3   7  0  0  0  1  20
+15 Aundre Hyatt........    0  1   0  1   0  0   0  2  2   1   0  2  1  1  0   6
+TM TEAM................                            1  1             1
+   Totals..............   29 54   5 20  10 14   6 24 30  11  73 14  7  4  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-27  .556    14-27  .519    29-54  .537
+3-Pt. FG%:  2-10  .200     3-10  .300     5-20  .250
+F Throw %:  1-2   .500     9-12  .750    10-14  .714
+Deadball rebounds: 3
+Date: 11-29-19      Site: Baton Rouge, La.  Attendance: 9892
+Officials: R.B. Clyburn; Brian Shey; Lee Cassell;
+Technical fouls: Missouri State-None. LSU-None.
+Score by Periods      1  2   Total
+Missouri State...... 27 31  - 58
+LSU................. 33 40  - 73
+2019-20 Men's Basketball. Round: 0. LSU vs Missouri St.. Played at Maravich As

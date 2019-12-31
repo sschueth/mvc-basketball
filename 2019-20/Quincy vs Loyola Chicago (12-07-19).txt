@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Quincy vs Loyola Chicago (12-07-19)
+VISITORS: Quincy (3-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Kovacevic, Viktor... f  0  3   0  3   0  0   0  0  0   3   0  0  2  0  1   8
+24 Stuckman, Tanner.... f  6 12   3  4   4  5   1 11 12   1  19  2  0  0  1  36
+42 Fadika, Aziz........ f  1  3   0  0   0  0   6  0  6   2   2  2  3  0  1  29
+02 Briscoe, Ryan....... g  4 11   2  7   1  4   1  0  1   3  11  4  4  0  3  35
+03 Callier, Charles.... g  1  7   0  3   1  2   1  2  3   4   3  3  1  1  0  25
+00 Warren, Justin......    1  3   1  2   0  0   0  0  0   1   3  1  2  0  0  15
+11 Moore, Adam.........    0  1   0  1   0  0   1  1  2   1   0  0  1  1  0  14
+12 Champagne, Trent....    2  2   2  2   0  0   0  0  0   0   6  0  0  0  0   9
+20 Smith, Jonah........    6 13   3  9   0  0   0  3  3   1  15  0  5  0  1  27
+21 Garvie, Chandler....    0  1   0  1   0  0   0  0  0   0   0  0  0  0  1   2
+TM TEAM................                         1  1  2
+   Totals..............   21 56  11 32   6 11  11 18 29  16  59 12 18  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-31  .323    11-25  .440    21-56  .375
+3-Pt. FG%:  5-17  .294     6-15  .400    11-32  .344
+F Throw %:  0-0   .000     6-11  .545     6-11  .545
+Deadball rebounds: 2
+HOME TEAM: Loyola Chicago (6-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+24 Hall, Tate.......... f  3  4   1  2   1  2   0  1  1   2   8  2  2  0  2  19
+30 Uguak, Aher......... f  2  5   0  1   2  5   3  4  7   0   6  6  0  0  0  21
+25 Krutwig, Cameron.... c  9 11   0  0   0  0   1  7  8   1  18  1  1  0  0  21
+01 Williamson, Lucas... g  8  9   7  8   2  3   0  2  2   0  25  2  1  1  0  23
+05 Clemons, Keith...... g  2  5   1  2   2  2   1  0  1   1   7  1  4  0  1  21
+00 Wojcik, Paxson......    2  3   1  2   0  0   0  3  3   2   5  2  0  0  2  22
+02 Baughman, Jake......    0  1   0  0   0  0   0  1  1   0   0  0  0  0  0   4
+04 Skokna, Bruno.......    1  3   0  2   2  2   0  2  2   2   4  0  0  1  1  10
+10 Welch, Tom..........    1  1   0  0   1  2   0  1  1   2   3  0  2  0  1  17
+12 Kennedy, Marquise...    5  8   0  0   1  1   0  0  0   3  11  3  1  0  3  18
+22 Ismail, Sami........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+33 Agunanne, Franklin..    1  2   0  0   0  0   0  4  4   1   2  0  0  1  0  12
+45 Alcock, Will........    0  1   0  0   0  0   2  0  2   0   0  0  1  0  0   2
+50 Pipkins, Jalon......    0  2   0  1   1  2   0  0  0   0   1  0  0  0  0   8
+TM TEAM................                            2  2             1
+   Totals..............   34 55  10 18  12 19   7 27 34  14  90 17 13  3 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-27  .630    17-28  .607    34-55  .618
+3-Pt. FG%:  8-11  .727     2-7   .286    10-18  .556
+F Throw %:  4-6   .667     8-13  .615    12-19  .632
+Deadball rebounds: 3
+Date: 12-07-19      Site: Gentile Arena - Chicago, Ill.  Attendance: 2427
+Officials: Rick Crawford; Jeff Campbell; Rick O'Neill;
+Technical fouls: Quincy-Callier, Charles. Loyola Chicago-None.
+Score by Periods      1  2   Total
+Quincy.............. 25 34  - 59
+Loyola Chicago...... 46 44  - 90

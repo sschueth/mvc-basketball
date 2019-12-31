@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                         Drake vs #12 Dayton (12-14-19)
+VISITORS: Drake (8-3,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+21 Robbins, Liam....... f  4  9   3  5   1  1   0  1  1   2  12  0  3  0  1  16
+00 Wilkins, D.J........ g  0  6   0  3   0  0   0  2  2   2   0  1  2  0  0  25
+04 Murphy, Anthony..... g  2  5   0  1   2  4   1  3  4   3   6  0  1  0  0  24
+12 Penn, Roman......... g  5 11   1  1   2  2   0  3  3   1  13  3  2  0  0  31
+14 Thomas, Noah........ g  2  6   0  2   0  1   0  1  1   1   4  1  1  0  1  22
+03 Sturtz, Garrett.....    0  1   0  0   3  5   3  5  8   2   3  2  1  1  0  25
+11 Pilipovic, Antonio..    0  4   0  3   0  0   0  0  0   2   0  0  0  0  0  14
+20 Jackson, Jonah......    1  8   1  7   0  0   0  1  1   1   3  0  1  0  0  17
+23 Yesufu, Joseph......    2  5   0  1   2  2   0  0  0   1   6  3  1  0  0  17
+31 Ernst, Brady........    0  1   0  0   0  0   2  2  4   1   0  1  1  0  0   9
+TM TEAM................                         2  3  5             1
+   Totals..............   16 56   5 23  10 15   8 21 29  16  47 11 14  1  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-27  .296     8-29  .276    16-56  .286
+3-Pt. FG%:  3-12  .250     2-11  .182     5-23  .217
+F Throw %:  3-5   .600     7-10  .700    10-15  .667
+Deadball rebounds: 2
+HOME TEAM: #12 Dayton (8-1,0-0 Atlantic)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Obi Toppin.......... f  6 10   1  3   6  7   0  8  8   2  19  3  4  2  2  29
+33 Ryan Mikesell....... f  2  9   0  5   0  0   0  3  3   1   4  1  0  0  0  25
+00 Rodney Chatman...... g  3  6   2  5   2  2   1  6  7   4  10  5  3  1  1  25
+03 Trey Landers........ g  5  6   0  1   2  2   2  8 10   1  12  4  1  0  1  29
+10 Jalen Crutcher...... g  2  8   1  5   0  0   1  3  4   3   5  2  3  0  0  29
+02 Ibi Watson..........    6  8   4  6   4  4   0  2  2   1  20  0  0  0  0  23
+31 Jhery Matos.........    2  5   2  3   0  0   2  3  5   1   6  2  2  0  0  13
+32 Jordy Tshimanga.....    1  2   0  0   0  0   0  1  1   2   2  2  0  1  0  16
+35 Dwayne Cohill.......    0  1   0  0   0  0   0  0  0   1   0  0  1  0  2   9
+52 Camron Greer........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+53 Christian Wilson....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+TM TEAM................                         1  1  2
+   Totals..............   27 55  10 28  14 15   7 35 42  16  78 19 14  4  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-27  .444    15-28  .536    27-55  .491
+3-Pt. FG%:  4-15  .267     6-13  .462    10-28  .357
+F Throw %:  6-6  1.000     8-9   .889    14-15  .933
+Deadball rebounds: 1
+Date: 12-14-19      Site: Dayton, Ohio  Attendance: 13407
+Officials: Bret Smith; Raymie Styons; Jeff Heater;
+Technical fouls: Drake-None. #12 Dayton-, Obi Toppin.
+Score by Periods      1  2   Total
+Drake............... 22 25  - 47
+#12 Dayton.......... 34 44  - 78
+2019-20 Men's Basketball. Round: 0. Dayton vs Drake. Played at University of D

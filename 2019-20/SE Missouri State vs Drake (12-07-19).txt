@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     SE Missouri State vs Drake (12-07-19)
+VISITORS: SE Missouri State (3-6,0-0 OVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 Sage Tolbert........ f  4  7   0  1   9 14   3  3  6   2  17  1  4  0  1  34
+44 Darrious Agnew...... f  5  7   1  1   0  1   1  3  4   3  11  4  0  0  2  19
+00 Alex Caldwell....... g  6 11   6  9   0  1   0  3  3   1  18  1  6  1  0  36
+03 Skyler Hogan........ g  3  6   2  5   1  2   0 12 12   5   9  1  2  0  1  38
+11 DQ Nicholas......... g  3 11   0  2   1  3   1  4  5   1   7  3  3  0  2  34
+04 Oscar Kao...........    0  0   0  0   2  2   0  0  0   1   2  2  0  0  1   4
+10 Quatarrius  Wilson..    2  4   0  0   0  0   1  2  3   5   4  0  0  0  0  13
+13 Isaiah Gable........    2  3   1  1   0  0   0  0  0   3   5  0  0  0  0  14
+25 Nygal Russell.......    0  1   0  0   0  0   0  2  2   1   0  0  1  0  0   8
+TM TEAM................                         1     1             2
+   Totals..............   25 50  10 19  13 23   7 29 36  22  73 12 18  1  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-26  .538    11-24  .458    25-50  .500
+3-Pt. FG%:  6-11  .545     4-8   .500    10-19  .526
+F Throw %:  9-10  .900     4-13  .308    13-23  .565
+Deadball rebounds: 3
+HOME TEAM: Drake (8-2,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Murphy, Tremell..... f  1  2   0  1   0  2   0  2  2   3   2  0  3  0  0  10
+21 Robbins, Liam....... f  3  6   0  0   5  8   1  6  7   4  11  2  2  3  0  19
+00 Wilkins, D.J........ g  4  9   1  6   6  6   0  0  0   1  15  0  0  0  0  30
+04 Murphy, Anthony..... g  5 11   2  6   2  2   0  0  0   2  14  0  0  0  0  29
+12 Penn, Roman......... g  6 10   1  2   3  5   3  5  8   3  16  3  3  0  2  34
+03 Sturtz, Garrett.....    0  0   0  0   6  6   0  6  6   2   6  0  1  1  1  23
+11 Pilipovic, Antonio..    0  3   0  3   0  1   0  2  2   2   0  1  1  0  2  20
+14 Thomas, Noah........    4  6   1  2   2  4   0  2  2   2  11  2  0  1  4  24
+20 Jackson, Jonah......    1  2   1  2   0  0   0  0  0   0   3  0  0  0  0   7
+23 Yesufu, Joseph......    0  2   0  1   0  0   0  0  0   0   0  1  0  0  0   4
+TM TEAM................                         1  1  2
+   Totals..............   24 51   6 23  24 34   5 24 29  19  78  9 10  5  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-25  .520    11-26  .423    24-51  .471
+3-Pt. FG%:  2-10  .200     4-13  .308     6-23  .261
+F Throw %:  9-13  .692    15-21  .714    24-34  .706
+Deadball rebounds: 3,1
+Date: 12-07-19      Site: Des Moines, Iowa Knapp Center  Attendance: 2723
+Officials: Mick Fieldbinder; Dave Cusick; Tim Fitzgerald;
+Technical fouls: SE Missouri State-, Alex Caldwell. Drake-None.
+Score by Periods      1  2   Total
+SE Missouri State... 43 30  - 73
+Drake............... 37 41  - 78
+2019-20 Men's Basketball. Round: 0. Drake vs Southeast Mo. St.. Played at Drak

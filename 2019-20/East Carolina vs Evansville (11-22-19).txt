@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     East Carolina vs Evansville (11-22-19)
+VISITORS: East Carolina (2-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Gardner,Jayden...... * 11 17   0  0   6 11   2  8 10   3  28  2  3  0  1  31
+02 Newton,Tristan...... *  4 10   1  3   9  9   0  4  4   4  18  5  1  0  0  38
+04 Suggs,Brandon....... *  4  5   1  1   1  1   0  2  2   4  10  1  1  0  2  20
+10 Jackson,Tyrie....... *  1  2   1  1   0  0   2  5  7   4   3  2  2  0  2  18
+20 Baruit,Bitumba...... *  1  3   0  1   0  0   0  2  2   4   2  0  1  0  0  11
+03 LeDay,Seth..........    4 10   0  1   4  4   2  6  8   2  12  3  1  1  0  27
+05 Curtis,Logan........    0  0   0  0   0  0   0  0  0   2   0  1  0  0  0   3
+11 Miles,J.J...........    2  6   0  4   0  0   1  1  2   3   4  0  4  0  0  27
+32 Coleman,Charles.....    1  1   0  0   1  2   1  1  2   0   3  0  1  0  0   9
+33 James,Miles.........    2  2   1  1   0  1   0  3  3   2   5  0  2  0  0  16
+TM TEAM................                            2  2
+   Totals..............   30 56   4 12  21 28   8 34 42  28  85 14 16  1  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-29  .448    17-27  .630    30-56  .536
+3-Pt. FG%:  3-8   .375     1-4   .250     4-12  .333
+F Throw %:  1-5   .200    20-23  .870    21-28  .750
+Deadball rebounds: 3,1
+HOME TEAM: Evansville (3-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 Newton, Jawaun...... *  0  3   0  1   4  5   0  2  2   3   4  0  3  0  0  19
+13 Williams, DeAndre... *  0  1   0  1   2  2   0  1  1   5   2  3  2  0  0  15
+30 Frederking, Noah.... *  5 10   5  9   2  2   0  3  3   1  17  0  2  0  0  30
+33 Riley, KJ........... *  3  3   0  0   2  5   1  1  2   5   8  4  3  0  1  26
+35 Hall, John.......... *  0  4   0  2   0  0   0  1  1   3   0  1  1  0  0  17
+01 Henderson, Marcus...    1  2   1  2   0  0   0  2  2   0   3  0  0  0  0  13
+02 Labinowicz, Artur...    3  9   1  5   5 10   0  2  2   3  12  2  2  0  0  25
+04 Straub, Devan.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+05 Givance, Shamar.....    1  3   1  2   2  4   0  5  5   5   5  3  1  0  2  24
+20 Cunliffe, Sam.......    6 15   5 11   0  0   1  2  3   1  17  1  0  0  0  28
+TM TEAM................                         1  1  2
+   Totals..............   19 50  13 33  17 28   3 20 23  26  68 14 14  0  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-25  .280    12-25  .480    19-50  .380
+3-Pt. FG%:  5-20  .250     8-13  .615    13-33  .394
+F Throw %:  7-12  .583    10-16  .625    17-28  .607
+Deadball rebounds: 4,2
+Date: 11-22-19      Site: Baha Mar  Attendance: 300
+Officials: Kevin Mathis; John St. Clair; Mick Fieldbinder;
+Technical fouls: East Carolina-None. Evansville-, Labinowicz, Artur.
+Score by Periods      1  2   Total
+East Carolina....... 30 55  - 85
+Evansville.......... 26 42  - 68

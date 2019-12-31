@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+               Illinois Springfield vs Illinois State (11-29-19)
+VISITORS: Illinois Springfield (5-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+21 Castillo, Jesus..... f  2  7   1  6   0  0   0  3  3   3   5  1  1  0  0  30
+01 Johnson, Keymonta... g  1  6   0  1   6  6   1  3  4   2   8  1  4  1  2  28
+05 Soetan, Daniel...... g  2 11   0  3   4  4   4  1  5   2   8  2  2  2  2  30
+11 Robinson, Chase..... g  2 10   0  6   0  0   0  2  2   0   4  2  3  0  0  22
+30 Wendling, Matt...... g  5 10   2  6   3  3   1  4  5   1  15  1  2  0  1  27
+02 Williams, Aundrae...    1  2   0  1   1  1   1  0  1   0   3  0  1  0  0  16
+04 Tuttle, Casey.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+10 Shareef, Yamani.....    0  2   0  2   0  0   0  0  0   0   0  0  0  0  0   1
+12 Meana, Alonso.......    1  2   0  0   0  0   1  1  2   2   2  2  1  0  1  19
+23 Stallworth, Collin..    4  5   1  1   1  2   0  5  5   1  10  0  1  0  1  19
+24 Days, Kaj...........    1  2   0  0   0  0   0  0  0   3   2  0  2  0  0   7
+TM TEAM................                         1  3  4             2
+   Totals..............   19 57   4 26  15 16   9 22 31  14  57  9 19  3  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-28  .321    10-29  .345    19-57  .333
+3-Pt. FG%:  2-12  .167     2-14  .143     4-26  .154
+F Throw %:  7-8   .875     8-8  1.000    15-16  .938
+Deadball rebounds: 1
+HOME TEAM: Illinois State (3-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Fisher III, Keith... f  3  5   0  0   8  8   2  2  4   2  14  0  2  0  2  23
+02 Copeland, Zach...... g  6 13   1  5   5  5   1  4  5   1  18  1  3  0  3  28
+03 Torres, Ricky....... g  0  1   0  0   0  0   0  1  1   1   0  1  1  1  0  11
+22 Chastain, Matt...... g  2  4   0  0   0  0   1  3  4   0   4  0  0  0  3  19
+25 Hillsman, Jaycee.... g  1  3   0  0   0  0   0  1  1   1   2  2  1  0  1  13
+00 Horne, DJ...........    6  7   1  2   0  0   0  2  2   0  13  0  1  0  1  23
+01 Boyd, Dedric........    4  9   1  4   0  0   0  0  0   2   9  0  3  0  0  17
+04 Ndiaye, Abdou.......    0  3   0  0   0  0   3  3  6   2   0  0  2  1  1  14
+12 Reeves, Antonio.....    0  6   0  4   0  0   0  4  4   2   0  2  1  0  0  13
+13 Idowu, Rey..........    5  7   0  0   2  2   2  4  6   1  12  2  1  1  0  20
+14 Beard, Hank.........    1  2   0  1   0  0   0  0  0   1   2  1  0  0  2   9
+15 Donnelly, Lijah.....    1  4   0  0   0  0   0  2  2   0   2  1  0  0  0  10
+TM TEAM................                         4  3  7
+   Totals..............   29 64   3 16  15 15  13 29 42  13  76 10 15  3 13 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-30  .467    15-34  .441    29-64  .453
+3-Pt. FG%:  2-7   .286     1-9   .111     3-16  .188
+F Throw %:  4-4  1.000    11-11 1.000    15-15 1.000
+Deadball rebounds: 0
+Date: 11-29-19      Site: Normal, Ill. // Redbird Arena  Attendance: 3708
+Officials: John Hampton; Mike O'Neill; Scott Tierney;
+Technical fouls: Illinois Springfield-None. Illinois State-None.
+Score by Periods      1  2   Total
+Illinois Springfield 27 30  - 57
+Illinois State...... 34 42  - 76

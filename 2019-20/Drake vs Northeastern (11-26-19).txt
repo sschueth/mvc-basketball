@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Drake vs Northeastern (11-26-19)
+VISITORS: Drake (5-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Murphy, Tremell..... f  2  5   0  1   0  0   1  5  6   0   4  4  1  0  0  22
+21 Robbins, Liam....... f  0  3   0  0   2  2   1  1  2   4   2  0  2  0  0  17
+00 Wilkins, D.J........ g  3 11   1  6   4  4   1  1  2   2  11  0  2  0  2  28
+04 Murphy, Anthony..... g  6 11   3  6   2  2   1  6  7   4  17  0  0  0  0  35
+12 Penn, Roman......... g  4 14   1  3   6  7   1  1  2   1  15  1  0  0  4  36
+03 Sturtz, Garrett.....    1  3   0  0   1  2   5  4  9   2   3  0  1  0  0  18
+11 Pilipovic, Antonio..    0  2   0  2   0  0   0  0  0   2   0  1  1  0  0  16
+14 Thomas, Noah........    2  4   1  3   0  0   0  1  1   0   5  1  1  0  0  14
+20 Jackson, Jonah......    0  2   0  2   0  0   0  0  0   2   0  0  0  0  0   3
+23 Yesufu, Joseph......    0  3   0  2   0  0   1  0  1   1   0  0  0  0  0   4
+31 Ernst, Brady........    1  1   0  0   0  0   0  0  0   1   2  0  0  0  0   7
+TM TEAM................                                             1
+   Totals..............   19 59   6 25  15 17  11 19 30  19  59  7  9  0  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-31  .355     8-28  .286    19-59  .322
+3-Pt. FG%:  4-18  .222     2-7   .286     6-25  .240
+F Throw %:  4-4  1.000    11-13  .846    15-17  .882
+Deadball rebounds: 3,3
+HOME TEAM: Northeastern (3-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Eboigbodin, Greg.... f  2  4   0  1   2  2   1  6  7   2   6  1  1  1  0  29
+02 Walker, Tyson....... g  0  1   0  1   0  0   0  0  0   2   0  0  1  0  0   5
+12 Roland, Jordan...... g  6 12   1  6   0  1   0  3  3   2  13  2  6  0  0  36
+20 Brace, Bolden....... g  3  7   2  3   1  1   1  5  6   3   9  0  3  0  0  24
+24 Walters, Shaquille.. g  3  6   1  2   2  3   0  2  2   1   9  1  2  1  2  31
+00 Strong, Jason.......    2  4   0  1   2  2   0  3  3   0   6  1  0  0  0  16
+13 Franklin, Myles.....    0  3   0  2   6  8   0  1  1   3   6  2  2  0  0  29
+14 Boursiquot, Maxime..    1  1   0  0   2  3   0  3  3   5   4  0  4  0  2  12
+21 Smith, Guilien......    0  0   0  0   0  0   0  1  1   0   0  0  0  1  0   7
+22 Emanga, Quirin......    1  1   1  1   0  0   0  1  1   1   3  0  0  0  0  11
+TM TEAM................
+   Totals..............   18 39   5 17  15 20   2 25 27  19  56  7 19  3  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-19  .526     8-20  .400    18-39  .462
+3-Pt. FG%:  2-9   .222     3-8   .375     5-17  .294
+F Throw %: 11-14  .786     4-6   .667    15-20  .750
+Deadball rebounds: 2,3
+Date: 11-26-19      Site: Estero, Fla. (Hertz Arena)  Attendance: 427
+Officials: Brent Hampton; Andrew Walton; Ryan McCarty;
+Technical fouls: Drake-None. Northeastern-None.
+Score by Periods      1  2   Total
+Drake............... 30 29  - 59
+Northeastern........ 33 23  - 56

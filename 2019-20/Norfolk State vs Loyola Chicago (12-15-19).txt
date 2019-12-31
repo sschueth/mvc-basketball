@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Norfolk State vs Loyola Chicago (12-15-19)
+VISITORS: Norfolk State (3-9)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 KALOGERIAS,E........ c  1  5   1  5   0  0   0  0  0   4   3  1  3  0  1  26
+04 BRYANT,Joe.......... g  4 11   2  8   1  2   0  2  2   2  11  4  1  0  1  29
+11 BISHOP,Jermaine..... g  2 10   2  6   0  0   1  4  5   2   6  2  5  1  0  32
+14 CARTER,Devante...... g  5  7   1  1   1  3   1  7  8   4  12  4  3  0  2  36
+34 WHITLEY,Steven...... g  1  5   0  2   3  4   2  3  5   0   5  1  6  0  0  33
+13 ANDERSON,Daryl......    0  0   0  0   0  0   0  1  1   2   0  0  0  0  0   3
+22 RICKS,Spirit........    0  0   0  0   0  0   0  5  5   3   0  0  2  0  0  10
+32 FORD,Chris..........    3  4   0  1   0  0   0  2  2   0   6  0  0  2  0  14
+35 SIDIBE,Yoro.........    0  0   0  0   0  0   0  2  2   0   0  0  0  0  0   3
+55 CHAVIS,Kyonze.......    1  3   0  0   0  0   1  0  1   2   2  0  1  0  1  14
+TM Team................                         2  1  3             3
+   Totals..............   17 45   6 23   5  9   7 27 34  19  45 12 24  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-21  .429     8-24  .333    17-45  .378
+3-Pt. FG%:  3-12  .250     3-11  .273     6-23  .261
+F Throw %:  0-0   .000     5-9   .556     5-9   .556
+Deadball rebounds: 3
+HOME TEAM: Loyola Chicago (7-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+24 Hall, Tate.......... f  7 12   3  6   4  8   2  3  5   1  21  2  3  0  5  32
+30 Uguak, Aher......... f  0  1   0  0   0  0   0  3  3   1   0  3  1  0  0  18
+25 Krutwig, Cameron.... c  5 12   0  0   4  7   3  8 11   3  14  6  3  1  2  37
+01 Williamson, Lucas... g  1  7   1  4   2  2   1  4  5   1   5  0  2  1  3  31
+05 Clemons, Keith...... g  2  5   2  3   2  3   0  1  1   3   8  2  0  0  0  29
+00 Wojcik, Paxson......    0  1   0  1   0  0   0  0  0   0   0  0  1  0  0  12
+10 Welch, Tom..........    0  0   0  0   0  0   0  1  1   0   0  1  0  0  0   3
+12 Kennedy, Marquise...    0  3   0  1   2  3   0  0  0   0   2  1  2  0  3  14
+50 Pipkins, Jalon......    6  9   2  4   0  0   0  1  1   1  14  1  0  0  0  24
+TM TEAM................                         2  1  3             2
+   Totals..............   21 50   8 19  14 23   8 22 30  10  64 16 14  2 13 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-29  .276    13-21  .619    21-50  .420
+3-Pt. FG%:  3-12  .250     5-7   .714     8-19  .421
+F Throw %:  5-10  .500     9-13  .692    14-23  .609
+Deadball rebounds: 3
+Date: 12-15-19      Site: Gentile Arena - Chicago, Ill.  Attendance: 2428
+Officials: Kipp Kissinger; Roland Simmons; James Durham;
+Technical fouls: Norfolk State-None. Loyola Chicago-None.
+Score by Periods      1  2   Total
+Norfolk State....... 21 24  - 45
+Loyola Chicago...... 24 40  - 64

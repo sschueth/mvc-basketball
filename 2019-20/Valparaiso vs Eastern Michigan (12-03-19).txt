@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Valparaiso vs Eastern Michigan (12-03-19)
+VISITORS: Valparaiso (5-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+22 McMillan, Mileek.... f  3  5   1  2   2  2   0  1  1   2   9  0  3  1  0  19
+00 Freeman-Liberty, J.. g 10 20   4 12   4  6   1  4  5   2  28  4  3  0  5  37
+04 Sackey, Daniel...... g  3  5   0  0   0  0   0  1  1   5   6  8  2  0  4  35
+05 Clay, Donovan....... g  5  7   1  1   0  2   0  1  1   4  11  0  0  0  0  21
+25 Robinson, Nick...... g  2 10   0  3   0  0   4  3  7   2   4  2  1  0  1  34
+01 Lorange, Sigurd.....    2  2   2  2   0  0   0  0  0   0   6  0  1  0  0   7
+02 Morgan, Zion........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0  0+
+10 Gordon, Eron........    0  1   0  0   0  0   1  1  2   0   0  0  1  0  0   4
+11 Freese-Vilien, Emil.    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   5
+23 Krikke, Ben.........    2  4   0  0   4  6   2  0  2   3   8  0  0  0  0  16
+33 Kiser, John.........    3  7   1  2   0  0   1  5  6   3   7  0  0  0  0  22
+TM TEAM................                         1  1  2             3
+   Totals..............   30 62   9 22  10 16  10 17 27  22  79 14 14  1 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-27  .481    17-35  .486    30-62  .484
+3-Pt. FG%:  2-8   .250     7-14  .500     9-22  .409
+F Throw %:  4-5   .800     6-11  .545    10-16  .625
+Deadball rebounds: 2
+HOME TEAM: Eastern Michigan (7-1)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 MORGAN, Noah........ f  5  9   2  4   9 10   1  5  6   2  21  1  2  0  1  33
+31 GROCE, Ty........... f  6  8   2  3   9 10   0  5  5   1  23  2  3  1  1  37
+21 TOURE, Boubacar..... c  6  8   0  0   1  1   1  6  7   4  13  0  3  1  0  24
+00 MONTERO, Yeikson.... g  2  5   1  3   1  2   1  0  1   0   6  2  3  0  2  15
+10 SPOTTSVILLE, Darion. g  0  1   0  0   0  2   0  3  3   2   0  2  2  0  1  31
+01 BARNES, Chris.......    4  5   0  0   1  1   0  0  0   1   9  3  3  0  1  21
+12 DILLARD, Shamar.....    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   1
+13 JAMES, Chris........    0  0   0  0   0  2   0  2  2   0   0  2  1  0  0  13
+23 BINELLI, Thomas.....    4  6   4  6   0  0   0  1  1   1  12  0  0  0  0   9
+45 KING, Jalen.........    0  2   0  0   1  2   1  2  3   3   1  0  1  1  1  16
+TM TEAM................                            2  2
+   Totals..............   27 44   9 16  22 30   4 26 30  15  85 12 18  3  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-27  .593    11-17  .647    27-44  .614
+3-Pt. FG%:  5-9   .556     4-7   .571     9-16  .563
+F Throw %:  5-8   .625    17-22  .773    22-30  .733
+Deadball rebounds: 4
+Date: 12-03-19      Site: Ypsilanti, Mich. (Convocation Center)  Attendance: 1237
+Officials: Bryan Anslinger; Dave Cronin; Brian McAnally;
+Technical fouls: Valparaiso-None. Eastern Michigan-None.
+Score by Periods      1  2   Total
+Valparaiso.......... 32 47  - 79
+Eastern Michigan.... 42 43  - 85
+VAL number 4 fouled out with 13 seconds remaining in second half

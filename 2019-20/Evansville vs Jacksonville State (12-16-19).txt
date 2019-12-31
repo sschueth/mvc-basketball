@@ -1,0 +1,59 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  Evansville vs Jacksonville State (12-16-19)
+VISITORS: Evansville (8-4,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+13 Williams, DeAndre... f  3  3   0  0   0  0   0  3  3   5   6  2  1  0  2  19
+35 Hall, John.......... f  1  6   0  4   1  3   0  0  0   1   3  0  2  0  0  28
+02 Labinowicz, Artur... g  3  5   0  2   0  0   1  4  5   1   6  2  2  1  0  22
+20 Cunliffe, Sam....... g  4 13   1  5   2  2   1  1  2   1  11  2  3  0  2  26
+33 Riley, KJ........... g  2  4   0  1   2  3   1  4  5   1   6  2  4  0  0  23
+00 Bobe, Gage..........    0  1   0  0   0  0   1  1  2   0   0  0  0  0  0   6
+01 Henderson, Marcus...    2  4   1  2   0  0   0  0  0   0   5  1  1  0  1  11
+03 Newton, Jawaun......    2  4   0  1   2  2   1  0  1   0   6  0  0  0  0   5
+04 Straub, Devan.......    0  0   0  0   0  0   0  1  1   1   0  1  0  0  0   6
+05 Givance, Shamar.....    0  0   0  0   4  4   0  2  2   1   4  0  1  0  2  15
+10 Kuhlman, Evan.......    2  4   2  3   0  2   0  0  0   0   6  1  0  0  0  14
+11 Gilgeous-Alexander,T    2  2   1  1   1  4   0  2  2   1   6  0  2  0  0   6
+30 Frederking, Noah....    0  5   0  5   0  0   0  0  0   0   0  0  1  0  0  13
+42 Ilegomah, Peace.....    0  1   0  0   0  0   1  0  1   1   0  0  0  0  0   6
+TM TEAM................                         2     2
+   Totals..............   21 52   5 24  12 20   8 18 26  13  59 11 17  1  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-28  .321    12-24  .500    21-52  .404
+3-Pt. FG%:  3-15  .200     2-9   .222     5-24  .208
+F Throw %:  2-2  1.000    10-18  .556    12-20  .600
+Deadball rebounds: 5
+HOME TEAM: Jacksonville State (3-7,0-0 OVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 Kayne Henry......... f  2  6   0  1   0  0   1  2  3   2   4  1  0  0  0  25
+24 Martin Roub......... f  3  8   3  6   0  0   1  0  1   1   9  0  2  0  0  16
+00 Derrick Cook........ g  4  5   1  1   2  2   0  0  0   0  11  2  0  0  2  19
+04 Ty Hudson........... g  2  5   0  2   0  0   0  3  3   3   4  2  1  0  0  22
+13 Elias Harden........ g  4  5   1  2   0  0   2  5  7   0   9  3  2  0  0  18
+01 Cam Jones...........    1  2   1  1   0  0   0  0  0   0   3  1  1  0  1   6
+02 Jacara Cross........    8 10   0  0   0  0   2  2  4   2  16  2  2  1  2  23
+03 Maros Zeliznak......    0  1   0  0   0  0   0  0  0   1   0  0  1  0  0   7
+05 Justin Murphy.......    0  2   0  1   0  0   0  0  0   0   0  1  0  0  0   3
+10 Juwan Perdue........    1  2   0  0   0  1   2  1  3   1   2  0  1  1  1   5
+15 Derek St. Hilaire...    4  8   1  3   0  0   0  2  2   3   9  2  2  0  0  18
+31 Marek Welsch........    3  3   3  3   0  0   0  2  2   1   9  4  3  0  1  20
+33 De'Torrion Ware.....    2  5   1  2   4  6   3  8 11   2   9  3  0  0  1  18
+TM TEAM................                         2  1  3
+   Totals..............   34 62  11 22   6  9  13 26 39  16  85 21 15  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 20-36  .556    14-26  .538    34-62  .548
+3-Pt. FG%:  7-14  .500     4-8   .500    11-22  .500
+F Throw %:  0-0   .000     6-9   .667     6-9   .667
+Deadball rebounds: 0
+Date: 12-16-19      Site: Jacksonville, AL  Attendance: 2155
+Officials: Gabe Tucker; Mick Fieldbinder; Tim Gattis;
+Technical fouls: Evansville-Williams, DeAndre. Jacksonville State-None.
+Score by Periods      1  2   Total
+Evansville.......... 23 36  - 59
+Jacksonville State.. 47 38  - 85
+2019-20 Men's Basketball. Round: 0. Evansville vs Jacksonville St.. Played at

@@ -1,0 +1,60 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  Cornell College vs Northern Iowa (11-20-19)
+VISITORS: Cornell College (3-2,0-0 Midwest)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+04 Marcus Quirk........ f  5 12   2  6   0  1   2  2  4   1  12  0  1  0  0  22
+33 Cooper Kabela....... f  2  7   0  2   2  2   0  2  2   1   6  0  2  0  0  26
+44 Logan Sharp......... c  3  4   0  0   2  2   3  4  7   0   8  0  0  1  0  25
+03 Devin Davis......... g  5 13   0  3   1  1   0  2  2   1  11  1  1  0  0  32
+15 Jordan Magnani...... g  4 12   2  7   0  0   0  3  3   2  10  1  0  0  1  27
+01 Trevor Boge.........    0  0   0  0   0  0   1  1  2   0   0  0  0  0  0   9
+05 Garriott Jones......    1  4   1  3   0  0   0  0  0   2   3  1  0  0  0  10
+10 Mazeed Oluewu.......    1  1   0  0   0  0   0  0  0   0   2  1  0  0  1   2
+12 Brady Ragland.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+13 Kameron Williams....    2  3   2  2   0  0   0  2  2   0   6  1  1  0  0   6
+22 Miles Monical.......    0  0   0  0   0  0   0  2  2   0   0  1  0  0  0   4
+24 Jimmy Braddish......    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+30 Clayton Leipold.....    2  6   2  6   0  0   0  2  2   1   6  1  1  0  0  12
+32 Sam Ricci...........    1  3   0  2   0  0   0  0  0   0   2  0  0  0  0   3
+34 Daniel Burford......    0  0   0  0   0  0   0  2  2   0   0  3  1  0  0  13
+40 Hart Gallentine.....    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   2
+42 Derek Eubanks.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                         2  2  4             3
+   Totals..............   26 66   9 31   5  6   8 24 32   9  66 10 10  1  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-32  .375    14-34  .412    26-66  .394
+3-Pt. FG%:  4-15  .267     5-16  .313     9-31  .290
+F Throw %:  1-2   .500     4-4  1.000     5-6   .833
+Deadball rebounds: 0
+HOME TEAM: Northern Iowa (6-0,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 Phyfe, Austin....... f  3  6   0  0   0  0   6  4 10   2   6  0  1  0  0  16
+04 Green,AJ............ g  7 17   1  5   0  0   1  0  1   0  15  5  0  0  1  20
+11 Berhow,Trae......... g  8  9   4  4   0  0   0  6  6   0  20  0  0  1  1  25
+24 Brown,Isaiah........ g  1  3   0  1   0  0   0  3  3   2   2  1  0  0  0  20
+30 Haldeman,Spencer.... g  4  8   2  5   1  1   0  3  3   1  11  2  0  0  0  24
+03 Pickford,Tywhon.....    2  6   0  2   0  0   0  5  5   0   4  2  0  1  1  20
+12 Conrey,Lincoln......    1  3   0  2   0  0   0  0  0   0   2  0  2  0  0   5
+22 Pickford,Antwon.....    1  4   0  1   1  2   1  3  4   1   3  1  0  0  3  23
+32 Betz,James..........    6 11   0  2   4  4   2  1  3   3  16  0  1  0  0  22
+34 Mcdonnell,Luke......    0  0   0  0   0  0   0  1  1   1   0  0  0  0  0   5
+35 Carter,Noah.........    4  6   0  1   1  2   2  4  6   1   9  1  1  0  0  20
+TM TEAM................                            3  3
+   Totals..............   37 73   7 23   7  9  12 33 45  11  88 12  5  2  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 24-38  .632    13-35  .371    37-73  .507
+3-Pt. FG%:  6-14  .429     1-9   .111     7-23  .304
+F Throw %:  4-5   .800     3-4   .750     7-9   .778
+Deadball rebounds: 2
+Date: 11-20-19      Site: Cedar Falls, Iowa  Attendance: 3171
+Officials:
+Technical fouls: Cornell College-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+Cornell College..... 29 37  - 66
+Northern Iowa....... 58 30  - 88
+2019-20 Men's Basketball. Round: 0. Cornell College vs UNI. Played at McLeod C

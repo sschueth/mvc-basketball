@@ -1,0 +1,57 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Central Michigan vs Valparaiso (12-08-19)
+VISITORS: Central Michigan (7-3,0-0 MAC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Rob Montgomery...... f  3  7   0  1   1  3   1  3  4   3   7  0  2  0  1  26
+14 David DiLeo......... f  1  7   1  5   0  0   1  1  2   2   3  0  1  0  1  27
+02 Devontae Lane....... g  4  8   0  1   3  6   1  1  2   0  11  3  3  0  1  26
+20 Kevin McKay......... g  8 12   0  0   0  0   4  6 10   2  16  0  3  0  3  26
+23 Dallas  Morgan...... g  0 12   0  6   2  2   1  3  4   3   2  3  3  0  0  23
+00 Travon Broadway Jr..    2  9   0  3   4  4   2  4  6   2   8  0  1  0  0  22
+01 Corey  Redman.......    0  0   0  0   0  0   0  1  1   1   0  0  0  0  0   5
+03 PJ Mitchell.........    0  0   0  0   1  2   0  0  0   0   1  0  1  0  0   3
+11 Deschon Winston.....    1  3   0  1   0  0   0  2  2   0   2  0  1  0  0  18
+12 Kevin  Hamlet.......    2  3   0  0   0  0   0  1  1   0   4  0  0  0  1  10
+24 Romelo  Burrell.....    0  1   0  0   1  4   1  0  1   1   1  0  0  1  2  12
+31 Michael Kemp........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+TM TEAM................                         1  3  4             1
+   Totals..............   21 62   1 17  12 21  12 25 37  14  55  6 16  1  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-33  .273    12-29  .414    21-62  .339
+3-Pt. FG%:  1-11  .091     0-6   .000     1-17  .059
+F Throw %:  3-5   .600     9-16  .563    12-21  .571
+Deadball rebounds: 4
+HOME TEAM: Valparaiso (6-4,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Clay, Donovan....... f  5  8   0  2   0  0   0  3  3   0  10  0  1  1  1  27
+22 McMillan, Mileek.... f  2  3   0  1   0  0   1  1  2   3   4  3  3  2  0  12
+25 Robinson, Nick...... f  5 10   2  4   1  2   3  6  9   3  13  6  1  0  0  26
+00 Freeman-Liberty, J.. g  7 16   2  7   3  4   0  6  6   1  19  6  3  1  2  31
+04 Sackey, Daniel...... g  1  5   0  1   0  0   0  2  2   3   2  0  4  0  0  20
+01 Lorange, Sigurd.....    1  3   0  1   0  0   0  0  0   0   2  0  0  0  0   3
+02 Morgan, Zion........    0  2   0  1   0  3   2  2  4   2   0  1  1  0  3  10
+03 Pappas, Brock.......    0  0   0  0   0  0   0  1  1   2   0  0  0  0  0   2
+10 Gordon, Eron........    4  4   2  2   4  4   0  1  1   3  14  2  0  0  0  20
+11 Freese-Vilien, Emil.    1  1   0  0   0  0   0  0  0   0   2  0  0  0  0   3
+15 Morrill, Luke.......    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   2
+23 Krikke, Ben.........    4  5   1  2   0  0   1  4  5   3   9  1  1  1  2  19
+33 Kiser, John.........    1  3   0  0   0  0   0  3  3   2   2  5  2  0  2  25
+TM TEAM................                         1  5  6
+   Totals..............   31 61   7 22   8 13   8 34 42  22  77 24 16  5 10 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-32  .500    15-29  .517    31-61  .508
+3-Pt. FG%:  2-10  .200     5-12  .417     7-22  .318
+F Throw %:  0-2   .000     8-11  .727     8-13  .615
+Deadball rebounds: 2
+Date: 12-08-19      Site: Valparaiso, Ind.  Attendance: 2880
+Officials: Jeff Campbell; Bert Smith; Kelly Self;
+Technical fouls: Central Michigan-, TEAM. Valparaiso-None.
+Score by Periods      1  2   Total
+Central Michigan.... 22 33  - 55
+Valparaiso.......... 34 43  - 77
+2019-20 Men's Basketball. Round: 0. Central Mich. vs Valparaiso. Played at Ath

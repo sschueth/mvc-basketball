@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Valparaiso vs High Point (12-18-19)
+VISITORS: Valparaiso (7-5,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Clay, Donovan....... f  4  7   2  5   0  0   3  0  3   0  10  1  3  2  0  27
+22 McMillan, Mileek.... f  3  6   0  2   2  2   1  0  1   2   8  3  1  1  0  16
+33 Kiser, John......... f  3  6   2  4   0  1   3  5  8   2   8  1  0  0  1  31
+00 Freeman-Liberty, J.. g  9 18   1  4   3  4   1  5  6   3  22  4  1  0  3  27
+04 Sackey, Daniel...... g  2  5   1  2   6  8   0  1  1   1  11  9  0  0  1  35
+01 Lorange, Sigurd.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   7
+02 Morgan, Zion........    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   1
+03 Pappas, Brock.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+10 Gordon, Eron........    7  9   6  8   0  0   0  2  2   0  20  0  1  1  1  21
+15 Morrill, Luke.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+23 Krikke, Ben.........    3  7   0  3   2  2   2  3  5   3   8  2  0  1  2  23
+25 Robinson, Nick......    0  0   0  0   0  0   1  1  2   2   0  1  3  1  1  10
+TM TEAM................                            1  1
+   Totals..............   31 59  12 29  13 17  11 18 29  13  87 21  9  6  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-28  .464    18-31  .581    31-59  .525
+3-Pt. FG%:  6-17  .353     6-12  .500    12-29  .414
+F Throw %:  7-8   .875     6-9   .667    13-17  .765
+Deadball rebounds: 1
+HOME TEAM: High Point (2-9,0-0 Big Sout)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+20 Eric Coleman Jr..... f  2  5   1  1   1  2   1  2  3   1   6  0  3  1  0  18
+35 Caden Sanchez....... f  5  8   0  0   0  0   2  1  3   0  10  3  1  2  0  26
+01 John-Michael Wright. g 11 16   3  5   0  0   4  4  8   1  25  1  1  0  0  38
+05 Curtis Holland III.. g  6 14   2  7   2  2   1  4  5   4  16  1  1  0  0  36
+11 Bryant Randleman.... g  1  1   0  0   0  0   0  2  2   1   2  2  2  0  0  16
+02 Denny Slay..........    0  2   0  0   0  0   0  1  1   2   0  2  3  0  1  12
+03 Jamal Wright........    2  7   1  5   0  0   0  0  0   4   5  2  2  0  1  18
+10 Emmanual Izunabor...    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+15 Cliff Thomas Jr.....    0  1   0  0   0  1   0  2  2   2   0  0  2  0  0  10
+22 Rob Peterson III....    3  6   1  2   1  2   2  2  4   1   8  4  1  0  1  25
+TM TEAM................                         3  1  4
+   Totals..............   30 60   8 20   4  7  13 19 32  16  72 15 16  3  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-27  .630    13-33  .394    30-60  .500
+3-Pt. FG%:  6-10  .600     2-10  .200     8-20  .400
+F Throw %:  2-3   .667     2-4   .500     4-7   .571
+Deadball rebounds: 2,1
+Date: 12-18-19      Site: High Point, NC  Attendance: 928
+Officials: Mark Schnur; Tim Clougherty; Jerry Heater;
+Technical fouls: Valparaiso-, Robinson, Nick. High Point-None.
+Score by Periods      1  2   Total
+Valparaiso.......... 39 48  - 87
+High Point.......... 42 30  - 72
+2019-20 Men's Basketball. Round: 0. High Point vs Valparaiso. Played at Millis

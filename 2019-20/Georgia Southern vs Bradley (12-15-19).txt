@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Georgia Southern vs Bradley (12-15-19)
+VISITORS: Georgia Southern (6-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 Carter, Simeon...... f  4 11   0  1   0  0   1  2  3   2   8  0  1  0  1  28
+02 McCadden, Elijah.... g  4  8   3  3   1  1   1  3  4   1  12  0  5  1  0  32
+03 Smith, Ike.......... g  2 10   1  7   2  2   1 10 11   0   7  3  2  0  0  33
+10 Wishart, Calvin..... g  4 11   3  8   0  0   0  0  0   0  11  2  0  2  1  30
+13 Jackson, Quan....... g  4 14   2  5   0  0   1  3  4   0  10  1  1  0  0  28
+00 Lamar, Trevion......    1  5   1  4   0  0   1  2  3   1   3  1  0  0  0  22
+01 Viti, David.........    0  1   0  1   0  0   1  1  2   2   0  0  0  0  0  13
+05 Dawkins, Trey.......    0  1   0  1   0  0   0  0  0   2   0  0  2  1  1   8
+24 Jones Jr., David-Lee    0  2   0  1   0  0   0  1  1   1   0  0  0  0  0   6
+TM TEAM................                         1     1
+   Totals..............   19 63  10 31   3  3   7 22 29   9  51  7 11  4  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-36  .194    12-27  .444    19-63  .302
+3-Pt. FG%:  5-19  .263     5-12  .417    10-31  .323
+F Throw %:  3-3  1.000     0-0   .000     3-3  1.000
+Deadball rebounds: 0
+HOME TEAM: Bradley (8-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Childs, Elijah...... f  4  9   0  0   1  1   1  8  9   0   9  0  1  2  0  26
+12 Bar, Koch........... c  3  5   0  0   0  0   1 10 11   1   6  4  0  1  0  30
+00 Kingsby, Danya...... g  4  7   1  2   0  0   0  5  5   2   9  3  2  2  0  22
+05 Brown, Darrell...... g  6 14   4  5   1  3   1  2  3   0  17  7  4  0  0  34
+25 Kennell, Nate....... g  5 10   4  6   0  0   0  2  2   1  14  4  0  0  4  32
+01 Boya, Ari...........    1  1   0  0   0  0   2  1  3   0   2  1  0  1  0   7
+02 Thomas, Antonio.....    0  2   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+03 Gabriel, Stephan....    2  4   0  1   0  0   2  2  4   2   4  3  1  0  2  13
+13 Houpt, Sean.........    0  1   0  1   0  0   0  1  1   0   0  0  0  0  0   2
+22 Henry, Ja'Shon......    2  2   0  0   3  4   0  3  3   1   7  0  1  0  2  15
+23 Tahvanainen, Ville..    5  5   3  3   0  0   0  1  1   0  13  1  1  0  0  17
+TM TEAM................                         1  2  3
+   Totals..............   32 60  12 18   5  8   8 37 45   7  81 23 10  6  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-30  .567    15-30  .500    32-60  .533
+3-Pt. FG%:  4-5   .800     8-13  .615    12-18  .667
+F Throw %:  4-6   .667     1-2   .500     5-8   .625
+Deadball rebounds: 1
+Date: 12-15-19      Site: Peoria, Ill.  Attendance: 4904
+Officials: John Higgins; Gerry Pollard; Gene Grimshaw;
+Technical fouls: Georgia Southern-None. Bradley-None.
+Score by Periods      1  2   Total
+Georgia Southern.... 22 29  - 51
+Bradley............. 42 39  - 81

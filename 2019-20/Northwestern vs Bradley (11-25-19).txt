@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Northwestern vs Bradley (11-25-19)
+VISITORS: Northwestern (3-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Miller Kopp......... f  4  6   3  4   2  2   0  2  2   1  13  0  1  0  0  24
+22 Pete  Nance......... f  3  9   1  6   0  0   1  6  7   3   7  0  0  3  0  26
+15 Ryan Young.......... c  5  7   0  0   3  7   5  2  7   3  13  1  3  0  2  25
+11 Anthony Gaines...... g  2  5   1  2   1  2   2  7  9   0   6  2  0  0  2  23
+12 Pat Spencer......... g  9 12   3  3   2  2   1  1  2   2  23  8  3  0  1  28
+00 Boo Buie............    1  4   0  1   0  0   0  2  2   1   2  0  1  0  0  14
+02 Ryan Greer..........    0  1   0  0   0  0   0  0  0   1   0  1  0  0  0   4
+04 Jared Jones.........    0  2   0  1   0  0   0  0  0   3   0  0  0  0  0   7
+21 A.J. Turner.........    4  8   1  2   0  0   0  2  2   0   9  0  2  0  1  26
+31 Robbie Beran........    2  3   1  1   0  0   1  4  5   4   5  0  0  0  0  22
+33 Tino Malnati........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                         1  3  4
+   Totals..............   30 57  10 20   8 13  11 29 40  18  78 12 10  3  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-31  .516    14-26  .538    30-57  .526
+3-Pt. FG%:  5-12  .417     5-8   .625    10-20  .500
+F Throw %:  2-2  1.000     6-11  .545     8-13  .615
+Deadball rebounds: 2
+HOME TEAM: Bradley (4-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Childs, Elijah...... f  6 12   1  2   1  3   3  4  7   1  14  2  2  3  2  32
+12 Bar, Koch........... c  3  8   0  0   1  1   1  1  2   1   7  1  0  0  1  22
+00 Kingsby, Danya...... g  0  4   0  1   3  4   0  1  1   4   3  1  0  0  1  24
+05 Brown, Darrell...... g  3  9   2  4   5  5   0  0  0   3  13  1  3  0  1  33
+25 Kennell, Nate....... g  0  1   0  1   1  2   0  1  1   3   1  2  0  0  0  21
+01 Boya, Ari...........    1  3   0  0   2  2   1  1  2   1   4  0  0  1  0   9
+02 Thomas, Antonio.....    1  2   0  0   1  1   0  1  1   0   3  0  1  0  0   7
+03 Gabriel, Stephan....    0  0   0  0   0  0   0  2  2   1   0  0  2  0  0  16
+13 Houpt, Sean.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+22 Henry, Ja'Shon......    1  7   0  1   2  2   2  3  5   1   4  0  3  0  0  21
+23 Tahvanainen, Ville..    1  2   0  1   0  0   0  1  1   0   2  2  2  0  0  13
+TM TEAM................                            4  4             1
+   Totals..............   16 48   3 10  16 20   7 19 26  15  51  9 14  4  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  6-27  .222    10-21  .476    16-48  .333
+3-Pt. FG%:  1-5   .200     2-5   .400     3-10  .300
+F Throw %:  8-10  .800     8-10  .800    16-20  .800
+Deadball rebounds: 0
+Date: 11-25-19      Site: Fort Myers, Fla.  Attendance: 2286
+Officials: Sean Hull; Tim Kelly; Bill McCarthy;
+Technical fouls: Northwestern-None. Bradley-None.
+Score by Periods      1  2   Total
+Northwestern........ 39 39  - 78
+Bradley............. 21 30  - 51

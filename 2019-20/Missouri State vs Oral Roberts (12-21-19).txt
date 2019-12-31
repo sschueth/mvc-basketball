@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Missouri State vs Oral Roberts (12-21-19)
+VISITORS: Missouri State (6-7,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+15 West,Lamont......... f  5 10   4  9   0  0   0  2  2   2  14  0  1  0  0  22
+30 Da Silva,Tulio...... f  6  9   0  1   0  0   2  0  2   2  12  1  2  0  1  28
+00 Dixon,Tyrik......... g  2  7   0  5   4  5   1  4  5   2   8  3  2  0  3  36
+01 Cook,Keandre........ g  1  8   0  2   0  0   0  3  3   3   2  2  2  0  0  29
+04 Black,Ja'Monta...... g  0  0   0  0   0  0   0  0  0   0   0  2  0  0  0  14
+11 Mosley,Isiaih.......    4  6   2  3   2  2   0  3  3   4  12  1  1  0  2  19
+23 Mohammed,Kabir......    1  1   0  0   0  0   0  1  1   2   2  0  0  0  0   6
+24 Ford Cooper,Jr......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   4
+33 Hall,Josh...........    4  8   2  4   0  0   2  4  6   3  10  1  1  0  0  20
+44 Prim,Gaige..........    5 16   0  0   2  3   2  3  5   3  12  3  1  0  0  22
+TM TEAM................                            1  1
+   Totals..............   28 65   8 24   8 10   7 21 28  22  72 13 10  0  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-29  .483    14-36  .389    28-65  .431
+3-Pt. FG%:  5-13  .385     3-11  .273     8-24  .333
+F Throw %:  2-2  1.000     6-8   .750     8-10  .800
+Deadball rebounds: 2
+HOME TEAM: Oral Roberts (7-5,0-0 Summit L)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Kevin Obanor........ f  4  9   1  2  10 13   5  7 12   5  19  3  1  2  1  31
+23 Emmanuel Nzekwesi... f  6 12   0  1   0  0   2  9 11   1  12  1  0  0  0  32
+02 Deondre Burns....... g  7 15   0  1   5  5   0  2  2   1  19  4  2  0  1  37
+03 Max Abmas........... g  7 12   4  7   4  4   1  2  3   1  22  0  1  0  0  35
+10 Sam Kearns.......... g  2  8   1  6   2  2   0  3  3   1   7  1  3  0  1  34
+01 Elijah Lufile.......    1  1   0  0   1  2   2  4  6   4   3  0  1  0  0  16
+13 Aidan Saunders......    0  1   0  0   0  0   0  1  1   1   0  0  3  0  0  15
+TM TEAM................                         1  2  3
+   Totals..............   27 58   6 17  22 26  11 30 41  14  82  9 11  2  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-29  .345    17-29  .586    27-58  .466
+3-Pt. FG%:  1-7   .143     5-10  .500     6-17  .353
+F Throw %: 10-12  .833    12-14  .857    22-26  .846
+Deadball rebounds: 3
+Date: 12-21-19      Site: Tulsa, Okla.  Attendance: 2490
+Officials: Tucson Grigg; Frank Spencer; Luke Chittum;
+Technical fouls: Missouri State-None. Oral Roberts-None.
+Score by Periods      1  2   Total
+Missouri State...... 35 37  - 72
+Oral Roberts........ 31 51  - 82
+2019-20 Men's Basketball. Round: 0. Missouri St. vs Oral Roberts. Played at Ma

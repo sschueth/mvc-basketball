@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Missouri State vs Buffalo (11-24-19)
+VISITORS: Missouri State (3-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+15 West,Lamont......... f  5 11   1  4   0  0   1  5  6   1  11  2  2  0  0  29
+23 Mohammed,Kabir...... f  0  1   0  0   1  2   1  0  1   1   1  1  0  1  1   7
+30 Da Silva,Tulio...... f  7 10   0  0   1  1   4  5  9   3  15  0  1  0  0  29
+00 Dixon,Tyrik......... g  2  8   2  4   2  2   1  3  4   3   8  6  4  0  1  31
+01 Cook,Keandre........ g  6 16   2  7   3  5   0  4  4   3  17  4  2  0  1  40
+04 Black,Ja'Monta......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   5
+24 Ford Cooper,Jr......    0  1   0  1   0  0   0  1  1   1   0  2  0  0  0   9
+33 Hall,Josh...........    0  2   0  0   1  4   3  3  6   1   1  1  1  0  0  21
+44 Prim,Gaige..........   10 14   0  0   1  2   2  5  7   2  21  4  0  2  2  29
+TM TEAM................                         3     3
+   Totals..............   30 63   5 16   9 16  15 26 41  15  74 20 10  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-30  .433    17-33  .515    30-63  .476
+3-Pt. FG%:  2-8   .250     3-8   .375     5-16  .313
+F Throw %:  2-6   .333     7-10  .700     9-16  .563
+Deadball rebounds: 3
+HOME TEAM: Buffalo (4-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 Williams,Jeenathan.. f  6 12   2  5   3  4   2  2  4   2  17  1  0  2  3  31
+34 Mballa,Josh......... f  3  3   0  0   1  2   1  6  7   3   7  0  1  0  1  27
+02 Johnson,Antwain..... g  1 11   0  5   3  3   2  3  5   1   5  4  2  0  0  27
+03 Graves,Jayvon....... g  4 13   2  7   1  3   2  2  4   1  11  2  1  0  0  37
+04 Jordan,Davonta...... g  9 13   5  6   2  3   0  4  4   2  25  6  4  1  0  37
+01 Grant,Gabe..........    1  5   0  3   2  2   1  2  3   1   4  2  0  1  1   9
+10 Segu,Ronaldo........    1  4   0  3   0  0   2  2  4   1   2  2  1  0  0  19
+22 Hardnett,LaQuill....    2  4   0  0   0  0   2  0  2   4   4  1  0  0  1  13
+TM TEAM................                         2  1  3
+   Totals..............   27 65   9 29  12 17  14 22 36  15  75 18  9  4  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-32  .375    15-33  .455    27-65  .415
+3-Pt. FG%:  5-16  .313     4-13  .308     9-29  .310
+F Throw %:  2-3   .667    10-14  .714    12-17  .706
+Deadball rebounds: 3
+Date: 11-24-19      Site: Charleston, S.C. (TD Arena)  Attendance: 3122
+Officials: Ray Natili; Antinio Petty; John Hampton;
+Technical fouls: Missouri State-None. Buffalo-None.
+Score by Periods      1  2   Total
+Missouri State...... 30 44  - 74
+Buffalo............. 31 44  - 75
+Charleston Classic Fifth Place Game

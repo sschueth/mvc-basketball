@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  North Dakota St. vs Indiana State (12-03-19)
+VISITORS: North Dakota St. (5-4,0-0 Summit L)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Sam Griesel......... f  0  2   0  0   0  0   0  2  2   1   0  0  0  0  0  12
+34 Rocky Kreuser....... f  4 10   2  6   4  4   1 10 11   3  14  1  2  2  0  24
+00 Vinnie Shahid....... g  6 11   2  7   4  6   0  2  2   2  18  3  1  0  0  29
+11 Jared Samuelson..... g  1  7   1  7   0  0   0  3  3   1   3  2  0  0  0  31
+24 Tyson Ward.......... g  4 11   0  2   1  2   4  3  7   4   9  2  2  0  1  36
+02 Jaxon Knotek........    1  4   1  3   0  0   0  1  1   1   3  2  1  0  0  11
+03 Tyree Eady..........    3  6   3  5   0  0   0  2  2   1   9  2  2  0  0  27
+22 Cameron Hunter......    1  4   1  3   1  2   0  2  2   5   4  1  0  0  0  20
+23 Maleeck Harden-Hayes    0  1   0  0   0  0   0  2  2   0   0  0  0  0  0   5
+44 Tyler Witz..........    0  0   0  0   0  0   0  1  1   0   0  0  1  0  0   5
+TM TEAM................                         1  2  3             1
+   Totals..............   20 56  10 33  10 14   6 30 36  18  60 13 10  2  1 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-29  .241    13-27  .481    20-56  .357
+3-Pt. FG%:  3-16  .188     7-17  .412    10-33  .303
+F Throw %:  2-4   .500     8-10  .800    10-14  .714
+Deadball rebounds: 2
+HOME TEAM: Indiana State (4-4,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Williams,Tre........ c  4  7   0  0   0  0   0  1  1   3   8  0  0  1  0  17
+02 Barnes,Jordan....... g  5 10   1  3   0  1   0  8  8   2  11  5  2  0  3  37
+04 Neese,Cooper........ g  2 10   1  7   0  0   0  4  4   2   5  3  0  0  1  28
+11 Key,Tyreke.......... g  8 15   2  5   9 10   1  7  8   1  27  1  1  0  1  37
+35 LaRavia,Jake........ g  0  1   0  0   0  0   1  1  2   3   0  0  0  1  1  12
+03 Bacote,Cameron......    4  4   1  1   2  3   0  1  1   0  11  1  1  0  0  21
+05 Kessinger,Bronson...    4  6   0  0   0  0   1  1  2   3   8  0  0  0  1  18
+20 Barnes,Cobie........    0  4   0  1   1  2   1  1  2   0   1  0  0  0  1  18
+23 Washington,De'Avion.    0  1   0  0   0  0   0  4  4   1   0  0  0  0  0   8
+34 Agbo,Christopher....    0  1   0  0   0  0   1  3  4   0   0  0  0  0  0   4
+TM TEAM................                         1  1  2             1
+   Totals..............   27 59   5 17  12 16   6 32 38  15  71 10  5  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-30  .333    17-29  .586    27-59  .458
+3-Pt. FG%:  2-11  .182     3-6   .500     5-17  .294
+F Throw %:  9-11  .818     3-5   .600    12-16  .750
+Deadball rebounds: 0
+Date: 12-03-19      Site: Terre Haute, Ind.  Attendance: 3371
+Officials: Tommy Short; Jeff Malham; James Durham;
+Technical fouls: North Dakota St.-None. Indiana State-None.
+Score by Periods      1  2   Total
+North Dakota St..... 19 41  - 60
+Indiana State....... 31 40  - 71
+2019-20 Men's Basketball. Round: 0. Indiana St. vs North Dakota St.. Played at

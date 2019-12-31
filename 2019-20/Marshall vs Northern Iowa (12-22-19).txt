@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Marshall vs Northern Iowa (12-22-19)
+VISITORS: Marshall (5-7,0-0 C-USA)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Iran Bennett........ f  4  9   0  0   3  6   2  3  5   3  11  0  2  1  1  27
+03 Jannson Williams.... f  0  3   0  3   0  0   0  4  4   2   0  1  1  1  0  15
+00 Andrew Taylor....... g 10 18   3  7   4  5   2  3  5   3  27  4  1  0  4  36
+01 Taevion Kinsey...... g  4 13   1  5   6  6   2  2  4   2  15  0  3  0  4  39
+13 Jarrod West......... g  6 14   3  8   2  3   1  2  3   2  17  1  1  0  1  40
+15 Marko Sarenac.......    1  1   0  0   0  0   0  0  0   0   2  0  0  0  0   4
+21 Darius George.......    2  3   0  1   0  1   0  3  3   4   4  1  0  1  1  20
+24 Cam Brooks-Harris...    1  1   0  0   0  0   0  0  0   0   2  0  0  0  1   3
+31 Mikel Beyers........    0  1   0  0   0  0   0  0  0   1   0  0  0  0  0   6
+50 Goran Miladinovic...    1  1   0  0   0  0   0  2  2   4   2  0  2  0  0  10
+TM TEAM................                         3     3             2
+   Totals..............   29 64   7 24  15 21  10 19 29  21  80  7 12  3 12 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-30  .433    16-34  .471    29-64  .453
+3-Pt. FG%:  4-10  .400     3-14  .214     7-24  .292
+F Throw %:  8-9   .889     7-12  .583    15-21  .714
+Deadball rebounds: 2
+HOME TEAM: Northern Iowa (11-1,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 Phyfe, Austin....... f  0  3   0  0   0  1   2  4  6   5   0  2  2  0  0  23
+04 Green,AJ............ g  6 15   0  4  12 14   0  4  4   2  24  3  2  0  0  34
+11 Berhow,Trae......... g  8 12   4  4   3  4   5  6 11   1  23  2  1  0  0  36
+24 Brown,Isaiah........ g  5  6   2  3   0  0   0  4  4   2  12  1  4  0  1  28
+30 Haldeman,Spencer.... g  3  7   3  5   4  4   0  3  3   4  13  1  2  0  1  34
+03 Pickford,Tywhon.....    1  1   0  0   4  5   0  2  2   1   6  1  1  0  1  17
+15 Dahl,Justin.........    3  6   0  0   4  5   0  1  1   1  10  1  2  3  2  17
+22 Pickford,Antwon.....    0  1   0  1   0  0   0  3  3   1   0  0  2  0  1   9
+35 Carter,Noah.........    0  1   0  1   0  0   0  1  1   0   0  0  0  0  0   2
+TM TEAM................                         3  1  4             2
+   Totals..............   26 52   9 18  27 33  10 29 39  17  88 11 18  3  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-28  .536    11-24  .458    26-52  .500
+3-Pt. FG%:  5-9   .556     4-9   .444     9-18  .500
+F Throw %:  6-10  .600    21-23  .913    27-33  .818
+Deadball rebounds: 3
+Date: 12-22-19      Site: Cedar Falls, Iowa  Attendance: 4648
+Officials:
+Technical fouls: Marshall-, TEAM 3. Northern Iowa-None.
+Score by Periods      1  2   Total
+Marshall............ 38 42  - 80
+Northern Iowa....... 41 47  - 88
+2019-20 Men's Basketball. Round: 0. Marshall vs UNI. Played at McLeod Center.

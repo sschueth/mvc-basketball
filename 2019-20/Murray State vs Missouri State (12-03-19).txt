@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Murray State vs Missouri State (12-03-19)
+VISITORS: Murray State (4-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 KJ Williams......... f  1  5   0  2   1  2   3  3  6   2   3  0  1  0  0  18
+24 Anthony Smith....... f  4  7   0  0   4  8   3  7 10   5  12  0  1  0  0  25
+01 DaQuan  Smith....... g  3  9   1  4   0  0   0  4  4   1   7  1  1  0  1  33
+10 Tevin Brown......... g  5 17   3  6   6  7   2  1  3   3  19  3  1  0  1  40
+14 Jaiveon Eaves....... g  4  9   1  4   5  6   0  6  6   0  14  1  1  0  0  36
+00 Demond Robnson......    2  2   0  0   2  2   0  1  1   3   6  0  0  2  0  14
+13 Devin Gilmore.......    1  1   0  0   0  0   2  0  2   0   2  0  1  0  0   6
+32 Darnell Cowart......    2  9   0  0   1  2   1  0  1   4   5  0  2  0  1  17
+45 Jason Holliday......    0  0   0  0   1  2   0  3  3   0   1  0  2  1  0  11
+TM TEAM................
+   Totals..............   22 59   5 16  20 29  11 25 36  18  69  5 10  3  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-27  .296    14-32  .438    22-59  .373
+3-Pt. FG%:  2-8   .250     3-8   .375     5-16  .313
+F Throw %:  4-6   .667    16-23  .696    20-29  .690
+Deadball rebounds: 4
+HOME TEAM: Missouri State (4-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+15 West,Lamont......... f  3  7   2  5   0  0   0  5  5   3   8  1  2  0  0  14
+30 Da Silva,Tulio...... f  5  8   0  0   6  8   3  8 11   3  16  2  2  1  0  28
+00 Dixon,Tyrik......... g  3  6   1  4   0  0   0  4  4   4   7  3  3  0  1  19
+01 Cook,Keandre........ g  3  7   2  3   7  7   0  3  3   4  15  2  1  0  0  27
+04 Black,Ja'Monta...... g  2  5   1  4   0  0   0  1  1   1   5  1  1  1  0  32
+11 Mosley,Isiaih.......    1  2   0  0   0  0   0  2  2   1   2  0  1  0  0  15
+24 Ford Cooper,Jr......    1  4   1  2   0  0   0  1  1   1   3  2  2  1  0  22
+33 Hall,Josh...........    2  4   0  0   1  2   1  2  3   4   5  0  1  0  1  17
+44 Prim,Gaige..........    5 12   0  0   0  0   2  2  4   2  10  3  1  0  1  26
+TM TEAM................                            3  3
+   Totals..............   25 55   7 18  14 17   6 31 37  23  71 14 14  3  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-25  .400    15-30  .500    25-55  .455
+3-Pt. FG%:  3-12  .250     4-6   .667     7-18  .389
+F Throw %:  2-4   .500    12-13  .923    14-17  .824
+Deadball rebounds: 2
+Date: 12-03-19      Site: Springfield, Mo. JQH Arena  Attendance: 3817
+Officials: Kelly Self; Tyler Kumpf; Ed Crenshaw;
+Technical fouls: Murray State-None. Missouri State-None.
+Score by Periods      1  2   Total
+Murray State........ 22 47  - 69
+Missouri State...... 25 46  - 71
+A. Smith (MUR) fouled out at 1:05 of 2nd half.

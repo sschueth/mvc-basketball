@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Bradley vs Miami (OH) (12-21-19)
+VISITORS: Bradley (8-4,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+22 Henry, Ja'Shon...... f  2  8   0  1   2  2   3  4  7   1   6  0  0  0  0  22
+12 Bar, Koch........... c  3  9   0  0   1  5   6  4 10   1   7  0  3  3  0  27
+00 Kingsby, Danya...... g  1  4   0  1   2  2   0  2  2   3   4  1  3  0  0  23
+05 Brown, Darrell...... g  0 11   0  4   5  8   1  4  5   4   5  3  3  0  0  33
+25 Kennell, Nate....... g  4 10   3  6   0  1   0  3  3   3  11  1  0  0  0  27
+01 Boya, Ari...........    2  2   0  0   0  0   1  4  5   1   4  1  0  0  0  13
+02 Thomas, Antonio.....    0  1   0  0   1  2   0  3  3   4   1  0  1  0  0  12
+03 Gabriel, Stephan....    2  4   1  1   0  2   1  2  3   0   5  0  1  0  0  18
+13 Houpt, Sean.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+23 Tahvanainen, Ville..    4  6   2  4   2  3   1  3  4   2  12  0  1  0  1  24
+TM TEAM................                            1  1             1
+   Totals..............   18 55   6 17  13 25  13 30 43  19  55  6 13  3  1 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-27  .333     9-28  .321    18-55  .327
+3-Pt. FG%:  4-10  .400     2-7   .286     6-17  .353
+F Throw %:  5-9   .556     8-16  .500    13-25  .520
+Deadball rebounds: 6
+HOME TEAM: Miami (OH) (6-6,0-0 MAC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+13 Dalonte Brown....... f  4  8   2  5   2  3   0  3  3   4  12  2  1  2  0  29
+14 Bam Bowman.......... c  1  3   1  2   0  0   0  2  2   4   3  1  0  0  0  12
+01 Nike Sibande........ g  4 13   4  7   6  6   1 10 11   1  18  2  1  0  1  28
+03 Dae Dae  Grant...... g  2  9   0  2   2  2   5  3  8   2   6  1  0  0  0  21
+11 Myja White.......... g  1  2   1  2   2  2   0  1  1   0   5  1  2  0  2  22
+02 Mekhi Lairy.........    3  5   2  2   0  0   0  3  3   1   8  4  2  0  1  22
+04 Isaiah Coleman-Lands    4  8   1  4   2  4   0  3  3   1  11  0  0  0  1  22
+05 Precious Ayah.......    2  3   0  0   0  0   0  3  3   1   4  0  0  0  0  14
+15 Milos Jovic.........    0  3   0  3   0  0   0  1  1   4   0  1  0  0  1   8
+20 Benjamin  Litteken..    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   1
+22 Elijah McNamara.....    2  4   0  1   0  0   0  1  1   4   4  0  0  1  0  17
+24 Michael Ritchie.....    0  1   0  0   0  0   1  0  1   0   0  0  0  0  0   1
+35 Josh Brewer.........    0  0   0  0   0  0   0  0  0   0   0  1  0  0  0   3
+TM TEAM................                         2     2             2
+   Totals..............   23 59  11 28  14 17   9 30 39  23  71 13  8  3  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-34  .353    11-25  .440    23-59  .390
+3-Pt. FG%:  4-16  .250     7-12  .583    11-28  .393
+F Throw %:  2-3   .667    12-14  .857    14-17  .824
+Deadball rebounds: 0
+Date: 12-21-19      Site: Miami, OH  Attendance: 1011
+Officials: Alfred Smith; John Floyd; Brian McAnally;
+Technical fouls: Bradley-None. Miami (OH)-None.
+Score by Periods      1  2   Total
+Bradley............. 27 28  - 55
+Miami (OH).......... 30 41  - 71
+2019-20 Men's Basketball. Round: 0. Bradley vs Miami (OH). Played at Millett H

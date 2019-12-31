@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Maryville vs Bradley (12-10-19)
+VISITORS: Maryville
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Eze,Kamto........... f  1  1   0  0   0  0   2  1  3   1   2  0  0  2  2  13
+35 Gant,Jalen.......... f  4 11   1  1   2  2   2  3  5   2  11  0  3  1  1  24
+03 Long,Parker......... g  5 11   1  4   2  2   0  7  7   1  13  3  1  0  1  33
+04 Pittman,Antoine..... g  2  9   1  4   0  0   0  1  1   3   5  0  4  0  0  28
+14 McDaniel,Dezmond.... g  2  8   0  3   1  2   0  1  1   0   5  0  1  0  1  23
+00 Barnett,Malik.......    2  3   1  2   0  0   0  1  1   2   5  1  1  0  2  19
+05 White,Chris.........    1  4   0  1   1  1   0  1  1   4   3  1  0  2  0  24
+12 Williams,Chris......    2  5   0  1   0  0   0  0  0   0   4  1  1  0  1  11
+13 Long,Owen...........    4  8   2  5   0  0   0  1  1   1  10  0  1  0  0  19
+20 Pendleton,Gary......    0  2   0  0   0  0   0  0  0   1   0  0  0  0  1   6
+TM TEAM................                         2  1  3             1
+   Totals..............   23 62   6 21   6  7   6 17 23  15  58  6 13  5  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  8-30  .267    15-32  .469    23-62  .371
+3-Pt. FG%:  0-12  .000     6-9   .667     6-21  .286
+F Throw %:  3-4   .750     3-3  1.000     6-7   .857
+Deadball rebounds: 1
+HOME TEAM: Bradley (7-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Childs, Elijah...... f  8 11   0  0   0  0   1  7  8   1  16  1  2  2  0  26
+12 Bar, Koch........... c  4  6   0  0   1  1   1  5  6   0   9  5  1  1  1  20
+00 Kingsby, Danya...... g  4  7   0  0   0  0   0  3  3   1   8  4  1  0  3  23
+05 Brown, Darrell...... g  2  7   1  5   3  3   0  2  2   0   8  9  2  0  1  31
+25 Kennell, Nate....... g  5 10   4  7   1  2   2  2  4   2  15  3  0  0  1  27
+01 Boya, Ari...........    1  2   0  0   1  1   1  0  1   1   3  1  3  4  0  12
+02 Thomas, Antonio.....    1  2   0  1   2  2   0  2  2   2   4  3  0  0  1  11
+03 Gabriel, Stephan....    3  3   0  0   0  0   1  4  5   0   6  1  3  0  0  13
+13 Houpt, Sean.........    0  1   0  0   0  0   0  2  2   0   0  0  0  0  0   4
+22 Henry, Ja'Shon......    6  9   0  0   3  4   1  4  5   1  15  0  1  0  0  17
+23 Tahvanainen, Ville..    3  4   1  1   0  0   1  1  2   1   7  0  2  0  0  16
+TM TEAM................                         2  1  3
+   Totals..............   37 62   6 14  11 13  10 33 43   9  91 27 15  7  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 19-30  .633    18-32  .563    37-62  .597
+3-Pt. FG%:  3-7   .429     3-7   .429     6-14  .429
+F Throw %:  5-5  1.000     6-8   .750    11-13  .846
+Deadball rebounds: 0
+Date: 12-10-19      Site: Peoria, Ill.  Attendance: 4643
+Officials: Tom Eades; Kelly Self; Robert Burris;
+Technical fouls: Maryville-None. Bradley-None.
+Score by Periods      1  2   Total
+Maryville........... 19 39  - 58
+Bradley............. 46 45  - 91

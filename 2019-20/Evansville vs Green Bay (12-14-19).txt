@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Evansville vs Green Bay (12-14-19)
+VISITORS: Evansville (8-3,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+13 Williams, DeAndre... f  7  8   1  2   7  8   4  8 12   4  22  3  2  1  1  34
+35 Hall, John.......... f  5  9   2  5   0  0   0  2  2   0  12  1  0  1  0  25
+02 Labinowicz, Artur... g  3 12   1  3   0  0   1  4  5   3   7  2  0  1  1  27
+20 Cunliffe, Sam....... g  2 11   0  7   2  2   0  3  3   2   6  1  2  0  1  28
+33 Riley, KJ........... g  1  6   0  0   1  1   2  8 10   3   3  3  5  0  1  26
+01 Henderson, Marcus...    1  5   1  5   0  0   1  2  3   0   3  1  1  0  0   7
+03 Newton, Jawaun......    0  2   0  1   0  2   0  1  1   1   0  1  1  0  0   7
+05 Givance, Shamar.....    1  1   1  1   2  4   0  1  1   1   5  2  0  0  4  15
+10 Kuhlman, Evan.......    1  1   1  1   0  0   0  2  2   2   3  1  1  0  0  12
+30 Frederking, Noah....    3  8   3  6   2  2   1  1  2   1  11  0  0  0  0  16
+42 Ilegomah, Peace.....    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   3
+TM TEAM................                         2  1  3             1
+   Totals..............   24 63  10 31  14 19  11 33 44  18  72 15 13  3  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-32  .469     9-31  .290    24-63  .381
+3-Pt. FG%:  8-17  .471     2-14  .143    10-31  .323
+F Throw %:  6-6  1.000     8-13  .615    14-19  .737
+Deadball rebounds: 3
+HOME TEAM: Green Bay (3-8,0-0 Horizon)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+33 Cody Schwartz....... f  0  4   0  3   0  0   0  3  3   1   0  0  1  0  0  23
+01 Amari  Davis........ g  6 15   0  0   5  7   3  3  6   5  17  0  2  0  1  27
+02 Pj Pipes............ g  4  9   3  5   2  2   0  7  7   2  13  1  3  1  0  31
+11 JayQuan McCloud..... g  1 15   0  7   3  4   0  2  2   0   5  3  2  0  0  31
+21 Kameron Hankerson... g  6 10   1  3   0  0   0  3  3   2  13  1  1  1  2  30
+13 Trevian Bell........    0  2   0  1   0  0   2  2  4   2   0  0  3  0  2  17
+15 Manny Patterson.....    2  3   0  0   6  6   4  6 10   5  10  1  2  1  0  26
+30 Hunter Crist........    1  2   0  0   2  5   0  3  3   3   4  2  1  0  0  15
+34 Will Chevalier......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+TM TEAM................                         1  1  2
+   Totals..............   20 60   4 19  18 24  10 30 40  20  62  8 15  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-33  .273    11-27  .407    20-60  .333
+3-Pt. FG%:  0-9   .000     4-10  .400     4-19  .211
+F Throw %: 11-13  .846     7-11  .636    18-24  .750
+Deadball rebounds: 3
+Date: 12-14-19      Site: Green Bay, Wis.  Attendance: 1924
+Officials: Brooks Wells; Dan  Dorian; Peter Juzenas;
+Technical fouls: Evansville-Williams, DeAndre, Kuhlman, Evan. Green Bay-,
+Trevian Bell.
+Score by Periods      1  2   Total
+Evansville.......... 44 28  - 72
+Green Bay........... 29 33  - 62
+2019-20 Men's Basketball. Round: 0. Evansville vs Green Bay. Played at Resch C

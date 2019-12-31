@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  Missouri State vs Saint Joseph's (11-22-19)
+VISITORS: Missouri State (3-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+15 West,Lamont......... f  2  5   2  3   0  0   2  7  9   2   6  1  3  0  0  32
+23 Mohammed,Kabir...... f  0  0   0  0   2  2   0  2  2   1   2  0  1  0  0  15
+30 Da Silva,Tulio...... f  3  7   0  0   0  0   3  0  3   2   6  0  2  0  0  19
+00 Dixon,Tyrik......... g  4 11   0  4   1  1   0  7  7   3   9  2  2  1  1  32
+01 Cook,Keandre........ g  5 17   2  8   6  7   1  7  8   0  18  3  1  0  5  39
+04 Black,Ja'Monta......    0  1   0  1   0  0   0  0  0   0   0  1  1  0  1   9
+11 Mosley,Isiaih.......    0  0   0  0   0  0   0  0  0   1   0  1  0  0  0   2
+24 Ford Cooper,Jr......    2  4   2  3   0  0   0  0  0   0   6  0  1  0  1   8
+33 Hall,Josh...........    1  5   0  1   3  4   2  2  4   2   5  1  1  0  0  20
+44 Prim,Gaige..........    6 10   0  0   7  9   4  1  5   2  19  0  1  1  3  24
+TM TEAM................                         3  1  4
+   Totals..............   23 60   6 20  19 23  15 27 42  13  71  9 13  2 11 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-33  .424     9-27  .333    23-60  .383
+3-Pt. FG%:  3-12  .250     3-8   .375     6-20  .300
+F Throw %:  5-8   .625    14-15  .933    19-23  .826
+Deadball rebounds: 3
+HOME TEAM: Saint Joseph's (2-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Myles Douglas....... f  0  3   0  2   2  2   0  1  1   3   2  2  4  0  0  16
+21 Lorenzo Edwards..... f  0  2   0  1   2  2   0  3  3   3   2  1  2  0  1  26
+33 Taylor Funk......... f  4 10   2  8   0  1   0  5  5   3  10  2  0  0  0  27
+01 Ryan Daly........... g 11 19   3  5   0  0   2  3  5   1  25  6  3  1  1  33
+03 Cameron Brown....... g  2  5   0  3   0  0   1  3  4   1   4  2  2  1  3  26
+00 KNOX, Chereef.......    2  7   1  2   2  2   3  2  5   3   7  2  1  1  1  23
+10 Rahmir Moore........    3  8   3  6   1  2   1  2  3   0  10  0  0  0  0  30
+12 LONGPRE, Anthonty...    2  3   0  0   2  2   0  1  1   1   6  0  0  1  0  13
+25 Dennis Ashley.......    1  1   1  1   0  0   0  0  0   1   3  0  0  0  0   6
+TM TEAM................                            3  3             1
+   Totals..............   25 58  10 28   9 11   7 23 30  16  69 15 13  4  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-26  .462    13-32  .406    25-58  .431
+3-Pt. FG%:  5-14  .357     5-14  .357    10-28  .357
+F Throw %:  7-8   .875     2-3   .667     9-11  .818
+Deadball rebounds: 1
+Date: 11-22-19      Site: Charleston, S.C. (TD Arena)  Attendance: 3245
+Officials: Ted Valentine; John Hampton; Vlad Tadal;
+Technical fouls: Missouri State-, Da Silva,Tulio. Saint Joseph's-None.
+Score by Periods      1  2   Total
+Missouri State...... 36 35  - 71
+Saint Joseph's...... 36 33  - 69
+Charleston Classic Consolation Bracket Game 1

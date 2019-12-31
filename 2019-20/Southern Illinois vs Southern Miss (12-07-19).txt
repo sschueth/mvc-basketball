@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Southern Illinois vs Southern Miss (12-07-19)
+VISITORS: Southern Illinois (4-6)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Domask,Marcus....... f  6 11   4  6   1  2   2  1  3   4  17  2  4  1  0  35
+40 Benson,Barret....... c  1  2   0  1   4  8   1  2  3   2   6  0  4  0  1  23
+03 Suggs,Ronnie........ g  3  6   1  3   1  2   1  3  4   4   8  0  0  0  1  32
+04 McGill,Eric......... g  3  5   0  2   6  7   1  5  6   1  12  4  2  0  3  33
+05 Jones,Lance......... g  3  6   0  0   3  4   0  3  3   1   9  2  4  0  0  23
+02 Davis,Karrington....    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   1
+22 Francois,Harwin.....    4  6   2  4   4  4   0  2  2   2  14  1  0  0  1  26
+24 Brown,Trent.........    1  6   1  6   0  0   0  1  1   4   3  1  3  0  0  23
+25 Gooch,Brendon.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+TM TEAM................                         3     3             1
+   Totals..............   21 43   8 23  19 27   8 17 25  18  69 10 18  1  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-20  .650     8-23  .348    21-43  .488
+3-Pt. FG%:  6-11  .545     2-12  .167     8-23  .348
+F Throw %: 10-16  .625     9-11  .818    19-27  .704
+Deadball rebounds: 4
+HOME TEAM: Southern Miss (3-7)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+14 Tyler Stevenson..... f  5  5   0  0   5  7   1  0  1   4  15  0  2  0  0  19
+32 Leonard Harper-Baker f  9 11   1  2   1  2   2  9 11   3  20  2  4  0  5  35
+03 Angel Smith......... g  0  1   0  0   0  0   0  0  0   1   0  0  0  0  0   3
+10 Jay Malone.......... g  1  5   1  3   0  0   1  3  4   1   3  7  0  0  1  32
+11 LaDavius Draine..... g  3  7   3  5   3  4   0  1  1   4  12  1  1  0  2  31
+00 Gabe Watson.........    6 13   0  1   2  2   0  3  3   2  14  5  2  1  4  36
+04 David McCoy.........    0  0   0  0   0  0   0  0  0   0   0  1  1  0  0   9
+05 Artur Konontsuk.....    2  3   0  1   1  2   0  1  1   5   5  0  2  1  0  18
+20 Hunter Dean.........    1  1   0  0   0  1   0  0  0   0   2  0  1  0  0   7
+21 Auston Leslie.......    0  1   0  1   1  2   0  0  0   0   1  1  0  0  1  10
+TM TEAM................                         2  1  3
+   Totals..............   27 47   5 13  13 20   6 18 24  20  72 17 13  2 13 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-26  .538    13-21  .619    27-47  .574
+3-Pt. FG%:  2-7   .286     3-6   .500     5-13  .385
+F Throw %:  4-6   .667     9-14  .643    13-20  .650
+Deadball rebounds: 4
+Date: 12-07-19      Site: Reed Green Coliseum  Attendance: 2009
+Officials: Kerby Sitton; Mike O'Neill; Blake Harris;
+Technical fouls: Southern Illinois-None. Southern Miss-None.
+Score by Periods      1  2   Total
+Southern Illinois... 42 27  - 69
+Southern Miss....... 34 38  - 72

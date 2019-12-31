@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                         Milwaukee vs Drake (12-03-19)
+VISITORS: Milwaukee (5-4,0-0 Horizon)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 C.J. Wilbourn....... f  0  4   0  2   0  0   3  0  3   2   0  0  0  0  0  24
+12 Amir Allen.......... f  4  6   0  0   0  0   3  4  7   2   8  1  0  3  0  26
+01 DeAndre Abram....... g  4 15   3  9   1  2   2  5  7   0  12  0  3  2  2  35
+20 Darius Roy.......... g  3 10   1  4   2  2   1  3  4   4   9  3  6  0  1  24
+24 Josh Thomas......... g  3  9   0  1   0  0   1  6  7   2   6  4  2  1  1  35
+02 Harrison Henderson..    0  3   0  1   0  0   0  2  2   1   0  0  0  0  0   9
+10 Arturro Bingham.....    0  1   0  0   0  0   1  0  1   1   0  0  0  0  0   1
+13 Courtney Brown Jr...    1  3   1  3   0  0   0  3  3   1   3  0  5  0  0  21
+22 Shae Mitchell.......    2  4   2  3   0  0   0  0  0   2   6  1  0  1  1  15
+34 Tyler Behrendt......    3  3   2  2   1  2   0  2  2   0   9  1  0  0  0  10
+TM TEAM................                         3  2  5             2
+   Totals..............   20 58   9 25   4  6  14 27 41  15  53 10 18  7  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-37  .324     8-21  .381    20-58  .345
+3-Pt. FG%:  5-15  .333     4-10  .400     9-25  .360
+F Throw %:  0-0   .000     4-6   .667     4-6   .667
+Deadball rebounds: 2,1
+HOME TEAM: Drake (7-2,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Murphy, Tremell..... f  1  4   0  2   0  2   0  2  2   0   2  0  2  1  1  19
+21 Robbins, Liam....... f  5 11   1  2   0  1   2  5  7   2  11  0  1  4  1  28
+00 Wilkins, D.J........ g  2  6   1  2   2  2   0  4  4   1   7  3  1  0  0  29
+04 Murphy, Anthony..... g  3  8   1  2   0  0   1  3  4   1   7  5  3  0  0  24
+12 Penn, Roman......... g  3  9   1  2   0  1   0  5  5   2   7  2  0  0  2  25
+03 Sturtz, Garrett.....    2  7   0  2   1  2   5  3  8   1   5  1  1  0  1  28
+11 Pilipovic, Antonio..    1  1   1  1   0  0   0  0  0   0   3  1  1  0  0   8
+14 Thomas, Noah........    1  3   1  1   0  0   0  1  1   1   3  1  2  1  0  12
+20 Jackson, Jonah......    1  3   1  2   0  0   1  0  1   0   3  0  0  0  0  11
+23 Yesufu, Joseph......    2  5   0  2   4  4   1  0  1   2   8  1  0  0  2  12
+31 Ernst, Brady........    0  1   0  0   0  0   1  1  2   1   0  0  0  0  0   4
+TM TEAM................                         1     1
+   Totals..............   21 58   7 18   7 12  12 24 36  11  56 14 11  6  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-31  .323    11-27  .407    21-58  .362
+3-Pt. FG%:  3-10  .300     4-8   .500     7-18  .389
+F Throw %:  3-5   .600     4-7   .571     7-12  .583
+Deadball rebounds: 2
+Date: 12-03-19      Site: Des Moines, Iowa  Attendance: 2373
+Officials: Chris Chumley; Chance Moore; Randy Heimerman;
+Technical fouls: Milwaukee-None. Drake-None.
+Score by Periods      1  2   Total
+Milwaukee........... 29 24  - 53
+Drake............... 26 30  - 56
+2019-20 Men's Basketball. Round: 0. Drake vs Milwaukee. Played at Drake Knapp

@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Loyola Chicago vs Valparaiso (12-30-19)
+VISITORS: Loyola Chicago (9-5,1-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+30 Uguak, Aher......... f  1  2   0  0   0  0   2  0  2   2   2  1  4  0  0  16
+25 Krutwig, Cameron.... c  5  9   0  0   3  6   2 10 12   1  13  3  1  0  3  35
+01 Williamson, Lucas... g  1  3   0  1   3  4   0  6  6   2   5  5  4  0  0  36
+05 Clemons, Keith...... g  4  8   1  2   2  4   0  0  0   2  11  5  1  0  1  26
+24 Hall, Tate.......... g  3 12   2  5   4  6   1  5  6   1  12  0  1  1  1  33
+00 Wojcik, Paxson......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+10 Welch, Tom..........    2  2   0  0   0  0   0  0  0   1   4  0  0  0  0   4
+12 Kennedy, Marquise...    2  6   0  0   2  4   2  4  6   2   6  1  1  0  1  17
+33 Agunanne, Franklin..    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+50 Pipkins, Jalon......    3  7   2  6   5  6   1  1  2   1  13  0  1  0  0  28
+TM TEAM................                         1  2  3
+   Totals..............   21 49   5 14  19 30   9 28 37  12  66 15 13  1  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-22  .545     9-27  .333    21-49  .429
+3-Pt. FG%:  4-8   .500     1-6   .167     5-14  .357
+F Throw %:  7-10  .700    12-20  .600    19-30  .633
+Deadball rebounds: 4
+HOME TEAM: Valparaiso (7-7,0-1 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Clay, Donovan....... f  8  8   4  4   1  1   0  2  2   2  21  1  1  1  0  31
+22 McMillan, Mileek.... f  4 11   0  4   0  0   2  6  8   3   8  2  1  3  1  18
+33 Kiser, John......... f  1  3   0  2   2  2   1  2  3   4   4  1  0  0  1  23
+00 Freeman-Liberty, J.. g  4 12   1  3   1  1   1  2  3   5  10  7  3  1  2  34
+04 Sackey, Daniel...... g  1  4   1  3   0  0   0  4  4   4   3  1  5  0  0  19
+01 Lorange, Sigurd.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+02 Morgan, Zion........    0  2   0  1   0  0   1  1  2   1   0  2  1  1  0  11
+10 Gordon, Eron........    0  2   0  1   0  2   1  0  1   1   0  0  1  1  1  12
+11 Freese-Vilien, Emil.    0  2   0  2   0  0   0  1  1   1   0  0  0  1  0   3
+23 Krikke, Ben.........    1  2   0  1   0  0   0  5  5   0   2  0  1  1  1  18
+25 Robinson, Nick......    6 12   3  6   0  0   0  4  4   2  15  7  2  0  2  31
+TM TEAM................
+   Totals..............   25 58   9 27   4  6   6 27 33  23  63 21 15  9  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-28  .393    14-30  .467    25-58  .431
+3-Pt. FG%:  4-14  .286     5-13  .385     9-27  .333
+F Throw %:  2-2  1.000     2-4   .500     4-6   .667
+Deadball rebounds: 1
+Date: 12-30-19      Site: Valparaiso, Ind.  Attendance: 4364
+Officials: Roland  Simmons; Kelly Self; Gerry Pollard;
+Technical fouls: Loyola Chicago-None. Valparaiso-None.
+Score by Periods      1  2   Total
+Loyola Chicago...... 35 31  - 66
+Valparaiso.......... 28 35  - 63
+2019-20 Men's Basketball. Round: 0. Loyola Chicago vs Valparaiso. Played at At

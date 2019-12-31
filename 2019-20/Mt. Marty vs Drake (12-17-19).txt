@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                         Mt. Marty vs Drake (12-17-19)
+VISITORS: Mt. Marty (0-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Chris King.......... g  7 18   3 12   0  0   1  4  5   3  17  0  2  0  0  35
+04 Jordan Johnson...... g  6 12   2  4   5  6   1  6  7   4  19  4  2  1  1  37
+11 Saba Gvedashvili.... g  1  4   0  3   0  0   0  2  2   3   2  0  0  0  1  16
+22 Colby Johnson....... g  6 13   1  5   6  8   0  6  6   1  19  1  1  0  1  34
+35 Jonah Larson........ g  2  4   2  4   0  0   0  2  2   2   6  0  2  0  0  15
+03 Chase Altenburg.....    0  2   0  1   0  0   0  2  2   2   0  0  1  0  1  16
+10 Jailen Billings.....    1  6   0  4   0  0   1  0  1   3   2  1  0  0  1  22
+12 Kade Stearns........    0  2   0  1   2  2   0  1  1   0   2  0  0  0  0   6
+32 Trent Wilson........    0  0   0  0   2  2   0  1  1   1   2  0  1  0  0   6
+34 Luke Ronsiek........    1  2   1  2   0  0   0  1  1   0   3  1  1  0  1   8
+44 Mitchell Lonneman...    1  2   0  0   0  0   0  0  0   2   2  0  1  0  0   5
+TM TEAM................
+   Totals..............   25 65   9 36  15 18   3 25 28  21  74  7 11  1  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-30  .433    12-35  .343    25-65  .385
+3-Pt. FG%:  5-19  .263     4-17  .235     9-36  .250
+F Throw %: 12-14  .857     3-4   .750    15-18  .833
+Deadball rebounds: 2
+HOME TEAM: Drake (9-3,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+21 Robbins, Liam....... f  8 12   0  1   9 15   3  7 10   3  25  0  4  1  0  23
+00 Wilkins, D.J........ g  5 11   0  3   0  0   0  5  5   3  10  3  1  0  0  33
+04 Murphy, Anthony..... g  4  6   0  1   2  2   1  3  4   2  10  4  2  0  1  28
+12 Penn, Roman......... g  5  8   0  1   6  7   1  6  7   2  16  2  1  0  1  29
+20 Jackson, Jonah...... g  1  6   1  6   0  0   0  0  0   2   3  1  0  0  0  23
+01 Jones, Samm.........    0  1   0  0   0  0   0  0  0   0   0  1  0  0  0   2
+03 Sturtz, Garrett.....    4  4   0  0   0  0   1  6  7   2   8  1  1  0  0  20
+11 Pilipovic, Antonio..    5  7   1  3   0  0   0  6  6   2  11  3  1  0  0  16
+14 Thomas, Noah........    3  6   1  2   1  2   0  2  2   3   8  2  3  0  1  14
+22 Barrett, Andrew.....    0  1   0  0   0  0   2  0  2   1   0  0  0  0  0   3
+23 Yesufu, Joseph......    0  0   0  0   0  0   0  1  1   1   0  0  0  0  0   6
+25 Gholson, Connor.....    0  2   0  1   1  2   1  1  2   0   1  0  0  0  0   3
+TM TEAM................                         1  1  2
+   Totals..............   35 64   3 18  19 28  10 38 48  21  92 17 13  1  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 19-34  .559    16-30  .533    35-64  .547
+3-Pt. FG%:  3-12  .250     0-6   .000     3-18  .167
+F Throw %: 12-15  .800     7-13  .538    19-28  .679
+Deadball rebounds: 3
+Date: 12-17-19      Site: Des Moines, Iowa  Attendance: 2468
+Officials: Drew` Bontrager; Winston Stith; Kelly Self;
+Technical fouls: Mt. Marty-None. Drake-None.
+Score by Periods      1  2   Total
+Mt. Marty........... 43 31  - 74
+Drake............... 53 39  - 92
+2019-20 Men's Basketball. Round: 0. Drake vs Mt. Marty. Played at Drake Knapp

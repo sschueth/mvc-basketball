@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Indiana State vs Wright State (12-07-19)
+VISITORS: Indiana State (5-4)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Williams,Tre........ *  7 13   0  0   0  0   2  5  7   4  14  0  1  2  0  28
+02 Barnes,Jordan....... *  8 16   3  6   3  4   0  4  4   0  22  5  4  1  3  43
+04 Neese,Cooper........ * 10 15   5  9   0  0   0  6  6   1  25  0  1  0  0  35
+05 Kessinger,Bronson... *  1  2   0  0   2  2   1  0  1   1   4  0  0  0  0  11
+11 Key,Tyreke.......... *  2  9   0  3   0  0   1  8  9   1   4  5  4  0  1  31
+03 Bacote,Cameron......    2  5   1  2   2  2   0  2  2   2   7  1  3  0  1  24
+20 Barnes,Cobie........    2  4   0  2   0  0   1  4  5   0   4  0  2  0  0  17
+23 Washington,De'Avion.    1  2   0  0   0  0   2  0  2   0   2  0  0  0  0   8
+25 Sellers,Keon........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+34 Agbo,Christopher....    0  0   0  0   0  0   0  1  1   3   0  0  3  1  0   8
+35 LaRavia,Jake........    1  4   0  0   0  0   5  2  7   4   2  1  2  2  0  18
+TM TEAM................                         2  3  5
+   Totals..............   34 70   9 22   7  8  14 35 49  16  84 12 20  6  5 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-31  .548    14-32  .438    34-70  .486
+3-Pt. FG%:  4-9   .444     4-9   .444     9-22  .409
+F Throw %:  0-0   .000     3-4   .750     7-8   .875
+Deadball rebounds: 1
+HOME TEAM: Wright State (7-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Hall,Jaylon......... *  3 10   1  2   0  0   1  4  5   0   7  3  5  1  0  33
+01 Wampler,Bill........ *  1 11   0  5   3  4   3  8 11   1   5  5  1  0  0  31
+02 Holden,Tanner....... *  3  5   0  1   1  2   0  1  1   1   7  0  0  1  0  26
+21 Basile,Grant........ *  4  8   1  2   2  2   2  5  7   2  11  1  4  0  1  27
+31 Gentry,Cole......... *  2  4   1  3   0  0   0  0  0   1   5  0  0  0  0  24
+03 Ash,Jordan..........    4  8   0  2   1  2   0  0  0   1   9  3  0  0  2  21
+05 Potter,Skyelar......    2  4   1  1   0  0   0  1  1   4   5  2  1  0  0  23
+10 Calvin,Trey.........    5 12   3  8   2  3   0  2  2   2  15  1  0  0  2  28
+23 Manns,James.........    5  9   3  4   0  0   3  1  4   2  13  1  1  0  1  12
+TM TEAM................                         1     1
+   Totals..............   29 71  10 28   9 13  10 22 32  14  77 16 12  2  6 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-32  .375    16-30  .533    29-71  .408
+3-Pt. FG%:  6-13  .462     4-12  .333    10-28  .357
+F Throw %:  3-3  1.000     4-8   .500     9-13  .692
+Deadball rebounds: 1
+Date: 12-07-19      Site: Nutter Center  Attendance: 3509
+Officials: Jon Campbell; Brandon Cruz; Jason Mirabito;
+Technical fouls: Indiana State-None. Wright State-None.
+Score by Periods      1  2 OT   Total
+Indiana State....... 38 35 11  - 84
+Wright State........ 33 40  4  - 77

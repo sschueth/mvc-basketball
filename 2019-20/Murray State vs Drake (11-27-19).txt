@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Murray State vs Drake (11-27-19)
+VISITORS: Murray State (4-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+23 KJ Williams......... f  3 11   0  3   3  4   2  6  8   0   9  1  3  0  0  31
+24 Anthony Smith....... f  1  2   0  0   7 10   4  5  9   1   9  0  2  0  2  31
+02 Chico Carter, Jr.... g  1  3   0  1   0  0   1  0  1   3   2  1  2  0  0  13
+10 Tevin Brown......... g  5 15   3  8   2  4   1  5  6   1  15  1  3  0  2  40
+14 Jaiveon Eaves....... g  3 13   0  4   0  0   0  1  1   2   6  1  1  0  3  30
+00 Demond Robnson......    0  1   0  1   0  0   1  3  4   1   0  0  1  0  0   6
+01 DaQuan  Smith.......    2  5   1  3   2  2   0  3  3   5   7  3  3  0  1  25
+13 Devin Gilmore.......    2  3   0  0   1  1   2  0  2   2   5  0  1  0  0  15
+45 Jason Holliday......    0  0   0  0   0  2   0  1  1   3   0  0  0  1  0   9
+TM TEAM................                                   1
+   Totals..............   17 53   4 20  15 23  11 24 35  19  53  7 16  1  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-25  .480     5-28  .179    17-53  .321
+3-Pt. FG%:  3-8   .375     1-12  .083     4-20  .200
+F Throw %:  9-13  .692     6-10  .600    15-23  .652
+Deadball rebounds: 8
+HOME TEAM: Drake (6-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Murphy, Tremell..... f  5  6   1  1   0  0   1  2  3   2  11  0  4  0  0  23
+21 Robbins, Liam....... f  1  5   0  0   0  0   2  4  6   3   2  1  3  1  0  19
+00 Wilkins, D.J........ g  5 11   4  7   4  6   2  3  5   0  18  3  2  0  1  34
+04 Murphy, Anthony..... g  5  8   0  1   3  4   1  3  4   3  13  1  1  0  1  34
+12 Penn, Roman......... g  0  7   0  1   2  3   1  5  6   3   2  6  2  0  2  26
+03 Sturtz, Garrett.....    2  3   0  0   0  1   2  2  4   3   4  0  1  0  0  19
+11 Pilipovic, Antonio..    1  2   1  2   0  0   0  2  2   3   3  3  1  0  0  15
+14 Thomas, Noah........    1  5   0  3   0  0   0  1  1   2   2  1  1  0  1  17
+20 Jackson, Jonah......    1  2   1  2   0  0   0  0  0   1   3  0  1  0  0   4
+23 Yesufu, Joseph......    1  2   0  1   0  1   0  0  0   1   2  0  0  0  0   3
+31 Ernst, Brady........    1  1   0  0   1  1   0  1  1   1   3  1  0  0  0   6
+TM TEAM................
+   Totals..............   23 52   7 18  10 16   9 23 32  22  63 16 16  1  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-25  .560     9-27  .333    23-52  .442
+3-Pt. FG%:  4-9   .444     3-9   .333     7-18  .389
+F Throw %:  4-8   .500     6-8   .750    10-16  .625
+Deadball rebounds: 2,2
+Date: 11-27-19      Site: Estero, Fla. (Hertz Arena)  Attendance: 653
+Officials: Bart Lenox; Bill Jacobson; Ryan McCarty;
+Technical fouls: Murray State-, TEAM. Drake-None.
+Score by Periods      1  2   Total
+Murray State........ 36 17  - 53
+Drake............... 36 27  - 63

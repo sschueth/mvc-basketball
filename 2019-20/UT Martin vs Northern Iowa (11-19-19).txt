@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     UT Martin vs Northern Iowa (11-19-19)
+VISITORS: UT Martin (2-3,0-0 OVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+22 Quintin Dove........ f  2  8   1  3   7  8   4  5  9   4  12  0  3  0  1  39
+24 Isaac Aguiar........ f  0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   6
+01 Parker Stewart...... g  9 17   4  9   0  1   0  0  0   2  22  2  2  0  2  39
+02 Craig Randall II.... g  4 11   3  9   0  0   0  1  1   1  11  2  1  0  1  33
+05 Derek Hawthorne, Jr. g  5  9   1  2   7  8   4  4  8   4  18  2  1  0  1  30
+00 Ja'Darius Harris....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  1   1
+03 Eman Sertovic.......    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0  16
+10 Eric Rustin.........    0  1   0  0   0  0   1  0  1   1   0  0  0  0  0  12
+11 Jalen Riley.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+13 Miles Thomas........    2  6   0  1   0  0   0  4  4   1   4  0  2  0  0  23
+TM TEAM................                         2     2             1
+   Totals..............   22 53   9 25  14 17  11 14 25  14  67  6 10  0  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-28  .429    10-25  .400    22-53  .415
+3-Pt. FG%:  5-14  .357     4-11  .364     9-25  .360
+F Throw %:  8-10  .800     6-7   .857    14-17  .824
+Deadball rebounds: 2
+HOME TEAM: Northern Iowa (5-0,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 Phyfe, Austin....... f  5  5   0  0   1  2   6  5 11   3  11  3  1  0  0  36
+04 Green,AJ............ g  5 13   4 11   0  0   0  2  2   2  14  9  2  0  1  33
+11 Berhow,Trae......... g 13 17   8 11   2  3   2  2  4   2  36  0  1  0  0  33
+24 Brown,Isaiah........ g  3  6   2  4   3  3   0  5  5   1  11  4  4  1  2  37
+30 Haldeman,Spencer.... g  2  7   2  7   0  0   0  1  1   2   6  3  1  0  0  29
+03 Pickford,Tywhon.....    3  4   0  0   0  0   0  3  3   1   6  1  1  0  0  19
+12 Conrey,Lincoln......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+15 Dahl,Justin.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0  0+
+22 Pickford,Antwon.....    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   3
+32 Betz,James..........    1  2   0  1   1  1   0  0  0   1   3  0  1  0  0   4
+34 Mcdonnell,Luke......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+35 Carter,Noah.........    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   4
+TM TEAM................                         1  2  3
+   Totals..............   32 54  16 34   7  9   9 21 30  12  87 20 12  1  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-27  .593    16-27  .593    32-54  .593
+3-Pt. FG%:  9-17  .529     7-17  .412    16-34  .471
+F Throw %:  3-4   .750     4-5   .800     7-9   .778
+Deadball rebounds: 1
+Date: 11-19-19      Site: Cedar Falls, Iowa  Attendance: 3128
+Officials:
+Technical fouls: UT Martin-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+UT Martin........... 37 30  - 67
+Northern Iowa....... 44 43  - 87
+2019-20 Men's Basketball. Round: 0. UNI vs UT Martin. Played at McLeod Center.

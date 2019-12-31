@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Loyola Chicago vs Old Dominion (11-27-19)
+VISITORS: Loyola Chicago (4-4,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+30 Uguak, Aher......... f  0  1   0  1   0  0   1  1  2   0   0  0  2  0  0   6
+25 Krutwig, Cameron.... c  7 10   0  0   8  8   2  6  8   0  22  2  4  0  1  31
+00 Wojcik, Paxson...... g  0  0   0  0   0  0   0  2  2   1   0  1  2  0  0  12
+01 Williamson, Lucas... g  0  1   0  1   4  4   0  6  6   1   4  0  2  0  1  30
+24 Hall, Tate.......... g  5 11   3  7   8 10   0  4  4   1  21  3  0  0  1  37
+10 Welch, Tom..........    1  2   0  0   1  2   1  2  3   2   3  0  1  0  0  19
+12 Kennedy, Marquise...    2  7   0  2   2  2   1  2  3   2   6  3  3  0  0  31
+33 Agunanne, Franklin..    2  2   0  0   0  1   0  1  1   1   4  0  2  0  0   9
+50 Pipkins, Jalon......    2  6   1  3   3  4   0  0  0   2   8  1  0  0  0  25
+TM TEAM................                                             1
+   Totals..............   19 40   4 14  26 31   5 24 29  10  68 10 17  0  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-23  .478     8-17  .471    19-40  .475
+3-Pt. FG%:  4-11  .364     0-3   .000     4-14  .286
+F Throw %:  4-5   .800    22-26  .846    26-31  .839
+Deadball rebounds: 2
+HOME TEAM: Old Dominion (3-5,0-0 C-USA)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+13 Aaron Carver........ f  2  4   0  0   0  0   1  7  8   2   4  0  0  0  1  22
+23 Dajour Dickens...... f  0  0   0  0   1  2   0  0  0   5   1  0  1  2  0  11
+01 Jason Wade.......... g  1  3   0  0   0  0   1  0  1   5   2  0  3  2  3  26
+03 Malik Curry......... g 10 16   0  3   1  4   1  0  1   2  21  2  0  0  0  28
+10 Xavier Green........ g  4  9   0  2   1  1   0  2  2   3   9  2  5  0  1  39
+00 Marquis Godwin......    2  8   1  5   2  2   0  1  1   1   7  0  0  0  1  26
+12 Jaylin Hunter.......    1  3   1  1   0  0   0  3  3   0   3  1  1  0  1   9
+15 Joe Reece...........    3  5   2  3   2  2   2  4  6   1  10  1  1  0  0  22
+22 Kalu Ezikpe.........    2  5   0  2   0  0   0  2  2   4   4  0  2  0  2  17
+TM TEAM................                         1     1
+   Totals..............   25 53   4 16   7 11   6 19 25  23  61  6 13  4  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-27  .333    16-26  .615    25-53  .472
+3-Pt. FG%:  1-7   .143     3-9   .333     4-16  .250
+F Throw %:  2-3   .667     5-8   .625     7-11  .636
+Deadball rebounds: 2
+Date: 11-27-19      Site: Cayman Islands  Attendance: 1235
+Officials: Mark Riggs; Eric Curry; John Gaffen;
+Technical fouls: Loyola Chicago-None. Old Dominion-None.
+Score by Periods      1  2   Total
+Loyola Chicago...... 30 38  - 68
+Old Dominion........ 21 40  - 61
+2019-20 Men's Basketball. Round: 0. Loyola Chicago vs Old Dominion. Played at

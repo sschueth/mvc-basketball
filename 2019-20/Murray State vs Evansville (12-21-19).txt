@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Murray State vs Evansville (12-21-19)
+VISITORS: Murray State (6-5,0-0 OVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+00 Demond Robinson..... f  3  3   0  0   2  2   3  1  4   4   8  0  3  0  1  13
+24 Anthony Smith....... f  1  5   0  0   3  4   4  6 10   5   5  1  3  0  0  37
+01 DaQuan  Smith....... g  3 10   1  5   3  3   2  5  7   2  10  7  3  1  0  45
+10 Tevin Brown......... g  8 21   4  9  11 15   0  4  4   3  31  3  4  0  3  43
+14 Jaiveon Eaves....... g  2  7   0  1   0  1   0  2  2   4   4  2  0  0  0  24
+04 Noah Kamba..........    2  3   0  0   0  0   1  1  2   4   4  2  3  0  0  20
+13 Devin Gilmore.......    0  1   0  0   0  0   1  0  1   1   0  0  0  0  0  11
+23 KJ Williams.........    4  7   0  1   2  4   3  6  9   4  10  1  3  1  2  27
+32 Darnell Cowart......    2  5   0  0   0  0   1  0  1   0   4  0  0  0  0   5
+TM TEAM................                         4  2  6             1
+   Totals..............   25 62   5 16  21 29  19 27 46  27  76 16 20  2  6 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-25  .400    14-30  .467    25-62  .403
+3-Pt. FG%:  2-4   .500     2-8   .250     5-16  .313
+F Throw %:  5-7   .714    12-16  .750    21-29  .724
+Deadball rebounds: 2
+HOME TEAM: Evansville (9-4,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+13 Williams, DeAndre... f  5  7   1  2   7  7   2  7  9   4  18  7  6  3  1  41
+35 Hall, John.......... f  3  5   2  4   1  4   0  4  4   3   9  0  2  0  0  26
+02 Labinowicz, Artur... g  9 12   4  4   2  4   0  4  4   1  24  0  1  1  3  35
+20 Cunliffe, Sam....... g  1  8   0  3   0  0   0  1  1   1   2  2  1  0  1  33
+33 Riley, KJ........... g  5  9   0  1   6  7   1  3  4   4  16  3  3  1  4  42
+01 Henderson, Marcus...    0  2   0  2   0  0   0  0  0   1   0  0  0  0  0   4
+05 Givance, Shamar.....    2  5   0  2   2  5   0  1  1   4   6  4  0  0  0  27
+10 Kuhlman, Evan.......    0  2   0  2   0  0   0  1  1   2   0  0  0  0  0   5
+30 Frederking, Noah....    1  2   1  2   0  0   0  0  0   0   3  0  1  0  0  12
+TM TEAM................                         1  3  4
+   Totals..............   26 52   8 22  18 27   4 24 28  20  78 16 14  5  9 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-31  .516     8-17  .471    26-52  .500
+3-Pt. FG%:  5-14  .357     2-6   .333     8-22  .364
+F Throw %:  4-4  1.000    10-15  .667    18-27  .667
+Deadball rebounds: 4
+Date: 12-21-19      Site: Evansville, Ind.  Attendance: 7316
+Officials: Ervin Wilson; Winston Stith; Roland Simmons;
+Technical fouls: Murray State-None. Evansville-None.
+Score by Periods      1  2 OT   Total
+Murray State........ 27 42  7  - 76
+Evansville.......... 41 28  9  - 78
+2019-20 Men's Basketball. Round: 0. Evansville vs Murray St.. Played at Ford C

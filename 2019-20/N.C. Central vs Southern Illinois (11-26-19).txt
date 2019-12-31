@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  N.C. Central vs Southern Illinois (11-26-19)
+VISITORS: N.C. Central (2-5,0-0 MEAC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+02 Jibri Blount........ f  8 17   2  3   3  4   2  5  7   3  21  2  4  1  5  40
+13 Justin Whatley...... f  0  2   0  1   0  0   1  0  1   1   0  0  2  1  0  16
+11 Randy Miller Jr..... g  2  8   1  6   2  2   1  0  1   2   7  1  4  0  1  26
+12 Jordan Perkins...... g  2  6   0  0   0  0   1  2  3   1   4  2  3  0  1  35
+22 C.J. Keyser......... g  2  8   1  3   0  0   1  2  3   1   5  2  0  0  0  28
+01 Mike Melvin.........    0  1   0  0   0  0   0  1  1   0   0  2  0  0  1   4
+03 Ty Graves...........    3  6   3  6   0  0   0  1  1   2   9  0  0  0  0  27
+10 Evan Clayborne......    0  0   0  0   0  0   0  3  3   0   0  0  1  1  0  15
+21 Kobby Ayetey........    1  3   0  1   0  0   3  2  5   4   2  1  1  0  3   9
+TM TEAM................                         1  1  2
+   Totals..............   18 51   7 20   5  6  10 17 27  14  48 10 15  3 11 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-23  .435     8-28  .286    18-51  .353
+3-Pt. FG%:  6-13  .462     1-7   .143     7-20  .350
+F Throw %:  2-2  1.000     3-4   .750     5-6   .833
+Deadball rebounds: 0
+HOME TEAM: Southern Illinois (3-4,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Domask,Marcus....... f  6 10   3  5   3  3   1  4  5   0  18  5  2  0  0  32
+40 Benson,Barret....... c  7  9   0  0   3  4   1  5  6   2  17  1  1  2  0  26
+03 Suggs,Ronnie........ g  2  3   2  3   0  0   0  2  2   2   6  1  0  0  0  31
+04 McGill,Eric......... g  4  8   2  4   0  0   0  3  3   4  10  5  4  1  0  32
+05 Jones,Lance......... g  1  8   0  1   0  0   1  2  3   1   2  2  4  0  4  27
+02 Davis,Karrington....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+12 Dembele,Sekou.......    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   5
+21 Keller,Will.........    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   1
+22 Francois,Harwin.....    2  3   2  3   0  0   0  2  2   1   6  1  1  0  0  18
+24 Brown,Trent.........    1  1   1  1   2  2   0  1  1   2   5  1  2  0  0  18
+25 Gooch,Brendon.......    0  0   0  0   0  0   0  0  0   0   0  0  0  1  0   5
+30 Jeremic,Stevan......    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   4
+TM TEAM................                            2  2             2
+   Totals..............   23 42  10 17   8  9   3 24 27  12  64 16 16  4  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-24  .625     8-18  .444    23-42  .548
+3-Pt. FG%: 10-13  .769     0-4   .000    10-17  .588
+F Throw %:  2-2  1.000     6-7   .857     8-9   .889
+Deadball rebounds: 0
+Date: 11-26-19      Site: Carbondale, Ill.  Attendance: 3620
+Officials: K.B. Burdett Jr.; Craig Murley; Jeff Malham;
+Technical fouls: N.C. Central-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+N.C. Central........ 28 20  - 48
+Southern Illinois... 42 22  - 64
+2019-20 Men's Basketball. Round: 0. N.C. Central vs Southern Ill.. Played at B

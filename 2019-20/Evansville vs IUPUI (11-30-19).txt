@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                         Evansville vs IUPUI (11-30-19)
+VISITORS: Evansville (5-3,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 Hall, John.......... f  1  3   1  2   0  0   1  3  4   4   3  0  1  0  0  15
+02 Labinowicz, Artur... g  2  9   0  1   5  5   3  3  6   1   9  0  2  0  0  21
+03 Newton, Jawaun...... g  1  4   0  1   2  2   2  2  4   1   4  1  0  0  0  22
+30 Frederking, Noah.... g  3  8   2  7   0  2   0  3  3   2   8  1  0  1  0  25
+33 Riley, KJ........... g  3  6   0  1   2  2   0  3  3   2   8  0  3  1  1  31
+01 Henderson, Marcus...    1  3   1  3   0  0   0  0  0   1   3  0  0  0  0   5
+05 Givance, Shamar.....    1  4   0  2   0  0   0  1  1   2   2  1  0  0  0  13
+10 Kuhlman, Evan.......    2  4   0  2   2  2   0  1  1   1   6  1  1  0  1  14
+13 Williams, DeAndre...    8 13   0  1   4  6   5 10 15   1  20  5  0  2  1  35
+20 Cunliffe, Sam.......    3  9   1  3   0  0   0  2  2   5   7  2  1  0  0  19
+TM TEAM................                         1  4  5
+   Totals..............   25 63   5 23  15 19  12 32 44  20  70 11  8  4  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-33  .303    15-30  .500    25-63  .397
+3-Pt. FG%:  1-14  .071     4-9   .444     5-23  .217
+F Throw %:  6-7   .857     9-12  .750    15-19  .789
+Deadball rebounds: 1
+HOME TEAM: IUPUI (2-6,0-0 Horizon)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+30 TYSON, Zo........... f  0  0   0  0   0  0   1  3  4   3   0  1  0  0  0  18
+32 GOSS, Elyjah........ f  4  9   0  0   0  2   1  8  9   2   8  0  1  0  1  28
+00 MINNETT, Jaylen..... g  6 17   3 11   3  4   0  4  4   3  18  4  0  0  0  36
+10 DePERSIA, Mike...... g  0  2   0  1   1  2   0  1  1   1   1  1  0  0  0  20
+14 BURK, Marcus........ g  7 19   2  6   2  4   0  0  0   4  18  3  2  1  0  34
+13 WILLIAMS, Isaiah....    5  7   0  0   5 10   2  6  8   4  15  3  3  0  0  32
+15 WHITE, Taveion......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+23 WEATHERFORD, Grant..    1  4   0  0   2  2   3  3  6   2   4  1  1  0  1  31
+TM TEAM................                         2  4  6
+   Totals..............   23 58   5 18  13 24   9 29 38  19  64 13  7  1  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-32  .375    11-26  .423    23-58  .397
+3-Pt. FG%:  3-9   .333     2-9   .222     5-18  .278
+F Throw %: 10-15  .667     3-9   .333    13-24  .542
+Deadball rebounds: 5
+Date: 11-30-19      Site: Indianapolis, Ind.  Attendance: 1659
+Officials: Matt Morales; Jesse Joseph; Ed Phillips;
+Technical fouls: Evansville-None. IUPUI-None.
+Score by Periods      1  2   Total
+Evansville.......... 27 43  - 70
+IUPUI............... 37 27  - 64
+2019-20 Men's Basketball. Round: 0. Evansville vs IUPUI. Played at Indiana Far

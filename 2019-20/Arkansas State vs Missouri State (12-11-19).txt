@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  Arkansas State vs Missouri State (12-11-19)
+VISITORS: Arkansas State (7-3)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+03 Brevard, Malik...... f  0  3   0  1   0  0   1  4  5   1   0  0  2  0  0  17
+04 Matthews, J.J....... f  6  9   0  0   3  4   2  0  2   5  15  0  5  1  0  24
+00 Fields, Caleb....... g  0  2   0  1   2  2   1  2  3   2   2  1  5  0  0  28
+05 Willis, Christian... g  2  4   0  0   0  0   0  1  1   1   4  1  0  0  0  25
+12 Kus, Canberk........ g  7 11   2  4   0  0   1  1  2   3  16  0  1  0  0  32
+01 Johnson, Jerry......    3 11   1  3   6  6   0  2  2   1  13  1  1  0  2  27
+23 Eaton, Marquis......    0  5   0  2   3  4   0  3  3   3   3  1  1  0  3  29
+32 Jackson, Antwon.....    0  3   0  0   0  0   2  0  2   2   0  0  0  0  1  18
+TM TEAM................                         1     1             1
+   Totals..............   18 48   3 11  14 16   8 13 21  18  53  4 16  1  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  6-22  .273    12-26  .462    18-48  .375
+3-Pt. FG%:  0-5   .000     3-6   .500     3-11  .273
+F Throw %:  4-4  1.000    10-12  .833    14-16  .875
+Deadball rebounds: 1,1
+HOME TEAM: Missouri State (6-5)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+15 West,Lamont......... f  5  8   1  4   2  2   1  2  3   1  13  0  2  0  1  25
+30 Da Silva,Tulio...... f  3  5   0  0   3  4   3  2  5   3   9  1  2  2  1  32
+00 Dixon,Tyrik......... g  4  6   2  3   2  3   0  5  5   3  12  2  2  0  1  26
+01 Cook,Keandre........ g  5 11   1  4   6  6   0  3  3   1  17  3  1  1  0  37
+04 Black,Ja'Monta...... g  0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   9
+03 Brown,Spencer.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+11 Mosley,Isiaih.......    2  2   1  1   3  4   0  1  1   0   8  1  1  1  2  12
+21 Owens,Ross..........    1  1   1  1   0  0   0  0  0   1   3  0  0  0  0   1
+24 Ford Cooper,Jr......    0  1   0  1   0  0   0  0  0   3   0  3  3  0  1  13
+25 Scott,Darian........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+33 Hall,Josh...........    0  0   0  0   2  2   0  5  5   1   2  1  1  0  1  20
+44 Prim,Gaige..........    5 10   0  0   1  2   2  2  4   3  11  0  2  0  1  23
+TM TEAM................                            1  1
+   Totals..............   25 44   6 14  19 23   6 22 28  16  75 11 14  4  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-22  .545    13-22  .591    25-44  .568
+3-Pt. FG%:  2-9   .222     4-5   .800     6-14  .429
+F Throw %:  8-10  .800    11-13  .846    19-23  .826
+Deadball rebounds: 3,1
+Date: 12-11-19      Site: JQH Arena, Springfield, Mo.  Attendance: 3891
+Officials: Tom Eades; Rick Crawford; John Hendricks;
+Technical fouls: Arkansas State-Matthews, J.J.. Missouri State-,
+West,Lamont.
+Score by Periods      1  2   Total
+Arkansas State...... 16 37  - 53
+Missouri State...... 34 41  - 75
+Matthews (ASU) fouled out at 2:57 of 2nd half.

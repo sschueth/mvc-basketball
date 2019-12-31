@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                           Lehigh vs Drake (11-21-19)
+VISITORS: Lehigh (3-3,0-0 Patriot)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Jeameril Wilson..... f  2  4   1  1   1  2   0  2  2   4   6  0  2  1  2  21
+13 James Karnik........ c  6  9   0  0   2  4   3  4  7   3  14  0  1  0  0  29
+11 Jordan Cohen........ g  3 12   0  2   0  0   0  0  0   1   6  4  0  0  3  25
+15 Reed Fenton......... g  1  2   0  0   2  2   0  0  0   1   4  0  0  2  1  27
+20 Marques Wilson...... g  3  8   1  4   2  2   0  4  4   1   9  0  5  0  3  20
+00 Jakob Alamudun......    3  6   1  2   1  3   0  3  3   2   8  2  0  0  0  22
+02 Jake Betlow.........    2  7   1  4   2  2   0  0  0   1   7  0  2  0  0  24
+04 Andrei Arion........    0  1   0  0   0  0   1  1  2   0   0  0  0  0  0   1
+05 Evan Taylor.........    2  5   0  0   0  0   0  2  2   0   4  1  0  0  2  23
+25 Ed Porter...........    0  2   0  0   0  0   1  0  1   1   0  0  1  0  0   8
+TM TEAM................                         4  1  5             2
+   Totals..............   22 56   4 13  10 15   9 17 26  14  58  7 13  3 11 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-34  .412     8-22  .364    22-56  .393
+3-Pt. FG%:  3-6   .500     1-7   .143     4-13  .308
+F Throw %:  2-4   .500     8-11  .727    10-15  .667
+Deadball rebounds: 1
+HOME TEAM: Drake (4-1,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+21 Robbins, Liam....... f  5  7   0  1   3  4   0  4  4   2  13  1  1  3  2  24
+00 Wilkins, D.J........ g  5  9   3  7   0  0   0  3  3   2  13  1  3  0  0  32
+03 Sturtz, Garrett..... g  2  4   0  1   2  2   6  8 14   2   6  0  1  0  2  31
+04 Murphy, Anthony..... g  2  8   0  4   0  0   1  2  3   2   4  1  1  0  0  24
+12 Penn, Roman......... g  7  9   1  1   3  4   0  3  3   3  18  9  4  0  0  32
+01 Jones, Samm.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+11 Pilipovic, Antonio..    2  2   2  2   0  0   0  0  0   2   6  1  0  0  0  12
+14 Thomas, Noah........    5  7   1  3   0  0   0  1  1   0  11  1  3  0  0  16
+20 Jackson, Jonah......    1  6   1  6   0  0   0  1  1   1   3  0  3  1  0  18
+22 Barrett, Andrew.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+23 Yesufu, Joseph......    0  1   0  0   0  0   0  2  2   1   0  0  1  0  0   4
+25 Gholson, Connor.....    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   1
+31 Ernst, Brady........    0  0   0  0   0  0   0  2  2   0   0  0  0  0  0   4
+TM TEAM................                         1  2  3
+   Totals..............   29 53   8 25   8 10   8 29 37  15  74 14 17  4  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-24  .625    14-29  .483    29-53  .547
+3-Pt. FG%:  4-9   .444     4-16  .250     8-25  .320
+F Throw %:  6-8   .750     2-2  1.000     8-10  .800
+Deadball rebounds: 1
+Date: 11-21-19      Site: Des Moines, Iowa  Attendance: 2333
+Officials: Ervin Wilson; Owen Shortt; Zelton Steed;
+Technical fouls: Lehigh-None. Drake-None.
+Score by Periods      1  2   Total
+Lehigh.............. 33 25  - 58
+Drake............... 40 34  - 74
+2019-20 Men's Basketball. Round: 0. Drake vs Lehigh. Played at Drake Knapp Cen

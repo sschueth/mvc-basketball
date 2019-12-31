@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Duquesne vs Indiana State (11-21-19)
+VISITORS: Duquesne (4-0,0-0 Atlantic)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Marcus Weathers..... f  2  9   0  2   2  5   4  5  9   3   6  1  1  1  1  29
+21 Michael Hughes...... c  0  0   0  0   1  2   0  2  2   5   1  0  1  0  1   8
+00 Tavian Dunn-Martin.. g  2  8   1  5   2  2   0  3  3   2   7  2  3  0  1  26
+02 Maceo Austin........ g  3  7   0  2   7  8   3  6  9   2  13  0  2  0  1  35
+10 Sincere Carry....... g  3  9   1  4   8  8   0  3  3   3  15  3  3  1  1  37
+04 Lamar Norman Jr.....    3  6   3  5   0  0   0  0  0   0   9  0  0  0  1  17
+14 Ashton Miller.......    0  1   0  0   3  4   1  1  2   2   3  0  0  0  0  11
+22 Evan Buckley........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+34 Austin Rotroff......    0  0   0  0   0  0   0  0  0   3   0  0  0  0  0   3
+44 Baylee Steele.......    7 11   4  6   2  3   1  2  3   3  20  2  0  0  1  31
+TM TEAM................                                             2
+   Totals..............   20 51   9 24  25 32   9 22 31  23  74  8 12  2  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-26  .385    10-25  .400    20-51  .392
+3-Pt. FG%:  6-13  .462     3-11  .273     9-24  .375
+F Throw %:  7-8   .875    18-24  .750    25-32  .781
+Deadball rebounds: 4,4
+HOME TEAM: Indiana State (0-4,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Williams,Tre........ c  2  4   0  0   0  2   0  2  2   5   4  0  0  1  0  13
+02 Barnes,Jordan....... g  3  9   0  6   2  2   0  2  2   4   8  2  2  0  1  31
+04 Neese,Cooper........ g  2  3   2  3   0  0   0  4  4   0   6  0  1  0  1  21
+11 Key,Tyreke.......... g  7 13   2  4   5  5   2  4  6   3  21  2  7  0  0  34
+35 LaRavia,Jake........ g  7  9   0  1   4  5   1  1  2   4  18  0  1  0  0  22
+03 Bacote,Cameron......    1  4   0  2   2  2   0  0  0   4   4  3  1  0  0  20
+05 Kessinger,Bronson...    3  5   0  0   2  5   1  2  3   0   8  0  1  1  0  20
+10 Williams,Christian..    0  3   0  0   0  0   0  3  3   3   0  0  1  0  0  27
+20 Barnes,Cobie........    0  3   0  1   0  0   1  1  2   1   0  0  0  1  0   8
+34 Agbo,Christopher....    0  0   0  0   2  2   0  4  4   2   2  0  0  0  0   4
+TM TEAM................
+   Totals..............   25 53   4 17  17 23   5 23 28  26  71  7 14  3  2 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-32  .469    10-21  .476    25-53  .472
+3-Pt. FG%:  2-9   .222     2-8   .250     4-17  .235
+F Throw %:  7-9   .778    10-14  .714    17-23  .739
+Deadball rebounds: 3,2
+Date: 11-21-19      Site: Bahamas  Attendance: 300
+Officials: Wilson Holland; James Ford; Brad Gaston;
+Technical fouls: Duquesne-None. Indiana State-None.
+Score by Periods      1  2   Total
+Duquesne............ 33 41  - 74
+Indiana State....... 39 32  - 71
+2019-20 Men's Basketball. Round: 0. Duquesne vs Indiana St.. Played at .

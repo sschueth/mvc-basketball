@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Norfolk State vs Southern Illinois (12-04-19)
+VISITORS: Norfolk State (3-7,0-0 MEAC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+32 FORD,Chris.......... f  1  1   0  0   2  3   2  0  2   2   4  0  0  0  0   8
+04 BRYANT,Joe.......... g  3 10   2  5   2  2   1  2  3   1  10  0  1  0  2  30
+11 BISHOP,Jermaine..... g  3  6   3  5   0  0   0  2  2   0   9  1  5  0  0  31
+34 WHITLEY,Steven...... g  4 12   0  2   0  1   2  3  5   3   8  6  4  1  4  38
+42 Tyrese Jenkins...... g  1  5   0  3   0  0   2  2  4   1   2  1  0  0  0  14
+01 CHAMBERS,Nyzaiah....    1  1   0  0   0  0   0  0  0   0   2  0  0  0  0   2
+02 HICKS,Kashaun.......    0  1   0  1   0  0   0  0  0   1   0  0  1  0  0   8
+12 CARTER,Devante......    5  7   0  0   1  2   1  2  3   3  11  1  3  0  1  22
+13 ANDERSON,Daryl......    0  1   0  1   0  0   0  0  0   0   0  0  0  0  0   4
+23 Efstratios Kalogeria    4  7   0  2   0  1   0  4  4   3   8  0  0  0  0  29
+35 SIDIBE,Yoro.........    0  1   0  0   0  0   0  1  1   2   0  0  0  0  1   7
+55 Kyonze Chavis.......    2  2   1  1   0  0   0  1  1   0   5  1  0  0  1   7
+TM Team................                         1  1  2
+   Totals..............   24 54   6 20   5  9   9 18 27  16  59 10 14  1  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-31  .387    12-23  .522    24-54  .444
+3-Pt. FG%:  4-12  .333     2-8   .250     6-20  .300
+F Throw %:  2-4   .500     3-5   .600     5-9   .556
+Deadball rebounds: 2
+HOME TEAM: Southern Illinois (4-5,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Domask,Marcus....... f  6 13   4  8   2  2   7  5 12   1  18  1  3  0  0  35
+40 Benson,Barret....... c  1  3   0  1   0  0   0  4  4   2   2  1  1  0  1  17
+03 Suggs,Ronnie........ g  1  4   1  2   0  0   0  2  2   0   3  1  0  0  0  17
+04 McGill,Eric......... g  5 11   2  7   2  2   1  2  3   1  14  7  2  1  1  34
+05 Jones,Lance......... g  5  9   1  3   2  3   1  5  6   3  13  6  4  0  0  27
+02 Davis,Karrington....    1  2   0  0   0  0   0  0  0   1   2  0  1  0  1  12
+12 Dembele,Sekou.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+22 Francois,Harwin.....    4  6   3  4   0  0   1  3  4   3  11  2  3  0  1  20
+24 Brown,Trent.........    3  6   3  5   2  2   0  1  1   1  11  3  0  0  4  30
+25 Gooch,Brendon.......    0  0   0  0   2  2   1  0  1   0   2  0  0  1  0   5
+TM TEAM................                                             1
+   Totals..............   26 54  14 30  10 11  11 22 33  12  76 21 15  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-29  .483    12-25  .480    26-54  .481
+3-Pt. FG%:  8-18  .444     6-12  .500    14-30  .467
+F Throw %:  6-6  1.000     4-5   .800    10-11  .909
+Deadball rebounds: 0,1
+Date: 12-04-19      Site: Carbondale, Ill.  Attendance: 3761
+Officials: Winston Stith; Tommy Short; Jab Hartness;
+Technical fouls: Norfolk State-None. Southern Illinois-None.
+Score by Periods      1  2   Total
+Norfolk State....... 30 29  - 59
+Southern Illinois... 42 34  - 76
+2019-20 Men's Basketball. Round: 0. Norfolk St. vs Southern Ill.. Played at Ba

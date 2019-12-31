@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Luther College vs Northern Iowa (12-02-19)
+VISITORS: Luther College (4-4,0-0 American)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+32 Aaron Blumberg...... f  2  7   0  3   0  0   0  2  2   3   4  1  1  0  0  23
+04 Zach Randolph....... g  2  5   2  5   0  0   0  2  2   1   6  1  0  0  0  24
+20 Ray Whitlock........ g  0  4   0  0   0  0   1  3  4   0   0  3  0  1  1  18
+23 James Kappus........ g  3 10   3  9   1  2   0  2  2   0  10  2  1  0  2  23
+33 Garrian Wade........ g  4 11   2  4   0  0   1  2  3   1  10  0  1  0  2  28
+03 Anthony Westhusing..    2  6   1  4   0  0   0  0  0   0   5  1  0  0  0  18
+05 Gage Thompson.......    5 10   1  4   0  0   0  0  0   1  11  1  1  0  0  24
+10 Jordan Pennix.......    0  2   0  1   0  0   0  0  0   1   0  0  0  0  0   3
+12 Ethan Ilunga........    1  2   0  0   0  0   2  1  3   1   2  0  2  1  1  19
+14 Myke Shed...........    0  0   0  0   0  0   0  0  0   0   0  0  1  0  0   3
+31 Isaac Blanks........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+42 Jack Desmul.........    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+44 Rahul Bagga.........    1  5   1  3   0  0   0  1  1   1   3  2  3  0  0  15
+TM TEAM................                         4  1  5
+   Totals..............   20 63  10 33   1  2   8 14 22   9  51 11 10  2  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-29  .345    10-34  .294    20-63  .317
+3-Pt. FG%:  5-16  .313     5-17  .294    10-33  .303
+F Throw %:  1-2   .500     0-0   .000     1-2   .500
+Deadball rebounds: 0
+HOME TEAM: Northern Iowa (8-1,0-0 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 Phyfe, Austin....... f  5  5   0  0   0  1   4  5  9   1  10  0  0  0  0  17
+04 Green,AJ............ g  7 14   5 10   0  0   0  3  3   0  19  4  3  0  1  20
+11 Berhow,Trae......... g  6  8   5  7   0  0   0  5  5   1  17  1  1  0  0  22
+24 Brown,Isaiah........ g  3  4   0  0   0  0   2  3  5   0   6  1  1  0  1  23
+30 Haldeman,Spencer.... g  4  7   2  5   0  0   1  3  4   0  10  4  1  0  1  23
+12 Conrey,Lincoln......    0  2   0  1   0  0   2  3  5   0   0  1  1  0  0  12
+22 Pickford,Antwon.....    4  6   1  2   4  4   0  2  2   0  13  5  1  0  0  27
+32 Betz,James..........    2  3   2  3   2  2   1  4  5   1   8  1  0  1  0  19
+34 Mcdonnell,Luke......    1  4   0  2   0  0   0  3  3   1   2  0  0  1  0  12
+35 Carter,Noah.........   10 16   4  8   1  1   4  4  8   2  25  1  0  0  0  25
+TM TEAM................                            1  1
+   Totals..............   42 69  19 38   7  8  14 36 50   6 110 18  8  2  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 26-36  .722    16-33  .485    42-69  .609
+3-Pt. FG%:  8-17  .471    11-21  .524    19-38  .500
+F Throw %:  0-1   .000     7-7  1.000     7-8   .875
+Deadball rebounds: 0
+Date: 12-02-19      Site: Cedar Falls, Iowa  Attendance: 3088
+Officials:
+Technical fouls: Luther College-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+Luther College...... 26 25  - 51
+Northern Iowa....... 60 50  -110
+2019-20 Men's Basketball. Round: 0. Luther vs UNI. Played at McLeod Center.

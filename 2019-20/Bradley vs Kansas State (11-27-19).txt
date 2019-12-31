@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Bradley vs Kansas State (11-27-19)
+VISITORS: Bradley (5-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Childs, Elijah...... f  3  8   0  1   6  6   2  6  8   1  12  3  2  0  0  35
+22 Henry, Ja'Shon...... f  5  7   1  1   0  1   3  3  6   4  11  2  3  2  0  24
+12 Bar, Koch........... c  2  3   0  0   0  0   1  6  7   0   4  1  3  1  0  23
+05 Brown, Darrell...... g  4 12   4  8   4  5   0  3  3   3  16  2  3  0  1  33
+25 Kennell, Nate....... g  7 11   6  8   2  4   0  4  4   3  22  3  2  0  2  36
+00 Kingsby, Danya......    3  5   2  3   0  1   0  5  5   3   8  1  5  0  2  21
+01 Boya, Ari...........    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   2
+02 Thomas, Antonio.....    0  0   0  0   0  0   0  0  0   1   0  2  2  0  0  11
+03 Gabriel, Stephan....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+23 Tahvanainen, Ville..    0  2   0  2   0  0   0  0  0   0   0  1  1  0  0  13
+TM TEAM................                         1  3  4             2
+   Totals..............   24 48  13 23  12 17   7 30 37  16  73 15 23  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-24  .542    11-24  .458    24-48  .500
+3-Pt. FG%:  7-12  .583     6-11  .545    13-23  .565
+F Throw %:  5-8   .625     7-9   .778    12-17  .706
+Deadball rebounds: 2
+HOME TEAM: Kansas State (4-2)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 Antonio  Gordon..... f  2  5   0  2   0  0   1  2  3   3   4  0  1  0  0  21
+14 Makol Mawien........ f  4 12   0  0   1  2   1  2  3   3   9  0  3  1  2  25
+20 Xavier Sneed........ f  5 12   0  4   5  5   1  8  9   1  15  2  1  0  2  37
+00 Mike McGuirl........ g  3  6   2  5   2  3   1  0  1   4  10  0  0  0  0  24
+02 Cartier Diarra...... g  3  7   0  3   0  3   2  4  6   3   6  8  4  0  5  36
+01 Shaun Williams......    4  8   2  5   0  0   2  0  2   1  10  1  3  0  2  17
+03 DaJuan  Gordon......    2  5   0  2   0  0   1  2  3   3   4  0  2  0  1  18
+04 David Sloan.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   7
+24 Pierson McAtee......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+34 Levi Stockard III...    1  5   0  0   0  0   1  2  3   1   2  0  0  0  1  13
+TM TEAM................                                             1
+   Totals..............   24 60   4 21   8 13  10 20 30  19  60 11 15  1 13 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-29  .483    10-31  .323    24-60  .400
+3-Pt. FG%:  3-8   .375     1-13  .077     4-21  .190
+F Throw %:  6-8   .750     2-5   .400     8-13  .615
+Deadball rebounds: 1
+Date: 11-27-19      Site: Fort Myers, Fla.  Attendance: 2046
+Officials: Tim  Kelly; Bill  McCarthy; Dwayne Gladden;
+Technical fouls: Bradley-None. Kansas State-, Cartier Diarra, TEAM.
+Score by Periods      1  2   Total
+Bradley............. 38 35  - 73
+Kansas State........ 37 23  - 60
