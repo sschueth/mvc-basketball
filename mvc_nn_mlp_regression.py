@@ -46,9 +46,9 @@ def nn_input_format_to_train(years):
             if home_team == 'SE Missouri State':
                 home_team = 'Missouri State'
 
-            if visitor_team == 'Loyola Chicago' and (year == '2016-17' or year == '2018-19'):
+            if visitor_team == 'Loyola Chicago' and (year == '2016-17' or year == '2018-19' or '2019-20'):
                 visitor_team = 'Loyola'
-            if home_team == 'Loyola Chicago' and (year == '2016-17' or year == '2018-19'):
+            if home_team == 'Loyola Chicago' and (year == '2016-17' or year == '2018-19' or '2019-20'):
                 home_team = 'Loyola'
 
             home_nn_data = nn_data[home_team]
@@ -151,7 +151,7 @@ def nn_normalize_data(x_train,x_test):
     return x_train_norm, x_test_norm, scaler
 
 def main():
-    years = ['2015-16','2016-17','2017-18','2018-19']
+    years = ['2015-16','2016-17','2017-18','2018-19','2019-20']
     #years = ['2016-17','2017-18','2018-19']
     #years = ['2017-18']
     split_pct = 0.8

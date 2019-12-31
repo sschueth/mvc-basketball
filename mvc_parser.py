@@ -135,7 +135,7 @@ def parse_boxscores(year):
 
 def main():
     #years = ['2015-16','2016-17','2017-18']
-    years = ['2018-19']
+    years = ['2019-20']
     for y in years:
         game_dict = parse_boxscores(year = y)
         

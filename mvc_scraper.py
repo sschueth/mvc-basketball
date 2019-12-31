@@ -20,7 +20,10 @@ import time
 def get_links_data(year_range):
     
     # Get this seasons schedule home page as html data
-    URL = 'http://mvc.org/mbb/stats/'+year_range+'/confstat.htm'
+    if year_range == '2019-20':
+        URL = 'http://mvc.org/mbb/stats/confstat.htm'
+    else:
+        URL = 'http://mvc.org/mbb/stats/'+year_range+'/confstat.htm'
     r = requests.get(URL)
     soup = BeautifulSoup(r.content, 'html5lib')
     soup_pretty = soup.prettify()
@@ -46,7 +49,7 @@ def get_links_data(year_range):
 # Output: N/A
 def main_get_links():
     mvc_txtfile = 'mvc_game_links_'
-    years = ['2012-13','2013-14','2014-15','2015-16','2016-17','2017-18','2018-19']
+    years = ['2012-13','2013-14','2014-15','2015-16','2016-17','2017-18','2018-19','2019-20']
     for idx in tqdm(range(0,len(years))):
         year = years[idx]
         refs = get_links_data(year)
@@ -61,7 +64,10 @@ def main_get_links():
 def get_game_data(year,game):
     
     # Get this games box score data from the provided url
-    URL = 'http://www.mvc.org/mbb/stats/'+year+'/'+game
+    if year == '2019-20':
+        URL = 'http://www.mvc.org/mbb/stats/'+game
+    else:
+        URL = 'http://www.mvc.org/mbb/stats/'+year+'/'+game
     r = requests.get(URL)
     soup = BeautifulSoup(r.content,'html5lib')
     soup_pretty = soup.prettify()
@@ -98,7 +104,7 @@ def main_get_games():
     
     # Get links to the games box score
     links_list = []
-    with open('mvc_links/mvc_game_links_6.txt','r') as links_file:
+    with open('mvc_links/mvc_game_links_7.txt','r') as links_file:
         for link in links_file:
             link = link.replace('\n','')
             links_list.append(link)
@@ -106,7 +112,7 @@ def main_get_games():
     # Get box score for each link
     for link_idx in tqdm(range(0,len(links_list))):
         tic = time.time()
-        file_name, box_score = get_game_data('2018-19',links_list[link_idx])
+        file_name, box_score = get_game_data('2019-20',links_list[link_idx])
         # Save box score data as a .txt file
         with open(file_name, 'w') as file:
             for b in box_score:
