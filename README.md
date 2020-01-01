@@ -9,7 +9,7 @@ This project will use a neural network trained with supervised learning. The key
 3. Rebounding: ORB% & DRB%
 4. Free Throws: FTf
 
-## Moneyline NN
+### Moneyline NN
 MLP Classifier Neural Network with two hidden layers consisting of 20 nuerons each using the logistic activation function.
 
 Inputs:
