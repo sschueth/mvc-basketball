@@ -41,14 +41,17 @@ def nn_input_format_to_train(years, get_last_data = False):
             visitor_team = bs_data[idx]['Visitor']['Team']
             d = datetime.date(day=int(bs_data[idx]['Day']),month=int(bs_data[idx]['Month']),year=int(bs_data[idx]['Year']))
             
+            if idx == 4 and year == '2015-16':
+                print('Here')
+
             if visitor_team == 'SE Missouri State':
                 visitor_team = 'Missouri State'
             if home_team == 'SE Missouri State':
                 home_team = 'Missouri State'
 
-            if visitor_team == 'Loyola Chicago' and (year == '2016-17' or year == '2018-19' or '2019-20'):
+            if visitor_team == 'Loyola Chicago' and (year == '2016-17' or year == '2018-19' or year == '2019-20'):
                 visitor_team = 'Loyola'
-            if home_team == 'Loyola Chicago' and (year == '2016-17' or year == '2018-19' or '2019-20'):
+            if home_team == 'Loyola Chicago' and (year == '2016-17' or year == '2018-19' or year == '2019-20'):
                 home_team = 'Loyola'
 
             home_nn_data = nn_data[home_team]
