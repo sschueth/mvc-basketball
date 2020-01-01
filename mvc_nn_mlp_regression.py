@@ -54,54 +54,50 @@ def nn_input_format_to_train(years, get_last_data = False):
             home_nn_data = nn_data[home_team]
             visitor_nn_data = nn_data[visitor_team]
             
-            if get_last_data == False:
-                has_nn_data_before_game = False
-                home_has_nn_data_before_game = False
-                visitor_has_nn_data_before_game = False
-                delta_iter = 0
-                home_nn_date_to_use = d
-                visitor_nn_date_to_use = d
+            
+            has_nn_data_before_game = False
+            home_has_nn_data_before_game = False
+            visitor_has_nn_data_before_game = False
+            delta_iter = 0
+            home_nn_date_to_use = d
+            visitor_nn_date_to_use = d
 
-                while delta_iter < max_day_delta_iter and has_nn_data_before_game == False:
-                    if home_has_nn_data_before_game == False:
-                        home_nn_date_to_use = home_nn_date_to_use - day_delta
-                        if home_nn_date_to_use in home_nn_data:
-                            home_has_nn_data_before_game = True
-                    if visitor_has_nn_data_before_game == False:
-                        visitor_nn_date_to_use = visitor_nn_date_to_use - day_delta
-                        if visitor_nn_date_to_use in visitor_nn_data:
-                            visitor_has_nn_data_before_game = True
-                    if home_has_nn_data_before_game and visitor_has_nn_data_before_game:
-                        has_nn_data_before_game = True
-                    delta_iter = delta_iter + 1
+            while delta_iter < max_day_delta_iter and has_nn_data_before_game == False:
+                if home_has_nn_data_before_game == False:
+                    home_nn_date_to_use = home_nn_date_to_use - day_delta
+                    if home_nn_date_to_use in home_nn_data:
+                        home_has_nn_data_before_game = True
+                if visitor_has_nn_data_before_game == False:
+                    visitor_nn_date_to_use = visitor_nn_date_to_use - day_delta
+                    if visitor_nn_date_to_use in visitor_nn_data:
+                        visitor_has_nn_data_before_game = True
+                if home_has_nn_data_before_game and visitor_has_nn_data_before_game:
+                    has_nn_data_before_game = True
+                delta_iter = delta_iter + 1
 
-                if has_nn_data_before_game == True:
-                    this_game_inputs = []
-                    this_game_outputs = []
-                    for input_field in nn_input_fields:
-                        this_game_inputs.append( home_nn_data[home_nn_date_to_use]['For'][input_field] )
-                    for input_field in nn_input_fields:
-                        this_game_inputs.append( home_nn_data[home_nn_date_to_use]['Against'][input_field] )
-                    for input_field in nn_input_fields:
-                        this_game_inputs.append( visitor_nn_data[visitor_nn_date_to_use]['For'][input_field] )
-                    for input_field in nn_input_fields:
-                        this_game_inputs.append( visitor_nn_data[visitor_nn_date_to_use]['Against'][input_field] )
+            if has_nn_data_before_game == True:
+                this_game_inputs = []
+                this_game_outputs = []
+                for input_field in nn_input_fields:
+                    this_game_inputs.append( home_nn_data[home_nn_date_to_use]['For'][input_field] )
+                for input_field in nn_input_fields:
+                    this_game_inputs.append( home_nn_data[home_nn_date_to_use]['Against'][input_field] )
+                for input_field in nn_input_fields:
+                    this_game_inputs.append( visitor_nn_data[visitor_nn_date_to_use]['For'][input_field] )
+                for input_field in nn_input_fields:
+                    this_game_inputs.append( visitor_nn_data[visitor_nn_date_to_use]['Against'][input_field] )
                 
-                    #for output_field in nn_output_fields:
-                    #    this_game_outputs.append( bs_data[idx][output_field] )
-                    this_game_outputs = bs_data[idx]['Home W/L']
+                #for output_field in nn_output_fields:
+                #    this_game_outputs.append( bs_data[idx][output_field] )
+                this_game_outputs = bs_data[idx]['Home W/L']
 
-                    this_game_info = [d,home_team,visitor_team]
-
-                    nn_data_inputs.append(this_game_inputs)
-                    nn_data_outputs.append(this_game_outputs)
-                    nn_data_games_info.append(this_game_info)
+                this_game_info = [d,home_team,visitor_team]
+                nn_data_inputs.append(this_game_inputs)
+                nn_data_outputs.append(this_game_outputs)
+                nn_data_games_info.append(this_game_info)
                 #print(idx)
-                return nn_data_inputs, nn_data_outputs, nn_data_games_info
-            else:
-                today = datetime.date.today()
-                
-                return nn_data_input, nn_data_ouput, nn_data_games_info
+    return nn_data_inputs, nn_data_outputs, nn_data_games_info
+            
 def create_nn(x_data,y_data):
     #nn = MLPRegressor(hidden_layer_sizes=(20,20,),activation='logistic',learning_rate='adaptive',tol=1e-20,solver='adam',max_iter=50000,verbose=True)
     nn = MLPClassifier(hidden_layer_sizes=(20,20,),activation='logistic',learning_rate='adaptive',tol=1e-20,solver='adam',max_iter=50000,verbose=True)
