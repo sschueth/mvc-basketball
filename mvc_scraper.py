@@ -49,11 +49,29 @@ def get_links_data(year_range):
 # Output: N/A
 def main_get_links():
     mvc_txtfile = 'mvc_game_links_'
-    years = ['2012-13','2013-14','2014-15','2015-16','2016-17','2017-18','2018-19','2019-20']
+    #years = ['2012-13','2013-14','2014-15','2015-16','2016-17','2017-18','2018-19','2019-20']
+    years = ['2019-20']
     for idx in tqdm(range(0,len(years))):
         year = years[idx]
         refs = get_links_data(year)
-        local_mvc_txtfile = mvc_txtfile + str(idx) + '.txt'
+        orig_refs = refs
+        prev_local_mvc_txtfile = 'mvc_links/'+mvc_txtfile+year+'.txt'
+
+        prev_link_list = []
+        with open(prev_local_mvc_txtfile,'r') as link_file:
+            link = link_file.readlines()
+            for l in link:
+                l = l.replace('\n','')
+                prev_link_list.append(l)
+
+        with open(prev_local_mvc_txtfile,'w') as file:
+            for ref in orig_refs:
+                file.write('%s\n' % ref)
+
+        for link in prev_link_list:
+            if link in refs:
+                refs.remove(link)
+        local_mvc_txtfile = 'mvc_links/'+ mvc_txtfile + year + '_new.txt'
         with open(local_mvc_txtfile,'w') as file:
             for ref in refs:
                 file.write('%s\n' % ref)
@@ -104,7 +122,7 @@ def main_get_games():
     
     # Get links to the games box score
     links_list = []
-    with open('mvc_links/mvc_game_links_7.txt','r') as links_file:
+    with open('mvc_links/mvc_game_links_2019-20_new.txt','r') as links_file:
         for link in links_file:
             link = link.replace('\n','')
             links_list.append(link)
@@ -112,9 +130,10 @@ def main_get_games():
     # Get box score for each link
     for link_idx in tqdm(range(0,len(links_list))):
         tic = time.time()
-        file_name, box_score = get_game_data('2019-20',links_list[link_idx])
+        year = '2019-20'
+        file_name, box_score = get_game_data(year,links_list[link_idx])
         # Save box score data as a .txt file
-        with open(file_name, 'w') as file:
+        with open(year+'/'+file_name, 'w') as file:
             for b in box_score:
                 file.writelines('%s\n' % b)
         toc = time.time()

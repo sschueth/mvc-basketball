@@ -140,7 +140,7 @@ def main():
         game_dict = parse_boxscores(year = y)
         
         # Save dict/database as a pickle file
-        pickle_name = 'box-score-dict-'+y+'.p'
+        pickle_name = 'databases/box-score-dict-'+y+'.p'
         with open(pickle_name,'wb') as pick_file:
             pickle.dump(game_dict, pick_file)
             

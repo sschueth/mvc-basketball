@@ -113,18 +113,19 @@ def create_nn_data(data_db, conf_teams,only_most_recent = False):
 
 def save_nn_data(data_avg_db,year):
     # Save Neural Net training data inputs in a pickle file
-    pickle_name = 'nn-training-data-inputs-'+year+'.p'         
+    pickle_name = 'databases/nn-training-data-inputs-'+year+'.p'         
     with open(pickle_name,'wb') as pick_file:
         pickle.dump(data_avg_db, pick_file)
 
     print('Saved dictionary: ' + pickle_name)
 
-def main():
-    year = input('Year range: ')
+def main(year):
+    
     data_db, conf_teams = load_boxscores(year)
     data_avg_db = create_nn_data(data_db,conf_teams)
     save_nn_data(data_avg_db,year)
     print('Do something.')
 
 if __name__ == '__main__':
-    main()
+    year = input('Year range: ')
+    main(year)
