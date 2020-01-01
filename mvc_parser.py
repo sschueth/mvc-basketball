@@ -55,7 +55,7 @@ def parse_boxscores(year):
             file_date = file_date.split('-')
             file_month = file_date[0]
             file_day = file_date[1]
-            file_year = file_date[2]
+            file_year = '20'+file_date[2]
             # Read box score data
             with open(year+'/'+file_name_txt,'r') as myFile:
                 data = myFile.readlines()
@@ -134,8 +134,8 @@ def parse_boxscores(year):
     return game_dict
 
 def main():
-    #years = ['2015-16','2016-17','2017-18']
-    years = ['2019-20']
+    years = ['2015-16','2016-17','2017-18','2018-19','2019-20']
+    #years = ['2019-20']
     for y in years:
         game_dict = parse_boxscores(year = y)
         
