@@ -25,7 +25,7 @@ def load_boxscores(year):
 
 
 
-def create_nn_data(data_db, conf_teams):
+def create_nn_data(data_db, conf_teams,only_most_recent = False):
     # List of fields in the box score database
     box_score_fields = ['FG','FGA','3FG','3FGA','FT','FTA','ORB','DRB','REB','PF','TP','A','TO','BLK','S']
 
@@ -55,9 +55,10 @@ def create_nn_data(data_db, conf_teams):
                 this_team_idx_list.append(idx)
                 this_date_list.append(datetime.date(month = int(data_db[idx]['Month']), day = int(data_db[idx]['Day']), year = int(data_db[idx]['Year'])))
                 this_team_home_list.append(0)
-            
+        
+        len_list = len(this_team_idx_list)
         # Compile all box scores up to a certain date in the new NN inputs database
-        while len(this_team_idx_list) > 0:
+        while len_list > 0:
         
             # Find the latest date (in the remaining list) that this team played
             max_date = this_date_list[0]
@@ -100,11 +101,15 @@ def create_nn_data(data_db, conf_teams):
             data_avg_db[team][max_date]['Against']['DRB%'] = data_avg_db[team][max_date]['Against']['DRB'] / (data_avg_db[team][max_date]['Against']['DRB'] + data_avg_db[team][max_date]['For']['ORB'])
             data_avg_db[team][max_date]['Against']['FTf'] = data_avg_db[team][max_date]['Against']['FT']/data_avg_db[team][max_date]['Against']['FGA']
 
-            # Remove the latest date from this list, working backwards to compile totals/averages at each given date
-            this_team_idx_list.pop(max_date_idx)
-            this_date_list.pop(max_date_idx)
-            this_team_home_list.pop(max_date_idx)
-    
+            if only_most_recent:
+                len_list = 0
+            else:
+                # Remove the latest date from this list, working backwards to compile totals/averages at each given date
+                this_team_idx_list.pop(max_date_idx)
+                this_date_list.pop(max_date_idx)
+                this_team_home_list.pop(max_date_idx)
+                len_list = len(this_team_idx_list)
+
     return data_avg_db
 
 def save_nn_data(data_avg_db,year):
