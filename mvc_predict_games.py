@@ -9,14 +9,15 @@
 # Import Modules
 import numpy as np
 from sklearn.preprocessing import StandardScaler
-from sklearn.neural_network import MLPRegressor
+from sklearn.neural_network import MLPRegressor, MLPClassifier
 import pickle
 from datetime import timedelta
 import datetime
+from mvc_create_nn_data import create_nn_data, load_boxscores
 from mvc_nn_mlp_regression import nn_input_format_to_train
 
 def load_nn():
-    db = 'databases/neural-net-model-win-loss.p'
+    db = 'databases/neural-net-model-win-loss-classifier.p'
     with open(db,'rb') as pickle_file:
         pickle_data = pickle.load(pickle_file)
     nn = pickle_data[0]
@@ -36,34 +37,57 @@ def get_idx_most_recent(game_info):
     return max_idx
     
 def predict_game(home,visitor,year,nn,scaler):
-    year = '2018-19'
-    nn_data_inputs, nn_data_outputs, nn_data_game_info = nn_input_format_to_train([year],get_last_data=True)
-    home_nn_data_inputs = []
-    home_nn_data_outputs = []
-    home_nn_data_game_info = []
-    visitor_nn_data_inputs = []
-    visitor_nn_data_outputs = []
-    visitor_nn_data_game_info = []
+    #year = '2018-19'
+    data_db, conf_teams = load_boxscores(year)
+    data_avg_db = create_nn_data(data_db,conf_teams,only_most_recent=True)
+    home_key = list(data_avg_db[home].keys())
+    home_nn_data_inputs = data_avg_db[home][home_key[0]]
+    visitor_key = list(data_avg_db[visitor].keys())
+    visitor_nn_data_inputs = data_avg_db[visitor][visitor_key[0]]
 
-    for data_idx in range(0, len(nn_data_game_info)):
-        this_home = nn_data_game_info[data_idx][1]
-        this_visitor = nn_data_game_info[data_idx][2]
-        if home in this_home or  home in this_visitor:
-            home_nn_data_inputs.append(nn_data_inputs[data_idx])
-            home_nn_data_outputs.append(nn_data_outputs[data_idx])
-            home_nn_data_game_info.append(nn_data_game_info[data_idx])
-        if visitor in this_home or visitor in this_visitor:
-            visitor_nn_data_inputs.append(nn_data_inputs[data_idx])
-            visitor_nn_data_outputs.append(nn_data_outputs[data_idx])
-            visitor_nn_data_game_info.append(nn_data_game_info[data_idx])
+    #for data_idx in range(0, len(nn_data_game_info)):
+    #    this_home = nn_data_game_info[data_idx][1]
+    #    this_visitor = nn_data_game_info[data_idx][2]
+    #    if home in this_home or  home in this_visitor:
+    #        home_nn_data_inputs.append(nn_data_inputs[data_idx])
+    #        home_nn_data_outputs.append(nn_data_outputs[data_idx])
+    #        home_nn_data_game_info.append(nn_data_game_info[data_idx])
+    #    if visitor in this_home or visitor in this_visitor:
+    #        visitor_nn_data_inputs.append(nn_data_inputs[data_idx])
+    #        visitor_nn_data_outputs.append(nn_data_outputs[data_idx])
+    #        visitor_nn_data_game_info.append(nn_data_game_info[data_idx])
 
-    h_idx = get_idx_most_recent(home_nn_data_game_info)
-    v_idx = get_idx_most_recent(visitor_nn_data_game_info)
+    #h_idx = get_idx_most_recent(home_nn_data_game_info)
+    #v_idx = get_idx_most_recent(visitor_nn_data_game_info)
+    input_fields = ['eFG%','TOV%','ORB%','DRB%','FTf']
 
+    this_game_inputs = []
+
+    for input_field in input_fields: 
+        this_game_inputs.append(home_nn_data_inputs['For'][input_field])
+    for input_field in input_fields:
+        this_game_inputs.append(home_nn_data_inputs['Against'][input_field])
+    for input_field in input_fields:
+        this_game_inputs.append(visitor_nn_data_inputs['For'][input_field])
+    for input_field in input_fields:
+        this_game_inputs.append(visitor_nn_data_inputs['Against'][input_field])
     
-
-    confidence = 0
-    return confidence
+    x = scaler.transform([this_game_inputs])
+    y = nn.predict_log_proba(x)
+    winning_team = ''
+    winning_conf = False
+    winning_log_proba = 0
+    conf_lim = 0.999-1
+    if y[0][0] > y[0][1]:
+        winning_team = visitor
+        winning_log_proba = y[0][0]
+    else:
+        winning_team = home
+        winning_log_proba = y[0][1]
+    if winning_log_proba > conf_lim:
+        winning_conf = True
+    
+    return winning_team, winning_conf, winning_log_proba
 
 def intro(year):
     print('\n------- Money Valley Conference --------------\n')
@@ -90,15 +114,17 @@ def main():
         home_money_line = input('Home team ML: ')
         visitor_money_line = input('Visitor team ML: ')
 
-        predict_game(home_team, visitor_team,curr_year, nn, scaler)
+        pred_team, conf, log_proba = predict_game(home_team, visitor_team,curr_year, nn, scaler)
 
-        print('\n\n')
-        print('Some prediction and why...')
-        print('\n\n')
-        keep_betting = input('Check another game? [y/n] \n')
+        print('\n')
+        print('Prediction: ' + pred_team)
+        print('Confident? ' + str(conf))
+        print('Log Probability: ',log_proba)
+        print('\n')
+        keep_betting = input('Check another game? [y/n]: ')
         if keep_betting == 'y':
             game_num = game_num + 1
-            print('\n\n\n')
+            print('-------------------------------------\n')
         elif keep_betting == 'n':
             betting = False
         else:
