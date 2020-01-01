@@ -109,7 +109,6 @@ def create_nn_data(data_db, conf_teams,only_most_recent = False):
                 this_date_list.pop(max_date_idx)
                 this_team_home_list.pop(max_date_idx)
                 len_list = len(this_team_idx_list)
-
     return data_avg_db
 
 def save_nn_data(data_avg_db,year):
