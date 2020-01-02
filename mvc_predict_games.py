@@ -89,6 +89,34 @@ def predict_game(home,visitor,year,nn,scaler):
     
     return winning_team, winning_conf, winning_log_proba
 
+def get_units_to_bet(odds, conf):
+    odds_factor = 0
+    conf_factor = 0
+
+    if odds > 0:
+        if odds >= 300:
+            odds_factor = 2
+        else:
+            odds_factor = odds/200 + 0.5
+    else:
+        if odds <= -300:
+            odds_factor = 0.1
+        else:
+            odds_factor = 0.9/200*odds + 1.45
+    
+    conf = -conf
+    if conf >= 0.1:
+        conf_factor = 0.1
+    elif conf <= 0.00001:
+        conf_factor = 2
+    else:
+        conf_factor = -0.42 - 0.208*np.log(conf)
+    
+    units = conf_factor * odds_factor
+    return units
+
+
+
 def intro(year):
     print('\n------- Money Valley Conference --------------\n')
     print('Conference teams: \n')
@@ -120,6 +148,14 @@ def main():
         print('Prediction: ' + pred_team)
         print('Confident? ' + str(conf))
         print('Log Probability: ',log_proba)
+        if pred_team == home_team:
+            moneyline = float(home_money_line)
+        else:
+            moneyline = float(visitor_money_line)
+        
+        bet_units = get_units_to_bet(moneyline, log_proba)
+        print('Suggested num of units: ', round(bet_units,2))
+
         print('\n')
         keep_betting = input('Check another game? [y/n]: ')
         if keep_betting == 'y':
