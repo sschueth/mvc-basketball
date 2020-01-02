@@ -126,6 +126,8 @@ def main(year):
     save_nn_data(data_avg_db,year)
     print('Do something.')
 
+
+
 if __name__ == '__main__':
     year = input('Year range: ')
     main(year)
