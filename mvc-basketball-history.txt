@@ -1,0 +1,10 @@
+date,home,visitor,home moneyline,visitor moneyline,mvc-basketball-prediction,mvc-basketball-confidence,mvc-basketball-units-bet,home total,visitor total
+1/4/2020,Southern Illinois,Illinois State
+1/4/2020,Drake,Indiana State
+1/4/2020,Evansville,Valparaiso
+1/4/2020,Loyola,Missouri State
+1/4/2020,Northern Iowa,Bradley
+1/7/2020,Illinois State,Missouri State
+1/7/2020,Northern Iowa,Indiana State
+1/7/2020,Southern Illinois,Valparaiso
+1/7/2020,Drake,Loyola
