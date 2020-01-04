@@ -1,9 +1,9 @@
-date,home,visitor,home moneyline,visitor moneyline,mvc-basketball-prediction,mvc-basketball-confidence,mvc-basketball-units-bet,home total,visitor total
-1/4/2020,Southern Illinois,Illinois State
-1/4/2020,Drake,Indiana State
-1/4/2020,Evansville,Valparaiso
-1/4/2020,Loyola,Missouri State
-1/4/2020,Northern Iowa,Bradley
+date,home,visitor,home moneyline,visitor moneyline,mvc-basketball-prediction,mvc-basketball-confidence,conf-val,mvc-basketball-units-bet,bet-dollar,home total,visitor total
+1/4/2020,Southern Illinois,Illinois State,-145,+125,Illinois State,yes,-1.7e-8,1.59,$7.95
+1/4/2020,Drake,Indiana State,-165,+145,Drake,yes,-1.9e-6,1.41,$7.05
+1/4/2020,Evansville,Valparaiso,-125,+105,Evansville,yes,-3.1e-14,1.77,$8.85
+1/4/2020,Loyola,Missouri State,-260,+220,Loyola,yes,-7.7e-4,0.2,$2.00
+1/4/2020,Northern Iowa,Bradley,-330,+270,Northern Iowa,yes,-1.1e-5,0.3,$2.00
 1/7/2020,Illinois State,Missouri State
 1/7/2020,Northern Iowa,Indiana State
 1/7/2020,Southern Illinois,Valparaiso
