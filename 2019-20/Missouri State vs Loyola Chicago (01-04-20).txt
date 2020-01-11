@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  Missouri State vs Loyola Chicago (01-04-20)
+VISITORS: Missouri State (7-8 (1-1 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 Mosley,Isiaih....... f  4  7   1  2   3  4   1  3  4   1  12  0  2  1  1  36
+15 West,Lamont......... f  2  6   2  6   0  0   0  3  3   3   6  0  0  0  1  24
+30 Da Silva,Tulio...... f  1  4   1  3   0  0   3  6  9   3   3  3  5  0  0  22
+00 Dixon,Tyrik......... g  3  5   2  3   0  0   0  3  3   5   8  3  3  0  0  28
+01 Cook,Keandre........ g  4 14   2  7   0  0   1  5  6   4  10  2  4  0  0  38
+24 Ford Cooper,Jr......    1  2   1  2   0  0   0  0  0   1   3  2  0  0  0  12
+33 Hall,Josh...........    1  2   0  0   0  0   1  1  2   3   2  1  1  1  1  17
+44 Prim,Gaige..........    6 11   0  0   2  2   0  2  2   2  14  2  1  3  0  23
+TM TEAM................                         3  2  5             3
+   Totals..............   22 51   9 23   5  6   9 25 34  22  58 13 19  5  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-28  .429    10-23  .435    22-51  .431
+3-Pt. FG%:  5-14  .357     4-9   .444     9-23  .391
+F Throw %:  1-2   .500     4-4  1.000     5-6   .833
+Deadball rebounds: 1
+HOME TEAM: Loyola Chicago (10-5 (2-0 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+24 Hall, Tate.......... f  0  3   0  2   3  4   1  3  4   1   3  2  0  0  0  30
+30 Uguak, Aher......... f  2  4   0  1   1  2   1  2  3   2   5  4  2  0  2  30
+25 Krutwig, Cameron.... c  9 18   0  0   5  7   1  6  7   3  23  1  0  2  1  30
+01 Williamson, Lucas... g  5  6   1  2   1  2   0  2  2   1  12  0  0  0  2  32
+05 Clemons, Keith...... g  2  7   0  3   0  2   1  1  2   1   4  1  2  0  2  29
+00 Wojcik, Paxson......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  1   5
+12 Kennedy, Marquise...    3  6   1  2   6  8   0  1  1   1  13  2  1  0  1  20
+33 Agunanne, Franklin..    1  2   0  0   0  0   0  3  3   1   2  0  1  0  0  10
+50 Pipkins, Jalon......    0  2   0  0   0  1   0  0  0   0   0  1  0  0  0  14
+TM TEAM................                         1  2  3
+   Totals..............   22 48   2 10  16 26   5 20 25  10  62 11  6  2  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-23  .478    11-25  .440    22-48  .458
+3-Pt. FG%:  1-4   .250     1-6   .167     2-10  .200
+F Throw %:  4-7   .571    12-19  .632    16-26  .615
+Deadball rebounds: 6
+Date: 01-04-20      Site: Gentile Arena - Chicago, Ill.  Attendance: 2795
+Officials: Jeff Malham; Ed Crenshaw; James Durham;
+Technical fouls: Missouri State-None. Loyola Chicago-None.
+Score by Periods      1  2   Total
+Missouri State...... 30 28  - 58
+Loyola Chicago...... 27 35  - 62
+Flagrant foul LUC #5 8:31 1st half

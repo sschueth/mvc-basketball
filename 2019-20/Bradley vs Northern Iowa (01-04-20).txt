@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Bradley vs Northern Iowa (01-04-20)
+VISITORS: Bradley (10-5,1-1 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+10 Childs, Elijah...... f  5 10   1  4   0  3   0  6  6   4  11  2  2  1  0  25
+12 Bar, Koch........... c  0  1   0  0   2  2   1  4  5   3   2  0  2  1  0  25
+02 Thomas, Antonio..... g  1  3   0  0   0  0   1  1  2   1   2  1  0  0  1  16
+05 Brown, Darrell...... g  3 14   0  5   6 10   0  1  1   4  12  3  1  0  1  36
+25 Kennell, Nate....... g  6 11   4  8   2  2   3  6  9   1  18  1  0  0  3  32
+00 Kingsby, Danya......    3  9   0  3   1  2   1  2  3   4   7  2  1  0  0  24
+01 Boya, Ari...........    1  2   0  0   2  3   1  0  1   3   4  0  0  1  0   6
+22 Henry, Ja'Shon......    1  2   0  0   1  3   1  4  5   1   3  1  2  0  0  22
+23 Tahvanainen, Ville..    2  2   1  1   0  0   0  1  1   0   5  0  0  0  0  14
+TM TEAM................                         1  5  6
+   Totals..............   22 54   6 21  14 25   9 30 39  21  64 10  8  3  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-25  .440    11-29  .379    22-54  .407
+3-Pt. FG%:  4-10  .400     2-11  .182     6-21  .286
+F Throw %:  6-11  .545     8-14  .571    14-25  .560
+Deadball rebounds: 3
+HOME TEAM: Northern Iowa (12-2,1-1 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 Phyfe, Austin....... f  3  9   0  0   4  5   4  2  6   3  10  2  0  0  0  24
+03 Pickford,Tywhon..... g  2  5   0  1   1  4   4 12 16   3   5  0  0  0  0  27
+04 Green,AJ............ g 10 21   7 13   8  8   0  0  0   1  35  1  3  0  1  38
+11 Berhow,Trae......... g  2  8   0  4   2  2   0  3  3   4   6  1  1  0  1  27
+24 Brown,Isaiah........ g  0  6   0  3   2  2   1  1  2   3   2  2  2  2  1  38
+15 Dahl,Justin.........    2  4   0  0   0  2   1  2  3   0   4  3  0  0  0  16
+22 Pickford,Antwon.....    0  3   0  2   2  2   0  2  2   3   2  0  1  0  1  10
+35 Carter,Noah.........    2  4   1  3   0  0   1  3  4   4   5  0  1  0  0  20
+TM TEAM................                         1  6  7             1
+   Totals..............   21 60   8 26  19 25  12 31 43  21  69  9  9  2  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 12-35  .343     9-25  .360    21-60  .350
+3-Pt. FG%:  4-15  .267     4-11  .364     8-26  .308
+F Throw %:  6-8   .750    13-17  .765    19-25  .760
+Deadball rebounds: 3
+Date: 01-04-20      Site: Cedar Falls, Iowa  Attendance: 4269
+Officials:
+Technical fouls: Bradley-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+Bradley............. 32 32  - 64
+Northern Iowa....... 34 35  - 69
+2019-20 Men's Basketball. Round: 0. Bradley vs UNI. Played at McLeod Center.

@@ -1,0 +1,52 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                  Missouri State vs Illinois State (01-07-20)
+VISITORS: Missouri State (8-8,2-1 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 Mosley,Isiaih....... f  5 11   1  3   0  0   3  5  8   1  11  1  0  0  1  31
+15 West,Lamont......... f  1 10   1  6   5  5   2  5  7   1   8  3  1  0  0  30
+30 Da Silva,Tulio...... f  4  7   0  1   3  4   2  3  5   2  11  1  1  0  0  22
+00 Dixon,Tyrik......... g  1 10   1  5   0  2   0  2  2   1   3  7  2  0  2  38
+01 Cook,Keandre........ g  6 14   4  8   6  6   1  2  3   2  22  1  1  0  2  36
+04 Black,Ja'Monta......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   1
+23 Mohammed,Kabir......    0  0   0  0   0  0   1  0  1   0   0  0  0  0  0   3
+24 Ford Cooper,Jr......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   4
+33 Hall,Josh...........    0  1   0  1   0  0   0  2  2   2   0  0  0  0  2  15
+44 Prim,Gaige..........    5  9   0  0   2  2   1  2  3   3  12  2  3  1  1  20
+TM TEAM................                         3     3             1
+   Totals..............   22 62   7 24  16 19  13 21 34  13  67 15  9  1  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-30  .333    12-32  .375    22-62  .355
+3-Pt. FG%:  3-13  .231     4-11  .364     7-24  .292
+F Throw %:  7-9   .778     9-10  .900    16-19  .842
+Deadball rebounds: 2
+HOME TEAM: Illinois State (6-9,1-2 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Fisher III, Keith... f  3  6   0  0   2  3   2  3  5   5   8  0  3  0  1  25
+13 Idowu, Rey.......... f  0  1   0  0   1  4   0  1  1   1   1  0  0  0  0  23
+00 Horne, DJ........... g  0  5   0  2   0  0   0  3  3   1   0  2  1  0  0  16
+02 Copeland, Zach...... g  5 13   3  8   2  4   1  3  4   2  15  0  6  0  1  27
+25 Hillsman, Jaycee.... g  4  7   0  3   3  4   1  7  8   1  11  1  2  0  1  35
+01 Boyd, Dedric........    0  0   0  0   0  0   0  0  0   0   0  0  2  0  0   7
+03 Torres, Ricky.......    4  6   2  4   2  2   0  5  5   2  12  7  1  1  0  26
+04 Ndiaye, Abdou.......    0  0   0  0   0  0   0  0  0   1   0  0  0  0  0   5
+12 Reeves, Antonio.....    7 11   2  5   0  0   1  1  2   1  16  0  1  0  0  27
+22 Chastain, Matt......    0  0   0  0   0  0   1  2  3   1   0  0  0  0  0   9
+TM TEAM................                         1  3  4
+   Totals..............   23 49   7 22  10 17   7 28 35  15  63 10 16  1  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-22  .409    14-27  .519    23-49  .469
+3-Pt. FG%:  3-11  .273     4-11  .364     7-22  .318
+F Throw %:  4-7   .571     6-10  .600    10-17  .588
+Deadball rebounds: 5
+Date: 01-07-20      Site: Normal, Ill.  Attendance: 3656
+Officials: Chance Moore; Bert Smith; Antinio Petty;
+Technical fouls: Missouri State-None. Illinois State-None.
+Score by Periods      1  2   Total
+Missouri State...... 30 37  - 67
+Illinois State...... 25 38  - 63
+2019-20 Men's Basketball. Round: 0. Illinois St. vs Missouri St.. Played at Re

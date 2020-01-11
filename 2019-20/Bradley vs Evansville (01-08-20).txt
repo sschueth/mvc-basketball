@@ -1,0 +1,53 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                        Bradley vs Evansville (01-08-20)
+VISITORS: Bradley (11-5,2-1 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+22 Henry, Ja'Shon...... f  6 10   0  0   2  2   4  5  9   3  14  0  2  0  1  29
+12 Bar, Koch........... c  2  6   0  0   2  2   4  5  9   1   6  0  2  1  1  26
+02 Thomas, Antonio..... g  0  5   0  2   0  0   0  3  3   1   0  1  1  0  0  19
+05 Brown, Darrell...... g  6 13   1  4   3  4   0  3  3   2  16  3  2  0  1  34
+25 Kennell, Nate....... g  7 17   3  8   0  0   3  7 10   1  17  2  1  1  2  35
+00 Kingsby, Danya......    2  9   1  2   0  0   1  4  5   2   5  2  0  0  1  23
+01 Boya, Ari...........    2  3   0  0   0  0   2  3  5   1   4  0  0  2  1  14
+13 Houpt, Sean.........    1  1   0  0   0  0   0  0  0   1   2  0  0  0  0   1
+23 Tahvanainen, Ville..    3  6   2  3   0  0   0  2  2   4   8  3  0  0  0  19
+TM TEAM................                         1  1  2             1
+   Totals..............   29 70   7 19   7  8  15 33 48  16  72 11  9  4  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-37  .405    14-33  .424    29-70  .414
+3-Pt. FG%:  4-12  .333     3-7   .429     7-19  .368
+F Throw %:  0-0   .000     7-8   .875     7-8   .875
+Deadball rebounds: 1
+HOME TEAM: Evansville (9-7,0-3 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+35 Hall, John.......... f  4  9   1  3   0  0   1  3  4   1   9  0  3  1  0  31
+02 Labinowicz, Artur... g  1  6   0  1   0  0   1  4  5   3   2  0  3  0  0  15
+05 Givance, Shamar..... g  1  5   0  3   0  0   0  2  2   3   2  3  1  0  2  30
+20 Cunliffe, Sam....... g  2  4   2  3   2  4   0  3  3   1   8  0  3  0  0  18
+33 Riley, KJ........... g  2  9   0  0   8 10   1  4  5   2  12  3  2  1  0  33
+00 Bobe, Gage..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+01 Henderson, Marcus...    3  7   1  4   2  2   0  1  1   1   9  0  0  0  0  17
+03 Newton, Jawaun......    0  1   0  1   3  4   0  0  0   0   3  1  0  0  0  14
+04 Straub, Devan.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+10 Kuhlman, Evan.......    1  2   0  1   0  0   0  4  4   0   2  1  1  0  1  18
+30 Frederking, Noah....    2  5   1  4   0  0   0  2  2   0   5  0  0  0  1  18
+42 Ilegomah, Peace.....    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   4
+TM TEAM................                         1  2  3
+   Totals..............   16 48   5 20  15 20   4 26 30  11  52  8 13  2  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  7-23  .304     9-25  .360    16-48  .333
+3-Pt. FG%:  2-10  .200     3-10  .300     5-20  .250
+F Throw %:  3-4   .750    12-16  .750    15-20  .750
+Deadball rebounds: 0
+Date: 01-08-20      Site: Evansville, Ind.  Attendance: 4489
+Officials: Antinio Petty; Kipp Kissinger; Gary Maxwell;
+Technical fouls: Bradley-None. Evansville-None.
+Score by Periods      1  2   Total
+Bradley............. 34 38  - 72
+Evansville.......... 19 33  - 52
+2019-20 Men's Basketball. Round: 0. Bradley vs Evansville. Played at Ford Cent

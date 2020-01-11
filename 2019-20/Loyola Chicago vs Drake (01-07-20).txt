@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                       Loyola Chicago vs Drake (01-07-20)
+VISITORS: Loyola Chicago (10-6,2-1 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+30 Uguak, Aher......... f  1  1   0  0   1  5   0  2  2   0   3  0  2  0  1  22
+25 Krutwig, Cameron.... c  7 15   0  1   0  0   5  2  7   0  14  4  2  1  3  33
+01 Williamson, Lucas... g  3 10   2  8   0  0   0  3  3   1   8  1  0  2  0  35
+05 Clemons, Keith...... g  5 11   2  5   1  2   0  1  1   1  13  4  2  0  5  34
+24 Hall, Tate.......... g  5 11   2  6   3  4   0  4  4   0  15  0  0  0  1  34
+00 Wojcik, Paxson......    0  0   0  0   0  0   0  0  0   0   0  1  0  0  0   3
+10 Welch, Tom..........    1  1   0  0   0  0   0  0  0   1   2  0  0  0  0   4
+12 Kennedy, Marquise...    1  4   0  0   1  2   0  1  1   4   3  1  0  0  1  17
+33 Agunanne, Franklin..    1  2   0  0   0  0   0  1  1   2   2  0  0  0  0   3
+50 Pipkins, Jalon......    1  2   0  1   0  0   0  0  0   0   2  0  0  0  0  15
+TM TEAM................                         1     1
+   Totals..............   25 57   6 21   6 13   6 14 20   9  62 11  6  3 11 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 13-26  .500    12-31  .387    25-57  .439
+3-Pt. FG%:  2-9   .222     4-12  .333     6-21  .286
+F Throw %:  6-11  .545     0-2   .000     6-13  .462
+Deadball rebounds: 3
+HOME TEAM: Drake (12-4,2-1 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+21 Robbins, Liam....... f  9 15   2  2   0  0   5  4  9   2  20  2  1  7  1  31
+00 Wilkins, D.J........ g  4 12   0  7   2  2   0  6  6   1  10  2  3  0  2  36
+04 Murphy, Anthony..... g  4  6   2  3   1  2   0  7  7   1  11  0  1  0  0  23
+12 Penn, Roman......... g  1  7   0  2   0  0   2  3  5   3   2 10  7  0  1  32
+20 Jackson, Jonah...... g  3  5   3  5   0  0   0  1  1   1   9  0  1  0  0  33
+03 Sturtz, Garrett.....    4  4   1  1   0  0   1  4  5   0   9  1  1  0  0  22
+14 Thomas, Noah........    1  5   1  3   1  2   0  0  0   2   4  1  2  0  0  14
+31 Ernst, Brady........    0  0   0  0   0  0   2  2  4   0   0  1  1  0  0   9
+TM TEAM................                         3  2  5             2
+   Totals..............   26 54   9 23   4  6  13 29 42  10  65 17 19  7  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 16-29  .552    10-25  .400    26-54  .481
+3-Pt. FG%:  5-13  .385     4-10  .400     9-23  .391
+F Throw %:  1-2   .500     3-4   .750     4-6   .667
+Deadball rebounds: 3,1
+Date: 01-07-20      Site: Des Moines, Iowa  Attendance: 3164
+Officials: Bret Smith; Jeb Hartness; Gary Maxwell;
+Technical fouls: Loyola Chicago-None. Drake-None.
+Score by Periods      1  2   Total
+Loyola Chicago...... 34 28  - 62
+Drake............... 38 27  - 65
+2019-20 Men's Basketball. Round: 0. Drake vs Loyola Chicago. Played at Drake K

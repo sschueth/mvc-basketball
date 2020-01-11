@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Indiana State vs Northern Iowa (01-07-20)
+VISITORS: Indiana State (8-6,1-2 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Williams,Tre........ c  3  8   0  0   1  2   0  2  2   1   7  1  0  1  1  27
+02 Barnes,Jordan....... g  3  7   1  2   0  0   0  3  3   2   7  2  4  1  2  33
+04 Neese,Cooper........ g  0  2   0  2   2  2   0  0  0   1   2  0  2  0  0  20
+11 Key,Tyreke.......... g  5 12   2  5   2  2   1  0  1   5  14  3  0  0  1  35
+35 LaRavia,Jake........ g  5  6   0  0   2  4   3  3  6   3  12  0  3  0  0  27
+03 Bacote,Cameron......    0  2   0  1   0  0   0  0  0   0   0  1  0  0  0   6
+05 Kessinger,Bronson...    2  2   1  1   0  0   0  1  1   0   5  0  0  1  0  12
+10 Williams,Christian..    4  7   2  3   0  0   0  1  1   3  10  1  0  0  2  26
+20 Barnes,Cobie........    1  2   1  2   0  0   0  2  2   1   3  0  0  0  0  11
+23 Washington,De'Avion.    0  0   0  0   0  0   0  1  1   0   0  0  0  0  0   3
+TM TEAM................                            3  3             2
+   Totals..............   23 48   7 16   7 10   4 16 20  16  60  8 11  3  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  9-20  .450    14-28  .500    23-48  .479
+3-Pt. FG%:  4-7   .571     3-9   .333     7-16  .438
+F Throw %:  2-2  1.000     5-8   .625     7-10  .700
+Deadball rebounds: 1
+HOME TEAM: Northern Iowa (13-2,2-1 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 Phyfe, Austin....... f  6  8   0  0   1  2   7  5 12   3  13  2  3  1  0  26
+03 Pickford,Tywhon..... g  2  2   0  0   2  3   0  3  3   2   6  3  1  0  1  27
+04 Green,AJ............ g  5 12   2  5   3  3   0  2  2   0  15  3  2  0  1  38
+11 Berhow,Trae......... g  5  9   1  4   5  6   1  7  8   3  16  0  2  0  1  38
+24 Brown,Isaiah........ g  2 11   0  5   2  2   1  0  1   2   6  3  0  0  2  30
+15 Dahl,Justin.........    1  3   0  0   0  0   1  1  2   1   2  0  1  0  0   9
+22 Pickford,Antwon.....    2  2   0  0   0  0   0  0  0   1   4  1  1  0  0  10
+32 Betz,James..........    2  2   0  0   0  0   0  2  2   0   4  1  0  0  1   5
+35 Carter,Noah.........    1  2   0  1   0  0   0  3  3   0   2  0  1  0  0  17
+TM TEAM................                                             1
+   Totals..............   26 51   3 15  13 16  10 23 33  12  68 13 12  1  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-25  .560    12-26  .462    26-51  .510
+3-Pt. FG%:  2-7   .286     1-8   .125     3-15  .200
+F Throw %:  1-1  1.000    12-15  .800    13-16  .813
+Deadball rebounds: 2
+Date: 01-07-20      Site: Cedar Falls, Iowa  Attendance: 3697
+Officials: Dave Cusick; Randy Heimerman; Gerry Pollard;
+Technical fouls: Indiana State-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+Indiana State....... 24 36  - 60
+Northern Iowa....... 31 37  - 68
+2019-20 Men's Basketball. Round: 0. Indiana St. vs UNI. Played at McLeod Cente
