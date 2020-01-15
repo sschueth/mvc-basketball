@@ -4,8 +4,7 @@ date,home,visitor,home moneyline,visitor moneyline,mvc-basketball-prediction,mvc
 1/4/2020,Evansville,Valparaiso,-125,+105,Evansville,yes,-3.1e-14,1.77,$8.85,79,81
 1/4/2020,Loyola,Missouri State,-260,+220,Loyola,yes,-7.7e-4,0.2,$2.00,62,58
 1/4/2020,Northern Iowa,Bradley,-330,+270,Northern Iowa,yes,-1.1e-5,0.3,$2.00,69,64
-1/11/2020,Indiana State,Illinois State,-320,+260,Indiana State,yes,-3.7e-6,0.2,$2.00
-1/11/2020,Loyola,Evansville,-900,+600,Evansville,yes,-1.6e-4,2.81,$14.05
-1/11/2020,Missouri State,Northern Iowa,-125,-125,Missouri State,yes,-3.2e-4,1.11,$5.55
-1/11/2020,Valparaiso,Drake,-120,+100,Valparaiso,yes,-2.2e-6,1.82,$9.10
-1/11/2020,Bradley,Southern Illinois,-330,+270,Bradley,yes,-2.4e-12,0.2,$2.00
+1/11/2020,Indiana State,Illinois State,-320,+260,Indiana State,yes,-3.7e-6,0.2,$2.00,65,52
+1/11/2020,Loyola,Evansville,-900,+600,Evansville,yes,-1.6e-4,2.81,$14.05,78,44
+1/11/2020,Valparaiso,Drake,-120,+100,Valparaiso,yes,-2.2e-6,1.82,$9.10,66,61
+1/11/2020,Bradley,Southern Illinois,-330,+270,Bradley,yes,-2.4e-12,0.2,$2.00,67,48

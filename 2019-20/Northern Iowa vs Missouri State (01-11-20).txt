@@ -1,0 +1,54 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Northern Iowa vs Missouri State (01-11-20)
+VISITORS: Northern Iowa (14-2 (3-1))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 Phyfe, Austin....... f  2  6   0  0   3  6   4  6 10   4   7  4  1  0  2  24
+03 Pickford,Tywhon..... g  2  5   0  0   0  0   1  0  1   0   4  2  0  0  0  20
+04 Green,AJ............ g  9 15   6  8   4  4   0  4  4   2  28  2  4  0  1  37
+11 Berhow,Trae......... g  6 13   0  3   0  0   0  2  2   2  12  0  2  0  0  38
+24 Brown,Isaiah........ g  7 12   5  8   0  0   1  8  9   0  19  2  1  1  0  36
+12 Conrey,Lincoln......    0  0   0  0   0  0   0  1  1   0   0  0  1  0  0   1
+15 Dahl,Justin.........    1  1   0  0   0  0   0  3  3   2   2  0  2  4  1  13
+22 Pickford,Antwon.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+30 Haldeman,Spencer....    3  3   2  2   0  0   0  4  4   1   8  2  1  1  0  24
+32 Betz,James..........    0  1   0  1   0  0   0  2  2   1   0  0  0  0  0   3
+34 Mcdonnell,Luke......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+35 Carter,Noah.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                         1  1  2
+   Totals..............   30 56  13 22   7 10   7 31 38  12  80 12 12  6  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 19-32  .594    11-24  .458    30-56  .536
+3-Pt. FG%:  8-12  .667     5-10  .500    13-22  .591
+F Throw %:  2-2  1.000     5-8   .625     7-10  .700
+Deadball rebounds: 3,1
+HOME TEAM: Missouri State (8-9 (2-2))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+15 West,Lamont......... f  1  4   0  2   2  2   0  0  0   2   4  1  0  0  0  24
+30 Da Silva,Tulio...... f  6  9   0  0   1  2   4  3  7   3  13  0  2  0  1  32
+00 Dixon,Tyrik......... g  1  9   0  3   0  2   0  2  2   3   2  5  1  0  1  29
+01 Cook,Keandre........ g  2  7   0  0   2  2   1  4  5   2   6  3  1  1  1  26
+11 Mosley,Isiaih....... g  6 15   3  6   0  0   0  5  5   2  15  2  1  1  1  35
+04 Black,Ja'Monta......    2  4   0  1   0  0   1  1  2   0   4  1  0  0  1  12
+21 Owens,Ross..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+23 Mohammed,Kabir......    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   3
+24 Ford Cooper,Jr......    1  1   1  1   0  0   0  0  0   0   3  0  0  0  1  13
+33 Hall,Josh...........    0  1   0  1   0  2   0  1  1   1   0  0  0  0  1  10
+44 Prim,Gaige..........    4 13   0  0   2  2   3  2  5   0  10  0  0  0  0  15
+TM TEAM................                         2     2
+   Totals..............   23 64   4 14   7 12  11 18 29  13  57 12  5  2  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-31  .355    12-33  .364    23-64  .359
+3-Pt. FG%:  2-6   .333     2-8   .250     4-14  .286
+F Throw %:  4-6   .667     3-6   .500     7-12  .583
+Deadball rebounds: 3,1
+Date: 01-11-20      Site: JQH Arena, Springfield, Mo.  Attendance: 3520
+Officials: Brad Ferrie; Gene Grimshaw; Jeff Campbell;
+Technical fouls: Northern Iowa-None. Missouri State-None.
+Score by Periods      1  2   Total
+Northern Iowa....... 48 32  - 80
+Missouri State...... 28 29  - 57
