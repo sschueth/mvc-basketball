@@ -1,0 +1,51 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Valparaiso vs Northern Iowa (01-15-20)
+VISITORS: Valparaiso (9-9,2-3 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Clay, Donovan....... f  0  3   0  2   0  0   1  0  1   4   0  1  0  1  0  23
+22 McMillan, Mileek.... f  4  8   2  4   1  2   2  1  3   0  11  0  3  1  0  17
+25 Robinson, Nick...... f  0  2   0  1   0  0   1  1  2   1   0  0  0  0  1  13
+00 Freeman-Liberty, J.. g 12 24   2 12   2  2   1  7  8   2  28  1  2  0  4  37
+04 Sackey, Daniel...... g  4  8   2  5   0  0   0  1  1   1  10  3  2  0  1  26
+02 Morgan, Zion........    2  3   0  0   1  2   0  1  1   1   5  5  2  0  2  18
+10 Gordon, Eron........    4  6   0  1   0  0   0  2  2   5   8  1  0  0  0  24
+23 Krikke, Ben.........    5  7   3  5   0  0   0  1  1   1  13  0  0  0  0  20
+33 Kiser, John.........    1  4   1  2   0  0   2  3  5   1   3  0  1  0  1  22
+TM TEAM................                         3  1  4             1
+   Totals..............   32 65  10 32   4  6  10 18 28  16  78 11 11  2  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-32  .531    15-33  .455    32-65  .492
+3-Pt. FG%:  6-15  .400     4-17  .235    10-32  .313
+F Throw %:  2-4   .500     2-2  1.000     4-6   .667
+Deadball rebounds: 1
+HOME TEAM: Northern Iowa (15-2,4-1 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 Phyfe, Austin....... f  5  7   0  0   5  6   2  6  8   2  15  1  3  0  0  32
+03 Pickford,Tywhon..... g  1  2   0  0   0  0   0  6  6   0   2  2  3  0  1  30
+04 Green,AJ............ g  9 16   5 10   6  6   0  3  3   2  29  3  3  0  1  33
+11 Berhow,Trae......... g  5 11   3  6   2  2   0  3  3   1  15  0  1  0  0  34
+24 Brown,Isaiah........ g  7 10   1  1   1  3   1  2  3   2  16  6  0  1  2  36
+15 Dahl,Justin.........    0  0   0  0   0  0   1  2  3   0   0  1  1  0  0   5
+22 Kimmons, Antwan.....    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+30 Haldeman,Spencer....    3  4   3  4   2  2   0  0  0   3  11  0  2  0  1  25
+32 Betz,James..........    0  2   0  1   0  0   1  0  1   0   0  0  0  0  0   2
+35 Carter,Noah.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                         1  2  3             1
+   Totals..............   30 52  12 22  16 19   6 24 30  10  88 13 14  1  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-30  .500    15-22  .682    30-52  .577
+3-Pt. FG%:  5-12  .417     7-10  .700    12-22  .545
+F Throw %:  1-1  1.000    15-18  .833    16-19  .842
+Deadball rebounds: 1
+Date: 01-15-20      Site: Cedar Falls, Iowa  Attendance: 4057
+Officials: Craig Murley; Chance Moore; Brooks Wells;
+Technical fouls: Valparaiso-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+Valparaiso.......... 42 36  - 78
+Northern Iowa....... 36 52  - 88
+2019-20 Men's Basketball. Round: 0. UNI vs Valparaiso. Played at McLeod Center
