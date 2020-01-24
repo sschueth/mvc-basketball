@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                     Indiana State vs Valparaiso (01-18-20)
+VISITORS: Indiana State (10-7,3-3 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Williams,Tre........ c  4  6   0  0   1  1   2  0  2   5   9  3  0  1  1  22
+02 Barnes,Jordan....... g  9 15   3  6   0  1   0  5  5   2  21  5  4  0  2  40
+04 Neese,Cooper........ g  1  7   1  3   1  2   0  1  1   2   4  0  0  0  0  23
+11 Key,Tyreke.......... g 10 15   5  7   2  5   1  6  7   2  27  2  1  0  0  37
+35 LaRavia,Jake........ g  4 10   0  0   3  3   3  4  7   4  11  4  1  1  0  30
+03 Bacote,Cameron......    0  1   0  1   0  0   0  0  0   0   0  1  0  0  0   9
+10 Williams,Christian..    1  4   0  1   1  2   1  1  2   1   3  2  1  0  0  26
+20 Barnes,Cobie........    1  1   0  0   0  0   0  1  1   2   2  0  0  0  0   7
+23 Washington,De'Avion.    0  4   0  1   0  0   0  2  2   0   0  0  0  0  0   6
+TM TEAM................                            1  1
+   Totals..............   30 63   9 19   8 14   7 21 28  18  77 17  7  2  3 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-34  .412    16-29  .552    30-63  .476
+3-Pt. FG%:  3-11  .273     6-8   .750     9-19  .474
+F Throw %:  4-6   .667     4-8   .500     8-14  .571
+Deadball rebounds: 4
+HOME TEAM: Valparaiso (10-9,3-3 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Clay, Donovan....... f  5 10   2  4   6  8   1  3  4   2  18  0  1  2  0  39
+22 McMillan, Mileek.... f  4  5   1  2   2  2   2  1  3   3  11  2  1  0  0  21
+00 Freeman-Liberty, J.. g  8 16   2  4   7  8   3  5  8   3  25  3  2  0  2  33
+02 Morgan, Zion........ g  1  3   0  0   0  0   2  4  6   4   2  2  3  1  1  18
+10 Gordon, Eron........ g  4 10   1  4   3  4   0  3  3   1  12  3  1  0  0  33
+01 Lorange, Sigurd.....    0  1   0  1   0  0   0  1  1   0   0  1  0  0  0   6
+11 Freese-Vilien, Emil.    0  1   0  1   0  0   0  2  2   1   0  0  1  0  0   5
+23 Krikke, Ben.........    3  3   0  0   0  0   0  1  1   1   6  2  0  1  0  14
+33 Kiser, John.........    5 10   2  5   0  0   0  8  8   1  12  2  1  1  2  31
+TM TEAM................                         2     2             1
+   Totals..............   30 59   8 21  18 22  10 28 38  16  86 15 11  5  5 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-24  .458    19-35  .543    30-59  .508
+3-Pt. FG%:  4-9   .444     4-12  .333     8-21  .381
+F Throw %:  6-10  .600    12-12 1.000    18-22  .818
+Deadball rebounds: 2
+Date: 01-18-20      Site: Valparaiso, IN  Attendance: 2805
+Officials: Pat Boeh; Jeff Campbell; David Stevens;
+Technical fouls: Indiana State-None. Valparaiso-None.
+Score by Periods      1  2   Total
+Indiana State....... 35 42  - 77
+Valparaiso.......... 32 54  - 86
+2019-20 Men's Basketball. Round: 0. Indiana St. vs Valparaiso. Played at Athle

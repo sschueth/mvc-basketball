@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                    Valparaiso vs Missouri State (01-23-20)
+VISITORS: Valparaiso (10-10 (3-4 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Clay, Donovan....... f  2  9   0  5   0  0   2  6  8   2   4  2  0  2  0  23
+22 McMillan, Mileek.... f  4  8   3  6   1  1   0  5  5   5  12  1  2  0  1  20
+00 Freeman-Liberty, J.. g  4 18   1 10   2  3   1  3  4   4  11  2  2  1  0  35
+04 Sackey, Daniel...... g  4  9   1  4   2  3   0  2  2   3  11  3  2  0  1  25
+10 Gordon, Eron........ g  1  9   0  5   3  4   2  2  4   2   5  0  0  0  4  27
+02 Morgan, Zion........    1  2   0  0   0  0   0  1  1   0   2  0  1  0  0  11
+23 Krikke, Ben.........    2  3   1  2   0  0   0  1  1   0   5  1  0  0  0  16
+33 Kiser, John.........    1  3   0  2   2  2   4  3  7   1   4  1  3  0  3  22
+35 Fazekas, Ryan.......    2  5   2  5   0  0   1  1  2   5   6  0  1  0  0  21
+TM TEAM................
+   Totals..............   21 66   8 39  10 13  10 24 34  22  60 10 11  3  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  6-32  .188    15-34  .441    21-66  .318
+3-Pt. FG%:  2-20  .100     6-19  .316     8-39  .205
+F Throw %:  2-2  1.000     8-11  .727    10-13  .769
+Deadball rebounds: 0,2
+HOME TEAM: Missouri State (10-10 (4-3 MVC))
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+44 Prim,Gaige.......... f  4  7   0  0   1  2   1  4  5   0   9  0  1  0  1  20
+01 Cook,Keandre........ g  6 12   3  5  12 16   2  3  5   1  27  1  2  1  0  38
+04 Black,Ja'Monta...... g  3  8   2  5   0  0   0  6  6   2   8  3  1  0  0  32
+11 Mosley,Isiaih....... g  4 14   0  6   1  1   1  6  7   2   9  2  4  0  1  35
+24 Ford Cooper,Jr...... g  0  2   0  2   2  2   1  6  7   3   2  2  1  0  2  25
+15 West,Lamont.........    1  5   1  3   2  2   0  2  2   2   5  0  2  0  1  13
+30 Da Silva,Tulio......    1  5   0  0   0  0   1  7  8   1   2  2  1  1  1  20
+33 Hall,Josh...........    2  4   1  1   0  0   3  1  4   3   5  0  3  0  2  17
+TM TEAM................                         2  1  3
+   Totals..............   21 57   7 22  18 23  11 36 47  14  67 10 15  2  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-32  .469     6-25  .240    21-57  .368
+3-Pt. FG%:  6-15  .400     1-7   .143     7-22  .318
+F Throw %:  0-1   .000    18-22  .818    18-23  .783
+Deadball rebounds: 4,2
+Date: 01-23-20      Site: JQH Arena, Springfield, Mo.  Attendance: 4536
+Officials: John Higgins; John Hampton; Jeff Mallham;
+Technical fouls: Valparaiso-, Fazekas, Ryan. Missouri State-, West,Lamont.
+Score by Periods      1  2   Total
+Valparaiso.......... 16 44  - 60
+Missouri State...... 36 31  - 67
+McMillan (VU) fouled out at 1:47 of 2nd half. Fazekas (VU) fouled out at 1:39
+of 2nd half.

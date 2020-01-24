@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Northern Iowa vs Southern Illinois (01-22-20)
+VISITORS: Northern Iowa (16-3,5-2 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 Phyfe, Austin....... f  8 10   0  0   0  0   3  7 10   4  16  1  2  1  1  28
+04 Green,AJ............ g  6 15   3  7   1  2   0  2  2   2  16  5  6  0  1  39
+11 Berhow,Trae......... g  8 11   5  7   1  2   0  9  9   1  22  2  1  1  0  40
+24 Brown,Isaiah........ g  2 11   0  3   0  0   0  7  7   2   4  1  0  0  2  40
+30 Haldeman,Spencer.... g  1  3   1  2   0  0   0  3  3   4   3  1  2  0  0  30
+03 Pickford,Tywhon.....    1  2   0  1   0  0   0  1  1   1   2  0  1  0  0   7
+15 Dahl,Justin.........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+22 Kimmons, Antwan.....    1  2   1  2   0  0   0  0  0   0   3  1  1  0  0   3
+34 McDonnell,Luke......    0  2   0  1   0  0   2  2  4   2   0  1  3  0  0   9
+35 Carter,Noah.........    0  0   0  0   0  0   1  1  2   0   0  1  0  0  0   2
+TM TEAM................                         2  1  3
+   Totals..............   27 56  10 23   2  4   8 33 41  16  66 13 16  2  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-26  .385    17-30  .567    27-56  .482
+3-Pt. FG%:  5-12  .417     5-11  .455    10-23  .435
+F Throw %:  1-2   .500     1-2   .500     2-4   .500
+Deadball rebounds: 0
+HOME TEAM: Southern Illinois (10-10,4-3 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Domask,Marcus....... f  5 11   1  1   0  0   1  8  9   0  11  6  3  0  2  39
+40 Benson,Barret....... c  5  7   0  1   3  4   1  5  6   3  13  0  1  1  3  29
+04 McGill,Eric......... g  1  6   1  4   4  6   1  2  3   3   7  3  1  0  0  33
+05 Jones,Lance......... g  7 13   4  7   2  9   0  4  4   1  20  2  0  0  2  38
+22 Francois,Harwin..... g  0  2   0  2   0  0   0  0  0   0   0  0  0  0  0   6
+02 Davis,Karrington....    1  4   0  1   1  2   0  2  2   0   3  0  0  0  0  13
+24 Brown,Trent.........    3  6   3  6   2  2   0  1  1   3  11  4  1  0  1  34
+25 Gooch,Brendon.......    1  4   1  4   0  0   0  0  0   0   3  0  0  0  0   8
+TM TEAM................                         1     1
+   Totals..............   23 53  10 26  12 23   4 22 26  10  68 15  6  1  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-29  .345    13-24  .542    23-53  .434
+3-Pt. FG%:  5-16  .313     5-10  .500    10-26  .385
+F Throw %:  3-8   .375     9-15  .600    12-23  .522
+Deadball rebounds: 4,1
+Date: 01-22-20      Site: Carbondale, IL  Attendance: 4319
+Officials: Owen Shortt; Mike O'Neill; Rick Crawford;
+Technical fouls: Northern Iowa-, Green,AJ. Southern Illinois-None.
+Score by Periods      1  2   Total
+Northern Iowa....... 26 40  - 66
+Southern Illinois... 28 40  - 68
+2019-20 Men's Basketball. Round: 0. Southern Ill. vs UNI. Played at Banterra C
