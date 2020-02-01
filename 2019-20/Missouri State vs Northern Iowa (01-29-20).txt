@@ -1,0 +1,55 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Missouri State vs Northern Iowa (01-29-20)
+VISITORS: Missouri State (10-12,4-5 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+11 Mosley,Isiaih....... f  2  5   1  2   4  5   2  1  3   3   9  4  2  0  0  34
+44 Prim,Gaige.......... f  4  9   0  0   2  4   2  1  3   3  10  1  2  0  2  12
+01 Cook,Keandre........ g  5  9   2  4   4  6   0  0  0   1  16  1  3  0  0  31
+04 Black,Ja'Monta...... g  4  8   2  4   0  0   0  1  1   2  10  1  1  0  2  30
+24 Ford Cooper,Jr...... g  1  5   1  4   0  0   0  2  2   1   3  1  2  0  1  25
+03 Brown,Spencer.......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+15 West,Lamont.........    1  3   1  3   2  2   1  2  3   2   5  0  1  0  0   7
+21 Owens,Ross..........    1  4   0  2   0  0   1  0  1   0   2  0  0  0  0   9
+23 Mohammed,Kabir......    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+30 Da Silva,Tulio......    5  9   0  0   1  2   0  7  7   2  11  0  0  1  0  23
+33 Hall,Josh...........    0  3   0  1   0  0   0  4  4   4   0  1  2  0  2  26
+TM TEAM................                         2  1  3
+   Totals..............   23 55   7 20  13 19   8 19 27  18  66  9 13  1  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 10-25  .400    13-30  .433    23-55  .418
+3-Pt. FG%:  4-11  .364     3-9   .333     7-20  .350
+F Throw %:  7-11  .636     6-8   .750    13-19  .684
+Deadball rebounds: 3
+HOME TEAM: Northern Iowa (18-3,7-2 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 Phyfe, Austin....... f  7  7   0  0   3  5   2  5  7   3  17  2  0  0  0  29
+04 Green,AJ............ g  7 14   5  9   8  8   1  5  6   1  27  3  2  0  0  37
+11 Berhow,Trae......... g  6  9   4  7   0  0   1  2  3   3  16  3  2  0  2  32
+24 Brown,Isaiah........ g  5  8   3  6   3  4   0  2  2   3  16  9  3  1  1  30
+30 Haldeman,Spencer.... g  4 10   4  8   0  0   0  7  7   2  12  1  1  0  1  32
+03 Pickford,Tywhon.....    1  1   1  1   0  0   1  0  1   3   3  1  1  0  0  10
+12 Conrey,Lincoln......    0  0   0  0   0  0   0  1  1   0   0  0  0  1  0   2
+15 Dahl,Justin.........    1  2   0  0   0  0   0  0  0   1   2  0  0  0  0   8
+22 Kimmons, Antwan.....    1  3   0  0   0  0   0  1  1   0   2  0  1  0  0   9
+32 Betz,James..........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  0   2
+34 McDonnell,Luke......    0  0   0  0   0  0   0  1  1   0   0  0  1  0  0   3
+35 Carter,Noah.........    0  1   0  1   0  0   0  1  1   0   0  0  0  0  0   6
+TM TEAM................                         1  2  3             2
+   Totals..............   32 55  17 32  14 17   6 27 33  16  95 19 13  2  4 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 17-31  .548    15-24  .625    32-55  .582
+3-Pt. FG%:  9-16  .563     8-16  .500    17-32  .531
+F Throw %:  8-10  .800     6-7   .857    14-17  .824
+Deadball rebounds: 1
+Date: 01-29-20      Site: Cedar Falls, IA  Attendance: 4076
+Officials: Brooks Wells; Rodrick Dixon; Randy Heimerman;
+Technical fouls: Missouri State-None. Northern Iowa-None.
+Score by Periods      1  2   Total
+Missouri State...... 31 35  - 66
+Northern Iowa....... 51 44  - 95
+2019-20 Men's Basketball. Round: 0. Missouri St. vs UNI. Played at McLeod Cent

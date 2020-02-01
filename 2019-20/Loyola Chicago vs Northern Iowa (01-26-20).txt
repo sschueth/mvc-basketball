@@ -1,0 +1,50 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                   Loyola Chicago vs Northern Iowa (01-26-20)
+VISITORS: Loyola Chicago (14-7,6-2 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+30 Uguak, Aher......... f  1  3   1  2   0  0   1  3  4   1   3  1  0  0  0  24
+25 Krutwig, Cameron.... c  9 19   0  1   1  2   2 12 14   0  19  4  1  0  1  40
+01 Williamson, Lucas... g  6 14   3 10   3  4   1  3  4   2  18  1  2  0  1  38
+05 Clemons, Keith...... g  3 11   1  6   0  1   1  1  2   2   7  3  2  0  2  37
+24 Hall, Tate.......... g  3 10   2  4   2  2   2  1  3   4  10  1  3  0  1  43
+00 Wojcik, Paxson......    1  1   1  1   0  0   0  2  2   3   3  0  0  0  0  10
+04 Skokna, Bruno.......    0  0   0  0   0  0   0  1  1   0   0  1  0  0  0   5
+12 Kennedy, Marquise...    1  6   0  1   0  0   0  0  0   3   2  1  1  0  3  14
+33 Agunanne, Franklin..    0  0   0  0   0  0   1  0  1   0   0  0  1  0  0   5
+50 Pipkins, Jalon......    0  2   0  1   0  0   0  0  0   0   0  1  1  0  1   9
+TM TEAM................                         3  3  6             3
+   Totals..............   24 66   8 26   6  9  11 26 37  15  62 13 14  0  9 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-25  .440    11-30  .367    24-66  .364
+3-Pt. FG%:  5-11  .455     3-9   .333     8-26  .308
+F Throw %:  1-2   .500     2-2  1.000     6-9   .667
+Deadball rebounds: 0
+HOME TEAM: Northern Iowa (17-3,6-2 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+50 Phyfe, Austin....... f  6  9   0  0   2  2   2  7  9   2  14  3  1  4  1  38
+04 Green,AJ............ g  4 12   2  5   4  4   0  5  5   1  14  3  7  0  0  38
+11 Berhow,Trae......... g  2  7   2  6   2  2   2 10 12   0   8  0  2  0  2  41
+24 Brown,Isaiah........ g  3  8   0  1   0  1   0  3  3   3   6  1  1  1  1  39
+30 Haldeman,Spencer.... g  4  7   3  4   1  4   0  4  4   1  12  2  2  0  1  30
+03 Pickford,Tywhon.....    0  1   0  1   0  0   0  1  1   1   0  0  1  0  0  13
+15 Dahl,Justin.........    0  0   0  0   0  0   0  1  1   0   0  0  0  1  1   7
+22 Kimmons, Antwan.....    5  7   0  1   3  4   0  3  3   3  13  1  3  0  2  19
+TM TEAM................                                             2
+   Totals..............   24 51   7 18  12 17   4 34 38  11  67 10 19  6  8 225
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 14-26  .538     9-23  .391    24-51  .471
+3-Pt. FG%:  3-10  .300     3-7   .429     7-18  .389
+F Throw %:  1-1  1.000     2-4   .500    12-17  .706
+Deadball rebounds: 2
+Date: 01-26-20      Site: Cedar Falls, IA  Attendance: 5145
+Officials: Ray Natili; Kipp Kissinger; John HIggins;
+Technical fouls: Loyola Chicago-None. Northern Iowa-None.
+Score by Periods      1  2 OT   Total
+Loyola Chicago...... 28 27  7  - 62
+Northern Iowa....... 32 23 12  - 67
+2019-20 Men's Basketball. Round: 0. Loyola Chicago vs UNI. Played at McLeod Ce

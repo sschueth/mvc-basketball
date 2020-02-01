@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                 Southern Illinois vs Illinois State (01-25-20)
+VISITORS: Southern Illinois (11-10, 5-3 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Domask,Marcus....... f  7 16   4 10   1  4   2  4  6   0  19  2  0  1  1  36
+40 Benson,Barret....... c  1  4   0  0   4  4   3  1  4   4   6  0  2  0  0  25
+03 Suggs,Ronnie........ g  0  1   0  1   0  0   0  1  1   0   0  0  0  0  0  11
+04 McGill,Eric......... g  4 12   2  6   5  6   2  1  3   0  15  3  3  0  1  38
+05 Jones,Lance......... g  5  8   1  2   1  2   0  3  3   2  12  3  5  0  2  31
+02 Davis,Karrington....    0  2   0  0   0  0   0  0  0   1   0  0  0  0  0   6
+22 Francois,Harwin.....    1  3   1  1   0  0   0  7  7   1   3  0  0  0  2  12
+24 Brown,Trent.........    0  4   0  2   0  0   0  3  3   2   0  1  2  0  0  26
+25 Gooch,Brendon.......    1  1   1  1   0  0   1  1  2   1   3  0  1  0  2  15
+TM TEAM................                            4  4             1
+   Totals..............   19 51   9 23  11 16   8 25 33  11  58  9 14  1  8 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%:  6-25  .240    13-26  .500    19-51  .373
+3-Pt. FG%:  3-10  .300     6-13  .462     9-23  .391
+F Throw %:  2-2  1.000     9-14  .643    11-16  .688
+Deadball rebounds: 2,1
+HOME TEAM: Illinois State (6-14, 1-7 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+05 Fisher III, Keith... f  2  6   0  0   0  0   3  3  6   4   4  2  4  0  1  29
+00 Horne, DJ........... g  1  5   1  3   0  0   0  3  3   1   3  1  2  0  1  29
+01 Boyd, Dedric........ g  2  8   0  5   0  0   0  0  0   0   4  2  0  0  0  22
+02 Copeland, Zach...... g  9 13   5  7   1  2   1  5  6   4  24  3  4  0  1  32
+25 Hillsman, Jaycee.... g  4  7   2  4   1  2   1  5  6   2  11  0  3  0  0  35
+03 Torres, Ricky.......    1  3   0  2   0  0   0  4  4   1   2  2  3  0  2  11
+04 Ndiaye, Abdou.......    1  2   0  0   0  2   1  4  5   2   2  0  0  1  1  13
+12 Reeves, Antonio.....    2  7   1  3   0  1   0  2  2   1   5  2  1  0  2  26
+13 Idowu, Rey..........    0  2   0  0   0  0   1  0  1   0   0  0  0  0  1   3
+TM TEAM................                         1  1  2
+   Totals..............   22 53   9 24   2  7   8 27 35  15  55 12 17  1  9 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-29  .379    11-24  .458    22-53  .415
+3-Pt. FG%:  1-10  .100     8-14  .571     9-24  .375
+F Throw %:  0-1   .000     2-6   .333     2-7   .286
+Deadball rebounds: 2
+Date: 01-25-20      Site: Normal, Ill. // Redbird Arena  Attendance: 5096
+Officials: Ed Crenshaw; James Durham; Jeb Hartness;
+Technical fouls: Southern Illinois-None. Illinois State-None.
+Score by Periods      1  2   Total
+Southern Illinois... 17 41  - 58
+Illinois State...... 23 32  - 55

@@ -1,0 +1,49 @@
+                               Box Score (Final)
+                           Missouri Valley Conference
+                      Bradley vs Indiana State (01-25-20)
+VISITORS: Bradley (14-7,5-3 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+22 Henry, Ja'Shon...... f  4 10   1  2   1  3   0  5  5   3  10  1  3  0  2  34
+12 Bar, Koch........... c  2  3   0  0   0  2   1  2  3   3   4  1  3  0  1  19
+00 Kingsby, Danya...... g  3 11   3  5   3  4   0  5  5   2  12  6  5  1  0  38
+02 Thomas, Antonio..... g  1  2   0  1   1  2   1  1  2   2   3  4  2  1  0  28
+25 Kennell, Nate....... g  4 10   2  5   0  0   0  2  2   4  10  2  1  0  2  37
+01 Boya, Ari...........    7  9   0  0   0  1   3  9 12   2  14  0  0  2  1  29
+13 Houpt, Sean.........    0  0   0  0   0  0   0  0  0   0   0  1  1  0  0  15
+TM TEAM................                         1     1
+   Totals..............   21 45   6 13   5 12   6 24 30  16  53 15 15  4  6 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 15-25  .600     6-20  .300    21-45  .467
+3-Pt. FG%:  3-5   .600     3-8   .375     6-13  .462
+F Throw %:  0-2   .000     5-10  .500     5-12  .417
+Deadball rebounds: 3
+HOME TEAM: Indiana State (11-8,4-4 MVC)
+                          TOT-FG  3-PT         REBOUNDS
+## Player                 FG FGA FG FGA FT FTA OF DE TOT PF  TP  A TO BLK S MIN
+-------------------------------------------------------------------------------
+01 Williams,Tre........ c  3  7   0  0   0  0   2  1  3   4   6  2  2  0  1  31
+02 Barnes,Jordan....... g  1  9   0  5   4  4   2  7  9   2   6  5  1  0  2  36
+10 Williams,Christian.. g  5  9   3  5   0  0   1  3  4   1  13  3  3  1  1  32
+11 Key,Tyreke.......... g  2  7   1  4   5  6   0  1  1   2  10  2  0  0  0  35
+35 LaRavia,Jake........ g  6 11   0  1   8 10   4  6 10   2  20  3  2  4  2  33
+03 Bacote,Cameron......    0  1   0  1   0  2   0  0  0   1   0  0  0  0  0   4
+04 Neese,Cooper........    2  6   2  5   0  0   0  1  1   1   6  1  0  0  0  16
+05 Kessinger,Bronson...    0  1   0  1   0  0   0  1  1   0   0  0  0  0  0   9
+20 Barnes,Cobie........    0  0   0  0   0  0   0  0  0   0   0  0  0  0  1   3
+23 Washington,De'Avion.    0  1   0  0   0  0   0  0  0   0   0  0  0  0  0   1
+TM TEAM................                         3  2  5             1
+   Totals..............   19 52   6 22  17 22  12 22 34  13  61 16  9  5  7 200
+             1st Half       2nd Half     Game Totals
+TOTAL FG%: 11-28  .393     8-24  .333    19-52  .365
+3-Pt. FG%:  5-13  .385     1-9   .111     6-22  .273
+F Throw %:  3-3  1.000    14-19  .737    17-22  .773
+Deadball rebounds: 2
+Date: 01-25-20      Site: Terre Haute, IN  Attendance: 4159
+Officials: K.B. Burdett; Dave Cusick; Gene Grimshaw;
+Technical fouls: Bradley-None. Indiana State-None.
+Score by Periods      1  2   Total
+Bradley............. 33 20  - 53
+Indiana State....... 30 31  - 61
+2019-20 Men's Basketball. Round: 0. Bradley vs Indiana St.. Played at Hulman C
